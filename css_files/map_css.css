@@ -1,0 +1,95 @@
+#pop_stats_div{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+}
+
+#map_div {
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#summary{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+}
+
+#txt_sum{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around ;
+}
+
+
+
+/*#det_adv_stats_div{*/
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    /*justify-content:space-around ;*/
+/*}*/
+
+#lmi_pop_div {
+     display: flex; /* or inline-flex */
+     flex-direction: row;
+     justify-content: space-evenly;
+ }
+
+#commute_div {
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+#container {
+    /*display: flex; !* or inline-flex *!*/
+    /*flex-direction: column;*/
+}
+
+
+.arc text {
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+.arc path {
+    stroke: #fff;
+}
+
+
+
+/*.tbl  {*/
+    /*!*width: 100%;*!*/
+/*}*/
+/*path.active {*/
+/*fill: #ccc;*/
+/*cursor: pointer;*/
+/*}*/
+
+/*.tbl td:nth-child(2) {*/
+    /*width: 40%;*/
+/*}*/
+/*.tbl td:nth-child(2),*/
+/*.tbl td:nth-child(3),*/
+/*.tbl td:nth-child(4) {*/
+    /*!*width: 20%;*!*/
+    /*text-align:center*/
+/*}*/
+/*.tbl th:nth-child(2),*/
+/*.tbl th:nth-child(3),*/
+/*.tbl th:nth-child(4) {*/
+    /*text-align:center*/
+/*}*/
+
+/*.active {*/
+    /*fill: orange;*/
+/*}*/
+
+/*.fields {*/
+    /*text-align: center;*/
+/*}*/

@@ -1,0 +1,1466 @@
+cd,var,label,value,share
+1001,commute_more_60_min,More than 60 minutes of commuting each day,8825,0.0731515252
+1001,commute_less_15_min,Less than 15 minutes of commuting each day,44430,0.368285809
+1001,commute_30_44_min,Between 30 and 44 minutes of commuting each day,13290,0.1101624668
+1001,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3150,0.0261107427
+1001,commute_15_29_min,Between 15 and 29 minutes of commuting each day,50945,0.4222894562
+1002,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1400,0.2157164869
+1002,commute_more_60_min,More than 60 minutes of commuting each day,690,0.1063174114
+1002,commute_45_59_min,Between 45 and 59 minutes of commuting each day,295,0.0454545455
+1002,commute_30_44_min,Between 30 and 44 minutes of commuting each day,650,0.1001540832
+1002,commute_less_15_min,Less than 15 minutes of commuting each day,3455,0.532357473
+1003,commute_15_29_min,Between 15 and 29 minutes of commuting each day,865,0.1800208117
+1003,commute_30_44_min,Between 30 and 44 minutes of commuting each day,305,0.0634755463
+1003,commute_more_60_min,More than 60 minutes of commuting each day,370,0.0770031217
+1003,commute_less_15_min,Less than 15 minutes of commuting each day,3125,0.650364204
+1003,commute_45_59_min,Between 45 and 59 minutes of commuting each day,140,0.0291363163
+1004,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1375,0.231092437
+1004,commute_more_60_min,More than 60 minutes of commuting each day,420,0.0705882353
+1004,commute_30_44_min,Between 30 and 44 minutes of commuting each day,625,0.1050420168
+1004,commute_45_59_min,Between 45 and 59 minutes of commuting each day,315,0.0529411765
+1004,commute_less_15_min,Less than 15 minutes of commuting each day,3215,0.5403361345
+1005,commute_45_59_min,Between 45 and 59 minutes of commuting each day,545,0.03368356
+1005,commute_more_60_min,More than 60 minutes of commuting each day,780,0.0482076638
+1005,commute_less_15_min,Less than 15 minutes of commuting each day,9000,0.5562422744
+1005,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4260,0.2632880099
+1005,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1595,0.098578492
+1006,commute_more_60_min,More than 60 minutes of commuting each day,700,0.0484094053
+1006,commute_30_44_min,Between 30 and 44 minutes of commuting each day,940,0.0650069156
+1006,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2320,0.1604426003
+1006,commute_45_59_min,Between 45 and 59 minutes of commuting each day,290,0.020055325
+1006,commute_less_15_min,Less than 15 minutes of commuting each day,10210,0.7060857538
+1007,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2105,0.1862007961
+1007,commute_less_15_min,Less than 15 minutes of commuting each day,5845,0.5170278638
+1007,commute_more_60_min,More than 60 minutes of commuting each day,1160,0.1026094648
+1007,commute_45_59_min,Between 45 and 59 minutes of commuting each day,610,0.0539584255
+1007,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1585,0.1402034498
+1008,commute_45_59_min,Between 45 and 59 minutes of commuting each day,730,0.0731096645
+1008,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1135,0.1136705058
+1008,commute_less_15_min,Less than 15 minutes of commuting each day,4895,0.490235353
+1008,commute_more_60_min,More than 60 minutes of commuting each day,1005,0.1006509765
+1008,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2220,0.2223335003
+1009,commute_15_29_min,Between 15 and 29 minutes of commuting each day,755,0.1725714286
+1009,commute_45_59_min,Between 45 and 59 minutes of commuting each day,150,0.0342857143
+1009,commute_more_60_min,More than 60 minutes of commuting each day,365,0.0834285714
+1009,commute_30_44_min,Between 30 and 44 minutes of commuting each day,380,0.0868571429
+1009,commute_less_15_min,Less than 15 minutes of commuting each day,2725,0.6228571429
+1010,commute_45_59_min,Between 45 and 59 minutes of commuting each day,255,0.0228597042
+1010,commute_more_60_min,More than 60 minutes of commuting each day,515,0.0461676378
+1010,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2140,0.1918422232
+1010,commute_30_44_min,Between 30 and 44 minutes of commuting each day,445,0.0398924249
+1010,commute_less_15_min,Less than 15 minutes of commuting each day,7800,0.6992380099
+1011,commute_more_60_min,More than 60 minutes of commuting each day,15,0.0198675497
+1011,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10,0.0132450331
+1011,commute_less_15_min,Less than 15 minutes of commuting each day,665,0.880794702
+1011,commute_15_29_min,Between 15 and 29 minutes of commuting each day,50,0.0662251656
+1011,commute_30_44_min,Between 30 and 44 minutes of commuting each day,15,0.0198675497
+1101,commute_45_59_min,Between 45 and 59 minutes of commuting each day,700,0.0962861073
+1101,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1275,0.1753782669
+1101,commute_more_60_min,More than 60 minutes of commuting each day,440,0.060522696
+1101,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1960,0.2696011004
+1101,commute_less_15_min,Less than 15 minutes of commuting each day,2895,0.3982118294
+1102,commute_15_29_min,Between 15 and 29 minutes of commuting each day,14390,0.3890766527
+1102,commute_less_15_min,Less than 15 minutes of commuting each day,16310,0.4409895904
+1102,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4255,0.1150466405
+1102,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1235,0.0333919156
+1102,commute_more_60_min,More than 60 minutes of commuting each day,795,0.0214952008
+1103,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5455,0.2900053163
+1103,commute_less_15_min,Less than 15 minutes of commuting each day,9910,0.5268474216
+1103,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1630,0.086656034
+1103,commute_45_59_min,Between 45 and 59 minutes of commuting each day,955,0.0507708666
+1103,commute_more_60_min,More than 60 minutes of commuting each day,860,0.0457203615
+1201,commute_more_60_min,More than 60 minutes of commuting each day,295,0.049957663
+1201,commute_30_44_min,Between 30 and 44 minutes of commuting each day,745,0.1261642676
+1201,commute_45_59_min,Between 45 and 59 minutes of commuting each day,280,0.0474174428
+1201,commute_less_15_min,Less than 15 minutes of commuting each day,2840,0.4809483489
+1201,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1745,0.2955122777
+1202,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1060,0.0990191499
+1202,commute_45_59_min,Between 45 and 59 minutes of commuting each day,255,0.0238206446
+1202,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3590,0.3353573097
+1202,commute_more_60_min,More than 60 minutes of commuting each day,310,0.0289584306
+1202,commute_less_15_min,Less than 15 minutes of commuting each day,5490,0.5128444652
+1203,commute_more_60_min,More than 60 minutes of commuting each day,305,0.0460377358
+1203,commute_30_44_min,Between 30 and 44 minutes of commuting each day,880,0.1328301887
+1203,commute_45_59_min,Between 45 and 59 minutes of commuting each day,385,0.0581132075
+1203,commute_less_15_min,Less than 15 minutes of commuting each day,3020,0.4558490566
+1203,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2035,0.3071698113
+1204,commute_more_60_min,More than 60 minutes of commuting each day,235,0.0677233429
+1204,commute_less_15_min,Less than 15 minutes of commuting each day,1500,0.4322766571
+1204,commute_45_59_min,Between 45 and 59 minutes of commuting each day,205,0.0590778098
+1204,commute_30_44_min,Between 30 and 44 minutes of commuting each day,710,0.204610951
+1204,commute_15_29_min,Between 15 and 29 minutes of commuting each day,820,0.2363112392
+1205,commute_45_59_min,Between 45 and 59 minutes of commuting each day,435,0.0613107822
+1205,commute_more_60_min,More than 60 minutes of commuting each day,440,0.0620155039
+1205,commute_30_44_min,Between 30 and 44 minutes of commuting each day,990,0.1395348837
+1205,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2525,0.3558844257
+1205,commute_less_15_min,Less than 15 minutes of commuting each day,2705,0.3812544045
+1206,commute_less_15_min,Less than 15 minutes of commuting each day,7385,0.3948142208
+1206,commute_more_60_min,More than 60 minutes of commuting each day,1625,0.0868751671
+1206,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1080,0.0577385726
+1206,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5940,0.3175621492
+1206,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2675,0.1430098904
+1207,commute_45_59_min,Between 45 and 59 minutes of commuting each day,590,0.023468576
+1207,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9670,0.3846459825
+1207,commute_less_15_min,Less than 15 minutes of commuting each day,11005,0.4377486078
+1207,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2490,0.0990453461
+1207,commute_more_60_min,More than 60 minutes of commuting each day,1385,0.0550914877
+1208,commute_more_60_min,More than 60 minutes of commuting each day,1925,0.1047904192
+1208,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4690,0.2553075667
+1208,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2705,0.1472509526
+1208,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4340,0.2362547632
+1208,commute_less_15_min,Less than 15 minutes of commuting each day,4710,0.2563962983
+1209,commute_more_60_min,More than 60 minutes of commuting each day,9960,0.0511306758
+1209,commute_30_44_min,Between 30 and 44 minutes of commuting each day,42835,0.2198978413
+1209,commute_15_29_min,Between 15 and 29 minutes of commuting each day,79445,0.4078390102
+1209,commute_less_15_min,Less than 15 minutes of commuting each day,48595,0.2494673888
+1209,commute_45_59_min,Between 45 and 59 minutes of commuting each day,13960,0.0716650838
+1210,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1250,0.0590458196
+1210,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6940,0.3278223902
+1210,commute_less_15_min,Less than 15 minutes of commuting each day,9165,0.432923949
+1210,commute_more_60_min,More than 60 minutes of commuting each day,1625,0.0767595654
+1210,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2190,0.1034482759
+1211,commute_45_59_min,Between 45 and 59 minutes of commuting each day,450,0.0405040504
+1211,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2740,0.2466246625
+1211,commute_less_15_min,Less than 15 minutes of commuting each day,5785,0.5207020702
+1211,commute_more_60_min,More than 60 minutes of commuting each day,665,0.0598559856
+1211,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1470,0.1323132313
+1212,commute_less_15_min,Less than 15 minutes of commuting each day,7905,0.4605301486
+1212,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6520,0.3798427032
+1212,commute_more_60_min,More than 60 minutes of commuting each day,650,0.0378677542
+1212,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1550,0.0903000291
+1212,commute_45_59_min,Between 45 and 59 minutes of commuting each day,540,0.031459365
+1213,commute_15_29_min,Between 15 and 29 minutes of commuting each day,600,0.2424242424
+1213,commute_more_60_min,More than 60 minutes of commuting each day,285,0.1151515152
+1213,commute_45_59_min,Between 45 and 59 minutes of commuting each day,210,0.0848484848
+1213,commute_30_44_min,Between 30 and 44 minutes of commuting each day,395,0.1595959596
+1213,commute_less_15_min,Less than 15 minutes of commuting each day,985,0.397979798
+1214,commute_more_60_min,More than 60 minutes of commuting each day,400,0.0480769231
+1214,commute_45_59_min,Between 45 and 59 minutes of commuting each day,380,0.0456730769
+1214,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2535,0.3046875
+1214,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1020,0.1225961538
+1214,commute_less_15_min,Less than 15 minutes of commuting each day,3985,0.4789663462
+1215,commute_45_59_min,Between 45 and 59 minutes of commuting each day,320,0.051738076
+1215,commute_more_60_min,More than 60 minutes of commuting each day,350,0.0565885206
+1215,commute_less_15_min,Less than 15 minutes of commuting each day,3355,0.5424413905
+1215,commute_30_44_min,Between 30 and 44 minutes of commuting each day,810,0.1309620049
+1215,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1350,0.2182700081
+1216,commute_45_59_min,Between 45 and 59 minutes of commuting each day,200,0.062992126
+1216,commute_30_44_min,Between 30 and 44 minutes of commuting each day,510,0.1606299213
+1216,commute_more_60_min,More than 60 minutes of commuting each day,250,0.0787401575
+1216,commute_15_29_min,Between 15 and 29 minutes of commuting each day,880,0.2771653543
+1216,commute_less_15_min,Less than 15 minutes of commuting each day,1335,0.4204724409
+1217,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4550,0.1304098596
+1217,commute_more_60_min,More than 60 minutes of commuting each day,895,0.0256520493
+1217,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1010,0.0289481227
+1217,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13075,0.3747492118
+1217,commute_less_15_min,Less than 15 minutes of commuting each day,15360,0.4402407567
+1218,commute_more_60_min,More than 60 minutes of commuting each day,205,0.0901098901
+1218,commute_45_59_min,Between 45 and 59 minutes of commuting each day,135,0.0593406593
+1218,commute_15_29_min,Between 15 and 29 minutes of commuting each day,560,0.2461538462
+1218,commute_30_44_min,Between 30 and 44 minutes of commuting each day,250,0.1098901099
+1218,commute_less_15_min,Less than 15 minutes of commuting each day,1125,0.4945054945
+1301,commute_15_29_min,Between 15 and 29 minutes of commuting each day,12970,0.4008653995
+1301,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1095,0.0338433009
+1301,commute_more_60_min,More than 60 minutes of commuting each day,880,0.0271982692
+1301,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2965,0.0916396229
+1301,commute_less_15_min,Less than 15 minutes of commuting each day,14445,0.4464534075
+1302,commute_45_59_min,Between 45 and 59 minutes of commuting each day,505,0.049827331
+1302,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1225,0.1208682782
+1302,commute_more_60_min,More than 60 minutes of commuting each day,560,0.0552540701
+1302,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2635,0.2599901332
+1302,commute_less_15_min,Less than 15 minutes of commuting each day,5210,0.5140601875
+1303,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1620,0.1237585943
+1303,commute_more_60_min,More than 60 minutes of commuting each day,405,0.0309396486
+1303,commute_45_59_min,Between 45 and 59 minutes of commuting each day,370,0.0282658518
+1303,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5545,0.423605806
+1303,commute_less_15_min,Less than 15 minutes of commuting each day,5150,0.3934300993
+1304,commute_more_60_min,More than 60 minutes of commuting each day,580,0.1613351878
+1304,commute_45_59_min,Between 45 and 59 minutes of commuting each day,575,0.1599443672
+1304,commute_15_29_min,Between 15 and 29 minutes of commuting each day,645,0.1794158554
+1304,commute_less_15_min,Less than 15 minutes of commuting each day,1160,0.3226703755
+1304,commute_30_44_min,Between 30 and 44 minutes of commuting each day,635,0.1766342142
+1305,commute_more_60_min,More than 60 minutes of commuting each day,1460,0.0482963943
+1305,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2220,0.0734369831
+1305,commute_less_15_min,Less than 15 minutes of commuting each day,7930,0.2623221965
+1305,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5450,0.1802844856
+1305,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13170,0.4356599405
+1306,commute_more_60_min,More than 60 minutes of commuting each day,435,0.032079646
+1306,commute_45_59_min,Between 45 and 59 minutes of commuting each day,440,0.0324483776
+1306,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1620,0.1194690265
+1306,commute_less_15_min,Less than 15 minutes of commuting each day,5745,0.4236725664
+1306,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5320,0.3923303835
+1307,commute_less_15_min,Less than 15 minutes of commuting each day,30165,0.4377448846
+1307,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1765,0.0256131186
+1307,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7710,0.1118850675
+1307,commute_more_60_min,More than 60 minutes of commuting each day,1755,0.0254680017
+1307,commute_15_29_min,Between 15 and 29 minutes of commuting each day,27515,0.3992889276
+1308,commute_more_60_min,More than 60 minutes of commuting each day,730,0.0622601279
+1308,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1240,0.1057569296
+1308,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2850,0.2430703625
+1308,commute_less_15_min,Less than 15 minutes of commuting each day,3785,0.3228144989
+1308,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3120,0.266098081
+1309,commute_45_59_min,Between 45 and 59 minutes of commuting each day,810,0.0488393126
+1309,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1955,0.1178776002
+1309,commute_more_60_min,More than 60 minutes of commuting each day,1150,0.0693397648
+1309,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5315,0.3204703045
+1309,commute_less_15_min,Less than 15 minutes of commuting each day,7355,0.4434730178
+1310,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1585,0.0352928078
+1310,commute_more_60_min,More than 60 minutes of commuting each day,1395,0.0310621242
+1310,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5475,0.1219104876
+1310,commute_less_15_min,Less than 15 minutes of commuting each day,18305,0.4075929637
+1310,commute_15_29_min,Between 15 and 29 minutes of commuting each day,18150,0.4041416166
+1311,commute_more_60_min,More than 60 minutes of commuting each day,380,0.0337627721
+1311,commute_45_59_min,Between 45 and 59 minutes of commuting each day,260,0.0231008441
+1311,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1365,0.1212794314
+1311,commute_less_15_min,Less than 15 minutes of commuting each day,5220,0.4637938694
+1311,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4030,0.3580630831
+1312,commute_45_59_min,Between 45 and 59 minutes of commuting each day,230,0.0328571429
+1312,commute_more_60_min,More than 60 minutes of commuting each day,325,0.0464285714
+1312,commute_30_44_min,Between 30 and 44 minutes of commuting each day,840,0.12
+1312,commute_less_15_min,Less than 15 minutes of commuting each day,3790,0.5414285714
+1312,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1815,0.2592857143
+1313,commute_more_60_min,More than 60 minutes of commuting each day,415,0.0300615719
+1313,commute_45_59_min,Between 45 and 59 minutes of commuting each day,340,0.0246287577
+1313,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1260,0.0912712785
+1313,commute_less_15_min,Less than 15 minutes of commuting each day,7470,0.5411082941
+1313,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4320,0.3129300978
+1314,commute_more_60_min,More than 60 minutes of commuting each day,505,0.0440663176
+1314,commute_45_59_min,Between 45 and 59 minutes of commuting each day,345,0.030104712
+1314,commute_30_44_min,Between 30 and 44 minutes of commuting each day,925,0.0807155323
+1314,commute_less_15_min,Less than 15 minutes of commuting each day,6090,0.5314136126
+1314,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3595,0.3136998255
+1315,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9945,0.3350176857
+1315,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1180,0.0397507158
+1315,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3335,0.1123463028
+1315,commute_more_60_min,More than 60 minutes of commuting each day,1370,0.0461512548
+1315,commute_less_15_min,Less than 15 minutes of commuting each day,13855,0.4667340408
+2401,commute_45_59_min,Between 45 and 59 minutes of commuting each day,85,0.0152603232
+2401,commute_more_60_min,More than 60 minutes of commuting each day,100,0.0179533214
+2401,commute_30_44_min,Between 30 and 44 minutes of commuting each day,335,0.0601436266
+2401,commute_less_15_min,Less than 15 minutes of commuting each day,3900,0.7001795332
+2401,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1150,0.2064631957
+2402,commute_45_59_min,Between 45 and 59 minutes of commuting each day,275,0.0449713818
+2402,commute_30_44_min,Between 30 and 44 minutes of commuting each day,730,0.1193785773
+2402,commute_more_60_min,More than 60 minutes of commuting each day,230,0.0376124285
+2402,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1680,0.27473426
+2402,commute_less_15_min,Less than 15 minutes of commuting each day,3200,0.5233033524
+2403,commute_45_59_min,Between 45 and 59 minutes of commuting each day,175,0.0253439537
+2403,commute_more_60_min,More than 60 minutes of commuting each day,315,0.0456191166
+2403,commute_30_44_min,Between 30 and 44 minutes of commuting each day,705,0.1020999276
+2403,commute_less_15_min,Less than 15 minutes of commuting each day,4080,0.5908761767
+2403,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1630,0.2360608255
+2404,commute_more_60_min,More than 60 minutes of commuting each day,180,0.0534918276
+2404,commute_45_59_min,Between 45 and 59 minutes of commuting each day,85,0.0252600297
+2404,commute_30_44_min,Between 30 and 44 minutes of commuting each day,195,0.0579494799
+2404,commute_less_15_min,Less than 15 minutes of commuting each day,2070,0.6151560178
+2404,commute_15_29_min,Between 15 and 29 minutes of commuting each day,835,0.2481426449
+2405,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1630,0.2581155978
+2405,commute_30_44_min,Between 30 and 44 minutes of commuting each day,825,0.1306413302
+2405,commute_more_60_min,More than 60 minutes of commuting each day,355,0.0562153603
+2405,commute_less_15_min,Less than 15 minutes of commuting each day,3230,0.5114806017
+2405,commute_45_59_min,Between 45 and 59 minutes of commuting each day,275,0.0435471101
+2406,commute_more_60_min,More than 60 minutes of commuting each day,305,0.0633437175
+2406,commute_30_44_min,Between 30 and 44 minutes of commuting each day,465,0.0965732087
+2406,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1255,0.2606438214
+2406,commute_less_15_min,Less than 15 minutes of commuting each day,2615,0.5430944964
+2406,commute_45_59_min,Between 45 and 59 minutes of commuting each day,175,0.036344756
+2407,commute_more_60_min,More than 60 minutes of commuting each day,290,0.0441736481
+2407,commute_45_59_min,Between 45 and 59 minutes of commuting each day,205,0.0312261995
+2407,commute_less_15_min,Less than 15 minutes of commuting each day,3655,0.5567402894
+2407,commute_30_44_min,Between 30 and 44 minutes of commuting each day,620,0.0944402133
+2407,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1795,0.2734196497
+2408,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2055,0.2504570384
+2408,commute_45_59_min,Between 45 and 59 minutes of commuting each day,180,0.0219378428
+2408,commute_more_60_min,More than 60 minutes of commuting each day,250,0.0304692261
+2408,commute_30_44_min,Between 30 and 44 minutes of commuting each day,510,0.0621572212
+2408,commute_less_15_min,Less than 15 minutes of commuting each day,5210,0.6349786715
+2409,commute_more_60_min,More than 60 minutes of commuting each day,195,0.0291479821
+2409,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1000,0.1494768311
+2409,commute_less_15_min,Less than 15 minutes of commuting each day,3095,0.4626307922
+2409,commute_45_59_min,Between 45 and 59 minutes of commuting each day,250,0.0373692078
+2409,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2150,0.3213751868
+2410,commute_more_60_min,More than 60 minutes of commuting each day,560,0.0231023102
+2410,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1810,0.074669967
+2410,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7100,0.2929042904
+2410,commute_less_15_min,Less than 15 minutes of commuting each day,14420,0.5948844884
+2410,commute_45_59_min,Between 45 and 59 minutes of commuting each day,350,0.0144389439
+2411,commute_45_59_min,Between 45 and 59 minutes of commuting each day,250,0.0865051903
+2411,commute_30_44_min,Between 30 and 44 minutes of commuting each day,460,0.1591695502
+2411,commute_less_15_min,Less than 15 minutes of commuting each day,1505,0.5207612457
+2411,commute_more_60_min,More than 60 minutes of commuting each day,120,0.0415224913
+2411,commute_15_29_min,Between 15 and 29 minutes of commuting each day,555,0.1920415225
+2412,commute_more_60_min,More than 60 minutes of commuting each day,465,0.0304319372
+2412,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1200,0.0785340314
+2412,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4095,0.2679973822
+2412,commute_45_59_min,Between 45 and 59 minutes of commuting each day,290,0.0189790576
+2412,commute_less_15_min,Less than 15 minutes of commuting each day,9230,0.6040575916
+2413,commute_more_60_min,More than 60 minutes of commuting each day,490,0.0668485675
+2413,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1070,0.1459754434
+2413,commute_less_15_min,Less than 15 minutes of commuting each day,3495,0.4768076398
+2413,commute_45_59_min,Between 45 and 59 minutes of commuting each day,515,0.0702592087
+2413,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1760,0.2401091405
+2414,commute_more_60_min,More than 60 minutes of commuting each day,250,0.0302297461
+2414,commute_30_44_min,Between 30 and 44 minutes of commuting each day,830,0.100362757
+2414,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2750,0.3325272068
+2414,commute_less_15_min,Less than 15 minutes of commuting each day,4175,0.5048367594
+2414,commute_45_59_min,Between 45 and 59 minutes of commuting each day,265,0.0320435308
+2415,commute_more_60_min,More than 60 minutes of commuting each day,325,0.0534539474
+2415,commute_45_59_min,Between 45 and 59 minutes of commuting each day,165,0.0271381579
+2415,commute_less_15_min,Less than 15 minutes of commuting each day,3280,0.5394736842
+2415,commute_30_44_min,Between 30 and 44 minutes of commuting each day,660,0.1085526316
+2415,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1650,0.2713815789
+2416,commute_45_59_min,Between 45 and 59 minutes of commuting each day,165,0.0326732673
+2416,commute_more_60_min,More than 60 minutes of commuting each day,305,0.0603960396
+2416,commute_30_44_min,Between 30 and 44 minutes of commuting each day,470,0.0930693069
+2416,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1230,0.2435643564
+2416,commute_less_15_min,Less than 15 minutes of commuting each day,2880,0.5702970297
+2417,commute_45_59_min,Between 45 and 59 minutes of commuting each day,310,0.0416946873
+2417,commute_30_44_min,Between 30 and 44 minutes of commuting each day,865,0.1163416274
+2417,commute_less_15_min,Less than 15 minutes of commuting each day,3605,0.4848688635
+2417,commute_more_60_min,More than 60 minutes of commuting each day,375,0.0504371217
+2417,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2280,0.3066577001
+2418,commute_45_59_min,Between 45 and 59 minutes of commuting each day,510,0.052987013
+2418,commute_more_60_min,More than 60 minutes of commuting each day,495,0.0514285714
+2418,commute_30_44_min,Between 30 and 44 minutes of commuting each day,965,0.1002597403
+2418,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2325,0.2415584416
+2418,commute_less_15_min,Less than 15 minutes of commuting each day,5330,0.5537662338
+2419,commute_more_60_min,More than 60 minutes of commuting each day,805,0.0468023256
+2419,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1405,0.0816860465
+2419,commute_less_15_min,Less than 15 minutes of commuting each day,5935,0.3450581395
+2419,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3340,0.1941860465
+2419,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5715,0.3322674419
+2420,commute_more_60_min,More than 60 minutes of commuting each day,180,0.0598006645
+2420,commute_45_59_min,Between 45 and 59 minutes of commuting each day,330,0.1096345515
+2420,commute_30_44_min,Between 30 and 44 minutes of commuting each day,940,0.3122923588
+2420,commute_15_29_min,Between 15 and 29 minutes of commuting each day,965,0.3205980066
+2420,commute_less_15_min,Less than 15 minutes of commuting each day,595,0.1976744186
+2421,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4555,0.3405607477
+2421,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3495,0.2613084112
+2421,commute_more_60_min,More than 60 minutes of commuting each day,695,0.0519626168
+2421,commute_less_15_min,Less than 15 minutes of commuting each day,3230,0.2414953271
+2421,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1400,0.1046728972
+2422,commute_more_60_min,More than 60 minutes of commuting each day,1120,0.0507361268
+2422,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7020,0.318006795
+2422,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7115,0.3223103058
+2422,commute_less_15_min,Less than 15 minutes of commuting each day,4280,0.1938844847
+2422,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2540,0.1150622877
+2423,commute_more_60_min,More than 60 minutes of commuting each day,8900,0.0321380854
+2423,commute_45_59_min,Between 45 and 59 minutes of commuting each day,15180,0.0548152963
+2423,commute_less_15_min,Less than 15 minutes of commuting each day,74675,0.2696529809
+2423,commute_30_44_min,Between 30 and 44 minutes of commuting each day,51955,0.1876105875
+2423,commute_15_29_min,Between 15 and 29 minutes of commuting each day,126220,0.4557830499
+2425,commute_15_29_min,Between 15 and 29 minutes of commuting each day,28230,0.3880679084
+2425,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4635,0.0637157193
+2425,commute_more_60_min,More than 60 minutes of commuting each day,2720,0.037390886
+2425,commute_30_44_min,Between 30 and 44 minutes of commuting each day,15725,0.2161660595
+2425,commute_less_15_min,Less than 15 minutes of commuting each day,21435,0.2946594268
+2426,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1610,0.0895688456
+2426,commute_more_60_min,More than 60 minutes of commuting each day,770,0.042837274
+2426,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3435,0.1910987483
+2426,commute_less_15_min,Less than 15 minutes of commuting each day,7325,0.4075104312
+2426,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4835,0.268984701
+2427,commute_more_60_min,More than 60 minutes of commuting each day,365,0.0427650849
+2427,commute_45_59_min,Between 45 and 59 minutes of commuting each day,335,0.0392501465
+2427,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1225,0.143526655
+2427,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2795,0.3274751025
+2427,commute_less_15_min,Less than 15 minutes of commuting each day,3815,0.4469830111
+2428,commute_more_60_min,More than 60 minutes of commuting each day,490,0.0755007704
+2428,commute_45_59_min,Between 45 and 59 minutes of commuting each day,420,0.0647149461
+2428,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1315,0.2026194145
+2428,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2025,0.31201849
+2428,commute_less_15_min,Less than 15 minutes of commuting each day,2240,0.345146379
+2429,commute_more_60_min,More than 60 minutes of commuting each day,1020,0.0414213198
+2429,commute_45_59_min,Between 45 and 59 minutes of commuting each day,735,0.0298477157
+2429,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2770,0.1124873096
+2429,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7095,0.2881218274
+2429,commute_less_15_min,Less than 15 minutes of commuting each day,13005,0.5281218274
+2430,commute_more_60_min,More than 60 minutes of commuting each day,330,0.0365448505
+2430,commute_45_59_min,Between 45 and 59 minutes of commuting each day,360,0.0398671096
+2430,commute_30_44_min,Between 30 and 44 minutes of commuting each day,950,0.1052048726
+2430,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2440,0.2702104097
+2430,commute_less_15_min,Less than 15 minutes of commuting each day,4950,0.5481727575
+2431,commute_more_60_min,More than 60 minutes of commuting each day,860,0.0501457726
+2431,commute_45_59_min,Between 45 and 59 minutes of commuting each day,565,0.0329446064
+2431,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1885,0.1099125364
+2431,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4630,0.2699708455
+2431,commute_less_15_min,Less than 15 minutes of commuting each day,9210,0.5370262391
+2432,commute_more_60_min,More than 60 minutes of commuting each day,410,0.0398445092
+2432,commute_45_59_min,Between 45 and 59 minutes of commuting each day,330,0.0320699708
+2432,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1270,0.1234207969
+2432,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2965,0.288143829
+2432,commute_less_15_min,Less than 15 minutes of commuting each day,5315,0.5165208941
+2433,commute_more_60_min,More than 60 minutes of commuting each day,825,0.0540629096
+2433,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1495,0.0979685452
+2433,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3695,0.2421363041
+2433,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4140,0.2712975098
+2433,commute_less_15_min,Less than 15 minutes of commuting each day,5105,0.3345347313
+2434,commute_more_60_min,More than 60 minutes of commuting each day,1255,0.0530543226
+2434,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2490,0.1052631579
+2434,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5730,0.2422320862
+2434,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6300,0.2663284718
+2434,commute_less_15_min,Less than 15 minutes of commuting each day,7880,0.3331219615
+2435,commute_more_60_min,More than 60 minutes of commuting each day,290,0.0676779463
+2435,commute_45_59_min,Between 45 and 59 minutes of commuting each day,345,0.0805134189
+2435,commute_30_44_min,Between 30 and 44 minutes of commuting each day,610,0.1423570595
+2435,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1145,0.2672112019
+2435,commute_less_15_min,Less than 15 minutes of commuting each day,1895,0.4422403734
+2436,commute_more_60_min,More than 60 minutes of commuting each day,610,0.0329195899
+2436,commute_45_59_min,Between 45 and 59 minutes of commuting each day,750,0.0404749056
+2436,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3060,0.1651376147
+2436,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5735,0.3094981112
+2436,commute_less_15_min,Less than 15 minutes of commuting each day,8375,0.4519697787
+2437,commute_more_60_min,More than 60 minutes of commuting each day,2725,0.0421696069
+2437,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1705,0.0263850201
+2437,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7995,0.1237233055
+2437,commute_15_29_min,Between 15 and 29 minutes of commuting each day,24995,0.3867997524
+2437,commute_less_15_min,Less than 15 minutes of commuting each day,27200,0.4209223151
+2438,commute_more_60_min,More than 60 minutes of commuting each day,450,0.0531914894
+2438,commute_45_59_min,Between 45 and 59 minutes of commuting each day,510,0.0602836879
+2438,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1525,0.1802600473
+2438,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3165,0.3741134752
+2438,commute_less_15_min,Less than 15 minutes of commuting each day,2810,0.3321513002
+2439,commute_more_60_min,More than 60 minutes of commuting each day,1045,0.0329082034
+2439,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1060,0.03338057
+2439,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2980,0.0938434892
+2439,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9385,0.2955440088
+2439,commute_less_15_min,Less than 15 minutes of commuting each day,17285,0.5443237285
+2440,commute_more_60_min,More than 60 minutes of commuting each day,250,0.0496031746
+2440,commute_45_59_min,Between 45 and 59 minutes of commuting each day,550,0.1091269841
+2440,commute_30_44_min,Between 30 and 44 minutes of commuting each day,820,0.1626984127
+2440,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1200,0.2380952381
+2440,commute_less_15_min,Less than 15 minutes of commuting each day,2220,0.4404761905
+2441,commute_more_60_min,More than 60 minutes of commuting each day,445,0.0493074792
+2441,commute_45_59_min,Between 45 and 59 minutes of commuting each day,625,0.0692520776
+2441,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2045,0.2265927978
+2441,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3035,0.3362880886
+2441,commute_less_15_min,Less than 15 minutes of commuting each day,2875,0.3185595568
+2442,commute_more_60_min,More than 60 minutes of commuting each day,410,0.0308851224
+2442,commute_45_59_min,Between 45 and 59 minutes of commuting each day,555,0.0418079096
+2442,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2515,0.1894538606
+2442,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4960,0.3736346516
+2442,commute_less_15_min,Less than 15 minutes of commuting each day,4835,0.3642184557
+2443,commute_more_60_min,More than 60 minutes of commuting each day,1945,0.0272867565
+2443,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1990,0.0279180696
+2443,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7855,0.1101992144
+2443,commute_15_29_min,Between 15 and 29 minutes of commuting each day,32065,0.449845679
+2443,commute_less_15_min,Less than 15 minutes of commuting each day,27425,0.3847502806
+2444,commute_more_60_min,More than 60 minutes of commuting each day,220,0.0268784362
+2444,commute_45_59_min,Between 45 and 59 minutes of commuting each day,365,0.0445937691
+2444,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1360,0.1661576054
+2444,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2350,0.2871105681
+2444,commute_less_15_min,Less than 15 minutes of commuting each day,3890,0.4752596213
+2445,commute_more_60_min,More than 60 minutes of commuting each day,1125,0.054624909
+2445,commute_45_59_min,Between 45 and 59 minutes of commuting each day,890,0.0432143724
+2445,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4005,0.1944646759
+2445,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6630,0.3219227968
+2445,commute_less_15_min,Less than 15 minutes of commuting each day,7945,0.3857732459
+2446,commute_more_60_min,More than 60 minutes of commuting each day,1915,0.079758434
+2446,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1280,0.0533111204
+2446,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3425,0.1426488963
+2446,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7695,0.3204914619
+2446,commute_less_15_min,Less than 15 minutes of commuting each day,9695,0.4037900875
+2447,commute_more_60_min,More than 60 minutes of commuting each day,2100,0.0536604063
+2447,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1810,0.0462501597
+2447,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4185,0.106937524
+2447,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13005,0.3323112304
+2447,commute_less_15_min,Less than 15 minutes of commuting each day,18035,0.4608406797
+2448,commute_more_60_min,More than 60 minutes of commuting each day,400,0.061302682
+2448,commute_45_59_min,Between 45 and 59 minutes of commuting each day,330,0.0505747126
+2448,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1510,0.2314176245
+2448,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1465,0.2245210728
+2448,commute_less_15_min,Less than 15 minutes of commuting each day,2820,0.432183908
+2449,commute_more_60_min,More than 60 minutes of commuting each day,1970,0.0427888792
+2449,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1960,0.0425716768
+2449,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4045,0.087858384
+2449,commute_15_29_min,Between 15 and 29 minutes of commuting each day,15630,0.3394874023
+2449,commute_less_15_min,Less than 15 minutes of commuting each day,22435,0.4872936577
+2450,commute_more_60_min,More than 60 minutes of commuting each day,385,0.0397316821
+2450,commute_45_59_min,Between 45 and 59 minutes of commuting each day,510,0.0526315789
+2450,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1880,0.1940144479
+2450,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2895,0.2987616099
+2450,commute_less_15_min,Less than 15 minutes of commuting each day,4020,0.4148606811
+2451,commute_more_60_min,More than 60 minutes of commuting each day,880,0.0592792186
+2451,commute_45_59_min,Between 45 and 59 minutes of commuting each day,795,0.053553385
+2451,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2870,0.1933310879
+2451,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5060,0.3408555069
+2451,commute_less_15_min,Less than 15 minutes of commuting each day,5240,0.3529808016
+2452,commute_more_60_min,More than 60 minutes of commuting each day,2210,0.1239831697
+2452,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2070,0.1161290323
+2452,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3605,0.2022440393
+2452,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4610,0.2586255259
+2452,commute_less_15_min,Less than 15 minutes of commuting each day,5330,0.2990182328
+2453,commute_more_60_min,More than 60 minutes of commuting each day,1875,0.0903832249
+2453,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1550,0.0747167992
+2453,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1875,0.0903832249
+2453,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5225,0.25186792
+2453,commute_less_15_min,Less than 15 minutes of commuting each day,10220,0.492648831
+2454,commute_more_60_min,More than 60 minutes of commuting each day,2080,0.0523599748
+2454,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2255,0.0567652612
+2454,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5425,0.1365638767
+2454,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13485,0.3394587791
+2454,commute_less_15_min,Less than 15 minutes of commuting each day,16480,0.4148521082
+2455,commute_more_60_min,More than 60 minutes of commuting each day,1575,0.0882847534
+2455,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1750,0.0980941704
+2455,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4240,0.2376681614
+2455,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4630,0.259529148
+2455,commute_less_15_min,Less than 15 minutes of commuting each day,5645,0.3164237668
+2456,commute_more_60_min,More than 60 minutes of commuting each day,5180,0.0941475827
+2456,commute_45_59_min,Between 45 and 59 minutes of commuting each day,5865,0.1065976009
+2456,commute_30_44_min,Between 30 and 44 minutes of commuting each day,10035,0.1823882225
+2456,commute_15_29_min,Between 15 and 29 minutes of commuting each day,14785,0.2687204653
+2456,commute_less_15_min,Less than 15 minutes of commuting each day,19155,0.3481461287
+2457,commute_less_15_min,Less than 15 minutes of commuting each day,12975,0.2104793576
+2457,commute_more_60_min,More than 60 minutes of commuting each day,7925,0.1285586828
+2457,commute_45_59_min,Between 45 and 59 minutes of commuting each day,7855,0.1274231487
+2457,commute_30_44_min,Between 30 and 44 minutes of commuting each day,15170,0.2460864628
+2457,commute_15_29_min,Between 15 and 29 minutes of commuting each day,17720,0.2874523481
+2458,commute_more_60_min,More than 60 minutes of commuting each day,19650,0.1042633911
+2458,commute_45_59_min,Between 45 and 59 minutes of commuting each day,26035,0.1381423607
+2458,commute_30_44_min,Between 30 and 44 minutes of commuting each day,45680,0.2423792216
+2458,commute_15_29_min,Between 15 and 29 minutes of commuting each day,61515,0.3264001273
+2458,commute_less_15_min,Less than 15 minutes of commuting each day,35585,0.1888148993
+2459,commute_more_60_min,More than 60 minutes of commuting each day,3635,0.0911941796
+2459,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4055,0.1017310587
+2459,commute_30_44_min,Between 30 and 44 minutes of commuting each day,9315,0.2336929252
+2459,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13860,0.3477170095
+2459,commute_less_15_min,Less than 15 minutes of commuting each day,8995,0.2256648269
+2460,commute_more_60_min,More than 60 minutes of commuting each day,9955,0.1664994146
+2460,commute_45_59_min,Between 45 and 59 minutes of commuting each day,7255,0.1213413614
+2460,commute_30_44_min,Between 30 and 44 minutes of commuting each day,14020,0.2344873725
+2460,commute_15_29_min,Between 15 and 29 minutes of commuting each day,15690,0.2624184646
+2460,commute_less_15_min,Less than 15 minutes of commuting each day,12870,0.2152533869
+2461,commute_more_60_min,More than 60 minutes of commuting each day,2095,0.0760297587
+2461,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1435,0.0520776629
+2461,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3295,0.1195790238
+2461,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8500,0.3084739612
+2461,commute_less_15_min,Less than 15 minutes of commuting each day,12230,0.4438395935
+2462,commute_more_60_min,More than 60 minutes of commuting each day,3035,0.1666209168
+2462,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1670,0.0916826791
+2462,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3325,0.1825418611
+2462,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4525,0.2484216305
+2462,commute_less_15_min,Less than 15 minutes of commuting each day,5660,0.3107329124
+2463,commute_more_60_min,More than 60 minutes of commuting each day,3935,0.1670203735
+2463,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3695,0.1568336163
+2463,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5800,0.246179966
+2463,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5490,0.2330220713
+2463,commute_less_15_min,Less than 15 minutes of commuting each day,4640,0.1969439728
+2464,commute_more_60_min,More than 60 minutes of commuting each day,11745,0.1484078848
+2464,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10540,0.1331817033
+2464,commute_30_44_min,Between 30 and 44 minutes of commuting each day,21265,0.2687010361
+2464,commute_15_29_min,Between 15 and 29 minutes of commuting each day,22580,0.2853171595
+2464,commute_less_15_min,Less than 15 minutes of commuting each day,13010,0.1643922163
+2465,commute_more_60_min,More than 60 minutes of commuting each day,25485,0.1302314886
+2465,commute_45_59_min,Between 45 and 59 minutes of commuting each day,25315,0.1293627676
+2465,commute_30_44_min,Between 30 and 44 minutes of commuting each day,48505,0.2478665236
+2465,commute_15_29_min,Between 15 and 29 minutes of commuting each day,64150,0.3278144003
+2465,commute_less_15_min,Less than 15 minutes of commuting each day,32235,0.1647248199
+2466,commute_more_60_min,More than 60 minutes of commuting each day,88065,0.1026967144
+2466,commute_45_59_min,Between 45 and 59 minutes of commuting each day,107170,0.1249759482
+2466,commute_30_44_min,Between 30 and 44 minutes of commuting each day,244380,0.2849829451
+2466,commute_15_29_min,Between 15 and 29 minutes of commuting each day,287415,0.3351680709
+2466,commute_less_15_min,Less than 15 minutes of commuting each day,130495,0.1521763214
+2467,commute_more_60_min,More than 60 minutes of commuting each day,9385,0.1116796573
+2467,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10985,0.1307193431
+2467,commute_30_44_min,Between 30 and 44 minutes of commuting each day,21105,0.2511453561
+2467,commute_15_29_min,Between 15 and 29 minutes of commuting each day,23570,0.2804783721
+2467,commute_less_15_min,Less than 15 minutes of commuting each day,18990,0.2259772714
+2468,commute_more_60_min,More than 60 minutes of commuting each day,960,0.0732824427
+2468,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1340,0.1022900763
+2468,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2700,0.2061068702
+2468,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3675,0.2805343511
+2468,commute_less_15_min,Less than 15 minutes of commuting each day,4425,0.3377862595
+2469,commute_more_60_min,More than 60 minutes of commuting each day,1025,0.1214454976
+2469,commute_45_59_min,Between 45 and 59 minutes of commuting each day,760,0.0900473934
+2469,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1665,0.1972748815
+2469,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2525,0.2991706161
+2469,commute_less_15_min,Less than 15 minutes of commuting each day,2465,0.2920616114
+2470,commute_more_60_min,More than 60 minutes of commuting each day,1800,0.0640455435
+2470,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2240,0.0797011208
+2470,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4270,0.1519302615
+2470,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9245,0.3289450276
+2470,commute_less_15_min,Less than 15 minutes of commuting each day,10550,0.3753780466
+2471,commute_more_60_min,More than 60 minutes of commuting each day,9005,0.1235253772
+2471,commute_45_59_min,Between 45 and 59 minutes of commuting each day,8880,0.1218106996
+2471,commute_30_44_min,Between 30 and 44 minutes of commuting each day,17845,0.24478738
+2471,commute_15_29_min,Between 15 and 29 minutes of commuting each day,22605,0.3100823045
+2471,commute_less_15_min,Less than 15 minutes of commuting each day,14565,0.1997942387
+2472,commute_more_60_min,More than 60 minutes of commuting each day,6950,0.1469189303
+2472,commute_45_59_min,Between 45 and 59 minutes of commuting each day,5780,0.1221858155
+2472,commute_30_44_min,Between 30 and 44 minutes of commuting each day,11380,0.2405665363
+2472,commute_15_29_min,Between 15 and 29 minutes of commuting each day,12700,0.2684705634
+2472,commute_less_15_min,Less than 15 minutes of commuting each day,10495,0.2218581545
+2473,commute_more_60_min,More than 60 minutes of commuting each day,11025,0.1436762885
+2473,commute_45_59_min,Between 45 and 59 minutes of commuting each day,8600,0.112074021
+2473,commute_30_44_min,Between 30 and 44 minutes of commuting each day,17065,0.2223887405
+2473,commute_15_29_min,Between 15 and 29 minutes of commuting each day,23505,0.3063139376
+2473,commute_less_15_min,Less than 15 minutes of commuting each day,16540,0.2155470124
+2474,commute_more_60_min,More than 60 minutes of commuting each day,3020,0.1157753498
+2474,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2535,0.0971822887
+2474,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5905,0.2263753115
+2474,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9485,0.3636189381
+2474,commute_less_15_min,Less than 15 minutes of commuting each day,5140,0.1970481119
+2475,commute_more_60_min,More than 60 minutes of commuting each day,6860,0.117234897
+2475,commute_45_59_min,Between 45 and 59 minutes of commuting each day,6420,0.1097154576
+2475,commute_30_44_min,Between 30 and 44 minutes of commuting each day,11590,0.1980688712
+2475,commute_15_29_min,Between 15 and 29 minutes of commuting each day,18695,0.3194907289
+2475,commute_less_15_min,Less than 15 minutes of commuting each day,14950,0.2554900453
+2476,commute_more_60_min,More than 60 minutes of commuting each day,1565,0.1199233716
+2476,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1105,0.0846743295
+2476,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2440,0.1869731801
+2476,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3060,0.2344827586
+2476,commute_less_15_min,Less than 15 minutes of commuting each day,4880,0.3739463602
+2477,commute_more_60_min,More than 60 minutes of commuting each day,2800,0.1669150522
+2477,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1965,0.1171385991
+2477,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3130,0.1865871833
+2477,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4515,0.2691505216
+2477,commute_less_15_min,Less than 15 minutes of commuting each day,4365,0.2602086438
+2478,commute_more_60_min,More than 60 minutes of commuting each day,1635,0.0888586957
+2478,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1000,0.0543478261
+2478,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2750,0.1494565217
+2478,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5770,0.3135869565
+2478,commute_less_15_min,Less than 15 minutes of commuting each day,7245,0.39375
+2479,commute_more_60_min,More than 60 minutes of commuting each day,835,0.0670144462
+2479,commute_45_59_min,Between 45 and 59 minutes of commuting each day,745,0.0597913323
+2479,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1375,0.11035313
+2479,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3715,0.2981540931
+2479,commute_less_15_min,Less than 15 minutes of commuting each day,5790,0.4646869984
+2480,commute_more_60_min,More than 60 minutes of commuting each day,1225,0.1412918108
+2480,commute_45_59_min,Between 45 and 59 minutes of commuting each day,950,0.1095732411
+2480,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1495,0.1724336794
+2480,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2130,0.2456747405
+2480,commute_less_15_min,Less than 15 minutes of commuting each day,2870,0.3310265283
+2481,commute_more_60_min,More than 60 minutes of commuting each day,8820,0.0662933594
+2481,commute_45_59_min,Between 45 and 59 minutes of commuting each day,14700,0.1104889323
+2481,commute_30_44_min,Between 30 and 44 minutes of commuting each day,35040,0.2633695366
+2481,commute_15_29_min,Between 15 and 29 minutes of commuting each day,46090,0.3464241422
+2481,commute_less_15_min,Less than 15 minutes of commuting each day,28395,0.2134240295
+2482,commute_more_60_min,More than 60 minutes of commuting each day,2715,0.1135508156
+2482,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3700,0.1547469678
+2482,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7200,0.3011292346
+2482,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7205,0.3013383522
+2482,commute_less_15_min,Less than 15 minutes of commuting each day,3090,0.1292346299
+2483,commute_more_60_min,More than 60 minutes of commuting each day,1020,0.1417651147
+2483,commute_45_59_min,Between 45 and 59 minutes of commuting each day,415,0.0576789437
+2483,commute_30_44_min,Between 30 and 44 minutes of commuting each day,795,0.1104933982
+2483,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1910,0.2654621265
+2483,commute_less_15_min,Less than 15 minutes of commuting each day,3055,0.424600417
+2484,commute_more_60_min,More than 60 minutes of commuting each day,1095,0.2192192192
+2484,commute_45_59_min,Between 45 and 59 minutes of commuting each day,335,0.0670670671
+2484,commute_30_44_min,Between 30 and 44 minutes of commuting each day,795,0.1591591592
+2484,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1115,0.2232232232
+2484,commute_less_15_min,Less than 15 minutes of commuting each day,1655,0.3313313313
+2485,commute_more_60_min,More than 60 minutes of commuting each day,470,0.0733229329
+2485,commute_45_59_min,Between 45 and 59 minutes of commuting each day,215,0.0335413417
+2485,commute_30_44_min,Between 30 and 44 minutes of commuting each day,530,0.0826833073
+2485,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1750,0.2730109204
+2485,commute_less_15_min,Less than 15 minutes of commuting each day,3445,0.5374414977
+2486,commute_more_60_min,More than 60 minutes of commuting each day,1115,0.0575335397
+2486,commute_45_59_min,Between 45 and 59 minutes of commuting each day,595,0.0307017544
+2486,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1905,0.0982972136
+2486,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5430,0.2801857585
+2486,commute_less_15_min,Less than 15 minutes of commuting each day,10335,0.5332817337
+2487,commute_more_60_min,More than 60 minutes of commuting each day,1450,0.1771533293
+2487,commute_45_59_min,Between 45 and 59 minutes of commuting each day,420,0.0513133781
+2487,commute_30_44_min,Between 30 and 44 minutes of commuting each day,880,0.1075137447
+2487,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1985,0.242516799
+2487,commute_less_15_min,Less than 15 minutes of commuting each day,3450,0.4215027489
+2488,commute_more_60_min,More than 60 minutes of commuting each day,820,0.0738738739
+2488,commute_45_59_min,Between 45 and 59 minutes of commuting each day,690,0.0621621622
+2488,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1210,0.109009009
+2488,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2480,0.2234234234
+2488,commute_less_15_min,Less than 15 minutes of commuting each day,5900,0.5315315315
+2489,commute_more_60_min,More than 60 minutes of commuting each day,1180,0.0593561368
+2489,commute_45_59_min,Between 45 and 59 minutes of commuting each day,830,0.041750503
+2489,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1545,0.0777162978
+2489,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4475,0.2251006036
+2489,commute_less_15_min,Less than 15 minutes of commuting each day,11850,0.5960764588
+2490,commute_more_60_min,More than 60 minutes of commuting each day,195,0.0373563218
+2490,commute_45_59_min,Between 45 and 59 minutes of commuting each day,35,0.0067049808
+2490,commute_30_44_min,Between 30 and 44 minutes of commuting each day,130,0.0249042146
+2490,commute_15_29_min,Between 15 and 29 minutes of commuting each day,920,0.1762452107
+2490,commute_less_15_min,Less than 15 minutes of commuting each day,3940,0.754789272
+2491,commute_more_60_min,More than 60 minutes of commuting each day,585,0.047755102
+2491,commute_45_59_min,Between 45 and 59 minutes of commuting each day,390,0.0318367347
+2491,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1175,0.0959183673
+2491,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3050,0.2489795918
+2491,commute_less_15_min,Less than 15 minutes of commuting each day,7050,0.5755102041
+2492,commute_more_60_min,More than 60 minutes of commuting each day,665,0.0723219141
+2492,commute_45_59_min,Between 45 and 59 minutes of commuting each day,355,0.0386079391
+2492,commute_30_44_min,Between 30 and 44 minutes of commuting each day,955,0.1038607939
+2492,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2150,0.2338227297
+2492,commute_less_15_min,Less than 15 minutes of commuting each day,5070,0.5513866232
+2493,commute_more_60_min,More than 60 minutes of commuting each day,965,0.0445316105
+2493,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1450,0.0669127826
+2493,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2560,0.1181356714
+2493,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5425,0.2503461006
+2493,commute_less_15_min,Less than 15 minutes of commuting each day,11270,0.5200738348
+2494,commute_more_60_min,More than 60 minutes of commuting each day,1965,0.0274403016
+2494,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1935,0.0270213657
+2494,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7890,0.1101801424
+2494,commute_15_29_min,Between 15 and 29 minutes of commuting each day,26890,0.3755062142
+2494,commute_less_15_min,Less than 15 minutes of commuting each day,32930,0.459851976
+2495,commute_more_60_min,More than 60 minutes of commuting each day,325,0.0846354167
+2495,commute_45_59_min,Between 45 and 59 minutes of commuting each day,125,0.0325520833
+2495,commute_30_44_min,Between 30 and 44 minutes of commuting each day,315,0.08203125
+2495,commute_15_29_min,Between 15 and 29 minutes of commuting each day,755,0.1966145833
+2495,commute_less_15_min,Less than 15 minutes of commuting each day,2320,0.6041666667
+2496,commute_more_60_min,More than 60 minutes of commuting each day,300,0.0229007634
+2496,commute_45_59_min,Between 45 and 59 minutes of commuting each day,145,0.0110687023
+2496,commute_30_44_min,Between 30 and 44 minutes of commuting each day,835,0.063740458
+2496,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4170,0.3183206107
+2496,commute_less_15_min,Less than 15 minutes of commuting each day,7650,0.5839694656
+2497,commute_more_60_min,More than 60 minutes of commuting each day,225,0.0130510441
+2497,commute_45_59_min,Between 45 and 59 minutes of commuting each day,565,0.0327726218
+2497,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1505,0.0872969838
+2497,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4345,0.2520301624
+2497,commute_less_15_min,Less than 15 minutes of commuting each day,10600,0.6148491879
+2498,commute_more_60_min,More than 60 minutes of commuting each day,210,0.0487238979
+2498,commute_45_59_min,Between 45 and 59 minutes of commuting each day,70,0.0162412993
+2498,commute_30_44_min,Between 30 and 44 minutes of commuting each day,220,0.0510440835
+2498,commute_15_29_min,Between 15 and 29 minutes of commuting each day,380,0.0881670534
+2498,commute_less_15_min,Less than 15 minutes of commuting each day,3430,0.7958236659
+2499,commute_more_60_min,More than 60 minutes of commuting each day,880,0.048048048
+2499,commute_45_59_min,Between 45 and 59 minutes of commuting each day,350,0.0191100191
+2499,commute_30_44_min,Between 30 and 44 minutes of commuting each day,665,0.0363090363
+2499,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2180,0.119028119
+2499,commute_less_15_min,Less than 15 minutes of commuting each day,14240,0.7775047775
+3501,commute_more_60_min,More than 60 minutes of commuting each day,4515,0.0970654628
+3501,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3410,0.073309685
+3501,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6450,0.1386649468
+3501,commute_15_29_min,Between 15 and 29 minutes of commuting each day,14260,0.3065677738
+3501,commute_less_15_min,Less than 15 minutes of commuting each day,17880,0.3843921316
+3502,commute_more_60_min,More than 60 minutes of commuting each day,5120,0.1215718865
+3502,commute_45_59_min,Between 45 and 59 minutes of commuting each day,6800,0.1614626618
+3502,commute_30_44_min,Between 30 and 44 minutes of commuting each day,10505,0.2494360679
+3502,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8620,0.2046776683
+3502,commute_less_15_min,Less than 15 minutes of commuting each day,11070,0.2628517155
+3506,commute_more_60_min,More than 60 minutes of commuting each day,31770,0.0722299901
+3506,commute_45_59_min,Between 45 and 59 minutes of commuting each day,44635,0.1014789301
+3506,commute_30_44_min,Between 30 and 44 minutes of commuting each day,108735,0.2472120861
+3506,commute_15_29_min,Between 15 and 29 minutes of commuting each day,167425,0.3806454546
+3506,commute_less_15_min,Less than 15 minutes of commuting each day,87280,0.1984335391
+3507,commute_more_60_min,More than 60 minutes of commuting each day,3925,0.092168604
+3507,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4210,0.0988611013
+3507,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7680,0.180345192
+3507,commute_15_29_min,Between 15 and 29 minutes of commuting each day,12360,0.2902430433
+3507,commute_less_15_min,Less than 15 minutes of commuting each day,14410,0.3383820594
+3509,commute_more_60_min,More than 60 minutes of commuting each day,3755,0.1270512604
+3509,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3440,0.1163931653
+3509,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6070,0.2053798004
+3509,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7765,0.2627305025
+3509,commute_less_15_min,Less than 15 minutes of commuting each day,8525,0.2884452715
+3510,commute_more_60_min,More than 60 minutes of commuting each day,2355,0.0354481824
+3510,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2450,0.0368781516
+3510,commute_30_44_min,Between 30 and 44 minutes of commuting each day,9945,0.1496951908
+3510,commute_15_29_min,Between 15 and 29 minutes of commuting each day,28925,0.4353879732
+3510,commute_less_15_min,Less than 15 minutes of commuting each day,22760,0.342590502
+3511,commute_more_60_min,More than 60 minutes of commuting each day,855,0.0469909316
+3511,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1545,0.0849134378
+3511,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4770,0.262159934
+3511,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6650,0.3654850234
+3511,commute_less_15_min,Less than 15 minutes of commuting each day,4375,0.2404506733
+3512,commute_more_60_min,More than 60 minutes of commuting each day,3105,0.0550531915
+3512,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2875,0.0509751773
+3512,commute_30_44_min,Between 30 and 44 minutes of commuting each day,8615,0.152748227
+3512,commute_15_29_min,Between 15 and 29 minutes of commuting each day,19985,0.3543439716
+3512,commute_less_15_min,Less than 15 minutes of commuting each day,21820,0.3868794326
+3513,commute_more_60_min,More than 60 minutes of commuting each day,550,0.0585417775
+3513,commute_45_59_min,Between 45 and 59 minutes of commuting each day,620,0.0659925492
+3513,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1875,0.1995742416
+3513,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3380,0.3597658329
+3513,commute_less_15_min,Less than 15 minutes of commuting each day,2970,0.3161255987
+3514,commute_more_60_min,More than 60 minutes of commuting each day,4080,0.1194379391
+3514,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3110,0.0910421546
+3514,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5880,0.1721311475
+3514,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9520,0.2786885246
+3514,commute_less_15_min,Less than 15 minutes of commuting each day,11570,0.3387002342
+3515,commute_more_60_min,More than 60 minutes of commuting each day,4695,0.0816805846
+3515,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3690,0.0641962422
+3515,commute_30_44_min,Between 30 and 44 minutes of commuting each day,8255,0.1436151705
+3515,commute_15_29_min,Between 15 and 29 minutes of commuting each day,19645,0.3417710508
+3515,commute_less_15_min,Less than 15 minutes of commuting each day,21195,0.368736952
+3516,commute_more_60_min,More than 60 minutes of commuting each day,5255,0.1746137232
+3516,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2965,0.0985213491
+3516,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5150,0.1711247716
+3516,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8320,0.2764578834
+3516,commute_less_15_min,Less than 15 minutes of commuting each day,8405,0.2792822728
+3518,commute_more_60_min,More than 60 minutes of commuting each day,67525,0.2238781228
+3518,commute_45_59_min,Between 45 and 59 minutes of commuting each day,37390,0.1239659831
+3518,commute_30_44_min,Between 30 and 44 minutes of commuting each day,55120,0.1827495317
+3518,commute_15_29_min,Between 15 and 29 minutes of commuting each day,78970,0.2618238483
+3518,commute_less_15_min,Less than 15 minutes of commuting each day,62610,0.2075825141
+3519,commute_more_60_min,More than 60 minutes of commuting each day,98345,0.1920294454
+3519,commute_45_59_min,Between 45 and 59 minutes of commuting each day,66940,0.1307077235
+3519,commute_30_44_min,Between 30 and 44 minutes of commuting each day,128560,0.2510275611
+3519,commute_15_29_min,Between 15 and 29 minutes of commuting each day,139545,0.2724769836
+3519,commute_less_15_min,Less than 15 minutes of commuting each day,78745,0.1537582864
+3520,commute_more_60_min,More than 60 minutes of commuting each day,202830,0.1621278126
+3520,commute_45_59_min,Between 45 and 59 minutes of commuting each day,181675,0.1452180169
+3520,commute_30_44_min,Between 30 and 44 minutes of commuting each day,359230,0.2871428
+3520,commute_15_29_min,Between 15 and 29 minutes of commuting each day,354565,0.2834139323
+3520,commute_less_15_min,Less than 15 minutes of commuting each day,152750,0.1220974382
+3521,commute_more_60_min,More than 60 minutes of commuting each day,103340,0.1593167295
+3521,commute_45_59_min,Between 45 and 59 minutes of commuting each day,74125,0.1142766845
+3521,commute_30_44_min,Between 30 and 44 minutes of commuting each day,165815,0.2556328963
+3521,commute_15_29_min,Between 15 and 29 minutes of commuting each day,213080,0.3285001811
+3521,commute_less_15_min,Less than 15 minutes of commuting each day,92285,0.1422735086
+3522,commute_more_60_min,More than 60 minutes of commuting each day,6915,0.2276168532
+3522,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4650,0.1530612245
+3522,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4820,0.1586570112
+3522,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5480,0.1803818302
+3522,commute_less_15_min,Less than 15 minutes of commuting each day,8515,0.280283081
+3523,commute_more_60_min,More than 60 minutes of commuting each day,10110,0.0935245143
+3523,commute_45_59_min,Between 45 and 59 minutes of commuting each day,8900,0.0823311748
+3523,commute_30_44_min,Between 30 and 44 minutes of commuting each day,17375,0.1607308048
+3523,commute_15_29_min,Between 15 and 29 minutes of commuting each day,34340,0.3176688252
+3523,commute_less_15_min,Less than 15 minutes of commuting each day,37375,0.3457446809
+3524,commute_more_60_min,More than 60 minutes of commuting each day,42370,0.1645564704
+3524,commute_45_59_min,Between 45 and 59 minutes of commuting each day,31705,0.1231357775
+3524,commute_30_44_min,Between 30 and 44 minutes of commuting each day,54680,0.212366009
+3524,commute_15_29_min,Between 15 and 29 minutes of commuting each day,71150,0.2763321423
+3524,commute_less_15_min,Less than 15 minutes of commuting each day,57575,0.2236096007
+3525,commute_more_60_min,More than 60 minutes of commuting each day,28215,0.1164465539
+3525,commute_45_59_min,Between 45 and 59 minutes of commuting each day,21280,0.0878250103
+3525,commute_30_44_min,Between 30 and 44 minutes of commuting each day,47840,0.1974411886
+3525,commute_15_29_min,Between 15 and 29 minutes of commuting each day,92600,0.3821708626
+3525,commute_less_15_min,Less than 15 minutes of commuting each day,52365,0.2161163846
+3526,commute_more_60_min,More than 60 minutes of commuting each day,12630,0.0650075919
+3526,commute_45_59_min,Between 45 and 59 minutes of commuting each day,9975,0.0513421005
+3526,commute_30_44_min,Between 30 and 44 minutes of commuting each day,28735,0.147901279
+3526,commute_15_29_min,Between 15 and 29 minutes of commuting each day,72950,0.3754793216
+3526,commute_less_15_min,Less than 15 minutes of commuting each day,69995,0.3602697069
+3528,commute_more_60_min,More than 60 minutes of commuting each day,5020,0.1064348564
+3528,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4640,0.0983780346
+3528,commute_30_44_min,Between 30 and 44 minutes of commuting each day,9055,0.1919855825
+3528,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13660,0.2896215414
+3528,commute_less_15_min,Less than 15 minutes of commuting each day,14790,0.3135799852
+3529,commute_more_60_min,More than 60 minutes of commuting each day,5290,0.0856264163
+3529,commute_45_59_min,Between 45 and 59 minutes of commuting each day,5345,0.0865166721
+3529,commute_30_44_min,Between 30 and 44 minutes of commuting each day,9940,0.160893493
+3529,commute_15_29_min,Between 15 and 29 minutes of commuting each day,18680,0.3023632243
+3529,commute_less_15_min,Less than 15 minutes of commuting each day,22525,0.3646001942
+3530,commute_more_60_min,More than 60 minutes of commuting each day,17190,0.066673131
+3530,commute_45_59_min,Between 45 and 59 minutes of commuting each day,13295,0.0515659847
+3530,commute_30_44_min,Between 30 and 44 minutes of commuting each day,40520,0.1571608649
+3530,commute_15_29_min,Between 15 and 29 minutes of commuting each day,109720,0.4255599728
+3530,commute_less_15_min,Less than 15 minutes of commuting each day,77100,0.2990400465
+3531,commute_more_60_min,More than 60 minutes of commuting each day,1545,0.0429405225
+3531,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2175,0.0604502501
+3531,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4310,0.1197887715
+3531,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9280,0.2579210673
+3531,commute_less_15_min,Less than 15 minutes of commuting each day,18670,0.5188993885
+3532,commute_more_60_min,More than 60 minutes of commuting each day,2510,0.0483995372
+3532,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3830,0.0738526803
+3532,commute_30_44_min,Between 30 and 44 minutes of commuting each day,8865,0.170940995
+3532,commute_15_29_min,Between 15 and 29 minutes of commuting each day,15085,0.2908792904
+3532,commute_less_15_min,Less than 15 minutes of commuting each day,21570,0.4159274971
+3534,commute_more_60_min,More than 60 minutes of commuting each day,1940,0.0504485763
+3534,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2945,0.0765830191
+3534,commute_30_44_min,Between 30 and 44 minutes of commuting each day,8015,0.2084254323
+3534,commute_15_29_min,Between 15 and 29 minutes of commuting each day,11365,0.2955402418
+3534,commute_less_15_min,Less than 15 minutes of commuting each day,14190,0.3690027305
+3536,commute_more_60_min,More than 60 minutes of commuting each day,2090,0.0490725522
+3536,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2015,0.0473115755
+3536,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5925,0.1391171637
+3536,commute_15_29_min,Between 15 and 29 minutes of commuting each day,12200,0.2864522188
+3536,commute_less_15_min,Less than 15 minutes of commuting each day,20360,0.4780464898
+3537,commute_more_60_min,More than 60 minutes of commuting each day,3285,0.0197814109
+3537,commute_45_59_min,Between 45 and 59 minutes of commuting each day,6605,0.0397735826
+3537,commute_30_44_min,Between 30 and 44 minutes of commuting each day,24580,0.1480143317
+3537,commute_15_29_min,Between 15 and 29 minutes of commuting each day,74160,0.4465721254
+3537,commute_less_15_min,Less than 15 minutes of commuting each day,57435,0.3458585494
+3538,commute_more_60_min,More than 60 minutes of commuting each day,1875,0.0358989087
+3538,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1675,0.0320696917
+3538,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5915,0.1132490906
+3538,commute_15_29_min,Between 15 and 29 minutes of commuting each day,18710,0.3582232433
+3538,commute_less_15_min,Less than 15 minutes of commuting each day,24055,0.4605590657
+3539,commute_more_60_min,More than 60 minutes of commuting each day,10380,0.050541692
+3539,commute_45_59_min,Between 45 and 59 minutes of commuting each day,9895,0.0481801582
+3539,commute_30_44_min,Between 30 and 44 minutes of commuting each day,34830,0.1695922094
+3539,commute_15_29_min,Between 15 and 29 minutes of commuting each day,89385,0.435228241
+3539,commute_less_15_min,Less than 15 minutes of commuting each day,60885,0.2964576993
+3540,commute_more_60_min,More than 60 minutes of commuting each day,1720,0.0699898271
+3540,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1535,0.0624618515
+3540,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3380,0.1375381485
+3540,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7215,0.2935910478
+3540,commute_less_15_min,Less than 15 minutes of commuting each day,10725,0.4364191251
+3541,commute_more_60_min,More than 60 minutes of commuting each day,1440,0.0524017467
+3541,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1725,0.0627729258
+3541,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5095,0.1854075691
+3541,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8525,0.3102256186
+3541,commute_less_15_min,Less than 15 minutes of commuting each day,10695,0.3891921397
+3542,commute_more_60_min,More than 60 minutes of commuting each day,3790,0.0976426639
+3542,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2260,0.058224913
+3542,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5890,0.1517454592
+3542,commute_15_29_min,Between 15 and 29 minutes of commuting each day,11980,0.3086435656
+3542,commute_less_15_min,Less than 15 minutes of commuting each day,14895,0.3837433982
+3543,commute_more_60_min,More than 60 minutes of commuting each day,35240,0.159713567
+3543,commute_45_59_min,Between 45 and 59 minutes of commuting each day,20725,0.0939291622
+3543,commute_30_44_min,Between 30 and 44 minutes of commuting each day,34255,0.1552493825
+3543,commute_15_29_min,Between 15 and 29 minutes of commuting each day,64300,0.2914183417
+3543,commute_less_15_min,Less than 15 minutes of commuting each day,66125,0.2996895466
+3544,commute_more_60_min,More than 60 minutes of commuting each day,1790,0.0702649657
+3544,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1455,0.0571148184
+3544,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4410,0.173110893
+3544,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8315,0.3263984298
+3544,commute_less_15_min,Less than 15 minutes of commuting each day,9505,0.373110893
+3546,commute_more_60_min,More than 60 minutes of commuting each day,585,0.0921985816
+3546,commute_45_59_min,Between 45 and 59 minutes of commuting each day,290,0.0457052797
+3546,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1005,0.158392435
+3546,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2130,0.3356973995
+3546,commute_less_15_min,Less than 15 minutes of commuting each day,2335,0.3680063042
+3547,commute_more_60_min,More than 60 minutes of commuting each day,3450,0.0792465832
+3547,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3060,0.0702882738
+3547,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6870,0.1578040657
+3547,commute_15_29_min,Between 15 and 29 minutes of commuting each day,12775,0.2934420581
+3547,commute_less_15_min,Less than 15 minutes of commuting each day,17380,0.3992190192
+3548,commute_more_60_min,More than 60 minutes of commuting each day,1630,0.0479976443
+3548,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1235,0.0363663133
+3548,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3875,0.1141048292
+3548,commute_15_29_min,Between 15 and 29 minutes of commuting each day,11125,0.3275912839
+3548,commute_less_15_min,Less than 15 minutes of commuting each day,16095,0.4739399293
+3549,commute_more_60_min,More than 60 minutes of commuting each day,1300,0.0785735872
+3549,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1095,0.0661831369
+3549,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2780,0.1680265941
+3549,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5595,0.338168631
+3549,commute_less_15_min,Less than 15 minutes of commuting each day,5775,0.3490480508
+3551,commute_more_60_min,More than 60 minutes of commuting each day,195,0.0453488372
+3551,commute_45_59_min,Between 45 and 59 minutes of commuting each day,245,0.0569767442
+3551,commute_30_44_min,Between 30 and 44 minutes of commuting each day,645,0.15
+3551,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1005,0.2337209302
+3551,commute_less_15_min,Less than 15 minutes of commuting each day,2210,0.5139534884
+3552,commute_more_60_min,More than 60 minutes of commuting each day,1070,0.125808348
+3552,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1080,0.126984127
+3552,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1160,0.1363903586
+3552,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1710,0.2010582011
+3552,commute_less_15_min,Less than 15 minutes of commuting each day,3485,0.4097589653
+3553,commute_more_60_min,More than 60 minutes of commuting each day,2350,0.0319880215
+3553,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3560,0.0484584496
+3553,commute_30_44_min,Between 30 and 44 minutes of commuting each day,12050,0.1640236847
+3553,commute_15_29_min,Between 15 and 29 minutes of commuting each day,30770,0.4188389029
+3553,commute_less_15_min,Less than 15 minutes of commuting each day,24735,0.3366909413
+3554,commute_more_60_min,More than 60 minutes of commuting each day,945,0.0724693252
+3554,commute_45_59_min,Between 45 and 59 minutes of commuting each day,765,0.0586656442
+3554,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1455,0.1115797546
+3554,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3395,0.2603527607
+3554,commute_less_15_min,Less than 15 minutes of commuting each day,6480,0.4969325153
+3556,commute_more_60_min,More than 60 minutes of commuting each day,2075,0.0594215349
+3556,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1045,0.0299255441
+3556,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2730,0.0781786942
+3556,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8550,0.2448453608
+3556,commute_less_15_min,Less than 15 minutes of commuting each day,20520,0.587628866
+3557,commute_more_60_min,More than 60 minutes of commuting each day,1625,0.0363412725
+3557,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1360,0.0304148496
+3557,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3400,0.076037124
+3557,commute_15_29_min,Between 15 and 29 minutes of commuting each day,13400,0.299675724
+3557,commute_less_15_min,Less than 15 minutes of commuting each day,24930,0.5575310299
+3558,commute_more_60_min,More than 60 minutes of commuting each day,2300,0.0357976654
+3558,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1475,0.0229571984
+3558,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6210,0.0966536965
+3558,commute_15_29_min,Between 15 and 29 minutes of commuting each day,24655,0.3837354086
+3558,commute_less_15_min,Less than 15 minutes of commuting each day,29610,0.4608560311
+3559,commute_more_60_min,More than 60 minutes of commuting each day,570,0.0696821516
+3559,commute_45_59_min,Between 45 and 59 minutes of commuting each day,330,0.0403422983
+3559,commute_30_44_min,Between 30 and 44 minutes of commuting each day,835,0.1020782396
+3559,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1660,0.2029339853
+3559,commute_less_15_min,Less than 15 minutes of commuting each day,4785,0.5849633252
+3560,commute_more_60_min,More than 60 minutes of commuting each day,925,0.0357972136
+3560,commute_45_59_min,Between 45 and 59 minutes of commuting each day,380,0.0147058824
+3560,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1255,0.0485681115
+3560,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5805,0.2246517028
+3560,commute_less_15_min,Less than 15 minutes of commuting each day,17475,0.6762770898
+4601,commute_more_60_min,More than 60 minutes of commuting each day,1000,0.1511715797
+4601,commute_45_59_min,Between 45 and 59 minutes of commuting each day,595,0.0899470899
+4601,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1085,0.164021164
+4601,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1735,0.2622826909
+4601,commute_less_15_min,Less than 15 minutes of commuting each day,2200,0.3325774754
+4602,commute_more_60_min,More than 60 minutes of commuting each day,3120,0.0914553715
+4602,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3665,0.1074307489
+4602,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6635,0.1944892276
+4602,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8985,0.2633738825
+4602,commute_less_15_min,Less than 15 minutes of commuting each day,11710,0.3432507695
+4603,commute_more_60_min,More than 60 minutes of commuting each day,870,0.038174638
+4603,commute_45_59_min,Between 45 and 59 minutes of commuting each day,660,0.0289600702
+4603,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1525,0.0669153137
+4603,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5750,0.2523036419
+4603,commute_less_15_min,Less than 15 minutes of commuting each day,13985,0.6136463361
+4604,commute_more_60_min,More than 60 minutes of commuting each day,165,0.0503816794
+4604,commute_45_59_min,Between 45 and 59 minutes of commuting each day,135,0.041221374
+4604,commute_30_44_min,Between 30 and 44 minutes of commuting each day,430,0.1312977099
+4604,commute_15_29_min,Between 15 and 29 minutes of commuting each day,915,0.279389313
+4604,commute_less_15_min,Less than 15 minutes of commuting each day,1630,0.4977099237
+4605,commute_more_60_min,More than 60 minutes of commuting each day,245,0.0502564103
+4605,commute_45_59_min,Between 45 and 59 minutes of commuting each day,250,0.0512820513
+4605,commute_30_44_min,Between 30 and 44 minutes of commuting each day,480,0.0984615385
+4605,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1150,0.2358974359
+4605,commute_less_15_min,Less than 15 minutes of commuting each day,2750,0.5641025641
+4606,commute_more_60_min,More than 60 minutes of commuting each day,190,0.0476190476
+4606,commute_45_59_min,Between 45 and 59 minutes of commuting each day,180,0.045112782
+4606,commute_30_44_min,Between 30 and 44 minutes of commuting each day,475,0.119047619
+4606,commute_15_29_min,Between 15 and 29 minutes of commuting each day,870,0.2180451128
+4606,commute_less_15_min,Less than 15 minutes of commuting each day,2275,0.5701754386
+4607,commute_more_60_min,More than 60 minutes of commuting each day,870,0.0267034991
+4607,commute_45_59_min,Between 45 and 59 minutes of commuting each day,835,0.0256292204
+4607,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3150,0.0966850829
+4607,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9085,0.2788520565
+4607,commute_less_15_min,Less than 15 minutes of commuting each day,18640,0.5721301412
+4608,commute_more_60_min,More than 60 minutes of commuting each day,250,0.0625
+4608,commute_45_59_min,Between 45 and 59 minutes of commuting each day,250,0.0625
+4608,commute_30_44_min,Between 30 and 44 minutes of commuting each day,675,0.16875
+4608,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1120,0.28
+4608,commute_less_15_min,Less than 15 minutes of commuting each day,1705,0.42625
+4609,commute_more_60_min,More than 60 minutes of commuting each day,630,0.0663507109
+4609,commute_45_59_min,Between 45 and 59 minutes of commuting each day,315,0.0331753555
+4609,commute_30_44_min,Between 30 and 44 minutes of commuting each day,640,0.0674038968
+4609,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2470,0.2601369142
+4609,commute_less_15_min,Less than 15 minutes of commuting each day,5440,0.5729331227
+4610,commute_more_60_min,More than 60 minutes of commuting each day,260,0.051030422
+4610,commute_45_59_min,Between 45 and 59 minutes of commuting each day,735,0.1442590775
+4610,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1630,0.3199214917
+4610,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1595,0.3130520118
+4610,commute_less_15_min,Less than 15 minutes of commuting each day,875,0.1717369971
+4611,commute_30_44_min,Between 30 and 44 minutes of commuting each day,81270,0.2363839967
+4611,commute_15_29_min,Between 15 and 29 minutes of commuting each day,149890,0.4359738805
+4611,commute_less_15_min,Less than 15 minutes of commuting each day,77860,0.2264655837
+4611,commute_more_60_min,More than 60 minutes of commuting each day,13735,0.0399499716
+4611,commute_45_59_min,Between 45 and 59 minutes of commuting each day,21050,0.0612265674
+4612,commute_more_60_min,More than 60 minutes of commuting each day,1105,0.0976579761
+4612,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2260,0.1997348652
+4612,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3375,0.298276624
+4612,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2635,0.2328767123
+4612,commute_less_15_min,Less than 15 minutes of commuting each day,1940,0.1714538224
+4613,commute_more_60_min,More than 60 minutes of commuting each day,1295,0.0555674748
+4613,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2635,0.1130658657
+4613,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6175,0.2649645999
+4613,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7690,0.329972109
+4613,commute_less_15_min,Less than 15 minutes of commuting each day,5510,0.2364299507
+4614,commute_more_60_min,More than 60 minutes of commuting each day,665,0.0768341999
+4614,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1320,0.1525129983
+4614,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2520,0.2911611785
+4614,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2110,0.2437897169
+4614,commute_less_15_min,Less than 15 minutes of commuting each day,2040,0.2357019064
+4615,commute_more_60_min,More than 60 minutes of commuting each day,465,0.0544815466
+4615,commute_45_59_min,Between 45 and 59 minutes of commuting each day,485,0.0568248389
+4615,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1170,0.1370826011
+4615,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2080,0.2437024019
+4615,commute_less_15_min,Less than 15 minutes of commuting each day,4335,0.5079086116
+4616,commute_more_60_min,More than 60 minutes of commuting each day,265,0.0769230769
+4616,commute_45_59_min,Between 45 and 59 minutes of commuting each day,150,0.0435413643
+4616,commute_30_44_min,Between 30 and 44 minutes of commuting each day,415,0.1204644412
+4616,commute_15_29_min,Between 15 and 29 minutes of commuting each day,935,0.2714078374
+4616,commute_less_15_min,Less than 15 minutes of commuting each day,1680,0.4876632801
+4617,commute_more_60_min,More than 60 minutes of commuting each day,285,0.0363752393
+4617,commute_45_59_min,Between 45 and 59 minutes of commuting each day,325,0.0414805361
+4617,commute_30_44_min,Between 30 and 44 minutes of commuting each day,770,0.0982769623
+4617,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1655,0.2112316528
+4617,commute_less_15_min,Less than 15 minutes of commuting each day,4800,0.6126356094
+4618,commute_more_60_min,More than 60 minutes of commuting each day,1135,0.1391784181
+4618,commute_45_59_min,Between 45 and 59 minutes of commuting each day,455,0.0557939914
+4618,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1000,0.122624157
+4618,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2015,0.2470876763
+4618,commute_less_15_min,Less than 15 minutes of commuting each day,3550,0.4353157572
+4619,commute_more_60_min,More than 60 minutes of commuting each day,140,0.0424886191
+4619,commute_45_59_min,Between 45 and 59 minutes of commuting each day,65,0.0197268589
+4619,commute_30_44_min,Between 30 and 44 minutes of commuting each day,265,0.0804248862
+4619,commute_15_29_min,Between 15 and 29 minutes of commuting each day,640,0.1942336874
+4619,commute_less_15_min,Less than 15 minutes of commuting each day,2185,0.6631259484
+4620,commute_more_60_min,More than 60 minutes of commuting each day,165,0.0441176471
+4620,commute_45_59_min,Between 45 and 59 minutes of commuting each day,90,0.0240641711
+4620,commute_30_44_min,Between 30 and 44 minutes of commuting each day,370,0.0989304813
+4620,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1000,0.2673796791
+4620,commute_less_15_min,Less than 15 minutes of commuting each day,2115,0.5655080214
+4621,commute_more_60_min,More than 60 minutes of commuting each day,255,0.0295480881
+4621,commute_45_59_min,Between 45 and 59 minutes of commuting each day,110,0.0127462341
+4621,commute_30_44_min,Between 30 and 44 minutes of commuting each day,415,0.0480880649
+4621,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1770,0.2050984936
+4621,commute_less_15_min,Less than 15 minutes of commuting each day,6080,0.7045191194
+4622,commute_more_60_min,More than 60 minutes of commuting each day,320,0.0247965905
+4622,commute_45_59_min,Between 45 and 59 minutes of commuting each day,140,0.0108485083
+4622,commute_30_44_min,Between 30 and 44 minutes of commuting each day,490,0.0379697792
+4622,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2140,0.1658271988
+4622,commute_less_15_min,Less than 15 minutes of commuting each day,9815,0.7605579233
+4623,commute_more_60_min,More than 60 minutes of commuting each day,45,0.0176470588
+4623,commute_45_59_min,Between 45 and 59 minutes of commuting each day,45,0.0176470588
+4623,commute_30_44_min,Between 30 and 44 minutes of commuting each day,120,0.0470588235
+4623,commute_15_29_min,Between 15 and 29 minutes of commuting each day,330,0.1294117647
+4623,commute_less_15_min,Less than 15 minutes of commuting each day,2010,0.7882352941
+4701,commute_more_60_min,More than 60 minutes of commuting each day,695,0.0490126939
+4701,commute_45_59_min,Between 45 and 59 minutes of commuting each day,520,0.0366713681
+4701,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1345,0.0948519041
+4701,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3195,0.2253173484
+4701,commute_less_15_min,Less than 15 minutes of commuting each day,8425,0.5941466855
+4702,commute_more_60_min,More than 60 minutes of commuting each day,745,0.0789194915
+4702,commute_45_59_min,Between 45 and 59 minutes of commuting each day,470,0.0497881356
+4702,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1105,0.1170550847
+4702,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1690,0.1790254237
+4702,commute_less_15_min,Less than 15 minutes of commuting each day,5430,0.5752118644
+4703,commute_more_60_min,More than 60 minutes of commuting each day,235,0.0550996483
+4703,commute_45_59_min,Between 45 and 59 minutes of commuting each day,205,0.0480656506
+4703,commute_30_44_min,Between 30 and 44 minutes of commuting each day,495,0.1160609613
+4703,commute_15_29_min,Between 15 and 29 minutes of commuting each day,930,0.2180539273
+4703,commute_less_15_min,Less than 15 minutes of commuting each day,2400,0.5627198124
+4704,commute_more_60_min,More than 60 minutes of commuting each day,150,0.0408719346
+4704,commute_45_59_min,Between 45 and 59 minutes of commuting each day,160,0.0435967302
+4704,commute_30_44_min,Between 30 and 44 minutes of commuting each day,355,0.0967302452
+4704,commute_15_29_min,Between 15 and 29 minutes of commuting each day,745,0.2029972752
+4704,commute_less_15_min,Less than 15 minutes of commuting each day,2260,0.6158038147
+4705,commute_more_60_min,More than 60 minutes of commuting each day,680,0.0524489009
+4705,commute_45_59_min,Between 45 and 59 minutes of commuting each day,715,0.0551484767
+4705,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1950,0.1504049364
+4705,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3425,0.2641727728
+4705,commute_less_15_min,Less than 15 minutes of commuting each day,6195,0.4778249132
+4706,commute_more_60_min,More than 60 minutes of commuting each day,4025,0.0309817958
+4706,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4650,0.0357926336
+4706,commute_30_44_min,Between 30 and 44 minutes of commuting each day,14025,0.1079552015
+4706,commute_15_29_min,Between 15 and 29 minutes of commuting each day,61610,0.4742331524
+4706,commute_less_15_min,Less than 15 minutes of commuting each day,45605,0.3510372166
+4707,commute_more_60_min,More than 60 minutes of commuting each day,1050,0.0520317146
+4707,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1050,0.0520317146
+4707,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1455,0.0721010902
+4707,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5120,0.253716551
+4707,commute_less_15_min,Less than 15 minutes of commuting each day,11505,0.5701189296
+4708,commute_more_60_min,More than 60 minutes of commuting each day,475,0.0356339085
+4708,commute_45_59_min,Between 45 and 59 minutes of commuting each day,475,0.0356339085
+4708,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1140,0.0855213803
+4708,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2335,0.1751687922
+4708,commute_less_15_min,Less than 15 minutes of commuting each day,8905,0.6680420105
+4709,commute_more_60_min,More than 60 minutes of commuting each day,855,0.0599159075
+4709,commute_45_59_min,Between 45 and 59 minutes of commuting each day,475,0.0332866153
+4709,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1360,0.0953048353
+4709,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2800,0.1962158374
+4709,commute_less_15_min,Less than 15 minutes of commuting each day,8780,0.6152768045
+4710,commute_more_60_min,More than 60 minutes of commuting each day,415,0.0745732255
+4710,commute_45_59_min,Between 45 and 59 minutes of commuting each day,235,0.042228212
+4710,commute_30_44_min,Between 30 and 44 minutes of commuting each day,690,0.1239892183
+4710,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1180,0.2120395328
+4710,commute_less_15_min,Less than 15 minutes of commuting each day,3045,0.5471698113
+4711,commute_more_60_min,More than 60 minutes of commuting each day,4985,0.0335837235
+4711,commute_45_59_min,Between 45 and 59 minutes of commuting each day,4155,0.0279920504
+4711,commute_30_44_min,Between 30 and 44 minutes of commuting each day,16895,0.1138208644
+4711,commute_15_29_min,Between 15 and 29 minutes of commuting each day,71970,0.4848586924
+4711,commute_less_15_min,Less than 15 minutes of commuting each day,50430,0.3397446694
+4712,commute_more_60_min,More than 60 minutes of commuting each day,680,0.0717299578
+4712,commute_45_59_min,Between 45 and 59 minutes of commuting each day,640,0.0675105485
+4712,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1650,0.1740506329
+4712,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2235,0.2357594937
+4712,commute_less_15_min,Less than 15 minutes of commuting each day,4275,0.4509493671
+4713,commute_more_60_min,More than 60 minutes of commuting each day,435,0.0482529118
+4713,commute_45_59_min,Between 45 and 59 minutes of commuting each day,420,0.0465890183
+4713,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1065,0.1181364393
+4713,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1800,0.1996672213
+4713,commute_less_15_min,Less than 15 minutes of commuting each day,5295,0.5873544093
+4714,commute_more_60_min,More than 60 minutes of commuting each day,625,0.0467115097
+4714,commute_45_59_min,Between 45 and 59 minutes of commuting each day,470,0.0351270553
+4714,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1545,0.115470852
+4714,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2780,0.2077727952
+4714,commute_less_15_min,Less than 15 minutes of commuting each day,7960,0.5949177877
+4715,commute_more_60_min,More than 60 minutes of commuting each day,2380,0.0688757054
+4715,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1550,0.0448560266
+4715,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4330,0.1253074808
+4715,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8300,0.2401967877
+4715,commute_less_15_min,Less than 15 minutes of commuting each day,17995,0.5207639994
+4716,commute_more_60_min,More than 60 minutes of commuting each day,965,0.0708777084
+4716,commute_45_59_min,Between 45 and 59 minutes of commuting each day,655,0.0481087036
+4716,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1375,0.1009915534
+4716,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2675,0.1964744767
+4716,commute_less_15_min,Less than 15 minutes of commuting each day,7945,0.5835475578
+4717,commute_more_60_min,More than 60 minutes of commuting each day,1105,0.0597781985
+4717,commute_45_59_min,Between 45 and 59 minutes of commuting each day,660,0.0357046254
+4717,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2200,0.1190154179
+4717,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5230,0.2829321071
+4717,commute_less_15_min,Less than 15 minutes of commuting each day,9290,0.5025696511
+4718,commute_more_60_min,More than 60 minutes of commuting each day,725,0.0791916985
+4718,commute_45_59_min,Between 45 and 59 minutes of commuting each day,135,0.0147460404
+4718,commute_30_44_min,Between 30 and 44 minutes of commuting each day,375,0.0409612234
+4718,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1140,0.1245221191
+4718,commute_less_15_min,Less than 15 minutes of commuting each day,6780,0.7405789186
+4801,commute_more_60_min,More than 60 minutes of commuting each day,1785,0.0504807692
+4801,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1055,0.0298359729
+4801,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2600,0.0735294118
+4801,commute_15_29_min,Between 15 and 29 minutes of commuting each day,11965,0.3383766968
+4801,commute_less_15_min,Less than 15 minutes of commuting each day,17955,0.5077771493
+4802,commute_more_60_min,More than 60 minutes of commuting each day,2595,0.0345700393
+4802,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1965,0.026177313
+4802,commute_30_44_min,Between 30 and 44 minutes of commuting each day,6520,0.0868580564
+4802,commute_15_29_min,Between 15 and 29 minutes of commuting each day,26550,0.3536934657
+4802,commute_less_15_min,Less than 15 minutes of commuting each day,37435,0.4987011257
+4803,commute_more_60_min,More than 60 minutes of commuting each day,1045,0.0814497272
+4803,commute_45_59_min,Between 45 and 59 minutes of commuting each day,690,0.0537802027
+4803,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1935,0.1508183944
+4803,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3080,0.2400623539
+4803,commute_less_15_min,Less than 15 minutes of commuting each day,6080,0.4738893219
+4804,commute_more_60_min,More than 60 minutes of commuting each day,260,0.0735502122
+4804,commute_45_59_min,Between 45 and 59 minutes of commuting each day,165,0.0466760962
+4804,commute_30_44_min,Between 30 and 44 minutes of commuting each day,425,0.1202263083
+4804,commute_15_29_min,Between 15 and 29 minutes of commuting each day,800,0.2263083451
+4804,commute_less_15_min,Less than 15 minutes of commuting each day,1885,0.5332390382
+4805,commute_more_60_min,More than 60 minutes of commuting each day,2225,0.1038748833
+4805,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2395,0.1118113912
+4805,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3075,0.143557423
+4805,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4335,0.2023809524
+4805,commute_less_15_min,Less than 15 minutes of commuting each day,9390,0.4383753501
+4806,commute_more_60_min,More than 60 minutes of commuting each day,46650,0.0638852941
+4806,commute_45_59_min,Between 45 and 59 minutes of commuting each day,65965,0.0903364078
+4806,commute_30_44_min,Between 30 and 44 minutes of commuting each day,193110,0.2644563587
+4806,commute_15_29_min,Between 15 and 29 minutes of commuting each day,288215,0.3946988216
+4806,commute_less_15_min,Less than 15 minutes of commuting each day,136275,0.1866231178
+4807,commute_more_60_min,More than 60 minutes of commuting each day,995,0.0577481138
+4807,commute_45_59_min,Between 45 and 59 minutes of commuting each day,795,0.0461404527
+4807,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1815,0.1053395241
+4807,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4090,0.2373766686
+4807,commute_less_15_min,Less than 15 minutes of commuting each day,9535,0.5533952409
+4808,commute_more_60_min,More than 60 minutes of commuting each day,5340,0.056308325
+4808,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3460,0.0364844203
+4808,commute_30_44_min,Between 30 and 44 minutes of commuting each day,13380,0.1410871514
+4808,commute_15_29_min,Between 15 and 29 minutes of commuting each day,36580,0.3857225708
+4808,commute_less_15_min,Less than 15 minutes of commuting each day,36075,0.3803975326
+4809,commute_more_60_min,More than 60 minutes of commuting each day,780,0.0957642726
+4809,commute_45_59_min,Between 45 and 59 minutes of commuting each day,545,0.0669122161
+4809,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1210,0.1485573972
+4809,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2225,0.2731737262
+4809,commute_less_15_min,Less than 15 minutes of commuting each day,3385,0.415592388
+4810,commute_more_60_min,More than 60 minutes of commuting each day,3625,0.0870139222
+4810,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2745,0.0658905425
+4810,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5115,0.1227796447
+4810,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9475,0.2274363898
+4810,commute_less_15_min,Less than 15 minutes of commuting each day,20700,0.4968795007
+4811,commute_more_60_min,More than 60 minutes of commuting each day,41520,0.0618022685
+4811,commute_45_59_min,Between 45 and 59 minutes of commuting each day,55545,0.082678396
+4811,commute_30_44_min,Between 30 and 44 minutes of commuting each day,166180,0.2473579233
+4811,commute_15_29_min,Between 15 and 29 minutes of commuting each day,261850,0.3897621387
+4811,commute_less_15_min,Less than 15 minutes of commuting each day,146725,0.2183992736
+4812,commute_more_60_min,More than 60 minutes of commuting each day,3030,0.1038204557
+4812,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1775,0.0608189138
+4812,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3800,0.1302038719
+4812,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7450,0.2552681172
+4812,commute_less_15_min,Less than 15 minutes of commuting each day,13130,0.4498886414
+4813,commute_more_60_min,More than 60 minutes of commuting each day,4045,0.1385036809
+4813,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2460,0.084232152
+4813,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4345,0.1487758945
+4813,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6630,0.2270159219
+4813,commute_less_15_min,Less than 15 minutes of commuting each day,11725,0.4014723506
+4814,commute_more_60_min,More than 60 minutes of commuting each day,1720,0.1236520489
+4814,commute_45_59_min,Between 45 and 59 minutes of commuting each day,635,0.0456506111
+4814,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1130,0.0812365205
+4814,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2750,0.1976994968
+4814,commute_less_15_min,Less than 15 minutes of commuting each day,7675,0.5517613228
+4815,commute_more_60_min,More than 60 minutes of commuting each day,1175,0.0670279521
+4815,commute_45_59_min,Between 45 and 59 minutes of commuting each day,570,0.0325156874
+4815,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1335,0.0761551626
+4815,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4080,0.2327438677
+4815,commute_less_15_min,Less than 15 minutes of commuting each day,10370,0.5915573303
+4816,commute_more_60_min,More than 60 minutes of commuting each day,7940,0.1962432032
+4816,commute_45_59_min,Between 45 and 59 minutes of commuting each day,5000,0.1235788433
+4816,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7575,0.1872219476
+4816,commute_15_29_min,Between 15 and 29 minutes of commuting each day,9450,0.2335640138
+4816,commute_less_15_min,Less than 15 minutes of commuting each day,10495,0.2593919921
+4817,commute_more_60_min,More than 60 minutes of commuting each day,1720,0.0800372266
+4817,commute_45_59_min,Between 45 and 59 minutes of commuting each day,800,0.037226617
+4817,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2060,0.0958585389
+4817,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5225,0.2431363425
+4817,commute_less_15_min,Less than 15 minutes of commuting each day,11685,0.543741275
+4818,commute_more_60_min,More than 60 minutes of commuting each day,575,0.0952775476
+4818,commute_45_59_min,Between 45 and 59 minutes of commuting each day,275,0.0455675228
+4818,commute_30_44_min,Between 30 and 44 minutes of commuting each day,580,0.0961060481
+4818,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1295,0.2145816073
+4818,commute_less_15_min,Less than 15 minutes of commuting each day,3310,0.5484672742
+4819,commute_more_60_min,More than 60 minutes of commuting each day,3655,0.0636039328
+4819,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1785,0.0310623858
+4819,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5885,0.1024101627
+4819,commute_15_29_min,Between 15 and 29 minutes of commuting each day,20885,0.3634386148
+4819,commute_less_15_min,Less than 15 minutes of commuting each day,25255,0.4394849039
+5901,commute_more_60_min,More than 60 minutes of commuting each day,1990,0.0719320441
+5901,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1125,0.0406651003
+5901,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3335,0.1205494307
+5901,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5945,0.2148924634
+5901,commute_less_15_min,Less than 15 minutes of commuting each day,15270,0.5519609615
+5903,commute_more_60_min,More than 60 minutes of commuting each day,1310,0.0565386275
+5903,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1180,0.050927924
+5903,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3305,0.1426413466
+5903,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6505,0.2807509711
+5903,commute_less_15_min,Less than 15 minutes of commuting each day,10870,0.4691411308
+5905,commute_more_60_min,More than 60 minutes of commuting each day,520,0.0428865979
+5905,commute_45_59_min,Between 45 and 59 minutes of commuting each day,315,0.0259793814
+5905,commute_30_44_min,Between 30 and 44 minutes of commuting each day,970,0.08
+5905,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4005,0.3303092784
+5905,commute_less_15_min,Less than 15 minutes of commuting each day,6315,0.5208247423
+5907,commute_more_60_min,More than 60 minutes of commuting each day,1415,0.0454837673
+5907,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1205,0.0387335262
+5907,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2820,0.0906460945
+5907,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8785,0.2823850852
+5907,commute_less_15_min,Less than 15 minutes of commuting each day,16885,0.5427515268
+5909,commute_more_60_min,More than 60 minutes of commuting each day,14605,0.1146704354
+5909,commute_45_59_min,Between 45 and 59 minutes of commuting each day,9605,0.0754131826
+5909,commute_30_44_min,Between 30 and 44 minutes of commuting each day,21115,0.1657833785
+5909,commute_15_29_min,Between 15 and 29 minutes of commuting each day,38335,0.300985357
+5909,commute_less_15_min,Less than 15 minutes of commuting each day,43705,0.3431476465
+5915,commute_more_60_min,More than 60 minutes of commuting each day,130400,0.1124904029
+5915,commute_45_59_min,Between 45 and 59 minutes of commuting each day,139550,0.1203837096
+5915,commute_30_44_min,Between 30 and 44 minutes of commuting each day,306130,0.2640850234
+5915,commute_15_29_min,Between 15 and 29 minutes of commuting each day,375370,0.323815357
+5915,commute_less_15_min,Less than 15 minutes of commuting each day,207760,0.179225507
+5917,commute_more_60_min,More than 60 minutes of commuting each day,7905,0.0448663375
+5917,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10720,0.0608434077
+5917,commute_30_44_min,Between 30 and 44 minutes of commuting each day,31910,0.1811113003
+5917,commute_15_29_min,Between 15 and 29 minutes of commuting each day,72040,0.4088767807
+5917,commute_less_15_min,Less than 15 minutes of commuting each day,53615,0.3043021738
+5919,commute_more_60_min,More than 60 minutes of commuting each day,3650,0.110757093
+5919,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2550,0.0773782431
+5919,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5035,0.1527840995
+5919,commute_15_29_min,Between 15 and 29 minutes of commuting each day,10315,0.3130025793
+5919,commute_less_15_min,Less than 15 minutes of commuting each day,11405,0.3460779851
+5921,commute_more_60_min,More than 60 minutes of commuting each day,3045,0.0504347826
+5921,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2225,0.0368530021
+5921,commute_30_44_min,Between 30 and 44 minutes of commuting each day,7585,0.12563147
+5921,commute_15_29_min,Between 15 and 29 minutes of commuting each day,22120,0.3663768116
+5921,commute_less_15_min,Less than 15 minutes of commuting each day,25400,0.4207039337
+5923,commute_more_60_min,More than 60 minutes of commuting each day,965,0.0797520661
+5923,commute_45_59_min,Between 45 and 59 minutes of commuting each day,350,0.0289256198
+5923,commute_30_44_min,Between 30 and 44 minutes of commuting each day,840,0.0694214876
+5923,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2470,0.2041322314
+5923,commute_less_15_min,Less than 15 minutes of commuting each day,7475,0.617768595
+5924,commute_more_60_min,More than 60 minutes of commuting each day,1575,0.0864434687
+5924,commute_45_59_min,Between 45 and 59 minutes of commuting each day,625,0.0343029638
+5924,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1465,0.0804061471
+5924,commute_15_29_min,Between 15 and 29 minutes of commuting each day,5245,0.287870472
+5924,commute_less_15_min,Less than 15 minutes of commuting each day,9310,0.5109769484
+5926,commute_more_60_min,More than 60 minutes of commuting each day,1525,0.0579077274
+5926,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1030,0.0391114486
+5926,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2360,0.0896145814
+5926,commute_15_29_min,Between 15 and 29 minutes of commuting each day,8905,0.3381431555
+5926,commute_less_15_min,Less than 15 minutes of commuting each day,12515,0.4752230871
+5927,commute_more_60_min,More than 60 minutes of commuting each day,385,0.050892267
+5927,commute_45_59_min,Between 45 and 59 minutes of commuting each day,150,0.019828156
+5927,commute_30_44_min,Between 30 and 44 minutes of commuting each day,660,0.0872438863
+5927,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1900,0.2511566424
+5927,commute_less_15_min,Less than 15 minutes of commuting each day,4470,0.5908790482
+5929,commute_more_60_min,More than 60 minutes of commuting each day,915,0.0818059902
+5929,commute_45_59_min,Between 45 and 59 minutes of commuting each day,430,0.0384443451
+5929,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1575,0.1408135896
+5929,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3620,0.3236477425
+5929,commute_less_15_min,Less than 15 minutes of commuting each day,4645,0.4152883326
+5931,commute_more_60_min,More than 60 minutes of commuting each day,2245,0.1053001876
+5931,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1970,0.0924015009
+5931,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2300,0.107879925
+5931,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4760,0.2232645403
+5931,commute_less_15_min,Less than 15 minutes of commuting each day,10045,0.4711538462
+5933,commute_more_60_min,More than 60 minutes of commuting each day,3480,0.0602545234
+5933,commute_45_59_min,Between 45 and 59 minutes of commuting each day,2265,0.0392173838
+5933,commute_30_44_min,Between 30 and 44 minutes of commuting each day,5420,0.0938446888
+5933,commute_15_29_min,Between 15 and 29 minutes of commuting each day,21890,0.3790148039
+5933,commute_less_15_min,Less than 15 minutes of commuting each day,24700,0.4276686001
+5935,commute_more_60_min,More than 60 minutes of commuting each day,3070,0.0352225792
+5935,commute_45_59_min,Between 45 and 59 minutes of commuting each day,3085,0.0353946765
+5935,commute_30_44_min,Between 30 and 44 minutes of commuting each day,12025,0.1379646627
+5935,commute_15_29_min,Between 15 and 29 minutes of commuting each day,37220,0.427030748
+5935,commute_less_15_min,Less than 15 minutes of commuting each day,31760,0.3643873336
+5937,commute_more_60_min,More than 60 minutes of commuting each day,1650,0.0491144516
+5937,commute_45_59_min,Between 45 and 59 minutes of commuting each day,1520,0.0452448281
+5937,commute_30_44_min,Between 30 and 44 minutes of commuting each day,4215,0.125465099
+5937,commute_15_29_min,Between 15 and 29 minutes of commuting each day,11110,0.3307039738
+5937,commute_less_15_min,Less than 15 minutes of commuting each day,15100,0.4494716476
+5939,commute_more_60_min,More than 60 minutes of commuting each day,1530,0.0736639384
+5939,commute_45_59_min,Between 45 and 59 minutes of commuting each day,720,0.0346653828
+5939,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2035,0.0979778527
+5939,commute_15_29_min,Between 15 and 29 minutes of commuting each day,4910,0.2363986519
+5939,commute_less_15_min,Less than 15 minutes of commuting each day,11575,0.5572941743
+5941,commute_more_60_min,More than 60 minutes of commuting each day,1990,0.0792986651
+5941,commute_45_59_min,Between 45 and 59 minutes of commuting each day,955,0.0380553895
+5941,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1980,0.0789001793
+5941,commute_15_29_min,Between 15 and 29 minutes of commuting each day,7840,0.3124128312
+5941,commute_less_15_min,Less than 15 minutes of commuting each day,12330,0.4913329348
+5943,commute_more_60_min,More than 60 minutes of commuting each day,420,0.089456869
+5943,commute_45_59_min,Between 45 and 59 minutes of commuting each day,145,0.0308839191
+5943,commute_30_44_min,Between 30 and 44 minutes of commuting each day,395,0.0841320554
+5943,commute_15_29_min,Between 15 and 29 minutes of commuting each day,745,0.1586794462
+5943,commute_less_15_min,Less than 15 minutes of commuting each day,2990,0.6368477103
+5945,commute_more_60_min,More than 60 minutes of commuting each day,25,0.0214592275
+5945,commute_45_59_min,Between 45 and 59 minutes of commuting each day,15,0.0128755365
+5945,commute_30_44_min,Between 30 and 44 minutes of commuting each day,60,0.0515021459
+5945,commute_15_29_min,Between 15 and 29 minutes of commuting each day,285,0.2446351931
+5945,commute_less_15_min,Less than 15 minutes of commuting each day,780,0.669527897
+5947,commute_more_60_min,More than 60 minutes of commuting each day,275,0.0341191067
+5947,commute_45_59_min,Between 45 and 59 minutes of commuting each day,85,0.0105459057
+5947,commute_30_44_min,Between 30 and 44 minutes of commuting each day,375,0.0465260546
+5947,commute_15_29_min,Between 15 and 29 minutes of commuting each day,1630,0.2022332506
+5947,commute_less_15_min,Less than 15 minutes of commuting each day,5695,0.7065756824
+5949,commute_more_60_min,More than 60 minutes of commuting each day,885,0.0556954059
+5949,commute_45_59_min,Between 45 and 59 minutes of commuting each day,570,0.0358716174
+5949,commute_30_44_min,Between 30 and 44 minutes of commuting each day,740,0.0465701699
+5949,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3425,0.2155443675
+5949,commute_less_15_min,Less than 15 minutes of commuting each day,10270,0.6463184393
+5951,commute_more_60_min,More than 60 minutes of commuting each day,1160,0.0736040609
+5951,commute_45_59_min,Between 45 and 59 minutes of commuting each day,595,0.0377538071
+5951,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1165,0.0739213198
+5951,commute_15_29_min,Between 15 and 29 minutes of commuting each day,3945,0.2503172589
+5951,commute_less_15_min,Less than 15 minutes of commuting each day,8895,0.5644035533
+5953,commute_more_60_min,More than 60 minutes of commuting each day,1800,0.0395865406
+5953,commute_45_59_min,Between 45 and 59 minutes of commuting each day,890,0.0195733451
+5953,commute_30_44_min,Between 30 and 44 minutes of commuting each day,3670,0.0807125577
+5953,commute_15_29_min,Between 15 and 29 minutes of commuting each day,18950,0.4167583022
+5953,commute_less_15_min,Less than 15 minutes of commuting each day,20160,0.4433692545
+5955,commute_more_60_min,More than 60 minutes of commuting each day,2335,0.0831552707
+5955,commute_45_59_min,Between 45 and 59 minutes of commuting each day,775,0.0275997151
+5955,commute_30_44_min,Between 30 and 44 minutes of commuting each day,2065,0.073539886
+5955,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6715,0.2391381766
+5955,commute_less_15_min,Less than 15 minutes of commuting each day,16190,0.5765669516
+5957,commute_more_60_min,More than 60 minutes of commuting each day,45,0.1525423729
+5957,commute_45_59_min,Between 45 and 59 minutes of commuting each day,15,0.0508474576
+5957,commute_30_44_min,Between 30 and 44 minutes of commuting each day,20,0.0677966102
+5957,commute_15_29_min,Between 15 and 29 minutes of commuting each day,65,0.2203389831
+5957,commute_less_15_min,Less than 15 minutes of commuting each day,150,0.5084745763
+5959,commute_more_60_min,More than 60 minutes of commuting each day,190,0.0767676768
+5959,commute_45_59_min,Between 45 and 59 minutes of commuting each day,20,0.0080808081
+5959,commute_30_44_min,Between 30 and 44 minutes of commuting each day,110,0.0444444444
+5959,commute_15_29_min,Between 15 and 29 minutes of commuting each day,475,0.1919191919
+5959,commute_less_15_min,Less than 15 minutes of commuting each day,1680,0.6787878788
+6001,commute_more_60_min,More than 60 minutes of commuting each day,555,0.030261723
+6001,commute_45_59_min,Between 45 and 59 minutes of commuting each day,460,0.0250817884
+6001,commute_30_44_min,Between 30 and 44 minutes of commuting each day,1395,0.0760632497
+6001,commute_15_29_min,Between 15 and 29 minutes of commuting each day,6195,0.3377862595
+6001,commute_less_15_min,Less than 15 minutes of commuting each day,9735,0.5308069793
+6101,commute_more_60_min,More than 60 minutes of commuting each day,105,0.0402298851
+6101,commute_45_59_min,Between 45 and 59 minutes of commuting each day,0,0
+6101,commute_30_44_min,Between 30 and 44 minutes of commuting each day,30,0.0114942529
+6101,commute_15_29_min,Between 15 and 29 minutes of commuting each day,215,0.0823754789
+6101,commute_less_15_min,Less than 15 minutes of commuting each day,2260,0.8659003831
+6102,commute_more_60_min,More than 60 minutes of commuting each day,40,0.0372093023
+6102,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10,0.0093023256
+6102,commute_30_44_min,Between 30 and 44 minutes of commuting each day,0,0
+6102,commute_15_29_min,Between 15 and 29 minutes of commuting each day,90,0.0837209302
+6102,commute_less_15_min,Less than 15 minutes of commuting each day,935,0.8697674419
+6103,commute_more_60_min,More than 60 minutes of commuting each day,50,0.0653594771
+6103,commute_45_59_min,Between 45 and 59 minutes of commuting each day,0,0
+6103,commute_30_44_min,Between 30 and 44 minutes of commuting each day,10,0.0130718954
+6103,commute_15_29_min,Between 15 and 29 minutes of commuting each day,115,0.1503267974
+6103,commute_less_15_min,Less than 15 minutes of commuting each day,590,0.7712418301
+6104,commute_more_60_min,More than 60 minutes of commuting each day,40,0.0327868852
+6104,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10,0.0081967213
+6104,commute_30_44_min,Between 30 and 44 minutes of commuting each day,35,0.0286885246
+6104,commute_15_29_min,Between 15 and 29 minutes of commuting each day,115,0.0942622951
+6104,commute_less_15_min,Less than 15 minutes of commuting each day,1020,0.8360655738
+6105,commute_more_60_min,More than 60 minutes of commuting each day,170,0.0526315789
+6105,commute_45_59_min,Between 45 and 59 minutes of commuting each day,10,0.0030959752
+6105,commute_30_44_min,Between 30 and 44 minutes of commuting each day,75,0.0232198142
+6105,commute_15_29_min,Between 15 and 29 minutes of commuting each day,345,0.1068111455
+6105,commute_less_15_min,Less than 15 minutes of commuting each day,2630,0.8142414861
+6106,commute_more_60_min,More than 60 minutes of commuting each day,380,0.0323679727
+6106,commute_45_59_min,Between 45 and 59 minutes of commuting each day,155,0.0132027257
+6106,commute_30_44_min,Between 30 and 44 minutes of commuting each day,495,0.0421635434
+6106,commute_15_29_min,Between 15 and 29 minutes of commuting each day,2930,0.2495741056
+6106,commute_less_15_min,Less than 15 minutes of commuting each day,7780,0.6626916525
+6204,commute_more_60_min,More than 60 minutes of commuting each day,120,0.0169731259
+6204,commute_45_59_min,Between 45 and 59 minutes of commuting each day,25,0.0035360679
+6204,commute_30_44_min,Between 30 and 44 minutes of commuting each day,105,0.0148514851
+6204,commute_15_29_min,Between 15 and 29 minutes of commuting each day,860,0.1216407355
+6204,commute_less_15_min,Less than 15 minutes of commuting each day,5960,0.8429985856
+6205,commute_more_60_min,More than 60 minutes of commuting each day,175,0.0518518519
+6205,commute_45_59_min,Between 45 and 59 minutes of commuting each day,25,0.0074074074
+6205,commute_30_44_min,Between 30 and 44 minutes of commuting each day,30,0.0088888889
+6205,commute_15_29_min,Between 15 and 29 minutes of commuting each day,325,0.0962962963
+6205,commute_less_15_min,Less than 15 minutes of commuting each day,2820,0.8355555556
+6208,commute_more_60_min,More than 60 minutes of commuting each day,20,0.0101010101
+6208,commute_45_59_min,Between 45 and 59 minutes of commuting each day,0,0
+6208,commute_30_44_min,Between 30 and 44 minutes of commuting each day,15,0.0075757576
+6208,commute_15_29_min,Between 15 and 29 minutes of commuting each day,140,0.0707070707
+6208,commute_less_15_min,Less than 15 minutes of commuting each day,1805,0.9116161616

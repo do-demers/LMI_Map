@@ -1,0 +1,2023 @@
+cd,class_cat,count_tot,FOL_eng,FOL_fra,in,out
+0,All,2216473,1508994,707479,163948,2052525
+0,Administrative Support,502564,345238,157326,19259,483305
+0,Administrative and Foreign Service,1133721,735892,397829,95236,1038485
+0,Executive Group,28968,18627,10341,5334,23634
+0,Operational,75541,53835,21706,3272,72269
+0,Other,49960,40438,9522,4421,45539
+0,Scientific and Professional,323635,236486,87149,29650,293985
+0,Technical,102084,78478,23606,6776,95308
+1001,Administrative Support,6569,6496,73,421,6148
+1001,Administrative and Foreign Service,13974,13730,244,633,13341
+1001,Executive Group,118,117,1,0,118
+1001,Operational,1225,1215,10,20,1205
+1001,Other,1652,1633,19,0,1652
+1001,Scientific and Professional,3193,3097,96,318,2875
+1001,Technical,3868,3827,41,203,3665
+1002,Administrative Support,126,124,2,0,126
+1002,Administrative and Foreign Service,139,136,3,0,139
+1002,Operational,94,94,0,0,94
+1002,Other,5,5,0,0,5
+1002,Scientific and Professional,18,18,0,0,18
+1002,Technical,50,50,0,0,50
+1003,Administrative Support,77,74,3,10,67
+1003,Administrative and Foreign Service,123,112,11,17,106
+1003,Executive Group,2,2,0,0,2
+1003,Operational,148,147,1,0,148
+1003,Other,7,7,0,0,7
+1003,Scientific and Professional,25,25,0,0,25
+1003,Technical,81,78,3,1,80
+1004,Administrative Support,118,118,0,0,118
+1004,Administrative and Foreign Service,186,186,0,0,186
+1004,Operational,55,55,0,0,55
+1004,Other,1,1,0,0,1
+1004,Scientific and Professional,49,49,0,0,49
+1004,Technical,83,83,0,0,83
+1005,Administrative Support,1014,989,25,2,1012
+1005,Administrative and Foreign Service,1099,1074,25,4,1095
+1005,Executive Group,6,6,0,0,6
+1005,Operational,78,78,0,1,77
+1005,Other,99,99,0,0,99
+1005,Scientific and Professional,198,194,4,5,193
+1005,Technical,263,262,1,0,263
+1006,Administrative Support,442,438,4,64,378
+1006,Administrative and Foreign Service,619,613,6,5,614
+1006,Executive Group,1,1,0,0,1
+1006,Operational,115,112,3,0,115
+1006,Other,67,67,0,0,67
+1006,Scientific and Professional,122,115,7,11,111
+1006,Technical,196,194,2,0,196
+1007,Administrative Support,229,223,6,1,228
+1007,Administrative and Foreign Service,228,223,5,0,228
+1007,Executive Group,3,3,0,0,3
+1007,Operational,186,182,4,3,183
+1007,Other,180,180,0,0,180
+1007,Scientific and Professional,53,53,0,0,53
+1007,Technical,182,178,4,0,182
+1008,Administrative Support,155,155,0,0,155
+1008,Administrative and Foreign Service,122,120,2,1,121
+1008,Executive Group,2,2,0,0,2
+1008,Operational,82,82,0,0,82
+1008,Other,22,22,0,0,22
+1008,Scientific and Professional,23,23,0,0,23
+1008,Technical,118,115,3,1,117
+1009,Administrative Support,80,80,0,0,80
+1009,Administrative and Foreign Service,136,128,8,0,136
+1009,Operational,227,222,5,0,227
+1009,Other,63,63,0,0,63
+1009,Scientific and Professional,15,15,0,0,15
+1009,Technical,164,149,15,0,164
+1010,Administrative Support,238,238,0,40,198
+1010,Administrative and Foreign Service,496,467,29,17,479
+1010,Executive Group,3,3,0,0,3
+1010,Operational,89,89,0,0,89
+1010,Other,27,26,1,0,27
+1010,Scientific and Professional,88,85,3,0,88
+1010,Technical,175,170,5,2,173
+1011,Administrative Support,1,1,0,0,1
+1011,Administrative and Foreign Service,13,12,1,0,13
+1011,Scientific and Professional,15,15,0,0,15
+1011,Technical,4,4,0,0,4
+1100,Administrative Support,9,9,0,0,9
+1100,Administrative and Foreign Service,24,14,10,0,24
+1100,Operational,1,1,0,0,1
+1100,Scientific and Professional,8,0,8,0,8
+1100,Technical,4,1,3,0,4
+1101,Administrative Support,711,701,10,0,711
+1101,Administrative and Foreign Service,871,858,13,5,866
+1101,Executive Group,3,3,0,0,3
+1101,Operational,100,100,0,0,100
+1101,Other,61,61,0,0,61
+1101,Scientific and Professional,123,119,4,0,123
+1101,Technical,87,86,1,0,87
+1102,Administrative Support,6285,5991,294,326,5959
+1102,Administrative and Foreign Service,9825,9090,735,1150,8675
+1102,Executive Group,109,91,18,11,98
+1102,Operational,404,396,8,3,401
+1102,Other,494,453,41,0,494
+1102,Scientific and Professional,1044,978,66,66,978
+1102,Technical,813,782,31,21,792
+1103,Administrative Support,1266,1172,94,104,1162
+1103,Administrative and Foreign Service,1612,1442,170,3,1609
+1103,Executive Group,7,6,1,0,7
+1103,Operational,116,114,2,0,116
+1103,Other,125,116,9,0,125
+1103,Scientific and Professional,134,127,7,0,134
+1103,Technical,187,173,14,0,187
+1200,Administrative Support,3,3,0,0,3
+1200,Administrative and Foreign Service,25,21,4,0,25
+1200,Operational,1,0,1,0,1
+1200,Other,6,6,0,0,6
+1200,Scientific and Professional,29,17,12,0,29
+1200,Technical,10,4,6,0,10
+1201,Administrative Support,44,44,0,0,44
+1201,Administrative and Foreign Service,68,68,0,0,68
+1201,Executive Group,2,2,0,0,2
+1201,Operational,21,21,0,0,21
+1201,Other,2,2,0,0,2
+1201,Scientific and Professional,11,11,0,0,11
+1201,Technical,45,44,1,0,45
+1202,Administrative Support,106,97,9,1,105
+1202,Administrative and Foreign Service,168,147,21,1,167
+1202,Executive Group,2,1,1,0,2
+1202,Operational,28,28,0,0,28
+1202,Other,18,18,0,0,18
+1202,Scientific and Professional,35,35,0,0,35
+1202,Technical,75,67,8,0,75
+1203,Administrative Support,90,68,22,0,90
+1203,Administrative and Foreign Service,137,105,32,0,137
+1203,Executive Group,3,2,1,0,3
+1203,Operational,44,40,4,0,44
+1203,Other,14,8,6,0,14
+1203,Scientific and Professional,20,18,2,0,20
+1203,Technical,41,36,5,0,41
+1204,Administrative Support,54,53,1,0,54
+1204,Administrative and Foreign Service,84,81,3,0,84
+1204,Operational,59,59,0,0,59
+1204,Other,19,19,0,0,19
+1204,Scientific and Professional,33,32,1,0,33
+1204,Technical,15,15,0,0,15
+1205,Administrative Support,288,260,28,9,279
+1205,Administrative and Foreign Service,233,195,38,0,233
+1205,Executive Group,1,1,0,0,1
+1205,Operational,278,273,5,0,278
+1205,Other,26,19,7,0,26
+1205,Scientific and Professional,28,28,0,0,28
+1205,Technical,59,59,0,0,59
+1206,Administrative Support,167,155,12,17,150
+1206,Administrative and Foreign Service,468,449,19,0,468
+1206,Executive Group,6,6,0,0,6
+1206,Operational,134,132,2,0,134
+1206,Other,30,30,0,0,30
+1206,Scientific and Professional,90,90,0,0,90
+1206,Technical,171,168,3,0,171
+1207,Administrative Support,933,843,90,0,933
+1207,Administrative and Foreign Service,1189,1098,91,6,1183
+1207,Executive Group,8,7,1,0,8
+1207,Operational,551,524,27,22,529
+1207,Other,184,176,8,0,184
+1207,Scientific and Professional,350,347,3,0,350
+1207,Technical,269,256,13,2,267
+1208,Administrative Support,504,493,11,0,504
+1208,Administrative and Foreign Service,959,921,38,1,958
+1208,Executive Group,10,10,0,0,10
+1208,Operational,237,219,18,0,237
+1208,Other,66,66,0,0,66
+1208,Scientific and Professional,180,180,0,0,180
+1208,Technical,284,276,8,0,284
+1209,Administrative Support,10435,9908,527,521,9914
+1209,Administrative and Foreign Service,20180,18946,1234,1248,18932
+1209,Executive Group,370,302,68,25,345
+1209,Operational,2571,2446,125,531,2040
+1209,Other,928,848,80,0,928
+1209,Scientific and Professional,5776,5490,286,563,5213
+1209,Technical,3663,3465,198,378,3285
+1210,Administrative Support,353,352,1,0,353
+1210,Administrative and Foreign Service,892,850,42,17,875
+1210,Executive Group,12,11,1,0,12
+1210,Operational,321,317,4,4,317
+1210,Other,24,24,0,0,24
+1210,Scientific and Professional,214,188,26,0,214
+1210,Technical,326,314,12,43,283
+1211,Administrative Support,374,373,1,79,295
+1211,Administrative and Foreign Service,794,774,20,128,666
+1211,Executive Group,8,8,0,0,8
+1211,Operational,465,460,5,2,463
+1211,Other,24,24,0,0,24
+1211,Scientific and Professional,85,84,1,0,85
+1211,Technical,98,95,3,0,98
+1212,Administrative Support,165,165,0,0,165
+1212,Administrative and Foreign Service,468,462,6,0,468
+1212,Executive Group,4,4,0,0,4
+1212,Operational,122,121,1,0,122
+1212,Other,36,36,0,0,36
+1212,Scientific and Professional,77,77,0,0,77
+1212,Technical,141,141,0,0,141
+1213,Administrative Support,61,60,1,18,43
+1213,Administrative and Foreign Service,46,46,0,0,46
+1213,Operational,31,31,0,0,31
+1213,Other,4,4,0,0,4
+1213,Scientific and Professional,9,9,0,0,9
+1213,Technical,18,18,0,0,18
+1214,Administrative Support,146,144,2,22,124
+1214,Administrative and Foreign Service,248,247,1,1,247
+1214,Executive Group,9,9,0,0,9
+1214,Operational,48,46,2,0,48
+1214,Other,28,18,10,0,28
+1214,Scientific and Professional,119,119,0,0,119
+1214,Technical,59,58,1,0,59
+1215,Administrative Support,108,100,8,0,108
+1215,Administrative and Foreign Service,126,105,21,2,124
+1215,Executive Group,2,1,1,0,2
+1215,Operational,88,70,18,0,88
+1215,Other,25,16,9,0,25
+1215,Scientific and Professional,50,37,13,0,50
+1215,Technical,105,86,19,0,105
+1216,Administrative Support,77,71,6,0,77
+1216,Administrative and Foreign Service,59,55,4,0,59
+1216,Operational,37,33,4,0,37
+1216,Other,7,7,0,0,7
+1216,Scientific and Professional,12,11,1,0,12
+1216,Technical,39,32,7,0,39
+1217,Administrative Support,7238,7142,96,0,7238
+1217,Administrative and Foreign Service,4742,4595,147,108,4634
+1217,Executive Group,49,35,14,0,49
+1217,Operational,351,340,11,21,330
+1217,Other,643,629,14,0,643
+1217,Scientific and Professional,299,278,21,35,264
+1217,Technical,495,431,64,56,439
+1218,Administrative Support,54,52,2,0,54
+1218,Administrative and Foreign Service,67,64,3,0,67
+1218,Operational,17,17,0,0,17
+1218,Other,37,37,0,0,37
+1218,Scientific and Professional,23,21,2,0,23
+1218,Technical,50,46,4,0,50
+1300,Administrative Support,19,12,7,0,19
+1300,Administrative and Foreign Service,52,38,14,0,52
+1300,Operational,1,1,0,0,1
+1300,Other,4,4,0,0,4
+1300,Scientific and Professional,7,7,0,0,7
+1300,Technical,5,5,0,0,5
+1301,Administrative Support,1086,1006,80,0,1086
+1301,Administrative and Foreign Service,1556,1436,120,13,1543
+1301,Executive Group,14,13,1,0,14
+1301,Operational,131,129,2,0,131
+1301,Other,93,88,5,0,93
+1301,Scientific and Professional,252,218,34,0,252
+1301,Technical,203,163,40,0,203
+1302,Administrative Support,328,323,5,2,326
+1302,Administrative and Foreign Service,499,473,26,16,483
+1302,Executive Group,2,2,0,0,2
+1302,Operational,52,52,0,0,52
+1302,Other,19,19,0,0,19
+1302,Scientific and Professional,150,141,9,0,150
+1302,Technical,163,155,8,0,163
+1303,Administrative Support,2338,1981,357,77,2261
+1303,Administrative and Foreign Service,2306,1754,552,86,2220
+1303,Executive Group,5,2,3,0,5
+1303,Operational,842,798,44,61,781
+1303,Other,42,39,3,0,42
+1303,Scientific and Professional,146,109,37,0,146
+1303,Technical,182,137,45,0,182
+1304,Administrative Support,190,185,5,4,186
+1304,Administrative and Foreign Service,155,149,6,3,152
+1304,Operational,155,152,3,0,155
+1304,Other,8,8,0,0,8
+1304,Scientific and Professional,15,14,1,0,15
+1304,Technical,17,14,3,0,17
+1305,Administrative Support,1004,904,100,0,1004
+1305,Administrative and Foreign Service,1503,1381,122,9,1494
+1305,Executive Group,12,10,2,0,12
+1305,Operational,192,191,1,0,192
+1305,Other,248,240,8,0,248
+1305,Scientific and Professional,205,192,13,0,205
+1305,Technical,234,224,10,0,234
+1306,Administrative Support,1159,957,202,0,1159
+1306,Administrative and Foreign Service,1677,1372,305,0,1677
+1306,Executive Group,22,14,8,0,22
+1306,Operational,174,151,23,0,174
+1306,Other,195,186,9,0,195
+1306,Scientific and Professional,184,165,19,0,184
+1306,Technical,214,190,24,0,214
+1307,Administrative Support,10236,3564,6672,704,9532
+1307,Administrative and Foreign Service,15447,5073,10374,2313,13134
+1307,Executive Group,241,74,167,37,204
+1307,Operational,830,437,393,2,828
+1307,Other,567,213,354,0,567
+1307,Scientific and Professional,1372,427,945,115,1257
+1307,Technical,1025,420,605,40,985
+1308,Administrative Support,1845,484,1361,0,1845
+1308,Administrative and Foreign Service,2188,588,1600,0,2188
+1308,Executive Group,26,0,26,0,26
+1308,Operational,212,65,147,0,212
+1308,Other,104,39,65,0,104
+1308,Scientific and Professional,140,32,108,0,140
+1308,Technical,194,48,146,0,194
+1309,Administrative Support,5549,4650,899,633,4916
+1309,Administrative and Foreign Service,8159,6391,1768,980,7179
+1309,Executive Group,29,16,13,2,27
+1309,Operational,408,350,58,3,405
+1309,Other,93,44,49,0,93
+1309,Scientific and Professional,234,160,74,0,234
+1309,Technical,218,179,39,1,217
+1310,Administrative Support,3772,3166,606,37,3735
+1310,Administrative and Foreign Service,5004,3799,1205,232,4772
+1310,Executive Group,73,45,28,10,63
+1310,Operational,692,659,33,42,650
+1310,Other,247,224,23,0,247
+1310,Scientific and Professional,1230,1054,176,52,1178
+1310,Technical,824,733,91,41,783
+1311,Administrative Support,307,291,16,0,307
+1311,Administrative and Foreign Service,456,412,44,3,453
+1311,Executive Group,4,4,0,0,4
+1311,Operational,36,36,0,0,36
+1311,Other,14,13,1,0,14
+1311,Scientific and Professional,48,45,3,0,48
+1311,Technical,59,54,5,0,59
+1312,Administrative Support,206,61,145,1,205
+1312,Administrative and Foreign Service,282,88,194,0,282
+1312,Executive Group,3,0,3,0,3
+1312,Operational,49,34,15,0,49
+1312,Scientific and Professional,45,10,35,0,45
+1312,Technical,42,18,24,0,42
+1313,Administrative Support,267,25,242,3,264
+1313,Administrative and Foreign Service,394,29,365,22,372
+1313,Executive Group,4,0,4,0,4
+1313,Operational,25,3,22,0,25
+1313,Other,44,0,44,0,44
+1313,Scientific and Professional,85,25,60,2,83
+1313,Technical,46,5,41,0,46
+1314,Administrative Support,217,78,139,0,217
+1314,Administrative and Foreign Service,370,126,244,14,356
+1314,Operational,46,15,31,0,46
+1314,Other,9,3,6,0,9
+1314,Scientific and Professional,38,13,25,0,38
+1314,Technical,51,18,33,0,51
+1315,Administrative Support,1919,652,1267,6,1913
+1315,Administrative and Foreign Service,4337,1522,2815,227,4110
+1315,Executive Group,30,8,22,0,30
+1315,Operational,158,47,111,0,158
+1315,Other,46,15,31,0,46
+1315,Scientific and Professional,156,46,110,7,149
+1315,Technical,198,42,156,1,197
+2400,Administrative Support,89,14,75,0,89
+2400,Administrative and Foreign Service,566,89,477,0,566
+2400,Executive Group,102,24,78,0,102
+2400,Operational,10,4,6,0,10
+2400,Other,35,16,19,0,35
+2400,Scientific and Professional,213,51,162,0,213
+2400,Technical,51,23,28,0,51
+2401,Administrative Support,136,41,95,0,136
+2401,Administrative and Foreign Service,262,56,206,26,236
+2401,Executive Group,4,0,4,0,4
+2401,Operational,27,0,27,0,27
+2401,Other,1,1,0,0,1
+2401,Scientific and Professional,53,2,51,0,53
+2401,Technical,104,3,101,0,104
+2402,Administrative Support,55,2,53,0,55
+2402,Administrative and Foreign Service,73,11,62,0,73
+2402,Operational,34,0,34,0,34
+2402,Other,12,0,12,0,12
+2402,Scientific and Professional,13,1,12,0,13
+2402,Technical,37,3,34,1,36
+2403,Administrative Support,102,5,97,0,102
+2403,Administrative and Foreign Service,288,16,272,4,284
+2403,Executive Group,5,0,5,0,5
+2403,Operational,86,8,78,0,86
+2403,Other,8,0,8,0,8
+2403,Scientific and Professional,52,1,51,0,52
+2403,Technical,147,2,145,0,147
+2404,Administrative Support,27,3,24,0,27
+2404,Administrative and Foreign Service,30,3,27,0,30
+2404,Operational,42,0,42,0,42
+2404,Other,1,0,1,0,1
+2404,Scientific and Professional,27,0,27,0,27
+2404,Technical,36,5,31,0,36
+2405,Administrative Support,19,7,12,0,19
+2405,Administrative and Foreign Service,64,8,56,0,64
+2405,Operational,27,2,25,0,27
+2405,Other,7,0,7,0,7
+2405,Scientific and Professional,8,0,8,0,8
+2405,Technical,28,1,27,0,28
+2406,Administrative Support,59,40,19,0,59
+2406,Administrative and Foreign Service,61,28,33,0,61
+2406,Executive Group,1,0,1,0,1
+2406,Operational,24,3,21,0,24
+2406,Scientific and Professional,15,3,12,0,15
+2406,Technical,10,1,9,0,10
+2407,Administrative Support,101,1,100,0,101
+2407,Administrative and Foreign Service,92,0,92,0,92
+2407,Executive Group,1,0,1,0,1
+2407,Operational,7,0,7,0,7
+2407,Other,2,0,2,0,2
+2407,Scientific and Professional,17,0,17,0,17
+2407,Technical,13,0,13,0,13
+2408,Administrative Support,1763,15,1748,518,1245
+2408,Administrative and Foreign Service,1318,23,1295,141,1177
+2408,Executive Group,22,8,14,4,18
+2408,Operational,30,0,30,0,30
+2408,Other,1,0,1,0,1
+2408,Scientific and Professional,41,1,40,0,41
+2408,Technical,29,1,28,0,29
+2409,Administrative Support,168,2,166,9,159
+2409,Administrative and Foreign Service,183,0,183,1,182
+2409,Executive Group,11,0,11,4,7
+2409,Operational,42,0,42,1,41
+2409,Scientific and Professional,163,8,155,10,153
+2409,Technical,98,3,95,3,95
+2410,Administrative Support,383,3,380,0,383
+2410,Administrative and Foreign Service,685,7,678,65,620
+2410,Executive Group,10,2,8,0,10
+2410,Operational,168,1,167,0,168
+2410,Other,51,0,51,0,51
+2410,Scientific and Professional,773,32,741,0,773
+2410,Technical,380,5,375,0,380
+2411,Administrative Support,6,0,6,0,6
+2411,Administrative and Foreign Service,14,0,14,0,14
+2411,Operational,29,0,29,0,29
+2411,Other,2,0,2,0,2
+2411,Scientific and Professional,5,0,5,0,5
+2411,Technical,10,0,10,0,10
+2412,Administrative Support,62,1,61,0,62
+2412,Administrative and Foreign Service,172,9,163,0,172
+2412,Executive Group,1,0,1,0,1
+2412,Operational,48,0,48,0,48
+2412,Other,19,0,19,0,19
+2412,Scientific and Professional,70,4,66,0,70
+2412,Technical,52,0,52,0,52
+2413,Administrative Support,8,0,8,0,8
+2413,Administrative and Foreign Service,32,0,32,0,32
+2413,Operational,17,0,17,0,17
+2413,Scientific and Professional,6,0,6,0,6
+2413,Technical,26,0,26,0,26
+2414,Administrative Support,14,0,14,0,14
+2414,Administrative and Foreign Service,50,0,50,0,50
+2414,Executive Group,1,0,1,0,1
+2414,Operational,22,0,22,0,22
+2414,Other,14,0,14,0,14
+2414,Scientific and Professional,40,0,40,0,40
+2414,Technical,17,0,17,0,17
+2415,Administrative Support,20,0,20,3,17
+2415,Administrative and Foreign Service,64,1,63,0,64
+2415,Executive Group,2,0,2,0,2
+2415,Operational,16,0,16,0,16
+2415,Scientific and Professional,10,0,10,0,10
+2415,Technical,19,0,19,0,19
+2416,Administrative Support,32,2,30,0,32
+2416,Administrative and Foreign Service,60,0,60,0,60
+2416,Operational,23,0,23,0,23
+2416,Other,1,0,1,0,1
+2416,Scientific and Professional,3,0,3,0,3
+2416,Technical,59,2,57,0,59
+2417,Administrative Support,13,0,13,0,13
+2417,Administrative and Foreign Service,32,0,32,0,32
+2417,Executive Group,6,0,6,0,6
+2417,Operational,2,0,2,0,2
+2417,Other,11,0,11,0,11
+2417,Scientific and Professional,4,0,4,0,4
+2417,Technical,8,0,8,0,8
+2418,Administrative Support,72,0,72,0,72
+2418,Administrative and Foreign Service,67,0,67,0,67
+2418,Executive Group,2,0,2,0,2
+2418,Operational,20,0,20,0,20
+2418,Other,8,0,8,0,8
+2418,Scientific and Professional,10,0,10,0,10
+2418,Technical,27,0,27,0,27
+2419,Administrative Support,196,1,195,0,196
+2419,Administrative and Foreign Service,240,3,237,0,240
+2419,Executive Group,4,0,4,0,4
+2419,Operational,48,1,47,0,48
+2419,Other,4,0,4,0,4
+2419,Scientific and Professional,48,0,48,0,48
+2419,Technical,42,0,42,0,42
+2420,Administrative Support,108,0,108,0,108
+2420,Administrative and Foreign Service,150,1,149,0,150
+2420,Executive Group,2,1,1,0,2
+2420,Operational,26,0,26,0,26
+2420,Other,1,0,1,0,1
+2420,Scientific and Professional,38,8,30,0,38
+2420,Technical,25,1,24,0,25
+2421,Administrative Support,462,1,461,0,462
+2421,Administrative and Foreign Service,630,17,613,1,629
+2421,Executive Group,12,0,12,0,12
+2421,Operational,78,0,78,0,78
+2421,Other,21,0,21,0,21
+2421,Scientific and Professional,111,0,111,0,111
+2421,Technical,93,1,92,0,93
+2422,Administrative Support,1354,74,1280,0,1354
+2422,Administrative and Foreign Service,1979,89,1890,22,1957
+2422,Executive Group,23,0,23,0,23
+2422,Operational,274,6,268,23,251
+2422,Other,13,1,12,0,13
+2422,Scientific and Professional,273,22,251,0,273
+2422,Technical,220,7,213,3,217
+2423,Administrative Support,13285,375,12910,66,13219
+2423,Administrative and Foreign Service,20483,709,19774,1071,19412
+2423,Executive Group,203,20,183,0,203
+2423,Operational,1689,51,1638,13,1676
+2423,Other,414,15,399,0,414
+2423,Scientific and Professional,6927,367,6560,207,6720
+2423,Technical,2861,90,2771,273,2588
+2425,Administrative Support,1730,35,1695,0,1730
+2425,Administrative and Foreign Service,2356,49,2307,0,2356
+2425,Executive Group,17,4,13,0,17
+2425,Operational,295,2,293,0,295
+2425,Other,63,1,62,0,63
+2425,Scientific and Professional,639,28,611,0,639
+2425,Technical,404,9,395,0,404
+2426,Administrative Support,198,2,196,0,198
+2426,Administrative and Foreign Service,319,1,318,0,319
+2426,Executive Group,6,0,6,0,6
+2426,Operational,49,0,49,0,49
+2426,Other,6,0,6,0,6
+2426,Scientific and Professional,31,0,31,0,31
+2426,Technical,53,1,52,0,53
+2427,Administrative Support,25,0,25,0,25
+2427,Administrative and Foreign Service,72,0,72,0,72
+2427,Operational,4,0,4,0,4
+2427,Scientific and Professional,15,0,15,0,15
+2427,Technical,2,0,2,0,2
+2428,Administrative Support,22,3,19,0,22
+2428,Administrative and Foreign Service,33,5,28,0,33
+2428,Operational,10,0,10,0,10
+2428,Scientific and Professional,5,0,5,0,5
+2428,Technical,12,1,11,0,12
+2429,Administrative Support,64,0,64,0,64
+2429,Administrative and Foreign Service,217,0,217,0,217
+2429,Executive Group,1,0,1,0,1
+2429,Operational,32,1,31,0,32
+2429,Other,9,0,9,0,9
+2429,Scientific and Professional,32,0,32,0,32
+2429,Technical,30,0,30,0,30
+2430,Administrative Support,43,0,43,0,43
+2430,Administrative and Foreign Service,73,1,72,0,73
+2430,Executive Group,2,0,2,0,2
+2430,Operational,16,0,16,0,16
+2430,Scientific and Professional,4,0,4,0,4
+2430,Technical,8,1,7,0,8
+2431,Administrative Support,74,10,64,0,74
+2431,Administrative and Foreign Service,439,27,412,1,438
+2431,Operational,33,0,33,0,33
+2431,Other,19,0,19,0,19
+2431,Scientific and Professional,36,3,33,0,36
+2431,Technical,30,1,29,0,30
+2432,Administrative Support,7,0,7,0,7
+2432,Administrative and Foreign Service,49,1,48,0,49
+2432,Operational,12,0,12,0,12
+2432,Other,8,0,8,0,8
+2432,Scientific and Professional,8,0,8,0,8
+2432,Technical,10,0,10,0,10
+2433,Administrative Support,198,2,196,0,198
+2433,Administrative and Foreign Service,293,0,293,0,293
+2433,Operational,65,0,65,0,65
+2433,Other,12,0,12,0,12
+2433,Scientific and Professional,59,0,59,0,59
+2433,Technical,65,0,65,0,65
+2434,Administrative Support,690,10,680,0,690
+2434,Administrative and Foreign Service,975,18,957,15,960
+2434,Executive Group,13,0,13,0,13
+2434,Operational,360,2,358,12,348
+2434,Other,9,0,9,0,9
+2434,Scientific and Professional,189,0,189,0,189
+2434,Technical,142,4,138,0,142
+2435,Administrative Support,45,0,45,0,45
+2435,Administrative and Foreign Service,84,1,83,0,84
+2435,Operational,12,0,12,0,12
+2435,Other,3,0,3,0,3
+2435,Scientific and Professional,6,0,6,0,6
+2435,Technical,16,0,16,0,16
+2436,Administrative Support,200,12,188,0,200
+2436,Administrative and Foreign Service,1216,26,1190,28,1188
+2436,Executive Group,7,0,7,0,7
+2436,Operational,103,5,98,0,103
+2436,Other,34,0,34,0,34
+2436,Scientific and Professional,94,2,92,0,94
+2436,Technical,82,3,79,0,82
+2437,Administrative Support,1176,29,1147,0,1176
+2437,Administrative and Foreign Service,2763,70,2693,0,2763
+2437,Executive Group,23,0,23,0,23
+2437,Operational,304,2,302,0,304
+2437,Other,56,1,55,0,56
+2437,Scientific and Professional,498,27,471,0,498
+2437,Technical,303,8,295,3,300
+2438,Administrative Support,45,0,45,0,45
+2438,Administrative and Foreign Service,104,1,103,0,104
+2438,Operational,30,0,30,0,30
+2438,Other,2,0,2,0,2
+2438,Scientific and Professional,37,0,37,0,37
+2438,Technical,17,1,16,0,17
+2439,Administrative Support,103,7,96,0,103
+2439,Administrative and Foreign Service,187,7,180,0,187
+2439,Executive Group,3,0,3,0,3
+2439,Operational,62,0,62,0,62
+2439,Other,28,0,28,0,28
+2439,Scientific and Professional,96,2,94,0,96
+2439,Technical,47,0,47,0,47
+2440,Administrative Support,27,0,27,0,27
+2440,Administrative and Foreign Service,25,1,24,0,25
+2440,Operational,4,0,4,0,4
+2440,Scientific and Professional,7,0,7,0,7
+2440,Technical,7,0,7,0,7
+2441,Administrative Support,76,6,70,0,76
+2441,Administrative and Foreign Service,126,16,110,0,126
+2441,Operational,11,1,10,0,11
+2441,Other,2,0,2,0,2
+2441,Scientific and Professional,29,3,26,0,29
+2441,Technical,32,2,30,0,32
+2442,Administrative Support,112,15,97,0,112
+2442,Administrative and Foreign Service,152,20,132,0,152
+2442,Operational,28,9,19,0,28
+2442,Scientific and Professional,47,12,35,0,47
+2442,Technical,33,2,31,0,33
+2443,Administrative Support,1686,167,1519,20,1666
+2443,Administrative and Foreign Service,3196,293,2903,18,3178
+2443,Executive Group,35,2,33,1,34
+2443,Operational,221,18,203,5,216
+2443,Other,167,32,135,0,167
+2443,Scientific and Professional,1249,131,1118,1,1248
+2443,Technical,544,45,499,6,538
+2444,Administrative Support,67,7,60,0,67
+2444,Administrative and Foreign Service,127,15,112,0,127
+2444,Operational,15,2,13,0,15
+2444,Other,4,0,4,0,4
+2444,Scientific and Professional,41,7,34,0,41
+2444,Technical,36,2,34,0,36
+2445,Administrative Support,203,23,180,0,203
+2445,Administrative and Foreign Service,382,48,334,24,358
+2445,Executive Group,6,0,6,0,6
+2445,Operational,49,5,44,0,49
+2445,Other,9,0,9,0,9
+2445,Scientific and Professional,182,15,167,0,182
+2445,Technical,75,7,68,0,75
+2446,Administrative Support,398,60,338,15,383
+2446,Administrative and Foreign Service,740,124,616,0,740
+2446,Executive Group,10,5,5,0,10
+2446,Operational,291,18,273,1,290
+2446,Other,18,12,6,0,18
+2446,Scientific and Professional,110,15,95,0,110
+2446,Technical,117,13,104,0,117
+2447,Administrative Support,277,22,255,0,277
+2447,Administrative and Foreign Service,560,30,530,32,528
+2447,Executive Group,3,0,3,0,3
+2447,Operational,225,15,210,0,225
+2447,Other,11,0,11,0,11
+2447,Scientific and Professional,95,5,90,0,95
+2447,Technical,81,3,78,0,81
+2448,Administrative Support,38,0,38,0,38
+2448,Administrative and Foreign Service,27,0,27,0,27
+2448,Operational,11,0,11,0,11
+2448,Scientific and Professional,7,0,7,0,7
+2448,Technical,19,0,19,0,19
+2449,Administrative Support,385,22,363,0,385
+2449,Administrative and Foreign Service,703,21,682,39,664
+2449,Executive Group,8,0,8,0,8
+2449,Operational,311,6,305,5,306
+2449,Other,10,0,10,0,10
+2449,Scientific and Professional,193,3,190,0,193
+2449,Technical,133,8,125,0,133
+2450,Administrative Support,40,4,36,0,40
+2450,Administrative and Foreign Service,103,5,98,0,103
+2450,Executive Group,1,0,1,0,1
+2450,Operational,48,2,46,0,48
+2450,Other,5,3,2,0,5
+2450,Scientific and Professional,28,3,25,0,28
+2450,Technical,19,0,19,0,19
+2451,Administrative Support,72,2,70,0,72
+2451,Administrative and Foreign Service,302,15,287,0,302
+2451,Operational,67,0,67,0,67
+2451,Other,4,0,4,0,4
+2451,Scientific and Professional,43,0,43,0,43
+2451,Technical,54,1,53,0,54
+2452,Administrative Support,106,2,104,0,106
+2452,Administrative and Foreign Service,180,10,170,0,180
+2452,Executive Group,2,0,2,0,2
+2452,Operational,106,0,106,0,106
+2452,Other,11,2,9,0,11
+2452,Scientific and Professional,30,0,30,0,30
+2452,Technical,28,0,28,0,28
+2453,Administrative Support,119,4,115,0,119
+2453,Administrative and Foreign Service,254,4,250,0,254
+2453,Executive Group,4,0,4,0,4
+2453,Operational,108,2,106,1,107
+2453,Other,4,0,4,0,4
+2453,Scientific and Professional,36,2,34,0,36
+2453,Technical,45,0,45,0,45
+2454,Administrative Support,332,2,330,0,332
+2454,Administrative and Foreign Service,664,31,633,15,649
+2454,Executive Group,8,0,8,0,8
+2454,Operational,126,0,126,0,126
+2454,Other,24,3,21,0,24
+2454,Scientific and Professional,268,9,259,0,268
+2454,Technical,240,10,230,7,233
+2455,Administrative Support,271,10,261,0,271
+2455,Administrative and Foreign Service,416,46,370,0,416
+2455,Executive Group,9,0,9,0,9
+2455,Operational,117,2,115,0,117
+2455,Other,6,0,6,0,6
+2455,Scientific and Professional,72,5,67,0,72
+2455,Technical,93,1,92,0,93
+2456,Administrative Support,2062,126,1936,53,2009
+2456,Administrative and Foreign Service,2686,122,2564,9,2677
+2456,Executive Group,28,1,27,1,27
+2456,Operational,638,24,614,4,634
+2456,Other,75,1,74,0,75
+2456,Scientific and Professional,485,25,460,11,474
+2456,Technical,373,7,366,7,366
+2457,Administrative Support,1134,133,1001,0,1134
+2457,Administrative and Foreign Service,2831,212,2619,0,2831
+2457,Executive Group,52,5,47,0,52
+2457,Operational,404,34,370,1,403
+2457,Other,64,1,63,0,64
+2457,Scientific and Professional,505,33,472,0,505
+2457,Technical,296,12,284,0,296
+2458,Administrative Support,7207,1317,5890,1,7206
+2458,Administrative and Foreign Service,14294,2303,11991,341,13953
+2458,Executive Group,221,47,174,0,221
+2458,Operational,897,122,775,46,851
+2458,Other,343,79,264,0,343
+2458,Scientific and Professional,3617,609,3008,145,3472
+2458,Technical,1061,214,847,4,1057
+2459,Administrative Support,562,44,518,0,562
+2459,Administrative and Foreign Service,1132,53,1079,1,1131
+2459,Executive Group,10,0,10,0,10
+2459,Operational,176,1,175,0,176
+2459,Other,37,1,36,0,37
+2459,Scientific and Professional,245,7,238,1,244
+2459,Technical,113,9,104,0,113
+2460,Administrative Support,1046,55,991,0,1046
+2460,Administrative and Foreign Service,2266,128,2138,0,2266
+2460,Executive Group,34,0,34,0,34
+2460,Operational,347,8,339,0,347
+2460,Other,44,0,44,0,44
+2460,Scientific and Professional,469,36,433,0,469
+2460,Technical,172,18,154,0,172
+2461,Administrative Support,158,6,152,0,158
+2461,Administrative and Foreign Service,344,4,340,0,344
+2461,Executive Group,2,0,2,0,2
+2461,Operational,170,4,166,4,166
+2461,Other,19,0,19,0,19
+2461,Scientific and Professional,69,0,69,0,69
+2461,Technical,32,3,29,0,32
+2462,Administrative Support,77,8,69,0,77
+2462,Administrative and Foreign Service,151,15,136,0,151
+2462,Operational,52,1,51,0,52
+2462,Other,7,0,7,0,7
+2462,Scientific and Professional,29,7,22,0,29
+2462,Technical,15,0,15,0,15
+2463,Administrative Support,150,6,144,0,150
+2463,Administrative and Foreign Service,231,10,221,0,231
+2463,Executive Group,3,0,3,0,3
+2463,Operational,184,3,181,0,184
+2463,Other,4,0,4,0,4
+2463,Scientific and Professional,44,2,42,0,44
+2463,Technical,40,3,37,0,40
+2464,Administrative Support,1539,110,1429,0,1539
+2464,Administrative and Foreign Service,3068,123,2945,0,3068
+2464,Executive Group,28,0,28,0,28
+2464,Operational,630,22,608,0,630
+2464,Other,63,1,62,0,63
+2464,Scientific and Professional,520,21,499,0,520
+2464,Technical,208,9,199,0,208
+2465,Administrative Support,6279,1302,4977,0,6279
+2465,Administrative and Foreign Service,12617,2786,9831,161,12456
+2465,Executive Group,98,21,77,0,98
+2465,Operational,1039,173,866,7,1032
+2465,Other,276,52,224,0,276
+2465,Scientific and Professional,2802,711,2091,1,2801
+2465,Technical,919,172,747,4,915
+2466,Administrative Support,33701,8617,25084,869,32832
+2466,Administrative and Foreign Service,64461,16625,47836,4540,59921
+2466,Executive Group,593,208,385,50,543
+2466,Operational,3701,766,2935,74,3627
+2466,Other,2070,691,1379,202,1868
+2466,Scientific and Professional,21694,7174,14520,555,21139
+2466,Technical,4960,1397,3563,433,4527
+2467,Administrative Support,2035,463,1572,0,2035
+2467,Administrative and Foreign Service,4148,978,3170,0,4148
+2467,Executive Group,50,7,43,0,50
+2467,Operational,414,55,359,0,414
+2467,Other,129,14,115,0,129
+2467,Scientific and Professional,733,140,593,0,733
+2467,Technical,348,65,283,0,348
+2468,Administrative Support,205,38,167,0,205
+2468,Administrative and Foreign Service,382,92,290,0,382
+2468,Operational,39,1,38,1,38
+2468,Other,2,0,2,0,2
+2468,Scientific and Professional,29,0,29,0,29
+2468,Technical,57,2,55,0,57
+2469,Administrative Support,78,66,12,0,78
+2469,Administrative and Foreign Service,272,174,98,0,272
+2469,Executive Group,2,2,0,0,2
+2469,Operational,21,14,7,0,21
+2469,Other,6,6,0,0,6
+2469,Scientific and Professional,50,20,30,0,50
+2469,Technical,33,22,11,0,33
+2470,Administrative Support,227,28,199,0,227
+2470,Administrative and Foreign Service,492,27,465,0,492
+2470,Executive Group,4,0,4,0,4
+2470,Operational,50,7,43,0,50
+2470,Other,25,1,24,0,25
+2470,Scientific and Professional,108,7,101,0,108
+2470,Technical,62,6,56,0,62
+2471,Administrative Support,1465,549,916,0,1465
+2471,Administrative and Foreign Service,3182,1097,2085,27,3155
+2471,Executive Group,73,16,57,0,73
+2471,Operational,329,76,253,25,304
+2471,Other,109,46,63,0,109
+2471,Scientific and Professional,599,243,356,0,599
+2471,Technical,366,128,238,0,366
+2472,Administrative Support,863,105,758,0,863
+2472,Administrative and Foreign Service,1582,154,1428,0,1582
+2472,Executive Group,11,1,10,0,11
+2472,Operational,181,14,167,0,181
+2472,Other,31,0,31,0,31
+2472,Scientific and Professional,296,37,259,0,296
+2472,Technical,120,15,105,0,120
+2473,Administrative Support,1156,142,1014,0,1156
+2473,Administrative and Foreign Service,2817,236,2581,0,2817
+2473,Executive Group,27,6,21,0,27
+2473,Operational,495,42,453,2,493
+2473,Other,64,2,62,0,64
+2473,Scientific and Professional,436,45,391,0,436
+2473,Technical,252,22,230,0,252
+2474,Administrative Support,311,36,275,0,311
+2474,Administrative and Foreign Service,506,53,453,0,506
+2474,Executive Group,4,3,1,0,4
+2474,Operational,153,1,152,0,153
+2474,Other,8,2,6,0,8
+2474,Scientific and Professional,47,2,45,0,47
+2474,Technical,57,2,55,0,57
+2475,Administrative Support,680,43,637,0,680
+2475,Administrative and Foreign Service,1216,84,1132,0,1216
+2475,Executive Group,15,0,15,0,15
+2475,Operational,313,8,305,0,313
+2475,Other,48,2,46,0,48
+2475,Scientific and Professional,212,11,201,0,212
+2475,Technical,115,4,111,0,115
+2476,Administrative Support,131,36,95,0,131
+2476,Administrative and Foreign Service,249,43,206,0,249
+2476,Executive Group,10,7,3,0,10
+2476,Operational,80,9,71,0,80
+2476,Other,3,2,1,0,3
+2476,Scientific and Professional,60,32,28,0,60
+2476,Technical,29,9,20,0,29
+2477,Administrative Support,136,7,129,0,136
+2477,Administrative and Foreign Service,375,36,339,0,375
+2477,Executive Group,2,0,2,0,2
+2477,Operational,73,9,64,0,73
+2477,Other,32,26,6,0,32
+2477,Scientific and Professional,92,7,85,0,92
+2477,Technical,31,3,28,0,31
+2478,Administrative Support,166,26,140,0,166
+2478,Administrative and Foreign Service,360,58,302,0,360
+2478,Executive Group,5,0,5,0,5
+2478,Operational,145,7,138,0,145
+2478,Other,6,1,5,0,6
+2478,Scientific and Professional,86,30,56,0,86
+2478,Technical,50,12,38,0,50
+2479,Administrative Support,122,2,120,0,122
+2479,Administrative and Foreign Service,285,9,276,0,285
+2479,Executive Group,1,0,1,0,1
+2479,Operational,205,0,205,0,205
+2479,Other,3,0,3,0,3
+2479,Scientific and Professional,26,0,26,0,26
+2479,Technical,24,1,23,0,24
+2480,Administrative Support,660,48,612,0,660
+2480,Administrative and Foreign Service,1390,217,1173,0,1390
+2480,Executive Group,15,1,14,0,15
+2480,Operational,30,2,28,0,30
+2480,Other,23,2,21,0,23
+2480,Scientific and Professional,186,17,169,0,186
+2480,Technical,48,3,45,0,48
+2481,Administrative Support,41157,8502,32655,2502,38655
+2481,Administrative and Foreign Service,140827,26257,114570,15267,125560
+2481,Executive Group,4060,625,3435,697,3363
+2481,Operational,1606,327,1279,18,1588
+2481,Other,2484,471,2013,2,2482
+2481,Scientific and Professional,29649,6967,22682,2567,27082
+2481,Technical,3210,790,2420,109,3101
+2482,Administrative Support,3887,841,3046,0,3887
+2482,Administrative and Foreign Service,15072,3084,11988,0,15072
+2482,Executive Group,862,301,561,0,862
+2482,Operational,195,57,138,0,195
+2482,Other,244,81,163,0,244
+2482,Scientific and Professional,2123,863,1260,0,2123
+2482,Technical,360,115,245,0,360
+2483,Administrative Support,438,184,254,0,438
+2483,Administrative and Foreign Service,1054,321,733,0,1054
+2483,Executive Group,6,1,5,0,6
+2483,Operational,31,16,15,0,31
+2483,Other,15,7,8,0,15
+2483,Scientific and Professional,125,35,90,0,125
+2483,Technical,23,5,18,0,23
+2484,Administrative Support,383,192,191,0,383
+2484,Administrative and Foreign Service,689,360,329,0,689
+2484,Executive Group,9,0,9,0,9
+2484,Operational,29,22,7,0,29
+2484,Other,6,6,0,0,6
+2484,Scientific and Professional,65,45,20,0,65
+2484,Technical,18,9,9,0,18
+2485,Administrative Support,27,2,25,0,27
+2485,Administrative and Foreign Service,66,14,52,0,66
+2485,Operational,10,2,8,0,10
+2485,Other,11,0,11,0,11
+2485,Scientific and Professional,26,4,22,0,26
+2485,Technical,8,1,7,0,8
+2486,Administrative Support,190,1,189,0,190
+2486,Administrative and Foreign Service,273,6,267,12,261
+2486,Executive Group,3,0,3,0,3
+2486,Operational,8,0,8,0,8
+2486,Other,1,0,1,0,1
+2486,Scientific and Professional,74,9,65,0,74
+2486,Technical,18,2,16,0,18
+2487,Administrative Support,15,0,15,0,15
+2487,Administrative and Foreign Service,53,13,40,0,53
+2487,Executive Group,1,0,1,0,1
+2487,Operational,4,0,4,0,4
+2487,Other,1,0,1,0,1
+2487,Scientific and Professional,36,26,10,0,36
+2487,Technical,3,0,3,0,3
+2488,Administrative Support,22,2,20,0,22
+2488,Administrative and Foreign Service,81,3,78,0,81
+2488,Operational,23,0,23,0,23
+2488,Other,2,0,2,0,2
+2488,Scientific and Professional,27,1,26,0,27
+2488,Technical,7,0,7,0,7
+2489,Administrative Support,77,0,77,0,77
+2489,Administrative and Foreign Service,231,2,229,0,231
+2489,Executive Group,1,0,1,0,1
+2489,Operational,8,0,8,0,8
+2489,Other,1,0,1,0,1
+2489,Scientific and Professional,38,1,37,0,38
+2489,Technical,29,2,27,0,29
+2490,Administrative Support,22,0,22,0,22
+2490,Administrative and Foreign Service,35,0,35,0,35
+2490,Operational,7,0,7,0,7
+2490,Other,1,0,1,0,1
+2490,Scientific and Professional,2,1,1,0,2
+2490,Technical,7,0,7,0,7
+2491,Administrative Support,60,0,60,0,60
+2491,Administrative and Foreign Service,107,0,107,0,107
+2491,Operational,37,0,37,0,37
+2491,Other,5,0,5,0,5
+2491,Scientific and Professional,22,0,22,0,22
+2491,Technical,32,0,32,0,32
+2492,Administrative Support,9,0,9,0,9
+2492,Administrative and Foreign Service,30,0,30,0,30
+2492,Operational,24,0,24,0,24
+2492,Scientific and Professional,18,0,18,0,18
+2492,Technical,40,0,40,0,40
+2493,Administrative Support,207,0,207,0,207
+2493,Administrative and Foreign Service,300,1,299,0,300
+2493,Executive Group,2,0,2,0,2
+2493,Operational,78,3,75,0,78
+2493,Other,4,0,4,0,4
+2493,Scientific and Professional,51,0,51,0,51
+2493,Technical,42,0,42,0,42
+2494,Administrative Support,2318,81,2237,0,2318
+2494,Administrative and Foreign Service,3118,95,3023,16,3102
+2494,Executive Group,9,0,9,0,9
+2494,Operational,595,17,578,83,512
+2494,Other,80,0,80,0,80
+2494,Scientific and Professional,310,31,279,0,310
+2494,Technical,283,5,278,33,250
+2495,Administrative Support,8,0,8,0,8
+2495,Administrative and Foreign Service,56,5,51,0,56
+2495,Operational,43,0,43,0,43
+2495,Other,2,0,2,0,2
+2495,Scientific and Professional,41,0,41,0,41
+2495,Technical,74,3,71,1,73
+2496,Administrative Support,99,2,97,0,99
+2496,Administrative and Foreign Service,168,7,161,0,168
+2496,Operational,77,8,69,0,77
+2496,Other,21,0,21,0,21
+2496,Scientific and Professional,96,2,94,0,96
+2496,Technical,99,1,98,27,72
+2497,Administrative Support,400,10,390,0,400
+2497,Administrative and Foreign Service,533,12,521,16,517
+2497,Executive Group,5,1,4,0,5
+2497,Operational,510,9,501,59,451
+2497,Other,4,0,4,0,4
+2497,Scientific and Professional,93,0,93,0,93
+2497,Technical,61,2,59,0,61
+2498,Administrative Support,33,5,28,0,33
+2498,Administrative and Foreign Service,69,20,49,0,69
+2498,Executive Group,1,0,1,0,1
+2498,Operational,78,14,64,0,78
+2498,Other,3,0,3,0,3
+2498,Scientific and Professional,8,2,6,0,8
+2498,Technical,42,11,31,0,42
+2499,Administrative Support,57,38,19,0,57
+2499,Administrative and Foreign Service,259,187,72,0,259
+2499,Executive Group,1,0,1,0,1
+2499,Operational,11,1,10,0,11
+2499,Other,3,1,2,0,3
+2499,Scientific and Professional,58,2,56,0,58
+2499,Technical,21,9,12,0,21
+3500,Administrative Support,268,224,44,0,268
+3500,Administrative and Foreign Service,1400,927,473,0,1400
+3500,Executive Group,138,107,31,0,138
+3500,Operational,13,10,3,0,13
+3500,Other,100,89,11,0,100
+3500,Scientific and Professional,641,443,198,0,641
+3500,Technical,72,61,11,0,72
+3501,Administrative Support,2197,1770,427,13,2184
+3501,Administrative and Foreign Service,6455,4895,1560,12,6443
+3501,Executive Group,69,49,20,0,69
+3501,Operational,204,182,22,0,204
+3501,Other,203,181,22,0,203
+3501,Scientific and Professional,818,677,141,3,815
+3501,Technical,359,290,69,3,356
+3502,Administrative Support,4421,2301,2120,0,4421
+3502,Administrative and Foreign Service,16506,6607,9899,0,16506
+3502,Executive Group,405,162,243,0,405
+3502,Operational,334,129,205,0,334
+3502,Other,333,196,137,0,333
+3502,Scientific and Professional,2280,1297,983,0,2280
+3502,Technical,594,307,287,0,594
+3506,Administrative Support,89143,72495,16648,6276,82867
+3506,Administrative and Foreign Service,301792,232328,69464,48620,253172
+3506,Executive Group,15520,11726,3794,4087,11433
+3506,Operational,3822,3074,748,449,3373
+3506,Other,9426,7719,1707,709,8717
+3506,Scientific and Professional,117081,99588,17493,21484,95597
+3506,Technical,11953,10178,1775,2079,9874
+3507,Administrative Support,1317,1204,113,0,1317
+3507,Administrative and Foreign Service,3825,3440,385,0,3825
+3507,Executive Group,107,95,12,0,107
+3507,Operational,696,677,19,27,669
+3507,Other,459,454,5,0,459
+3507,Scientific and Professional,937,901,36,0,937
+3507,Technical,524,488,36,2,522
+3509,Administrative Support,1304,1128,176,0,1304
+3509,Administrative and Foreign Service,4201,3658,543,0,4201
+3509,Executive Group,125,105,20,0,125
+3509,Operational,201,192,9,0,201
+3509,Other,336,326,10,0,336
+3509,Scientific and Professional,1064,993,71,0,1064
+3509,Technical,267,246,21,0,267
+3510,Administrative Support,3178,2884,294,1,3177
+3510,Administrative and Foreign Service,6016,5426,590,202,5814
+3510,Executive Group,84,66,18,0,84
+3510,Operational,1520,1459,61,72,1448
+3510,Other,373,361,12,0,373
+3510,Scientific and Professional,1939,1786,153,67,1872
+3510,Technical,495,446,49,15,480
+3511,Administrative Support,694,639,55,0,694
+3511,Administrative and Foreign Service,1216,1151,65,0,1216
+3511,Executive Group,12,11,1,0,12
+3511,Operational,421,413,8,0,421
+3511,Other,55,55,0,0,55
+3511,Scientific and Professional,176,168,8,0,176
+3511,Technical,108,105,3,0,108
+3512,Administrative Support,1745,1559,186,22,1723
+3512,Administrative and Foreign Service,2882,2613,269,10,2872
+3512,Executive Group,18,15,3,0,18
+3512,Operational,868,827,41,41,827
+3512,Other,291,278,13,0,291
+3512,Scientific and Professional,345,329,16,8,337
+3512,Technical,215,206,9,12,203
+3513,Administrative Support,141,137,4,0,141
+3513,Administrative and Foreign Service,304,301,3,0,304
+3513,Executive Group,14,14,0,0,14
+3513,Operational,69,69,0,0,69
+3513,Other,16,16,0,0,16
+3513,Scientific and Professional,84,84,0,0,84
+3513,Technical,30,30,0,0,30
+3514,Administrative Support,627,604,23,0,627
+3514,Administrative and Foreign Service,1000,971,29,3,997
+3514,Executive Group,1,1,0,0,1
+3514,Operational,276,271,5,6,270
+3514,Other,223,223,0,0,223
+3514,Scientific and Professional,214,208,6,0,214
+3514,Technical,107,105,2,0,107
+3515,Administrative Support,767,759,8,0,767
+3515,Administrative and Foreign Service,1247,1214,33,0,1247
+3515,Executive Group,11,10,1,0,11
+3515,Operational,287,283,4,0,287
+3515,Other,1048,1040,8,0,1048
+3515,Scientific and Professional,453,449,4,0,453
+3515,Technical,265,259,6,0,265
+3516,Administrative Support,149,141,8,0,149
+3516,Administrative and Foreign Service,300,297,3,0,300
+3516,Executive Group,2,2,0,0,2
+3516,Operational,95,95,0,0,95
+3516,Other,338,336,2,0,338
+3516,Scientific and Professional,75,75,0,0,75
+3516,Technical,77,77,0,0,77
+3518,Administrative Support,4576,4501,75,3,4573
+3518,Administrative and Foreign Service,9268,8955,313,0,9268
+3518,Executive Group,80,75,5,0,80
+3518,Operational,468,459,9,0,468
+3518,Other,951,925,26,0,951
+3518,Scientific and Professional,2176,2093,83,0,2176
+3518,Technical,869,858,11,0,869
+3519,Administrative Support,6476,6388,88,37,6439
+3519,Administrative and Foreign Service,15165,14873,292,43,15122
+3519,Executive Group,208,199,9,0,208
+3519,Operational,337,333,4,4,333
+3519,Other,1677,1666,11,0,1677
+3519,Scientific and Professional,5169,5076,93,4,5165
+3519,Technical,1237,1214,23,10,1227
+3520,Administrative Support,26828,25805,1023,420,26408
+3520,Administrative and Foreign Service,52680,50115,2565,1826,50854
+3520,Executive Group,534,521,13,4,530
+3520,Operational,1384,1352,32,8,1376
+3520,Other,4788,4608,180,2121,2667
+3520,Scientific and Professional,16935,16231,704,572,16363
+3520,Technical,3637,3538,99,307,3330
+3521,Administrative Support,13327,13038,289,1,13326
+3521,Administrative and Foreign Service,27291,26650,641,116,27175
+3521,Executive Group,219,212,7,0,219
+3521,Operational,657,632,25,0,657
+3521,Other,1797,1757,40,0,1797
+3521,Scientific and Professional,7490,7327,163,7,7483
+3521,Technical,2165,2130,35,0,2165
+3522,Administrative Support,118,116,2,0,118
+3522,Administrative and Foreign Service,253,244,9,0,253
+3522,Executive Group,5,5,0,0,5
+3522,Operational,47,47,0,0,47
+3522,Other,22,22,0,0,22
+3522,Scientific and Professional,78,78,0,0,78
+3522,Technical,102,101,1,0,102
+3523,Administrative Support,1203,1158,45,5,1198
+3523,Administrative and Foreign Service,2644,2573,71,4,2640
+3523,Executive Group,36,34,2,0,36
+3523,Operational,201,199,2,0,201
+3523,Other,278,277,1,0,278
+3523,Scientific and Professional,1972,1926,46,59,1913
+3523,Technical,918,907,11,37,881
+3524,Administrative Support,2502,2438,64,56,2446
+3524,Administrative and Foreign Service,5890,5745,145,63,5827
+3524,Executive Group,130,121,9,1,129
+3524,Operational,201,197,4,1,200
+3524,Other,734,708,26,0,734
+3524,Scientific and Professional,2128,2056,72,20,2108
+3524,Technical,699,686,13,3,696
+3525,Administrative Support,3354,3267,87,0,3354
+3525,Administrative and Foreign Service,5206,5024,182,0,5206
+3525,Executive Group,59,51,8,0,59
+3525,Operational,383,381,2,0,383
+3525,Other,262,254,8,0,262
+3525,Scientific and Professional,2100,2012,88,0,2100
+3525,Technical,788,767,21,0,788
+3526,Administrative Support,2896,2794,102,0,2896
+3526,Administrative and Foreign Service,5162,4964,198,5,5157
+3526,Executive Group,48,47,1,0,48
+3526,Operational,512,508,4,0,512
+3526,Other,230,227,3,0,230
+3526,Scientific and Professional,1090,1048,42,0,1090
+3526,Technical,662,651,11,14,648
+3528,Administrative Support,317,310,7,0,317
+3528,Administrative and Foreign Service,580,574,6,0,580
+3528,Executive Group,2,2,0,0,2
+3528,Operational,64,64,0,0,64
+3528,Other,39,39,0,0,39
+3528,Scientific and Professional,190,188,2,3,187
+3528,Technical,124,124,0,9,115
+3529,Administrative Support,307,304,3,0,307
+3529,Administrative and Foreign Service,777,773,4,11,766
+3529,Executive Group,10,10,0,0,10
+3529,Operational,80,80,0,0,80
+3529,Other,69,69,0,0,69
+3529,Scientific and Professional,311,311,0,0,311
+3529,Technical,129,129,0,0,129
+3530,Administrative Support,2543,2474,69,15,2528
+3530,Administrative and Foreign Service,4824,4670,154,69,4755
+3530,Executive Group,94,87,7,13,81
+3530,Operational,344,334,10,0,344
+3530,Other,377,371,6,0,377
+3530,Scientific and Professional,2458,2368,90,6,2452
+3530,Technical,752,738,14,0,752
+3531,Administrative Support,117,116,1,0,117
+3531,Administrative and Foreign Service,202,202,0,0,202
+3531,Executive Group,2,2,0,0,2
+3531,Operational,28,27,1,0,28
+3531,Other,40,40,0,0,40
+3531,Scientific and Professional,76,75,1,0,76
+3531,Technical,31,31,0,0,31
+3532,Administrative Support,275,272,3,0,275
+3532,Administrative and Foreign Service,484,481,3,0,484
+3532,Executive Group,5,5,0,0,5
+3532,Operational,35,35,0,0,35
+3532,Other,36,36,0,0,36
+3532,Scientific and Professional,185,185,0,0,185
+3532,Technical,127,125,2,0,127
+3534,Administrative Support,299,296,3,0,299
+3534,Administrative and Foreign Service,464,462,2,0,464
+3534,Executive Group,1,1,0,0,1
+3534,Operational,37,37,0,0,37
+3534,Other,22,22,0,0,22
+3534,Scientific and Professional,71,71,0,0,71
+3534,Technical,70,70,0,0,70
+3536,Administrative Support,707,702,5,0,707
+3536,Administrative and Foreign Service,1047,1038,9,1,1046
+3536,Executive Group,7,7,0,0,7
+3536,Operational,109,109,0,0,109
+3536,Other,28,28,0,0,28
+3536,Scientific and Professional,262,257,5,1,261
+3536,Technical,123,122,1,0,123
+3537,Administrative Support,3403,3318,85,5,3398
+3537,Administrative and Foreign Service,6244,6101,143,84,6160
+3537,Executive Group,38,28,10,7,31
+3537,Operational,699,680,19,0,699
+3537,Other,175,169,6,0,175
+3537,Scientific and Professional,1287,1257,30,7,1280
+3537,Technical,694,673,21,4,690
+3538,Administrative Support,1190,1172,18,163,1027
+3538,Administrative and Foreign Service,1536,1497,39,15,1521
+3538,Executive Group,23,23,0,6,17
+3538,Operational,394,392,2,0,394
+3538,Other,50,49,1,0,50
+3538,Scientific and Professional,317,299,18,8,309
+3538,Technical,465,460,5,22,443
+3539,Administrative Support,3578,3414,164,63,3515
+3539,Administrative and Foreign Service,6459,6171,288,97,6362
+3539,Executive Group,48,48,0,0,48
+3539,Operational,231,227,4,5,226
+3539,Other,176,168,8,0,176
+3539,Scientific and Professional,2142,2064,78,30,2112
+3539,Technical,862,849,13,90,772
+3540,Administrative Support,34,34,0,0,34
+3540,Administrative and Foreign Service,96,96,0,0,96
+3540,Executive Group,3,3,0,0,3
+3540,Operational,32,32,0,0,32
+3540,Other,18,18,0,0,18
+3540,Scientific and Professional,43,43,0,0,43
+3540,Technical,31,31,0,0,31
+3541,Administrative Support,141,141,0,0,141
+3541,Administrative and Foreign Service,283,272,11,0,283
+3541,Executive Group,3,2,1,0,3
+3541,Operational,159,159,0,0,159
+3541,Other,11,10,1,0,11
+3541,Scientific and Professional,90,90,0,0,90
+3541,Technical,113,113,0,0,113
+3542,Administrative Support,228,218,10,0,228
+3542,Administrative and Foreign Service,359,344,15,0,359
+3542,Executive Group,3,3,0,0,3
+3542,Operational,104,103,1,0,104
+3542,Other,49,49,0,0,49
+3542,Scientific and Professional,126,125,1,0,126
+3542,Technical,104,104,0,0,104
+3543,Administrative Support,2361,2191,170,14,2347
+3543,Administrative and Foreign Service,4384,4126,258,50,4334
+3543,Executive Group,57,54,3,0,57
+3543,Operational,902,863,39,52,850
+3543,Other,312,299,13,0,312
+3543,Scientific and Professional,1039,985,54,4,1035
+3543,Technical,546,528,18,15,531
+3544,Administrative Support,253,248,5,0,253
+3544,Administrative and Foreign Service,360,353,7,7,353
+3544,Executive Group,3,3,0,0,3
+3544,Operational,227,226,1,6,221
+3544,Other,39,39,0,0,39
+3544,Scientific and Professional,97,96,1,0,97
+3544,Technical,65,62,3,0,65
+3546,Administrative Support,8,8,0,0,8
+3546,Administrative and Foreign Service,21,20,1,0,21
+3546,Operational,15,15,0,0,15
+3546,Other,7,7,0,0,7
+3546,Scientific and Professional,16,16,0,0,16
+3546,Technical,15,15,0,0,15
+3547,Administrative Support,2089,1886,203,7,2082
+3547,Administrative and Foreign Service,3631,3155,476,71,3560
+3547,Executive Group,27,22,5,0,27
+3547,Operational,765,721,44,26,739
+3547,Other,93,75,18,0,93
+3547,Scientific and Professional,834,801,33,0,834
+3547,Technical,485,458,27,2,483
+3548,Administrative Support,698,575,123,67,631
+3548,Administrative and Foreign Service,1141,911,230,19,1122
+3548,Executive Group,6,2,4,0,6
+3548,Operational,152,137,15,9,143
+3548,Other,46,46,0,0,46
+3548,Scientific and Professional,173,147,26,0,173
+3548,Technical,78,61,17,1,77
+3549,Administrative Support,223,217,6,0,223
+3549,Administrative and Foreign Service,463,445,18,0,463
+3549,Executive Group,1,1,0,0,1
+3549,Operational,133,131,2,7,126
+3549,Other,13,13,0,0,13
+3549,Scientific and Professional,46,45,1,0,46
+3549,Technical,83,83,0,0,83
+3551,Administrative Support,14,10,4,0,14
+3551,Administrative and Foreign Service,36,29,7,0,36
+3551,Executive Group,1,1,0,0,1
+3551,Operational,4,4,0,0,4
+3551,Other,9,9,0,0,9
+3551,Scientific and Professional,18,17,1,0,18
+3551,Technical,10,10,0,0,10
+3552,Administrative Support,49,37,12,0,49
+3552,Administrative and Foreign Service,206,158,48,4,202
+3552,Executive Group,1,1,0,0,1
+3552,Operational,8,7,1,0,8
+3552,Other,3,3,0,0,3
+3552,Scientific and Professional,14,9,5,0,14
+3552,Technical,20,19,1,0,20
+3553,Administrative Support,1332,1015,317,0,1332
+3553,Administrative and Foreign Service,4171,2994,1177,0,4171
+3553,Executive Group,27,14,13,0,27
+3553,Operational,160,135,25,0,160
+3553,Other,165,109,56,0,165
+3553,Scientific and Professional,518,447,71,0,518
+3553,Technical,186,156,30,0,186
+3554,Administrative Support,436,377,59,35,401
+3554,Administrative and Foreign Service,447,374,73,6,441
+3554,Executive Group,1,1,0,0,1
+3554,Operational,13,10,3,0,13
+3554,Other,15,13,2,0,15
+3554,Scientific and Professional,24,10,14,0,24
+3554,Technical,13,12,1,0,13
+3556,Administrative Support,545,393,152,5,540
+3556,Administrative and Foreign Service,718,479,239,0,718
+3556,Executive Group,4,1,3,0,4
+3556,Operational,34,20,14,0,34
+3556,Other,26,18,8,0,26
+3556,Scientific and Professional,118,75,43,0,118
+3556,Technical,37,29,8,0,37
+3557,Administrative Support,457,447,10,33,424
+3557,Administrative and Foreign Service,1118,1075,43,10,1108
+3557,Executive Group,22,22,0,0,22
+3557,Operational,85,84,1,4,81
+3557,Other,214,212,2,0,214
+3557,Scientific and Professional,298,292,6,24,274
+3557,Technical,376,370,6,34,342
+3558,Administrative Support,670,645,25,0,670
+3558,Administrative and Foreign Service,1512,1418,94,2,1510
+3558,Executive Group,28,20,8,0,28
+3558,Operational,221,211,10,0,221
+3558,Other,187,181,6,0,187
+3558,Scientific and Professional,457,426,31,2,455
+3558,Technical,318,307,11,2,316
+3559,Administrative Support,54,54,0,0,54
+3559,Administrative and Foreign Service,111,109,2,0,111
+3559,Operational,8,8,0,0,8
+3559,Other,8,8,0,0,8
+3559,Scientific and Professional,8,8,0,0,8
+3559,Technical,12,12,0,0,12
+3560,Administrative Support,102,102,0,27,75
+3560,Administrative and Foreign Service,233,233,0,9,224
+3560,Executive Group,5,5,0,0,5
+3560,Operational,36,36,0,11,25
+3560,Other,16,16,0,0,16
+3560,Scientific and Professional,87,86,1,0,87
+3560,Technical,60,60,0,3,57
+4600,Administrative Support,31,31,0,0,31
+4600,Administrative and Foreign Service,86,85,1,0,86
+4600,Executive Group,29,29,0,0,29
+4600,Operational,4,4,0,0,4
+4600,Other,1,1,0,0,1
+4600,Scientific and Professional,21,21,0,0,21
+4600,Technical,17,17,0,0,17
+4601,Administrative Support,38,34,4,0,38
+4601,Administrative and Foreign Service,75,72,3,0,75
+4601,Operational,23,23,0,0,23
+4601,Other,14,14,0,0,14
+4601,Scientific and Professional,27,27,0,0,27
+4601,Technical,26,26,0,0,26
+4602,Administrative Support,541,466,75,0,541
+4602,Administrative and Foreign Service,1070,903,167,2,1068
+4602,Executive Group,24,12,12,0,24
+4602,Operational,102,95,7,0,102
+4602,Other,42,36,6,0,42
+4602,Scientific and Professional,158,125,33,0,158
+4602,Technical,201,181,20,0,201
+4603,Administrative Support,122,120,2,15,107
+4603,Administrative and Foreign Service,220,219,1,0,220
+4603,Executive Group,2,2,0,0,2
+4603,Operational,45,45,0,20,25
+4603,Other,4,4,0,0,4
+4603,Scientific and Professional,77,76,1,2,75
+4603,Technical,107,104,3,0,107
+4604,Administrative Support,23,23,0,0,23
+4604,Administrative and Foreign Service,18,17,1,0,18
+4604,Operational,23,22,1,0,23
+4604,Other,3,3,0,0,3
+4604,Technical,9,9,0,0,9
+4605,Administrative Support,39,39,0,0,39
+4605,Administrative and Foreign Service,61,61,0,0,61
+4605,Operational,14,14,0,0,14
+4605,Other,8,8,0,0,8
+4605,Scientific and Professional,12,12,0,0,12
+4605,Technical,20,20,0,0,20
+4606,Administrative Support,27,24,3,0,27
+4606,Administrative and Foreign Service,46,45,1,0,46
+4606,Operational,13,13,0,0,13
+4606,Other,2,2,0,0,2
+4606,Scientific and Professional,5,5,0,0,5
+4606,Technical,19,19,0,0,19
+4607,Administrative Support,980,900,80,30,950
+4607,Administrative and Foreign Service,969,897,72,16,953
+4607,Executive Group,16,16,0,0,16
+4607,Operational,152,143,9,5,147
+4607,Other,87,83,4,0,87
+4607,Scientific and Professional,369,365,4,9,360
+4607,Technical,287,280,7,17,270
+4608,Administrative Support,4,4,0,0,4
+4608,Administrative and Foreign Service,6,6,0,0,6
+4608,Operational,3,3,0,0,3
+4608,Other,8,8,0,0,8
+4608,Scientific and Professional,4,4,0,0,4
+4608,Technical,8,8,0,0,8
+4609,Administrative Support,45,44,1,0,45
+4609,Administrative and Foreign Service,129,129,0,0,129
+4609,Executive Group,8,8,0,0,8
+4609,Operational,24,21,3,0,24
+4609,Other,8,8,0,0,8
+4609,Scientific and Professional,13,12,1,0,13
+4609,Technical,48,44,4,0,48
+4610,Administrative Support,126,126,0,0,126
+4610,Administrative and Foreign Service,207,199,8,0,207
+4610,Executive Group,6,6,0,0,6
+4610,Operational,28,28,0,0,28
+4610,Other,6,6,0,0,6
+4610,Scientific and Professional,62,62,0,0,62
+4610,Technical,71,70,1,0,71
+4611,Administrative Support,13732,13174,558,982,12750
+4611,Administrative and Foreign Service,22580,21088,1492,2472,20108
+4611,Executive Group,243,214,29,35,208
+4611,Operational,2055,1965,90,62,1993
+4611,Other,864,782,82,13,851
+4611,Scientific and Professional,5923,5556,367,464,5459
+4611,Technical,3840,3699,141,601,3239
+4612,Administrative Support,308,307,1,0,308
+4612,Administrative and Foreign Service,551,502,49,0,551
+4612,Executive Group,11,10,1,0,11
+4612,Operational,75,75,0,0,75
+4612,Other,38,36,2,0,38
+4612,Scientific and Professional,113,101,12,0,113
+4612,Technical,108,107,1,0,108
+4613,Administrative Support,662,660,2,23,639
+4613,Administrative and Foreign Service,1111,1071,40,17,1094
+4613,Executive Group,57,57,0,0,57
+4613,Operational,165,165,0,5,160
+4613,Other,94,94,0,0,94
+4613,Scientific and Professional,193,189,4,0,193
+4613,Technical,216,214,2,0,216
+4614,Administrative Support,214,212,2,2,212
+4614,Administrative and Foreign Service,462,445,17,2,460
+4614,Executive Group,5,5,0,0,5
+4614,Operational,72,72,0,2,70
+4614,Other,8,8,0,0,8
+4614,Scientific and Professional,64,64,0,1,63
+4614,Technical,65,60,5,0,65
+4615,Administrative Support,30,30,0,0,30
+4615,Administrative and Foreign Service,123,120,3,0,123
+4615,Executive Group,3,3,0,0,3
+4615,Operational,63,60,3,0,63
+4615,Other,85,84,1,0,85
+4615,Scientific and Professional,76,76,0,0,76
+4615,Technical,123,122,1,0,123
+4616,Administrative Support,33,33,0,11,22
+4616,Administrative and Foreign Service,20,20,0,0,20
+4616,Operational,6,6,0,0,6
+4616,Other,3,3,0,0,3
+4616,Scientific and Professional,3,3,0,0,3
+4616,Technical,10,10,0,0,10
+4617,Administrative Support,19,19,0,0,19
+4617,Administrative and Foreign Service,98,91,7,0,98
+4617,Executive Group,1,1,0,0,1
+4617,Operational,21,21,0,0,21
+4617,Other,34,34,0,0,34
+4617,Scientific and Professional,32,29,3,0,32
+4617,Technical,71,71,0,0,71
+4618,Administrative Support,82,81,1,0,82
+4618,Administrative and Foreign Service,118,115,3,0,118
+4618,Executive Group,2,2,0,0,2
+4618,Operational,18,18,0,0,18
+4618,Other,2,2,0,0,2
+4618,Scientific and Professional,11,11,0,0,11
+4618,Technical,29,29,0,0,29
+4619,Administrative Support,8,6,2,2,6
+4619,Administrative and Foreign Service,22,18,4,0,22
+4619,Executive Group,2,2,0,0,2
+4619,Operational,7,7,0,0,7
+4619,Other,3,3,0,0,3
+4619,Scientific and Professional,5,5,0,0,5
+4619,Technical,3,3,0,0,3
+4620,Administrative Support,18,18,0,0,18
+4620,Administrative and Foreign Service,24,24,0,0,24
+4620,Other,3,3,0,0,3
+4620,Scientific and Professional,4,4,0,0,4
+4620,Technical,8,8,0,0,8
+4621,Administrative Support,15,15,0,7,8
+4621,Administrative and Foreign Service,33,33,0,1,32
+4621,Operational,8,8,0,0,8
+4621,Other,1,1,0,0,1
+4621,Scientific and Professional,11,11,0,0,11
+4621,Technical,24,24,0,0,24
+4622,Administrative Support,75,75,0,8,67
+4622,Administrative and Foreign Service,73,71,2,6,67
+4622,Executive Group,1,1,0,0,1
+4622,Operational,24,24,0,0,24
+4622,Other,3,3,0,0,3
+4622,Scientific and Professional,45,45,0,0,45
+4622,Technical,25,25,0,3,22
+4623,Administrative Support,8,8,0,0,8
+4623,Administrative and Foreign Service,69,49,20,0,69
+4623,Operational,20,20,0,16,4
+4623,Other,6,6,0,0,6
+4623,Scientific and Professional,16,9,7,0,16
+4623,Technical,30,26,4,0,30
+4700,Administrative Support,9,9,0,0,9
+4700,Administrative and Foreign Service,26,25,1,0,26
+4700,Executive Group,22,22,0,0,22
+4700,Operational,2,2,0,0,2
+4700,Scientific and Professional,16,16,0,0,16
+4700,Technical,7,7,0,0,7
+4701,Administrative Support,64,64,0,4,60
+4701,Administrative and Foreign Service,160,159,1,0,160
+4701,Operational,32,32,0,0,32
+4701,Other,4,4,0,0,4
+4701,Scientific and Professional,19,19,0,0,19
+4701,Technical,10,10,0,0,10
+4702,Administrative Support,37,37,0,3,34
+4702,Administrative and Foreign Service,141,141,0,0,141
+4702,Operational,11,9,2,0,11
+4702,Other,1,1,0,0,1
+4702,Scientific and Professional,33,32,1,0,33
+4702,Technical,13,13,0,0,13
+4703,Administrative Support,18,14,4,0,18
+4703,Administrative and Foreign Service,46,34,12,0,46
+4703,Operational,7,7,0,0,7
+4703,Scientific and Professional,6,6,0,0,6
+4703,Technical,7,6,1,0,7
+4704,Administrative Support,39,39,0,0,39
+4704,Administrative and Foreign Service,110,110,0,2,108
+4704,Operational,65,65,0,1,64
+4704,Other,8,8,0,0,8
+4704,Scientific and Professional,19,19,0,1,18
+4704,Technical,30,30,0,0,30
+4705,Administrative Support,64,64,0,0,64
+4705,Administrative and Foreign Service,92,92,0,0,92
+4705,Operational,15,15,0,0,15
+4705,Scientific and Professional,20,20,0,0,20
+4705,Technical,20,20,0,0,20
+4706,Administrative Support,4421,4097,324,411,4010
+4706,Administrative and Foreign Service,12735,11993,742,679,12056
+4706,Executive Group,78,71,7,3,75
+4706,Operational,1214,1163,51,184,1030
+4706,Other,167,142,25,0,167
+4706,Scientific and Professional,1533,1418,115,70,1463
+4706,Technical,827,772,55,83,744
+4707,Administrative Support,317,277,40,0,317
+4707,Administrative and Foreign Service,467,425,42,8,459
+4707,Executive Group,1,1,0,0,1
+4707,Operational,68,66,2,0,68
+4707,Other,12,12,0,0,12
+4707,Scientific and Professional,70,64,6,0,70
+4707,Technical,61,58,3,0,61
+4708,Administrative Support,91,90,1,0,91
+4708,Administrative and Foreign Service,103,103,0,0,103
+4708,Operational,93,93,0,39,54
+4708,Other,4,4,0,0,4
+4708,Scientific and Professional,238,224,14,14,224
+4708,Technical,200,188,12,40,160
+4709,Administrative Support,67,67,0,10,57
+4709,Administrative and Foreign Service,72,72,0,0,72
+4709,Executive Group,1,1,0,0,1
+4709,Operational,17,17,0,0,17
+4709,Other,7,7,0,0,7
+4709,Scientific and Professional,27,27,0,0,27
+4709,Technical,21,21,0,0,21
+4710,Administrative Support,39,36,3,0,39
+4710,Administrative and Foreign Service,58,51,7,0,58
+4710,Executive Group,1,1,0,0,1
+4710,Operational,14,14,0,0,14
+4710,Scientific and Professional,10,10,0,0,10
+4710,Technical,16,16,0,0,16
+4711,Administrative Support,3321,3211,110,257,3064
+4711,Administrative and Foreign Service,5132,4930,202,379,4753
+4711,Executive Group,81,79,2,2,79
+4711,Operational,1103,1069,34,52,1051
+4711,Other,207,200,7,4,203
+4711,Scientific and Professional,3184,3096,88,96,3088
+4711,Technical,1339,1307,32,65,1274
+4712,Administrative Support,88,88,0,0,88
+4712,Administrative and Foreign Service,104,104,0,0,104
+4712,Executive Group,1,1,0,0,1
+4712,Operational,28,28,0,0,28
+4712,Other,19,19,0,0,19
+4712,Scientific and Professional,32,31,1,0,32
+4712,Technical,21,21,0,0,21
+4713,Administrative Support,13,13,0,1,12
+4713,Administrative and Foreign Service,30,30,0,0,30
+4713,Executive Group,1,1,0,0,1
+4713,Operational,9,9,0,0,9
+4713,Scientific and Professional,5,5,0,0,5
+4713,Technical,16,16,0,0,16
+4714,Administrative Support,43,42,1,1,42
+4714,Administrative and Foreign Service,46,43,3,0,46
+4714,Executive Group,1,1,0,0,1
+4714,Operational,45,45,0,5,40
+4714,Other,6,6,0,0,6
+4714,Scientific and Professional,24,23,1,0,24
+4714,Technical,31,31,0,3,28
+4715,Administrative Support,616,604,12,33,583
+4715,Administrative and Foreign Service,1085,1053,32,54,1031
+4715,Executive Group,22,22,0,0,22
+4715,Operational,748,733,15,31,717
+4715,Other,35,34,1,0,35
+4715,Scientific and Professional,150,150,0,1,149
+4715,Technical,143,140,3,2,141
+4716,Administrative Support,79,78,1,2,77
+4716,Administrative and Foreign Service,163,163,0,0,163
+4716,Executive Group,3,3,0,0,3
+4716,Operational,62,62,0,0,62
+4716,Other,8,8,0,0,8
+4716,Scientific and Professional,46,46,0,0,46
+4716,Technical,35,35,0,0,35
+4717,Administrative Support,103,103,0,7,96
+4717,Administrative and Foreign Service,163,162,1,0,163
+4717,Executive Group,1,1,0,0,1
+4717,Operational,54,54,0,0,54
+4717,Other,3,3,0,0,3
+4717,Scientific and Professional,56,56,0,0,56
+4717,Technical,17,17,0,0,17
+4718,Administrative Support,24,24,0,6,18
+4718,Administrative and Foreign Service,68,68,0,0,68
+4718,Operational,10,10,0,0,10
+4718,Other,2,2,0,0,2
+4718,Scientific and Professional,9,9,0,0,9
+4718,Technical,9,9,0,0,9
+4800,Administrative Support,10,10,0,0,10
+4800,Administrative and Foreign Service,77,72,5,0,77
+4800,Executive Group,8,8,0,0,8
+4800,Operational,19,17,2,0,19
+4800,Other,5,5,0,0,5
+4800,Scientific and Professional,48,48,0,0,48
+4800,Technical,10,10,0,0,10
+4801,Administrative Support,357,355,2,130,227
+4801,Administrative and Foreign Service,693,664,29,77,616
+4801,Executive Group,1,1,0,0,1
+4801,Operational,462,455,7,25,437
+4801,Other,41,41,0,0,41
+4801,Scientific and Professional,213,192,21,34,179
+4801,Technical,149,136,13,19,130
+4802,Administrative Support,576,564,12,37,539
+4802,Administrative and Foreign Service,961,926,35,18,943
+4802,Executive Group,4,3,1,0,4
+4802,Operational,306,301,5,47,259
+4802,Other,140,137,3,0,140
+4802,Scientific and Professional,959,931,28,45,914
+4802,Technical,656,644,12,30,626
+4803,Administrative Support,147,144,3,0,147
+4803,Administrative and Foreign Service,152,149,3,0,152
+4803,Executive Group,1,1,0,0,1
+4803,Operational,88,86,2,0,88
+4803,Other,34,34,0,0,34
+4803,Scientific and Professional,67,66,1,0,67
+4803,Technical,91,88,3,0,91
+4804,Administrative Support,25,25,0,0,25
+4804,Administrative and Foreign Service,41,41,0,0,41
+4804,Operational,13,13,0,0,13
+4804,Other,1,1,0,0,1
+4804,Scientific and Professional,5,5,0,0,5
+4804,Technical,12,12,0,0,12
+4805,Administrative Support,337,337,0,0,337
+4805,Administrative and Foreign Service,607,593,14,26,581
+4805,Executive Group,7,7,0,0,7
+4805,Operational,367,362,5,23,344
+4805,Other,33,33,0,0,33
+4805,Scientific and Professional,82,80,2,0,82
+4805,Technical,92,92,0,0,92
+4806,Administrative Support,13054,12216,838,217,12837
+4806,Administrative and Foreign Service,21591,19744,1847,1481,20110
+4806,Executive Group,489,473,16,166,323
+4806,Operational,1810,1635,175,2,1808
+4806,Other,3968,3774,194,1240,2728
+4806,Scientific and Professional,7431,7033,398,267,7164
+4806,Technical,3935,3736,199,22,3913
+4807,Administrative Support,406,358,48,1,405
+4807,Administrative and Foreign Service,313,258,55,0,313
+4807,Executive Group,2,2,0,0,2
+4807,Operational,241,228,13,49,192
+4807,Other,17,17,0,0,17
+4807,Scientific and Professional,47,21,26,0,47
+4807,Technical,24,20,4,0,24
+4808,Administrative Support,944,919,25,52,892
+4808,Administrative and Foreign Service,1246,1163,83,15,1231
+4808,Executive Group,12,9,3,0,12
+4808,Operational,595,583,12,45,550
+4808,Other,120,120,0,0,120
+4808,Scientific and Professional,267,257,10,3,264
+4808,Technical,451,440,11,132,319
+4809,Administrative Support,66,66,0,2,64
+4809,Administrative and Foreign Service,52,48,4,0,52
+4809,Operational,29,29,0,0,29
+4809,Other,5,5,0,0,5
+4809,Scientific and Professional,16,16,0,0,16
+4809,Technical,44,43,1,0,44
+4810,Administrative Support,653,600,53,0,653
+4810,Administrative and Foreign Service,1065,949,116,156,909
+4810,Executive Group,5,2,3,0,5
+4810,Operational,114,106,8,0,114
+4810,Other,15,9,6,0,15
+4810,Scientific and Professional,112,93,19,0,112
+4810,Technical,117,109,8,0,117
+4811,Administrative Support,18098,16329,1769,809,17289
+4811,Administrative and Foreign Service,32489,28629,3860,3006,29483
+4811,Executive Group,455,421,34,65,390
+4811,Operational,3723,3487,236,53,3670
+4811,Other,878,828,50,0,878
+4811,Scientific and Professional,8064,7414,650,717,7347
+4811,Technical,4180,3968,212,602,3578
+4812,Administrative Support,1143,977,166,8,1135
+4812,Administrative and Foreign Service,797,663,134,65,732
+4812,Executive Group,7,7,0,0,7
+4812,Operational,233,206,27,35,198
+4812,Other,15,15,0,0,15
+4812,Scientific and Professional,176,171,5,2,174
+4812,Technical,151,139,12,4,147
+4813,Administrative Support,193,189,4,16,177
+4813,Administrative and Foreign Service,212,207,5,0,212
+4813,Operational,45,44,1,0,45
+4813,Other,3,3,0,0,3
+4813,Scientific and Professional,39,38,1,0,39
+4813,Technical,50,50,0,0,50
+4814,Administrative Support,132,129,3,15,117
+4814,Administrative and Foreign Service,115,108,7,0,115
+4814,Operational,88,85,3,0,88
+4814,Other,20,19,1,0,20
+4814,Scientific and Professional,21,19,2,0,21
+4814,Technical,14,14,0,0,14
+4815,Administrative Support,347,294,53,0,347
+4815,Administrative and Foreign Service,1089,930,159,0,1089
+4815,Executive Group,11,10,1,0,11
+4815,Operational,1278,1127,151,0,1278
+4815,Other,178,175,3,0,178
+4815,Scientific and Professional,219,202,17,0,219
+4815,Technical,701,668,33,0,701
+4816,Administrative Support,257,215,42,18,239
+4816,Administrative and Foreign Service,359,297,62,0,359
+4816,Executive Group,6,5,1,0,6
+4816,Operational,33,32,1,0,33
+4816,Other,39,38,1,0,39
+4816,Scientific and Professional,169,163,6,0,169
+4816,Technical,82,72,10,0,82
+4817,Administrative Support,83,83,0,0,83
+4817,Administrative and Foreign Service,80,80,0,0,80
+4817,Operational,11,11,0,0,11
+4817,Other,3,3,0,0,3
+4817,Scientific and Professional,27,27,0,0,27
+4817,Technical,26,26,0,0,26
+4818,Administrative Support,87,79,8,17,70
+4818,Administrative and Foreign Service,214,190,24,1,213
+4818,Executive Group,1,1,0,0,1
+4818,Operational,156,147,9,9,147
+4818,Other,4,4,0,0,4
+4818,Scientific and Professional,33,32,1,0,33
+4818,Technical,22,22,0,0,22
+4819,Administrative Support,390,365,25,22,368
+4819,Administrative and Foreign Service,475,436,39,0,475
+4819,Executive Group,3,3,0,0,3
+4819,Operational,79,72,7,1,78
+4819,Other,10,9,1,0,10
+4819,Scientific and Professional,111,102,9,1,110
+4819,Technical,91,84,7,7,84
+5900,Administrative Support,69,62,7,0,69
+5900,Administrative and Foreign Service,213,196,17,0,213
+5900,Executive Group,13,13,0,0,13
+5900,Operational,25,24,1,0,25
+5900,Other,22,22,0,0,22
+5900,Scientific and Professional,45,45,0,0,45
+5900,Technical,40,40,0,0,40
+5901,Administrative Support,106,94,12,0,106
+5901,Administrative and Foreign Service,254,249,5,1,253
+5901,Executive Group,3,3,0,0,3
+5901,Operational,313,296,17,0,313
+5901,Other,42,42,0,0,42
+5901,Scientific and Professional,57,56,1,0,57
+5901,Technical,152,147,5,0,152
+5903,Administrative Support,116,114,2,0,116
+5903,Administrative and Foreign Service,182,176,6,1,181
+5903,Operational,52,49,3,0,52
+5903,Other,66,66,0,0,66
+5903,Scientific and Professional,49,37,12,0,49
+5903,Technical,118,96,22,0,118
+5905,Administrative Support,44,44,0,1,43
+5905,Administrative and Foreign Service,83,83,0,2,81
+5905,Operational,19,19,0,0,19
+5905,Other,7,6,1,0,7
+5905,Scientific and Professional,37,37,0,0,37
+5905,Technical,34,30,4,0,34
+5907,Administrative Support,487,463,24,0,487
+5907,Administrative and Foreign Service,634,598,36,2,632
+5907,Executive Group,6,6,0,0,6
+5907,Operational,59,58,1,8,51
+5907,Other,10,10,0,0,10
+5907,Scientific and Professional,134,131,3,11,123
+5907,Technical,155,151,4,12,143
+5909,Administrative Support,2708,2667,41,82,2626
+5909,Administrative and Foreign Service,4412,4320,92,342,4070
+5909,Executive Group,43,42,1,2,41
+5909,Operational,1415,1398,17,72,1343
+5909,Other,48,47,1,0,48
+5909,Scientific and Professional,527,517,10,13,514
+5909,Technical,636,618,18,13,623
+5915,Administrative Support,23389,22570,819,768,22621
+5915,Administrative and Foreign Service,47419,45406,2013,4876,42543
+5915,Executive Group,614,580,34,91,523
+5915,Operational,1957,1916,41,6,1951
+5915,Other,1046,1024,22,130,916
+5915,Scientific and Professional,13065,12688,377,665,12400
+5915,Technical,5197,5105,92,299,4898
+5917,Administrative Support,6840,6495,345,541,6299
+5917,Administrative and Foreign Service,9505,9000,505,478,9027
+5917,Executive Group,93,83,10,2,91
+5917,Operational,2623,2544,79,616,2007
+5917,Other,438,435,3,0,438
+5917,Scientific and Professional,2533,2361,172,129,2404
+5917,Technical,2822,2708,114,292,2530
+5919,Administrative Support,451,449,2,1,450
+5919,Administrative and Foreign Service,733,712,21,0,733
+5919,Executive Group,15,7,8,0,15
+5919,Operational,282,281,1,0,282
+5919,Other,23,23,0,0,23
+5919,Scientific and Professional,126,122,4,0,126
+5919,Technical,271,264,7,0,271
+5921,Administrative Support,902,901,1,24,878
+5921,Administrative and Foreign Service,1638,1605,33,81,1557
+5921,Executive Group,15,15,0,0,15
+5921,Operational,359,356,3,1,358
+5921,Other,80,80,0,0,80
+5921,Scientific and Professional,749,742,7,13,736
+5921,Technical,761,752,9,3,758
+5923,Administrative Support,142,133,9,0,142
+5923,Administrative and Foreign Service,222,210,12,2,220
+5923,Operational,193,186,7,0,193
+5923,Other,6,6,0,0,6
+5923,Scientific and Professional,45,37,8,0,45
+5923,Technical,163,158,5,0,163
+5924,Administrative Support,141,136,5,0,141
+5924,Administrative and Foreign Service,304,288,16,0,304
+5924,Operational,91,88,3,0,91
+5924,Other,14,14,0,0,14
+5924,Scientific and Professional,92,90,2,3,89
+5924,Technical,144,140,4,0,144
+5926,Administrative Support,532,484,48,3,529
+5926,Administrative and Foreign Service,669,613,56,3,666
+5926,Executive Group,5,5,0,0,5
+5926,Operational,203,198,5,15,188
+5926,Other,20,17,3,0,20
+5926,Scientific and Professional,156,155,1,3,153
+5926,Technical,294,290,4,29,265
+5927,Administrative Support,35,27,8,0,35
+5927,Administrative and Foreign Service,66,63,3,0,66
+5927,Executive Group,1,1,0,0,1
+5927,Operational,20,20,0,0,20
+5927,Other,5,5,0,0,5
+5927,Scientific and Professional,17,17,0,0,17
+5927,Technical,50,50,0,0,50
+5929,Administrative Support,32,29,3,1,31
+5929,Administrative and Foreign Service,77,69,8,0,77
+5929,Executive Group,3,3,0,0,3
+5929,Operational,59,58,1,0,59
+5929,Other,14,14,0,0,14
+5929,Scientific and Professional,40,39,1,0,40
+5929,Technical,33,33,0,0,33
+5931,Administrative Support,61,45,16,0,61
+5931,Administrative and Foreign Service,178,159,19,1,177
+5931,Executive Group,2,2,0,0,2
+5931,Operational,57,57,0,0,57
+5931,Other,10,10,0,0,10
+5931,Scientific and Professional,104,96,8,0,104
+5931,Technical,133,131,2,0,133
+5933,Administrative Support,543,533,10,39,504
+5933,Administrative and Foreign Service,1274,1239,35,33,1241
+5933,Executive Group,7,7,0,0,7
+5933,Operational,90,86,4,0,90
+5933,Other,65,65,0,0,65
+5933,Scientific and Professional,177,174,3,1,176
+5933,Technical,296,295,1,4,292
+5935,Administrative Support,1213,1172,41,0,1213
+5935,Administrative and Foreign Service,1552,1475,77,3,1549
+5935,Executive Group,12,12,0,0,12
+5935,Operational,70,69,1,0,70
+5935,Other,54,53,1,0,54
+5935,Scientific and Professional,308,290,18,5,303
+5935,Technical,348,343,5,25,323
+5937,Administrative Support,135,130,5,0,135
+5937,Administrative and Foreign Service,273,261,12,0,273
+5937,Executive Group,3,3,0,0,3
+5937,Operational,68,68,0,0,68
+5937,Other,35,35,0,0,35
+5937,Scientific and Professional,79,79,0,0,79
+5937,Technical,88,88,0,0,88
+5939,Administrative Support,206,190,16,0,206
+5939,Administrative and Foreign Service,278,230,48,0,278
+5939,Executive Group,1,1,0,0,1
+5939,Operational,309,263,46,0,309
+5939,Other,42,41,1,0,42
+5939,Scientific and Professional,78,78,0,0,78
+5939,Technical,289,268,21,0,289
+5941,Administrative Support,152,152,0,0,152
+5941,Administrative and Foreign Service,207,204,3,2,205
+5941,Operational,28,28,0,0,28
+5941,Other,44,44,0,0,44
+5941,Scientific and Professional,19,18,1,0,19
+5941,Technical,51,48,3,0,51
+5943,Administrative Support,59,59,0,9,50
+5943,Administrative and Foreign Service,45,45,0,1,44
+5943,Executive Group,4,4,0,0,4
+5943,Operational,43,42,1,4,39
+5943,Other,2,2,0,0,2
+5943,Scientific and Professional,34,34,0,0,34
+5943,Technical,49,45,4,0,49
+5945,Administrative Support,12,12,0,4,8
+5945,Administrative and Foreign Service,14,14,0,0,14
+5945,Operational,21,21,0,0,21
+5945,Scientific and Professional,7,7,0,0,7
+5945,Technical,48,48,0,0,48
+5947,Administrative Support,91,90,1,9,82
+5947,Administrative and Foreign Service,247,246,1,6,241
+5947,Executive Group,8,8,0,0,8
+5947,Operational,89,87,2,2,87
+5947,Other,3,3,0,0,3
+5947,Scientific and Professional,51,50,1,0,51
+5947,Technical,286,285,1,38,248
+5949,Administrative Support,67,64,3,1,66
+5949,Administrative and Foreign Service,103,100,3,0,103
+5949,Executive Group,1,1,0,0,1
+5949,Operational,32,32,0,0,32
+5949,Other,4,4,0,0,4
+5949,Scientific and Professional,54,54,0,0,54
+5949,Technical,85,85,0,0,85
+5951,Administrative Support,70,70,0,9,61
+5951,Administrative and Foreign Service,79,77,2,0,79
+5951,Operational,22,22,0,0,22
+5951,Other,7,7,0,0,7
+5951,Scientific and Professional,38,38,0,0,38
+5951,Technical,66,61,5,0,66
+5953,Administrative Support,843,832,11,29,814
+5953,Administrative and Foreign Service,792,777,15,21,771
+5953,Executive Group,4,4,0,0,4
+5953,Operational,63,62,1,0,63
+5953,Other,39,39,0,0,39
+5953,Scientific and Professional,179,177,2,0,179
+5953,Technical,273,271,2,12,261
+5955,Administrative Support,110,102,8,24,86
+5955,Administrative and Foreign Service,113,108,5,0,113
+5955,Operational,24,23,1,0,24
+5955,Other,5,5,0,0,5
+5955,Scientific and Professional,48,48,0,0,48
+5955,Technical,39,39,0,0,39
+5957,Administrative and Foreign Service,1,1,0,0,1
+5959,Administrative Support,65,63,2,10,55
+5959,Administrative and Foreign Service,42,41,1,0,42
+5959,Operational,2,2,0,0,2
+5959,Scientific and Professional,12,12,0,0,12
+5959,Technical,7,7,0,0,7
+6000,Administrative Support,7,7,0,0,7
+6000,Administrative and Foreign Service,18,18,0,0,18
+6000,Executive Group,1,1,0,0,1
+6000,Operational,1,1,0,0,1
+6000,Technical,6,6,0,0,6
+6001,Administrative Support,396,364,32,91,305
+6001,Administrative and Foreign Service,1044,915,129,79,965
+6001,Executive Group,24,13,11,0,24
+6001,Operational,140,102,38,0,140
+6001,Other,11,9,2,0,11
+6001,Scientific and Professional,262,237,25,53,209
+6001,Technical,298,259,39,17,281
+6100,Administrative and Foreign Service,6,1,5,0,6
+6100,Other,1,0,1,0,1
+6100,Scientific and Professional,6,3,3,0,6
+6100,Technical,1,0,1,0,1
+6101,Administrative Support,42,42,0,0,42
+6101,Administrative and Foreign Service,132,129,3,5,127
+6101,Executive Group,4,3,1,0,4
+6101,Operational,5,5,0,0,5
+6101,Other,10,10,0,0,10
+6101,Scientific and Professional,33,33,0,0,33
+6101,Technical,39,39,0,0,39
+6102,Administrative Support,7,3,4,0,7
+6102,Administrative and Foreign Service,21,18,3,0,21
+6102,Executive Group,22,22,0,0,22
+6102,Other,2,2,0,0,2
+6102,Scientific and Professional,16,16,0,0,16
+6102,Technical,16,13,3,0,16
+6103,Administrative Support,8,8,0,0,8
+6103,Administrative and Foreign Service,4,4,0,0,4
+6103,Scientific and Professional,7,6,1,0,7
+6103,Technical,1,1,0,0,1
+6104,Administrative Support,8,8,0,0,8
+6104,Administrative and Foreign Service,59,57,2,0,59
+6104,Operational,10,10,0,0,10
+6104,Other,1,1,0,0,1
+6104,Scientific and Professional,27,26,1,0,27
+6104,Technical,19,19,0,0,19
+6105,Administrative Support,32,14,18,0,32
+6105,Administrative and Foreign Service,88,63,25,2,86
+6105,Executive Group,2,2,0,0,2
+6105,Operational,33,32,1,9,24
+6105,Other,13,11,2,0,13
+6105,Scientific and Professional,17,16,1,0,17
+6105,Technical,45,40,5,0,45
+6106,Administrative Support,688,628,60,28,660
+6106,Administrative and Foreign Service,1539,1342,197,163,1376
+6106,Executive Group,55,39,16,0,55
+6106,Operational,34,34,0,0,34
+6106,Other,43,42,1,0,43
+6106,Scientific and Professional,402,358,44,19,383
+6106,Technical,174,165,9,14,160
+6204,Administrative Support,247,224,23,0,247
+6204,Administrative and Foreign Service,998,925,73,132,866
+6204,Executive Group,72,56,16,8,64
+6204,Operational,18,16,2,0,18
+6204,Other,13,13,0,0,13
+6204,Scientific and Professional,327,292,35,27,300
+6204,Technical,138,120,18,20,118
+6205,Administrative Support,13,13,0,0,13
+6205,Administrative and Foreign Service,65,60,5,0,65
+6205,Executive Group,7,7,0,0,7
+6205,Operational,4,4,0,0,4
+6205,Other,3,3,0,0,3
+6205,Scientific and Professional,5,5,0,0,5
+6205,Technical,13,13,0,0,13
+6208,Administrative Support,12,12,0,0,12
+6208,Administrative and Foreign Service,33,32,1,0,33
+6208,Executive Group,23,23,0,0,23
+6208,Other,4,4,0,0,4
+6208,Scientific and Professional,14,14,0,0,14
+6208,Technical,8,8,0,0,8

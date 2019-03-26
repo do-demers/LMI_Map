@@ -1,0 +1,2345 @@
+cd,var,label,value
+1001,total_pop_15+,Canadian population aged 15+,226160
+1001,labour_force,In the labour force,141865
+1001,emp,Employed,126910
+1001,unemp,Unemployed,14955
+1001,not_labour_force,Not in the labour force,84295
+1001,part_rate,Participation rate,0.627
+1001,emp_rate,Employment rate,0.561
+1001,unemp_rate,Unemployment rate,0.105
+1002,total_pop_15+,Canadian population aged 15+,17585
+1002,labour_force,In the labour force,9020
+1002,emp,Employed,6930
+1002,unemp,Unemployed,2085
+1002,not_labour_force,Not in the labour force,8570
+1002,part_rate,Participation rate,0.513
+1002,emp_rate,Employment rate,0.394
+1002,unemp_rate,Unemployment rate,0.231
+1003,total_pop_15+,Canadian population aged 15+,13620
+1003,labour_force,In the labour force,7120
+1003,emp,Employed,5135
+1003,unemp,Unemployed,1985
+1003,not_labour_force,Not in the labour force,6500
+1003,part_rate,Participation rate,0.523
+1003,emp_rate,Employment rate,0.377
+1003,unemp_rate,Unemployment rate,0.279
+1004,total_pop_15+,Canadian population aged 15+,17440
+1004,labour_force,In the labour force,8175
+1004,emp,Employed,6240
+1004,unemp,Unemployed,1935
+1004,not_labour_force,Not in the labour force,9265
+1004,part_rate,Participation rate,0.469
+1004,emp_rate,Employment rate,0.358
+1004,unemp_rate,Unemployment rate,0.237
+1005,total_pop_15+,Canadian population aged 15+,35565
+1005,labour_force,In the labour force,20200
+1005,emp,Employed,16870
+1005,unemp,Unemployed,3330
+1005,not_labour_force,Not in the labour force,15365
+1005,part_rate,Participation rate,0.568
+1005,emp_rate,Employment rate,0.474
+1005,unemp_rate,Unemployment rate,0.165
+1006,total_pop_15+,Canadian population aged 15+,32125
+1006,labour_force,In the labour force,17785
+1006,emp,Employed,14990
+1006,unemp,Unemployed,2795
+1006,not_labour_force,Not in the labour force,14340
+1006,part_rate,Participation rate,0.554
+1006,emp_rate,Employment rate,0.467
+1006,unemp_rate,Unemployment rate,0.157
+1007,total_pop_15+,Canadian population aged 15+,29210
+1007,labour_force,In the labour force,15605
+1007,emp,Employed,12065
+1007,unemp,Unemployed,3545
+1007,not_labour_force,Not in the labour force,13600
+1007,part_rate,Participation rate,0.534
+1007,emp_rate,Employment rate,0.413
+1007,unemp_rate,Unemployment rate,0.227
+1008,total_pop_15+,Canadian population aged 15+,31090
+1008,labour_force,In the labour force,15110
+1008,emp,Employed,10560
+1008,unemp,Unemployed,4550
+1008,not_labour_force,Not in the labour force,15975
+1008,part_rate,Participation rate,0.486
+1008,emp_rate,Employment rate,0.34
+1008,unemp_rate,Unemployment rate,0.301
+1009,total_pop_15+,Canadian population aged 15+,13585
+1009,labour_force,In the labour force,7560
+1009,emp,Employed,4750
+1009,unemp,Unemployed,2810
+1009,not_labour_force,Not in the labour force,6030
+1009,part_rate,Participation rate,0.556
+1009,emp_rate,Employment rate,0.35
+1009,unemp_rate,Unemployment rate,0.372
+1010,total_pop_15+,Canadian population aged 15+,19565
+1010,labour_force,In the labour force,13270
+1010,emp,Employed,11445
+1010,unemp,Unemployed,1820
+1010,not_labour_force,Not in the labour force,6295
+1010,part_rate,Participation rate,0.678
+1010,emp_rate,Employment rate,0.585
+1010,unemp_rate,Unemployment rate,0.137
+1011,total_pop_15+,Canadian population aged 15+,1995
+1011,labour_force,In the labour force,1155
+1011,emp,Employed,815
+1011,unemp,Unemployed,345
+1011,not_labour_force,Not in the labour force,840
+1011,part_rate,Participation rate,0.579
+1011,emp_rate,Employment rate,0.409
+1011,unemp_rate,Unemployment rate,0.299
+1101,total_pop_15+,Canadian population aged 15+,14195
+1101,labour_force,In the labour force,9390
+1101,emp,Employed,7920
+1101,unemp,Unemployed,1475
+1101,not_labour_force,Not in the labour force,4810
+1101,part_rate,Participation rate,0.662
+1101,emp_rate,Employment rate,0.558
+1101,unemp_rate,Unemployment rate,0.157
+1102,total_pop_15+,Canadian population aged 15+,66815
+1102,labour_force,In the labour force,44740
+1102,emp,Employed,40105
+1102,unemp,Unemployed,4630
+1102,not_labour_force,Not in the labour force,22075
+1102,part_rate,Participation rate,0.67
+1102,emp_rate,Employment rate,0.6
+1102,unemp_rate,Unemployment rate,0.103
+1103,total_pop_15+,Canadian population aged 15+,36045
+1103,labour_force,In the labour force,23555
+1103,emp,Employed,20090
+1103,unemp,Unemployed,3460
+1103,not_labour_force,Not in the labour force,12495
+1103,part_rate,Participation rate,0.653
+1103,emp_rate,Employment rate,0.557
+1103,unemp_rate,Unemployment rate,0.147
+1201,total_pop_15+,Canadian population aged 15+,11945
+1201,labour_force,In the labour force,7015
+1201,emp,Employed,6225
+1201,unemp,Unemployed,790
+1201,not_labour_force,Not in the labour force,4925
+1201,part_rate,Participation rate,0.587
+1201,emp_rate,Employment rate,0.521
+1201,unemp_rate,Unemployment rate,0.113
+1202,total_pop_15+,Canadian population aged 15+,20535
+1202,labour_force,In the labour force,12400
+1202,emp,Employed,11270
+1202,unemp,Unemployed,1125
+1202,not_labour_force,Not in the labour force,8140
+1202,part_rate,Participation rate,0.604
+1202,emp_rate,Employment rate,0.549
+1202,unemp_rate,Unemployment rate,0.091
+1203,total_pop_15+,Canadian population aged 15+,15045
+1203,labour_force,In the labour force,8405
+1203,emp,Employed,7150
+1203,unemp,Unemployed,1260
+1203,not_labour_force,Not in the labour force,6640
+1203,part_rate,Participation rate,0.559
+1203,emp_rate,Employment rate,0.475
+1203,unemp_rate,Unemployment rate,0.15
+1204,total_pop_15+,Canadian population aged 15+,8990
+1204,labour_force,In the labour force,4350
+1204,emp,Employed,3765
+1204,unemp,Unemployed,580
+1204,not_labour_force,Not in the labour force,4640
+1204,part_rate,Participation rate,0.484
+1204,emp_rate,Employment rate,0.419
+1204,unemp_rate,Unemployment rate,0.133
+1205,total_pop_15+,Canadian population aged 15+,17570
+1205,labour_force,In the labour force,9280
+1205,emp,Employed,8070
+1205,unemp,Unemployed,1215
+1205,not_labour_force,Not in the labour force,8290
+1205,part_rate,Participation rate,0.528
+1205,emp_rate,Employment rate,0.459
+1205,unemp_rate,Unemployment rate,0.131
+1206,total_pop_15+,Canadian population aged 15+,40535
+1206,labour_force,In the labour force,22605
+1206,emp,Employed,20545
+1206,unemp,Unemployed,2065
+1206,not_labour_force,Not in the labour force,17925
+1206,part_rate,Participation rate,0.558
+1206,emp_rate,Employment rate,0.507
+1206,unemp_rate,Unemployment rate,0.091
+1207,total_pop_15+,Canadian population aged 15+,50335
+1207,labour_force,In the labour force,30165
+1207,emp,Employed,27355
+1207,unemp,Unemployed,2810
+1207,not_labour_force,Not in the labour force,20170
+1207,part_rate,Participation rate,0.599
+1207,emp_rate,Employment rate,0.543
+1207,unemp_rate,Unemployment rate,0.093
+1208,total_pop_15+,Canadian population aged 15+,34910
+1208,labour_force,In the labour force,21720
+1208,emp,Employed,19840
+1208,unemp,Unemployed,1880
+1208,not_labour_force,Not in the labour force,13185
+1208,part_rate,Participation rate,0.622
+1208,emp_rate,Employment rate,0.568
+1208,unemp_rate,Unemployment rate,0.087
+1209,total_pop_15+,Canadian population aged 15+,337215
+1209,labour_force,In the labour force,225945
+1209,emp,Employed,209425
+1209,unemp,Unemployed,16515
+1209,not_labour_force,Not in the labour force,111275
+1209,part_rate,Participation rate,0.67
+1209,emp_rate,Employment rate,0.621
+1209,unemp_rate,Unemployment rate,0.073
+1210,total_pop_15+,Canadian population aged 15+,42100
+1210,labour_force,In the labour force,25285
+1210,emp,Employed,22910
+1210,unemp,Unemployed,2375
+1210,not_labour_force,Not in the labour force,16815
+1210,part_rate,Participation rate,0.601
+1210,emp_rate,Employment rate,0.544
+1210,unemp_rate,Unemployment rate,0.094
+1211,total_pop_15+,Canadian population aged 15+,25260
+1211,labour_force,In the labour force,13645
+1211,emp,Employed,12100
+1211,unemp,Unemployed,1550
+1211,not_labour_force,Not in the labour force,11610
+1211,part_rate,Participation rate,0.54
+1211,emp_rate,Employment rate,0.479
+1211,unemp_rate,Unemployment rate,0.114
+1212,total_pop_15+,Canadian population aged 15+,36480
+1212,labour_force,In the labour force,20765
+1212,emp,Employed,18170
+1212,unemp,Unemployed,2595
+1212,not_labour_force,Not in the labour force,15715
+1212,part_rate,Participation rate,0.569
+1212,emp_rate,Employment rate,0.498
+1212,unemp_rate,Unemployment rate,0.125
+1213,total_pop_15+,Canadian population aged 15+,6675
+1213,labour_force,In the labour force,3355
+1213,emp,Employed,2735
+1213,unemp,Unemployed,615
+1213,not_labour_force,Not in the labour force,3320
+1213,part_rate,Participation rate,0.503
+1213,emp_rate,Employment rate,0.41
+1213,unemp_rate,Unemployment rate,0.183
+1214,total_pop_15+,Canadian population aged 15+,15930
+1214,labour_force,In the labour force,10080
+1214,emp,Employed,8915
+1214,unemp,Unemployed,1170
+1214,not_labour_force,Not in the labour force,5850
+1214,part_rate,Participation rate,0.633
+1214,emp_rate,Employment rate,0.56
+1214,unemp_rate,Unemployment rate,0.116
+1215,total_pop_15+,Canadian population aged 15+,14315
+1215,labour_force,In the labour force,8205
+1215,emp,Employed,6765
+1215,unemp,Unemployed,1440
+1215,not_labour_force,Not in the labour force,6115
+1215,part_rate,Participation rate,0.573
+1215,emp_rate,Employment rate,0.473
+1215,unemp_rate,Unemployment rate,0.176
+1216,total_pop_15+,Canadian population aged 15+,7750
+1216,labour_force,In the labour force,4035
+1216,emp,Employed,3375
+1216,unemp,Unemployed,660
+1216,not_labour_force,Not in the labour force,3720
+1216,part_rate,Participation rate,0.521
+1216,emp_rate,Employment rate,0.435
+1216,unemp_rate,Unemployment rate,0.164
+1217,total_pop_15+,Canadian population aged 15+,83220
+1217,labour_force,In the labour force,43905
+1217,emp,Employed,36180
+1217,unemp,Unemployed,7725
+1217,not_labour_force,Not in the labour force,39315
+1217,part_rate,Participation rate,0.528
+1217,emp_rate,Employment rate,0.435
+1217,unemp_rate,Unemployment rate,0.176
+1218,total_pop_15+,Canadian population aged 15+,5940
+1218,labour_force,In the labour force,3440
+1218,emp,Employed,2525
+1218,unemp,Unemployed,920
+1218,not_labour_force,Not in the labour force,2500
+1218,part_rate,Participation rate,0.579
+1218,emp_rate,Employment rate,0.425
+1218,unemp_rate,Unemployment rate,0.267
+1301,total_pop_15+,Canadian population aged 15+,60880
+1301,labour_force,In the labour force,37480
+1301,emp,Employed,33750
+1301,unemp,Unemployed,3735
+1301,not_labour_force,Not in the labour force,23400
+1301,part_rate,Participation rate,0.616
+1301,emp_rate,Employment rate,0.554
+1301,unemp_rate,Unemployment rate,0.1
+1302,total_pop_15+,Canadian population aged 15+,21175
+1302,labour_force,In the labour force,12815
+1302,emp,Employed,11010
+1302,unemp,Unemployed,1805
+1302,not_labour_force,Not in the labour force,8360
+1302,part_rate,Participation rate,0.605
+1302,emp_rate,Employment rate,0.52
+1302,unemp_rate,Unemployment rate,0.141
+1303,total_pop_15+,Canadian population aged 15+,21870
+1303,labour_force,In the labour force,14880
+1303,emp,Employed,13645
+1303,unemp,Unemployed,1235
+1303,not_labour_force,Not in the labour force,6990
+1303,part_rate,Participation rate,0.68
+1303,emp_rate,Employment rate,0.624
+1303,unemp_rate,Unemployment rate,0.083
+1304,total_pop_15+,Canadian population aged 15+,9070
+1304,labour_force,In the labour force,4615
+1304,emp,Employed,3925
+1304,unemp,Unemployed,690
+1304,not_labour_force,Not in the labour force,4455
+1304,part_rate,Participation rate,0.509
+1304,emp_rate,Employment rate,0.433
+1304,unemp_rate,Unemployment rate,0.15
+1305,total_pop_15+,Canadian population aged 15+,56165
+1305,labour_force,In the labour force,35740
+1305,emp,Employed,32530
+1305,unemp,Unemployed,3210
+1305,not_labour_force,Not in the labour force,20435
+1305,part_rate,Participation rate,0.636
+1305,emp_rate,Employment rate,0.579
+1305,unemp_rate,Unemployment rate,0.09
+1306,total_pop_15+,Canadian population aged 15+,24410
+1306,labour_force,In the labour force,16065
+1306,emp,Employed,14495
+1306,unemp,Unemployed,1570
+1306,not_labour_force,Not in the labour force,8350
+1306,part_rate,Participation rate,0.658
+1306,emp_rate,Employment rate,0.594
+1306,unemp_rate,Unemployment rate,0.098
+1307,total_pop_15+,Canadian population aged 15+,122980
+1307,labour_force,In the labour force,80765
+1307,emp,Employed,73745
+1307,unemp,Unemployed,7015
+1307,not_labour_force,Not in the labour force,42215
+1307,part_rate,Participation rate,0.657
+1307,emp_rate,Employment rate,0.6
+1307,unemp_rate,Unemployment rate,0.087
+1308,total_pop_15+,Canadian population aged 15+,26030
+1308,labour_force,In the labour force,15155
+1308,emp,Employed,12545
+1308,unemp,Unemployed,2615
+1308,not_labour_force,Not in the labour force,10875
+1308,part_rate,Participation rate,0.582
+1308,emp_rate,Employment rate,0.482
+1308,unemp_rate,Unemployment rate,0.173
+1309,total_pop_15+,Canadian population aged 15+,37975
+1309,labour_force,In the labour force,21435
+1309,emp,Employed,17335
+1309,unemp,Unemployed,4095
+1309,not_labour_force,Not in the labour force,16540
+1309,part_rate,Participation rate,0.564
+1309,emp_rate,Employment rate,0.456
+1309,unemp_rate,Unemployment rate,0.191
+1310,total_pop_15+,Canadian population aged 15+,81865
+1310,labour_force,In the labour force,52950
+1310,emp,Employed,48085
+1310,unemp,Unemployed,4865
+1310,not_labour_force,Not in the labour force,28920
+1310,part_rate,Participation rate,0.647
+1310,emp_rate,Employment rate,0.587
+1310,unemp_rate,Unemployment rate,0.092
+1311,total_pop_15+,Canadian population aged 15+,21495
+1311,labour_force,In the labour force,13500
+1311,emp,Employed,12265
+1311,unemp,Unemployed,1235
+1311,not_labour_force,Not in the labour force,7995
+1311,part_rate,Participation rate,0.628
+1311,emp_rate,Employment rate,0.571
+1311,unemp_rate,Unemployment rate,0.091
+1312,total_pop_15+,Canadian population aged 15+,15550
+1312,labour_force,In the labour force,8825
+1312,emp,Employed,7535
+1312,unemp,Unemployed,1290
+1312,not_labour_force,Not in the labour force,6730
+1312,part_rate,Participation rate,0.568
+1312,emp_rate,Employment rate,0.485
+1312,unemp_rate,Unemployment rate,0.146
+1313,total_pop_15+,Canadian population aged 15+,27150
+1313,labour_force,In the labour force,16165
+1313,emp,Employed,14685
+1313,unemp,Unemployed,1485
+1313,not_labour_force,Not in the labour force,10985
+1313,part_rate,Participation rate,0.595
+1313,emp_rate,Employment rate,0.541
+1313,unemp_rate,Unemployment rate,0.092
+1314,total_pop_15+,Canadian population aged 15+,26230
+1314,labour_force,In the labour force,14330
+1314,emp,Employed,12090
+1314,unemp,Unemployed,2240
+1314,not_labour_force,Not in the labour force,11900
+1314,part_rate,Participation rate,0.546
+1314,emp_rate,Employment rate,0.461
+1314,unemp_rate,Unemployment rate,0.156
+1315,total_pop_15+,Canadian population aged 15+,67545
+1315,labour_force,In the labour force,37080
+1315,emp,Employed,31415
+1315,unemp,Unemployed,5660
+1315,not_labour_force,Not in the labour force,30465
+1315,part_rate,Participation rate,0.549
+1315,emp_rate,Employment rate,0.465
+1315,unemp_rate,Unemployment rate,0.153
+2401,total_pop_15+,Canadian population aged 15+,10790
+2401,labour_force,In the labour force,6705
+2401,emp,Employed,5900
+2401,unemp,Unemployed,805
+2401,not_labour_force,Not in the labour force,4080
+2401,part_rate,Participation rate,0.621
+2401,emp_rate,Employment rate,0.547
+2401,unemp_rate,Unemployment rate,0.12
+2402,total_pop_15+,Canadian population aged 15+,15190
+2402,labour_force,In the labour force,7610
+2402,emp,Employed,6475
+2402,unemp,Unemployed,1135
+2402,not_labour_force,Not in the labour force,7580
+2402,part_rate,Participation rate,0.501
+2402,emp_rate,Employment rate,0.426
+2402,unemp_rate,Unemployment rate,0.149
+2403,total_pop_15+,Canadian population aged 15+,14460
+2403,labour_force,In the labour force,8375
+2403,emp,Employed,7330
+2403,unemp,Unemployed,1035
+2403,not_labour_force,Not in the labour force,6085
+2403,part_rate,Participation rate,0.579
+2403,emp_rate,Employment rate,0.507
+2403,unemp_rate,Unemployment rate,0.124
+2404,total_pop_15+,Canadian population aged 15+,9625
+2404,labour_force,In the labour force,4650
+2404,emp,Employed,3700
+2404,unemp,Unemployed,955
+2404,not_labour_force,Not in the labour force,4975
+2404,part_rate,Participation rate,0.483
+2404,emp_rate,Employment rate,0.384
+2404,unemp_rate,Unemployment rate,0.205
+2405,total_pop_15+,Canadian population aged 15+,14985
+2405,labour_force,In the labour force,8085
+2405,emp,Employed,6760
+2405,unemp,Unemployed,1330
+2405,not_labour_force,Not in the labour force,6900
+2405,part_rate,Participation rate,0.54
+2405,emp_rate,Employment rate,0.451
+2405,unemp_rate,Unemployment rate,0.165
+2406,total_pop_15+,Canadian population aged 15+,11860
+2406,labour_force,In the labour force,6355
+2406,emp,Employed,5210
+2406,unemp,Unemployed,1145
+2406,not_labour_force,Not in the labour force,5505
+2406,part_rate,Participation rate,0.536
+2406,emp_rate,Employment rate,0.439
+2406,unemp_rate,Unemployment rate,0.18
+2407,total_pop_15+,Canadian population aged 15+,14775
+2407,labour_force,In the labour force,8210
+2407,emp,Employed,7090
+2407,unemp,Unemployed,1120
+2407,not_labour_force,Not in the labour force,6565
+2407,part_rate,Participation rate,0.556
+2407,emp_rate,Employment rate,0.48
+2407,unemp_rate,Unemployment rate,0.136
+2408,total_pop_15+,Canadian population aged 15+,17870
+2408,labour_force,In the labour force,9915
+2408,emp,Employed,8745
+2408,unemp,Unemployed,1170
+2408,not_labour_force,Not in the labour force,7955
+2408,part_rate,Participation rate,0.555
+2408,emp_rate,Employment rate,0.489
+2408,unemp_rate,Unemployment rate,0.118
+2409,total_pop_15+,Canadian population aged 15+,14680
+2409,labour_force,In the labour force,8210
+2409,emp,Employed,7390
+2409,unemp,Unemployed,820
+2409,not_labour_force,Not in the labour force,6465
+2409,part_rate,Participation rate,0.559
+2409,emp_rate,Employment rate,0.503
+2409,unemp_rate,Unemployment rate,0.1
+2410,total_pop_15+,Canadian population aged 15+,46505
+2410,labour_force,In the labour force,28165
+2410,emp,Employed,25955
+2410,unemp,Unemployed,2205
+2410,not_labour_force,Not in the labour force,18345
+2410,part_rate,Participation rate,0.606
+2410,emp_rate,Employment rate,0.558
+2410,unemp_rate,Unemployment rate,0.078
+2411,total_pop_15+,Canadian population aged 15+,7200
+2411,labour_force,In the labour force,3800
+2411,emp,Employed,3335
+2411,unemp,Unemployed,460
+2411,not_labour_force,Not in the labour force,3405
+2411,part_rate,Participation rate,0.528
+2411,emp_rate,Employment rate,0.463
+2411,unemp_rate,Unemployment rate,0.121
+2412,total_pop_15+,Canadian population aged 15+,27320
+2412,labour_force,In the labour force,17275
+2412,emp,Employed,16220
+2412,unemp,Unemployed,1055
+2412,not_labour_force,Not in the labour force,10045
+2412,part_rate,Participation rate,0.632
+2412,emp_rate,Employment rate,0.594
+2412,unemp_rate,Unemployment rate,0.061
+2413,total_pop_15+,Canadian population aged 15+,16205
+2413,labour_force,In the labour force,9025
+2413,emp,Employed,8065
+2413,unemp,Unemployed,955
+2413,not_labour_force,Not in the labour force,7185
+2413,part_rate,Participation rate,0.557
+2413,emp_rate,Employment rate,0.498
+2413,unemp_rate,Unemployment rate,0.106
+2414,total_pop_15+,Canadian population aged 15+,17015
+2414,labour_force,In the labour force,9965
+2414,emp,Employed,9285
+2414,unemp,Unemployed,685
+2414,not_labour_force,Not in the labour force,7045
+2414,part_rate,Participation rate,0.586
+2414,emp_rate,Employment rate,0.546
+2414,unemp_rate,Unemployment rate,0.069
+2415,total_pop_15+,Canadian population aged 15+,13055
+2415,labour_force,In the labour force,7360
+2415,emp,Employed,6485
+2415,unemp,Unemployed,870
+2415,not_labour_force,Not in the labour force,5695
+2415,part_rate,Participation rate,0.564
+2415,emp_rate,Employment rate,0.497
+2415,unemp_rate,Unemployment rate,0.118
+2416,total_pop_15+,Canadian population aged 15+,10810
+2416,labour_force,In the labour force,6130
+2416,emp,Employed,5540
+2416,unemp,Unemployed,595
+2416,not_labour_force,Not in the labour force,4680
+2416,part_rate,Participation rate,0.567
+2416,emp_rate,Employment rate,0.512
+2416,unemp_rate,Unemployment rate,0.097
+2417,total_pop_15+,Canadian population aged 15+,14750
+2417,labour_force,In the labour force,8890
+2417,emp,Employed,8310
+2417,unemp,Unemployed,580
+2417,not_labour_force,Not in the labour force,5865
+2417,part_rate,Participation rate,0.603
+2417,emp_rate,Employment rate,0.563
+2417,unemp_rate,Unemployment rate,0.065
+2418,total_pop_15+,Canadian population aged 15+,18985
+2418,labour_force,In the labour force,11055
+2418,emp,Employed,10435
+2418,unemp,Unemployed,620
+2418,not_labour_force,Not in the labour force,7935
+2418,part_rate,Participation rate,0.582
+2418,emp_rate,Employment rate,0.55
+2418,unemp_rate,Unemployment rate,0.056
+2419,total_pop_15+,Canadian population aged 15+,29665
+2419,labour_force,In the labour force,19855
+2419,emp,Employed,19060
+2419,unemp,Unemployed,795
+2419,not_labour_force,Not in the labour force,9815
+2419,part_rate,Participation rate,0.669
+2419,emp_rate,Employment rate,0.643
+2419,unemp_rate,Unemployment rate,0.04
+2420,total_pop_15+,Canadian population aged 15+,5990
+2420,labour_force,In the labour force,3620
+2420,emp,Employed,3500
+2420,unemp,Unemployed,125
+2420,not_labour_force,Not in the labour force,2365
+2420,part_rate,Participation rate,0.604
+2420,emp_rate,Employment rate,0.584
+2420,unemp_rate,Unemployment rate,0.035
+2421,total_pop_15+,Canadian population aged 15+,22585
+2421,labour_force,In the labour force,15015
+2421,emp,Employed,14315
+2421,unemp,Unemployed,705
+2421,not_labour_force,Not in the labour force,7565
+2421,part_rate,Participation rate,0.665
+2421,emp_rate,Employment rate,0.634
+2421,unemp_rate,Unemployment rate,0.047
+2422,total_pop_15+,Canadian population aged 15+,32570
+2422,labour_force,In the labour force,24645
+2422,emp,Employed,23750
+2422,unemp,Unemployed,895
+2422,not_labour_force,Not in the labour force,7920
+2422,part_rate,Participation rate,0.757
+2422,emp_rate,Employment rate,0.729
+2422,unemp_rate,Unemployment rate,0.036
+2423,total_pop_15+,Canadian population aged 15+,472065
+2423,labour_force,In the labour force,308265
+2423,emp,Employed,293255
+2423,unemp,Unemployed,15010
+2423,not_labour_force,Not in the labour force,163800
+2423,part_rate,Participation rate,0.653
+2423,emp_rate,Employment rate,0.621
+2423,unemp_rate,Unemployment rate,0.049
+2425,total_pop_15+,Canadian population aged 15+,115570
+2425,labour_force,In the labour force,80415
+2425,emp,Employed,77125
+2425,unemp,Unemployed,3290
+2425,not_labour_force,Not in the labour force,35155
+2425,part_rate,Participation rate,0.696
+2425,emp_rate,Employment rate,0.667
+2425,unemp_rate,Unemployment rate,0.041
+2426,total_pop_15+,Canadian population aged 15+,28705
+2426,labour_force,In the labour force,20640
+2426,emp,Employed,19920
+2426,unemp,Unemployed,725
+2426,not_labour_force,Not in the labour force,8065
+2426,part_rate,Participation rate,0.719
+2426,emp_rate,Employment rate,0.694
+2426,unemp_rate,Unemployment rate,0.035
+2427,total_pop_15+,Canadian population aged 15+,15050
+2427,labour_force,In the labour force,9875
+2427,emp,Employed,9465
+2427,unemp,Unemployed,410
+2427,not_labour_force,Not in the labour force,5170
+2427,part_rate,Participation rate,0.656
+2427,emp_rate,Employment rate,0.629
+2427,unemp_rate,Unemployment rate,0.042
+2428,total_pop_15+,Canadian population aged 15+,13605
+2428,labour_force,In the labour force,7645
+2428,emp,Employed,7165
+2428,unemp,Unemployed,480
+2428,not_labour_force,Not in the labour force,5955
+2428,part_rate,Participation rate,0.562
+2428,emp_rate,Employment rate,0.527
+2428,unemp_rate,Unemployment rate,0.063
+2429,total_pop_15+,Canadian population aged 15+,41840
+2429,labour_force,In the labour force,27860
+2429,emp,Employed,26520
+2429,unemp,Unemployed,1335
+2429,not_labour_force,Not in the labour force,13980
+2429,part_rate,Participation rate,0.666
+2429,emp_rate,Employment rate,0.634
+2429,unemp_rate,Unemployment rate,0.048
+2430,total_pop_15+,Canadian population aged 15+,17630
+2430,labour_force,In the labour force,10475
+2430,emp,Employed,9955
+2430,unemp,Unemployed,515
+2430,not_labour_force,Not in the labour force,7155
+2430,part_rate,Participation rate,0.594
+2430,emp_rate,Employment rate,0.565
+2430,unemp_rate,Unemployment rate,0.049
+2431,total_pop_15+,Canadian population aged 15+,34930
+2431,labour_force,In the labour force,19685
+2431,emp,Employed,18750
+2431,unemp,Unemployed,935
+2431,not_labour_force,Not in the labour force,15245
+2431,part_rate,Participation rate,0.564
+2431,emp_rate,Employment rate,0.537
+2431,unemp_rate,Unemployment rate,0.047
+2432,total_pop_15+,Canadian population aged 15+,18880
+2432,labour_force,In the labour force,12150
+2432,emp,Employed,11415
+2432,unemp,Unemployed,730
+2432,not_labour_force,Not in the labour force,6730
+2432,part_rate,Participation rate,0.644
+2432,emp_rate,Employment rate,0.605
+2432,unemp_rate,Unemployment rate,0.06
+2433,total_pop_15+,Canadian population aged 15+,25365
+2433,labour_force,In the labour force,17695
+2433,emp,Employed,16875
+2433,unemp,Unemployed,820
+2433,not_labour_force,Not in the labour force,7665
+2433,part_rate,Participation rate,0.698
+2433,emp_rate,Employment rate,0.665
+2433,unemp_rate,Unemployment rate,0.046
+2434,total_pop_15+,Canadian population aged 15+,42820
+2434,labour_force,In the labour force,27065
+2434,emp,Employed,25560
+2434,unemp,Unemployed,1500
+2434,not_labour_force,Not in the labour force,15760
+2434,part_rate,Participation rate,0.632
+2434,emp_rate,Employment rate,0.597
+2434,unemp_rate,Unemployment rate,0.055
+2435,total_pop_15+,Canadian population aged 15+,10585
+2435,labour_force,In the labour force,5385
+2435,emp,Employed,4790
+2435,unemp,Unemployed,595
+2435,not_labour_force,Not in the labour force,5205
+2435,part_rate,Participation rate,0.509
+2435,emp_rate,Employment rate,0.453
+2435,unemp_rate,Unemployment rate,0.11
+2436,total_pop_15+,Canadian population aged 15+,41565
+2436,labour_force,In the labour force,21530
+2436,emp,Employed,19580
+2436,unemp,Unemployed,1950
+2436,not_labour_force,Not in the labour force,20035
+2436,part_rate,Participation rate,0.518
+2436,emp_rate,Employment rate,0.471
+2436,unemp_rate,Unemployment rate,0.091
+2437,total_pop_15+,Canadian population aged 15+,125815
+2437,labour_force,In the labour force,74190
+2437,emp,Employed,68590
+2437,unemp,Unemployed,5595
+2437,not_labour_force,Not in the labour force,51630
+2437,part_rate,Participation rate,0.59
+2437,emp_rate,Employment rate,0.545
+2437,unemp_rate,Unemployment rate,0.075
+2438,total_pop_15+,Canadian population aged 15+,16595
+2438,labour_force,In the labour force,9865
+2438,emp,Employed,9285
+2438,unemp,Unemployed,580
+2438,not_labour_force,Not in the labour force,6730
+2438,part_rate,Participation rate,0.594
+2438,emp_rate,Employment rate,0.56
+2438,unemp_rate,Unemployment rate,0.059
+2439,total_pop_15+,Canadian population aged 15+,57640
+2439,labour_force,In the labour force,36765
+2439,emp,Employed,34700
+2439,unemp,Unemployed,2070
+2439,not_labour_force,Not in the labour force,20875
+2439,part_rate,Participation rate,0.638
+2439,emp_rate,Employment rate,0.602
+2439,unemp_rate,Unemployment rate,0.056
+2440,total_pop_15+,Canadian population aged 15+,11505
+2440,labour_force,In the labour force,6080
+2440,emp,Employed,5700
+2440,unemp,Unemployed,380
+2440,not_labour_force,Not in the labour force,5430
+2440,part_rate,Participation rate,0.528
+2440,emp_rate,Employment rate,0.495
+2440,unemp_rate,Unemployment rate,0.062
+2441,total_pop_15+,Canadian population aged 15+,18090
+2441,labour_force,In the labour force,10935
+2441,emp,Employed,10195
+2441,unemp,Unemployed,745
+2441,not_labour_force,Not in the labour force,7160
+2441,part_rate,Participation rate,0.604
+2441,emp_rate,Employment rate,0.564
+2441,unemp_rate,Unemployment rate,0.068
+2442,total_pop_15+,Canadian population aged 15+,24590
+2442,labour_force,In the labour force,15405
+2442,emp,Employed,14615
+2442,unemp,Unemployed,790
+2442,not_labour_force,Not in the labour force,9185
+2442,part_rate,Participation rate,0.626
+2442,emp_rate,Employment rate,0.594
+2442,unemp_rate,Unemployment rate,0.051
+2443,total_pop_15+,Canadian population aged 15+,130400
+2443,labour_force,In the labour force,81740
+2443,emp,Employed,76080
+2443,unemp,Unemployed,5655
+2443,not_labour_force,Not in the labour force,48660
+2443,part_rate,Participation rate,0.627
+2443,emp_rate,Employment rate,0.583
+2443,unemp_rate,Unemployment rate,0.069
+2444,total_pop_15+,Canadian population aged 15+,14780
+2444,labour_force,In the labour force,9830
+2444,emp,Employed,9390
+2444,unemp,Unemployed,435
+2444,not_labour_force,Not in the labour force,4950
+2444,part_rate,Participation rate,0.665
+2444,emp_rate,Employment rate,0.635
+2444,unemp_rate,Unemployment rate,0.044
+2445,total_pop_15+,Canadian population aged 15+,42025
+2445,labour_force,In the labour force,24560
+2445,emp,Employed,22960
+2445,unemp,Unemployed,1600
+2445,not_labour_force,Not in the labour force,17465
+2445,part_rate,Participation rate,0.584
+2445,emp_rate,Employment rate,0.546
+2445,unemp_rate,Unemployment rate,0.065
+2446,total_pop_15+,Canadian population aged 15+,47555
+2446,labour_force,In the labour force,28880
+2446,emp,Employed,27280
+2446,unemp,Unemployed,1605
+2446,not_labour_force,Not in the labour force,18675
+2446,part_rate,Participation rate,0.607
+2446,emp_rate,Employment rate,0.574
+2446,unemp_rate,Unemployment rate,0.056
+2447,total_pop_15+,Canadian population aged 15+,71190
+2447,labour_force,In the labour force,44740
+2447,emp,Employed,42000
+2447,unemp,Unemployed,2740
+2447,not_labour_force,Not in the labour force,26455
+2447,part_rate,Participation rate,0.628
+2447,emp_rate,Employment rate,0.59
+2447,unemp_rate,Unemployment rate,0.061
+2448,total_pop_15+,Canadian population aged 15+,12575
+2448,labour_force,In the labour force,7835
+2448,emp,Employed,7365
+2448,unemp,Unemployed,470
+2448,not_labour_force,Not in the labour force,4735
+2448,part_rate,Participation rate,0.623
+2448,emp_rate,Employment rate,0.586
+2448,unemp_rate,Unemployment rate,0.06
+2449,total_pop_15+,Canadian population aged 15+,82495
+2449,labour_force,In the labour force,52925
+2449,emp,Employed,49325
+2449,unemp,Unemployed,3605
+2449,not_labour_force,Not in the labour force,29570
+2449,part_rate,Participation rate,0.642
+2449,emp_rate,Employment rate,0.598
+2449,unemp_rate,Unemployment rate,0.068
+2450,total_pop_15+,Canadian population aged 15+,18675
+2450,labour_force,In the labour force,11510
+2450,emp,Employed,10875
+2450,unemp,Unemployed,635
+2450,not_labour_force,Not in the labour force,7160
+2450,part_rate,Participation rate,0.616
+2450,emp_rate,Employment rate,0.582
+2450,unemp_rate,Unemployment rate,0.055
+2451,total_pop_15+,Canadian population aged 15+,30190
+2451,labour_force,In the labour force,17470
+2451,emp,Employed,16265
+2451,unemp,Unemployed,1205
+2451,not_labour_force,Not in the labour force,12720
+2451,part_rate,Participation rate,0.579
+2451,emp_rate,Employment rate,0.539
+2451,unemp_rate,Unemployment rate,0.069
+2452,total_pop_15+,Canadian population aged 15+,35000
+2452,labour_force,In the labour force,20970
+2452,emp,Employed,19365
+2452,unemp,Unemployed,1605
+2452,not_labour_force,Not in the labour force,14030
+2452,part_rate,Participation rate,0.599
+2452,emp_rate,Employment rate,0.553
+2452,unemp_rate,Unemployment rate,0.077
+2453,total_pop_15+,Canadian population aged 15+,42880
+2453,labour_force,In the labour force,23860
+2453,emp,Employed,22020
+2453,unemp,Unemployed,1840
+2453,not_labour_force,Not in the labour force,19015
+2453,part_rate,Participation rate,0.556
+2453,emp_rate,Employment rate,0.514
+2453,unemp_rate,Unemployment rate,0.077
+2454,total_pop_15+,Canadian population aged 15+,69525
+2454,labour_force,In the labour force,45510
+2454,emp,Employed,42960
+2454,unemp,Unemployed,2550
+2454,not_labour_force,Not in the labour force,24010
+2454,part_rate,Participation rate,0.655
+2454,emp_rate,Employment rate,0.618
+2454,unemp_rate,Unemployment rate,0.056
+2455,total_pop_15+,Canadian population aged 15+,28725
+2455,labour_force,In the labour force,20170
+2455,emp,Employed,19290
+2455,unemp,Unemployed,875
+2455,not_labour_force,Not in the labour force,8555
+2455,part_rate,Participation rate,0.702
+2455,emp_rate,Employment rate,0.672
+2455,unemp_rate,Unemployment rate,0.043
+2456,total_pop_15+,Canadian population aged 15+,95125
+2456,labour_force,In the labour force,62505
+2456,emp,Employed,58915
+2456,unemp,Unemployed,3590
+2456,not_labour_force,Not in the labour force,32620
+2456,part_rate,Participation rate,0.657
+2456,emp_rate,Employment rate,0.619
+2456,unemp_rate,Unemployment rate,0.057
+2457,total_pop_15+,Canadian population aged 15+,98015
+2457,labour_force,In the labour force,70065
+2457,emp,Employed,67055
+2457,unemp,Unemployed,3010
+2457,not_labour_force,Not in the labour force,27950
+2457,part_rate,Participation rate,0.715
+2457,emp_rate,Employment rate,0.684
+2457,unemp_rate,Unemployment rate,0.043
+2458,total_pop_15+,Canadian population aged 15+,340195
+2458,labour_force,In the labour force,217525
+2458,emp,Employed,202675
+2458,unemp,Unemployed,14850
+2458,not_labour_force,Not in the labour force,122670
+2458,part_rate,Participation rate,0.639
+2458,emp_rate,Employment rate,0.596
+2458,unemp_rate,Unemployment rate,0.068
+2459,total_pop_15+,Canadian population aged 15+,61345
+2459,labour_force,In the labour force,44270
+2459,emp,Employed,42440
+2459,unemp,Unemployed,1835
+2459,not_labour_force,Not in the labour force,17070
+2459,part_rate,Participation rate,0.722
+2459,emp_rate,Employment rate,0.692
+2459,unemp_rate,Unemployment rate,0.041
+2460,total_pop_15+,Canadian population aged 15+,101370
+2460,labour_force,In the labour force,67125
+2460,emp,Employed,63280
+2460,unemp,Unemployed,3845
+2460,not_labour_force,Not in the labour force,34245
+2460,part_rate,Participation rate,0.662
+2460,emp_rate,Employment rate,0.624
+2460,unemp_rate,Unemployment rate,0.057
+2461,total_pop_15+,Canadian population aged 15+,53825
+2461,labour_force,In the labour force,31565
+2461,emp,Employed,29305
+2461,unemp,Unemployed,2255
+2461,not_labour_force,Not in the labour force,22260
+2461,part_rate,Participation rate,0.586
+2461,emp_rate,Employment rate,0.544
+2461,unemp_rate,Unemployment rate,0.071
+2462,total_pop_15+,Canadian population aged 15+,42830
+2462,labour_force,In the labour force,22220
+2462,emp,Employed,20065
+2462,unemp,Unemployed,2150
+2462,not_labour_force,Not in the labour force,20610
+2462,part_rate,Participation rate,0.519
+2462,emp_rate,Employment rate,0.468
+2462,unemp_rate,Unemployment rate,0.097
+2463,total_pop_15+,Canadian population aged 15+,42240
+2463,labour_force,In the labour force,27515
+2463,emp,Employed,25490
+2463,unemp,Unemployed,2015
+2463,not_labour_force,Not in the labour force,14725
+2463,part_rate,Participation rate,0.651
+2463,emp_rate,Employment rate,0.603
+2463,unemp_rate,Unemployment rate,0.073
+2464,total_pop_15+,Canadian population aged 15+,124755
+2464,labour_force,In the labour force,89365
+2464,emp,Employed,84230
+2464,unemp,Unemployed,5135
+2464,not_labour_force,Not in the labour force,35390
+2464,part_rate,Participation rate,0.716
+2464,emp_rate,Employment rate,0.675
+2464,unemp_rate,Unemployment rate,0.057
+2465,total_pop_15+,Canadian population aged 15+,337495
+2465,labour_force,In the labour force,223995
+2465,emp,Employed,208320
+2465,unemp,Unemployed,15675
+2465,not_labour_force,Not in the labour force,113500
+2465,part_rate,Participation rate,0.664
+2465,emp_rate,Employment rate,0.617
+2465,unemp_rate,Unemployment rate,0.07
+2466,total_pop_15+,Canadian population aged 15+,1590980
+2466,labour_force,In the labour force,1019360
+2466,emp,Employed,927720
+2466,unemp,Unemployed,91645
+2466,not_labour_force,Not in the labour force,571625
+2466,part_rate,Participation rate,0.641
+2466,emp_rate,Employment rate,0.583
+2466,unemp_rate,Unemployment rate,0.09
+2467,total_pop_15+,Canadian population aged 15+,137210
+2467,labour_force,In the labour force,94885
+2467,emp,Employed,89375
+2467,unemp,Unemployed,5515
+2467,not_labour_force,Not in the labour force,42325
+2467,part_rate,Participation rate,0.692
+2467,emp_rate,Employment rate,0.651
+2467,unemp_rate,Unemployment rate,0.058
+2468,total_pop_15+,Canadian population aged 15+,22250
+2468,labour_force,In the labour force,15240
+2468,emp,Employed,14480
+2468,unemp,Unemployed,760
+2468,not_labour_force,Not in the labour force,7010
+2468,part_rate,Participation rate,0.685
+2468,emp_rate,Employment rate,0.651
+2468,unemp_rate,Unemployment rate,0.05
+2469,total_pop_15+,Canadian population aged 15+,18575
+2469,labour_force,In the labour force,10695
+2469,emp,Employed,9915
+2469,unemp,Unemployed,780
+2469,not_labour_force,Not in the labour force,7875
+2469,part_rate,Participation rate,0.576
+2469,emp_rate,Employment rate,0.534
+2469,unemp_rate,Unemployment rate,0.073
+2470,total_pop_15+,Canadian population aged 15+,52855
+2470,labour_force,In the labour force,32185
+2470,emp,Employed,29750
+2470,unemp,Unemployed,2435
+2470,not_labour_force,Not in the labour force,20665
+2470,part_rate,Participation rate,0.609
+2470,emp_rate,Employment rate,0.563
+2470,unemp_rate,Unemployment rate,0.076
+2471,total_pop_15+,Canadian population aged 15+,118110
+2471,labour_force,In the labour force,83980
+2471,emp,Employed,79450
+2471,unemp,Unemployed,4530
+2471,not_labour_force,Not in the labour force,34130
+2471,part_rate,Participation rate,0.711
+2471,emp_rate,Employment rate,0.673
+2471,unemp_rate,Unemployment rate,0.054
+2472,total_pop_15+,Canadian population aged 15+,79205
+2472,labour_force,In the labour force,54080
+2472,emp,Employed,50575
+2472,unemp,Unemployed,3500
+2472,not_labour_force,Not in the labour force,25125
+2472,part_rate,Participation rate,0.683
+2472,emp_rate,Employment rate,0.639
+2472,unemp_rate,Unemployment rate,0.065
+2473,total_pop_15+,Canadian population aged 15+,125715
+2473,labour_force,In the labour force,87745
+2473,emp,Employed,82810
+2473,unemp,Unemployed,4940
+2473,not_labour_force,Not in the labour force,37970
+2473,part_rate,Participation rate,0.698
+2473,emp_rate,Employment rate,0.659
+2473,unemp_rate,Unemployment rate,0.056
+2474,total_pop_15+,Canadian population aged 15+,39180
+2474,labour_force,In the labour force,29565
+2474,emp,Employed,28160
+2474,unemp,Unemployed,1410
+2474,not_labour_force,Not in the labour force,9615
+2474,part_rate,Participation rate,0.755
+2474,emp_rate,Employment rate,0.719
+2474,unemp_rate,Unemployment rate,0.048
+2475,total_pop_15+,Canadian population aged 15+,103060
+2475,labour_force,In the labour force,67465
+2475,emp,Employed,62845
+2475,unemp,Unemployed,4620
+2475,not_labour_force,Not in the labour force,35600
+2475,part_rate,Participation rate,0.655
+2475,emp_rate,Employment rate,0.61
+2475,unemp_rate,Unemployment rate,0.068
+2476,total_pop_15+,Canadian population aged 15+,27135
+2476,labour_force,In the labour force,15380
+2476,emp,Employed,14185
+2476,unemp,Unemployed,1195
+2476,not_labour_force,Not in the labour force,11755
+2476,part_rate,Participation rate,0.567
+2476,emp_rate,Employment rate,0.523
+2476,unemp_rate,Unemployment rate,0.078
+2477,total_pop_15+,Canadian population aged 15+,36415
+2477,labour_force,In the labour force,20820
+2477,emp,Employed,19390
+2477,unemp,Unemployed,1435
+2477,not_labour_force,Not in the labour force,15595
+2477,part_rate,Participation rate,0.572
+2477,emp_rate,Employment rate,0.532
+2477,unemp_rate,Unemployment rate,0.069
+2478,total_pop_15+,Canadian population aged 15+,38725
+2478,labour_force,In the labour force,22720
+2478,emp,Employed,20480
+2478,unemp,Unemployed,2245
+2478,not_labour_force,Not in the labour force,16005
+2478,part_rate,Participation rate,0.587
+2478,emp_rate,Employment rate,0.529
+2478,unemp_rate,Unemployment rate,0.099
+2479,total_pop_15+,Canadian population aged 15+,29575
+2479,labour_force,In the labour force,15170
+2479,emp,Employed,13465
+2479,unemp,Unemployed,1705
+2479,not_labour_force,Not in the labour force,14405
+2479,part_rate,Participation rate,0.513
+2479,emp_rate,Employment rate,0.455
+2479,unemp_rate,Unemployment rate,0.112
+2480,total_pop_15+,Canadian population aged 15+,19370
+2480,labour_force,In the labour force,10375
+2480,emp,Employed,9560
+2480,unemp,Unemployed,825
+2480,not_labour_force,Not in the labour force,8990
+2480,part_rate,Participation rate,0.536
+2480,emp_rate,Employment rate,0.494
+2480,unemp_rate,Unemployment rate,0.08
+2481,total_pop_15+,Canadian population aged 15+,221340
+2481,labour_force,In the labour force,150515
+2481,emp,Employed,140255
+2481,unemp,Unemployed,10260
+2481,not_labour_force,Not in the labour force,70825
+2481,part_rate,Participation rate,0.68
+2481,emp_rate,Employment rate,0.634
+2481,unemp_rate,Unemployment rate,0.068
+2482,total_pop_15+,Canadian population aged 15+,39220
+2482,labour_force,In the labour force,27670
+2482,emp,Employed,26275
+2482,unemp,Unemployed,1390
+2482,not_labour_force,Not in the labour force,11555
+2482,part_rate,Participation rate,0.706
+2482,emp_rate,Employment rate,0.67
+2482,unemp_rate,Unemployment rate,0.05
+2483,total_pop_15+,Canadian population aged 15+,17135
+2483,labour_force,In the labour force,9010
+2483,emp,Employed,7880
+2483,unemp,Unemployed,1125
+2483,not_labour_force,Not in the labour force,8130
+2483,part_rate,Participation rate,0.526
+2483,emp_rate,Employment rate,0.46
+2483,unemp_rate,Unemployment rate,0.125
+2484,total_pop_15+,Canadian population aged 15+,11985
+2484,labour_force,In the labour force,6295
+2484,emp,Employed,5630
+2484,unemp,Unemployed,660
+2484,not_labour_force,Not in the labour force,5690
+2484,part_rate,Participation rate,0.525
+2484,emp_rate,Employment rate,0.47
+2484,unemp_rate,Unemployment rate,0.105
+2485,total_pop_15+,Canadian population aged 15+,12965
+2485,labour_force,In the labour force,7640
+2485,emp,Employed,6960
+2485,unemp,Unemployed,685
+2485,not_labour_force,Not in the labour force,5320
+2485,part_rate,Participation rate,0.589
+2485,emp_rate,Employment rate,0.537
+2485,unemp_rate,Unemployment rate,0.09
+2486,total_pop_15+,Canadian population aged 15+,34145
+2486,labour_force,In the labour force,22050
+2486,emp,Employed,20370
+2486,unemp,Unemployed,1680
+2486,not_labour_force,Not in the labour force,12095
+2486,part_rate,Participation rate,0.646
+2486,emp_rate,Employment rate,0.597
+2486,unemp_rate,Unemployment rate,0.076
+2487,total_pop_15+,Canadian population aged 15+,16535
+2487,labour_force,In the labour force,9430
+2487,emp,Employed,8745
+2487,unemp,Unemployed,685
+2487,not_labour_force,Not in the labour force,7110
+2487,part_rate,Participation rate,0.57
+2487,emp_rate,Employment rate,0.529
+2487,unemp_rate,Unemployment rate,0.073
+2488,total_pop_15+,Canadian population aged 15+,19725
+2488,labour_force,In the labour force,12915
+2488,emp,Employed,11825
+2488,unemp,Unemployed,1095
+2488,not_labour_force,Not in the labour force,6805
+2488,part_rate,Participation rate,0.655
+2488,emp_rate,Employment rate,0.599
+2488,unemp_rate,Unemployment rate,0.085
+2489,total_pop_15+,Canadian population aged 15+,34735
+2489,labour_force,In the labour force,22375
+2489,emp,Employed,20760
+2489,unemp,Unemployed,1620
+2489,not_labour_force,Not in the labour force,12360
+2489,part_rate,Participation rate,0.644
+2489,emp_rate,Employment rate,0.598
+2489,unemp_rate,Unemployment rate,0.072
+2490,total_pop_15+,Canadian population aged 15+,11925
+2490,labour_force,In the labour force,6155
+2490,emp,Employed,5470
+2490,unemp,Unemployed,685
+2490,not_labour_force,Not in the labour force,5770
+2490,part_rate,Participation rate,0.516
+2490,emp_rate,Employment rate,0.459
+2490,unemp_rate,Unemployment rate,0.111
+2491,total_pop_15+,Canadian population aged 15+,25395
+2491,labour_force,In the labour force,14500
+2491,emp,Employed,12915
+2491,unemp,Unemployed,1585
+2491,not_labour_force,Not in the labour force,10895
+2491,part_rate,Participation rate,0.571
+2491,emp_rate,Employment rate,0.509
+2491,unemp_rate,Unemployment rate,0.109
+2492,total_pop_15+,Canadian population aged 15+,19860
+2492,labour_force,In the labour force,11410
+2492,emp,Employed,9860
+2492,unemp,Unemployed,1550
+2492,not_labour_force,Not in the labour force,8450
+2492,part_rate,Participation rate,0.575
+2492,emp_rate,Employment rate,0.496
+2492,unemp_rate,Unemployment rate,0.136
+2493,total_pop_15+,Canadian population aged 15+,42645
+2493,labour_force,In the labour force,25345
+2493,emp,Employed,22915
+2493,unemp,Unemployed,2425
+2493,not_labour_force,Not in the labour force,17305
+2493,part_rate,Participation rate,0.594
+2493,emp_rate,Employment rate,0.537
+2493,unemp_rate,Unemployment rate,0.096
+2494,total_pop_15+,Canadian population aged 15+,138465
+2494,labour_force,In the labour force,82230
+2494,emp,Employed,75195
+2494,unemp,Unemployed,7035
+2494,not_labour_force,Not in the labour force,56240
+2494,part_rate,Participation rate,0.594
+2494,emp_rate,Employment rate,0.543
+2494,unemp_rate,Unemployment rate,0.086
+2495,total_pop_15+,Canadian population aged 15+,9250
+2495,labour_force,In the labour force,4990
+2495,emp,Employed,4115
+2495,unemp,Unemployed,880
+2495,not_labour_force,Not in the labour force,4260
+2495,part_rate,Participation rate,0.539
+2495,emp_rate,Employment rate,0.445
+2495,unemp_rate,Unemployment rate,0.176
+2496,total_pop_15+,Canadian population aged 15+,25605
+2496,labour_force,In the labour force,15020
+2496,emp,Employed,13515
+2496,unemp,Unemployed,1505
+2496,not_labour_force,Not in the labour force,10585
+2496,part_rate,Participation rate,0.587
+2496,emp_rate,Employment rate,0.528
+2496,unemp_rate,Unemployment rate,0.1
+2497,total_pop_15+,Canadian population aged 15+,31285
+2497,labour_force,In the labour force,20080
+2497,emp,Employed,17955
+2497,unemp,Unemployed,2125
+2497,not_labour_force,Not in the labour force,11210
+2497,part_rate,Participation rate,0.642
+2497,emp_rate,Employment rate,0.574
+2497,unemp_rate,Unemployment rate,0.106
+2498,total_pop_15+,Canadian population aged 15+,9110
+2498,labour_force,In the labour force,5660
+2498,emp,Employed,4500
+2498,unemp,Unemployed,1155
+2498,not_labour_force,Not in the labour force,3455
+2498,part_rate,Participation rate,0.621
+2498,emp_rate,Employment rate,0.494
+2498,unemp_rate,Unemployment rate,0.204
+2499,total_pop_15+,Canadian population aged 15+,31635
+2499,labour_force,In the labour force,21555
+2499,emp,Employed,18755
+2499,unemp,Unemployed,2800
+2499,not_labour_force,Not in the labour force,10080
+2499,part_rate,Participation rate,0.681
+2499,emp_rate,Employment rate,0.593
+2499,unemp_rate,Unemployment rate,0.13
+3501,total_pop_15+,Canadian population aged 15+,93070
+3501,labour_force,In the labour force,55175
+3501,emp,Employed,50890
+3501,unemp,Unemployed,4290
+3501,not_labour_force,Not in the labour force,37895
+3501,part_rate,Participation rate,0.593
+3501,emp_rate,Employment rate,0.547
+3501,unemp_rate,Unemployment rate,0.078
+3502,total_pop_15+,Canadian population aged 15+,72270
+3502,labour_force,In the labour force,48170
+3502,emp,Employed,45625
+3502,unemp,Unemployed,2550
+3502,not_labour_force,Not in the labour force,24100
+3502,part_rate,Participation rate,0.667
+3502,emp_rate,Employment rate,0.631
+3502,unemp_rate,Unemployment rate,0.053
+3506,total_pop_15+,Canadian population aged 15+,761420
+3506,labour_force,In the labour force,513660
+3506,emp,Employed,476540
+3506,unemp,Unemployed,37120
+3506,not_labour_force,Not in the labour force,247760
+3506,part_rate,Participation rate,0.675
+3506,emp_rate,Employment rate,0.626
+3506,unemp_rate,Unemployment rate,0.072
+3507,total_pop_15+,Canadian population aged 15+,84765
+3507,labour_force,In the labour force,50805
+3507,emp,Employed,46870
+3507,unemp,Unemployed,3935
+3507,not_labour_force,Not in the labour force,33960
+3507,part_rate,Participation rate,0.599
+3507,emp_rate,Employment rate,0.553
+3507,unemp_rate,Unemployment rate,0.077
+3509,total_pop_15+,Canadian population aged 15+,56875
+3509,labour_force,In the labour force,34930
+3509,emp,Employed,32715
+3509,unemp,Unemployed,2210
+3509,not_labour_force,Not in the labour force,21950
+3509,part_rate,Participation rate,0.614
+3509,emp_rate,Employment rate,0.575
+3509,unemp_rate,Unemployment rate,0.063
+3510,total_pop_15+,Canadian population aged 15+,124725
+3510,labour_force,In the labour force,77390
+3510,emp,Employed,71620
+3510,unemp,Unemployed,5775
+3510,not_labour_force,Not in the labour force,47330
+3510,part_rate,Participation rate,0.62
+3510,emp_rate,Employment rate,0.574
+3510,unemp_rate,Unemployment rate,0.075
+3511,total_pop_15+,Canadian population aged 15+,34760
+3511,labour_force,In the labour force,21100
+3511,emp,Employed,19745
+3511,unemp,Unemployed,1355
+3511,not_labour_force,Not in the labour force,13655
+3511,part_rate,Participation rate,0.607
+3511,emp_rate,Employment rate,0.568
+3511,unemp_rate,Unemployment rate,0.064
+3512,total_pop_15+,Canadian population aged 15+,112650
+3512,labour_force,In the labour force,65145
+3512,emp,Employed,60535
+3512,unemp,Unemployed,4610
+3512,not_labour_force,Not in the labour force,47500
+3512,part_rate,Participation rate,0.578
+3512,emp_rate,Employment rate,0.537
+3512,unemp_rate,Unemployment rate,0.071
+3513,total_pop_15+,Canadian population aged 15+,21270
+3513,labour_force,In the labour force,11530
+3513,emp,Employed,10880
+3513,unemp,Unemployed,650
+3513,not_labour_force,Not in the labour force,9740
+3513,part_rate,Participation rate,0.542
+3513,emp_rate,Employment rate,0.512
+3513,unemp_rate,Unemployment rate,0.056
+3514,total_pop_15+,Canadian population aged 15+,72040
+3514,labour_force,In the labour force,40880
+3514,emp,Employed,37880
+3514,unemp,Unemployed,3000
+3514,not_labour_force,Not in the labour force,31160
+3514,part_rate,Participation rate,0.567
+3514,emp_rate,Employment rate,0.526
+3514,unemp_rate,Unemployment rate,0.073
+3515,total_pop_15+,Canadian population aged 15+,115245
+3515,labour_force,In the labour force,68180
+3515,emp,Employed,62740
+3515,unemp,Unemployed,5440
+3515,not_labour_force,Not in the labour force,47065
+3515,part_rate,Participation rate,0.592
+3515,emp_rate,Employment rate,0.544
+3515,unemp_rate,Unemployment rate,0.08
+3516,total_pop_15+,Canadian population aged 15+,63510
+3516,labour_force,In the labour force,36160
+3516,emp,Employed,33365
+3516,unemp,Unemployed,2795
+3516,not_labour_force,Not in the labour force,27345
+3516,part_rate,Participation rate,0.569
+3516,emp_rate,Employment rate,0.525
+3516,unemp_rate,Unemployment rate,0.077
+3518,total_pop_15+,Canadian population aged 15+,523485
+3518,labour_force,In the labour force,352750
+3518,emp,Employed,324375
+3518,unemp,Unemployed,28380
+3518,not_labour_force,Not in the labour force,170735
+3518,part_rate,Participation rate,0.674
+3518,emp_rate,Employment rate,0.62
+3518,unemp_rate,Unemployment rate,0.08
+3519,total_pop_15+,Canadian population aged 15+,905545
+3519,labour_force,In the labour force,604200
+3519,emp,Employed,565295
+3519,unemp,Unemployed,38905
+3519,not_labour_force,Not in the labour force,301340
+3519,part_rate,Participation rate,0.667
+3519,emp_rate,Employment rate,0.624
+3519,unemp_rate,Unemployment rate,0.064
+3520,total_pop_15+,Canadian population aged 15+,2294790
+3520,labour_force,In the labour force,1483675
+3520,emp,Employed,1361375
+3520,unemp,Unemployed,122305
+3520,not_labour_force,Not in the labour force,811110
+3520,part_rate,Participation rate,0.647
+3520,emp_rate,Employment rate,0.593
+3520,unemp_rate,Unemployment rate,0.082
+3521,total_pop_15+,Canadian population aged 15+,1119400
+3521,labour_force,In the labour force,753110
+3521,emp,Employed,691470
+3521,unemp,Unemployed,61640
+3521,not_labour_force,Not in the labour force,366295
+3521,part_rate,Participation rate,0.673
+3521,emp_rate,Employment rate,0.618
+3521,unemp_rate,Unemployment rate,0.082
+3522,total_pop_15+,Canadian population aged 15+,49430
+3522,labour_force,In the labour force,35640
+3522,emp,Employed,33535
+3522,unemp,Unemployed,2105
+3522,not_labour_force,Not in the labour force,13790
+3522,part_rate,Participation rate,0.721
+3522,emp_rate,Employment rate,0.678
+3522,unemp_rate,Unemployment rate,0.059
+3523,total_pop_15+,Canadian population aged 15+,180355
+3523,labour_force,In the labour force,126120
+3523,emp,Employed,119465
+3523,unemp,Unemployed,6650
+3523,not_labour_force,Not in the labour force,54240
+3523,part_rate,Participation rate,0.699
+3523,emp_rate,Employment rate,0.662
+3523,unemp_rate,Unemployment rate,0.053
+3524,total_pop_15+,Canadian population aged 15+,433845
+3524,labour_force,In the labour force,302950
+3524,emp,Employed,284770
+3524,unemp,Unemployed,18180
+3524,not_labour_force,Not in the labour force,130895
+3524,part_rate,Participation rate,0.698
+3524,emp_rate,Employment rate,0.656
+3524,unemp_rate,Unemployment rate,0.06
+3525,total_pop_15+,Canadian population aged 15+,441055
+3525,labour_force,In the labour force,278645
+3525,emp,Employed,259070
+3525,unemp,Unemployed,19580
+3525,not_labour_force,Not in the labour force,162410
+3525,part_rate,Participation rate,0.632
+3525,emp_rate,Employment rate,0.587
+3525,unemp_rate,Unemployment rate,0.07
+3526,total_pop_15+,Canadian population aged 15+,371555
+3526,labour_force,In the labour force,226595
+3526,emp,Employed,209890
+3526,unemp,Unemployed,16705
+3526,not_labour_force,Not in the labour force,144970
+3526,part_rate,Participation rate,0.61
+3526,emp_rate,Employment rate,0.565
+3526,unemp_rate,Unemployment rate,0.074
+3528,total_pop_15+,Canadian population aged 15+,90160
+3528,labour_force,In the labour force,55795
+3528,emp,Employed,51965
+3528,unemp,Unemployed,3830
+3528,not_labour_force,Not in the labour force,34370
+3528,part_rate,Participation rate,0.619
+3528,emp_rate,Employment rate,0.576
+3528,unemp_rate,Unemployment rate,0.069
+3529,total_pop_15+,Canadian population aged 15+,108525
+3529,labour_force,In the labour force,70345
+3529,emp,Employed,66015
+3529,unemp,Unemployed,4325
+3529,not_labour_force,Not in the labour force,38180
+3529,part_rate,Participation rate,0.648
+3529,emp_rate,Employment rate,0.608
+3529,unemp_rate,Unemployment rate,0.061
+3530,total_pop_15+,Canadian population aged 15+,432125
+3530,labour_force,In the labour force,296480
+3530,emp,Employed,277785
+3530,unemp,Unemployed,18695
+3530,not_labour_force,Not in the labour force,135645
+3530,part_rate,Participation rate,0.686
+3530,emp_rate,Employment rate,0.643
+3530,unemp_rate,Unemployment rate,0.063
+3531,total_pop_15+,Canadian population aged 15+,61425
+3531,labour_force,In the labour force,42880
+3531,emp,Employed,41145
+3531,unemp,Unemployed,1735
+3531,not_labour_force,Not in the labour force,18550
+3531,part_rate,Participation rate,0.698
+3531,emp_rate,Employment rate,0.67
+3531,unemp_rate,Unemployment rate,0.04
+3532,total_pop_15+,Canadian population aged 15+,89455
+3532,labour_force,In the labour force,59690
+3532,emp,Employed,56840
+3532,unemp,Unemployed,2845
+3532,not_labour_force,Not in the labour force,29765
+3532,part_rate,Participation rate,0.667
+3532,emp_rate,Employment rate,0.635
+3532,unemp_rate,Unemployment rate,0.048
+3534,total_pop_15+,Canadian population aged 15+,70935
+3534,labour_force,In the labour force,44950
+3534,emp,Employed,42095
+3534,unemp,Unemployed,2850
+3534,not_labour_force,Not in the labour force,25985
+3534,part_rate,Participation rate,0.634
+3534,emp_rate,Employment rate,0.593
+3534,unemp_rate,Unemployment rate,0.063
+3536,total_pop_15+,Canadian population aged 15+,83060
+3536,labour_force,In the labour force,49965
+3536,emp,Employed,46195
+3536,unemp,Unemployed,3770
+3536,not_labour_force,Not in the labour force,33095
+3536,part_rate,Participation rate,0.602
+3536,emp_rate,Employment rate,0.556
+3536,unemp_rate,Unemployment rate,0.075
+3537,total_pop_15+,Canadian population aged 15+,324330
+3537,labour_force,In the labour force,195090
+3537,emp,Employed,180800
+3537,unemp,Unemployed,14290
+3537,not_labour_force,Not in the labour force,129240
+3537,part_rate,Participation rate,0.602
+3537,emp_rate,Employment rate,0.557
+3537,unemp_rate,Unemployment rate,0.073
+3538,total_pop_15+,Canadian population aged 15+,105015
+3538,labour_force,In the labour force,61465
+3538,emp,Employed,56485
+3538,unemp,Unemployed,4975
+3538,not_labour_force,Not in the labour force,43555
+3538,part_rate,Participation rate,0.585
+3538,emp_rate,Employment rate,0.538
+3538,unemp_rate,Unemployment rate,0.081
+3539,total_pop_15+,Canadian population aged 15+,373875
+3539,labour_force,In the labour force,239685
+3539,emp,Employed,222025
+3539,unemp,Unemployed,17660
+3539,not_labour_force,Not in the labour force,134185
+3539,part_rate,Participation rate,0.641
+3539,emp_rate,Employment rate,0.594
+3539,unemp_rate,Unemployment rate,0.074
+3540,total_pop_15+,Canadian population aged 15+,47870
+3540,labour_force,In the labour force,30820
+3540,emp,Employed,29185
+3540,unemp,Unemployed,1630
+3540,not_labour_force,Not in the labour force,17050
+3540,part_rate,Participation rate,0.644
+3540,emp_rate,Employment rate,0.61
+3540,unemp_rate,Unemployment rate,0.053
+3541,total_pop_15+,Canadian population aged 15+,55970
+3541,labour_force,In the labour force,33635
+3541,emp,Employed,31540
+3541,unemp,Unemployed,2100
+3541,not_labour_force,Not in the labour force,22335
+3541,part_rate,Participation rate,0.601
+3541,emp_rate,Employment rate,0.564
+3541,unemp_rate,Unemployment rate,0.062
+3542,total_pop_15+,Canadian population aged 15+,77895
+3542,labour_force,In the labour force,47510
+3542,emp,Employed,44720
+3542,unemp,Unemployed,2790
+3542,not_labour_force,Not in the labour force,30390
+3542,part_rate,Participation rate,0.61
+3542,emp_rate,Employment rate,0.574
+3542,unemp_rate,Unemployment rate,0.059
+3543,total_pop_15+,Canadian population aged 15+,392180
+3543,labour_force,In the labour force,256765
+3543,emp,Employed,238930
+3543,unemp,Unemployed,17835
+3543,not_labour_force,Not in the labour force,135415
+3543,part_rate,Participation rate,0.655
+3543,emp_rate,Employment rate,0.609
+3543,unemp_rate,Unemployment rate,0.069
+3544,total_pop_15+,Canadian population aged 15+,50760
+3544,labour_force,In the labour force,30515
+3544,emp,Employed,28345
+3544,unemp,Unemployed,2175
+3544,not_labour_force,Not in the labour force,20250
+3544,part_rate,Participation rate,0.601
+3544,emp_rate,Employment rate,0.558
+3544,unemp_rate,Unemployment rate,0.071
+3546,total_pop_15+,Canadian population aged 15+,16070
+3546,labour_force,In the labour force,7875
+3546,emp,Employed,7120
+3546,unemp,Unemployed,755
+3546,not_labour_force,Not in the labour force,8195
+3546,part_rate,Participation rate,0.49
+3546,emp_rate,Employment rate,0.443
+3546,unemp_rate,Unemployment rate,0.096
+3547,total_pop_15+,Canadian population aged 15+,82830
+3547,labour_force,In the labour force,50695
+3547,emp,Employed,47040
+3547,unemp,Unemployed,3655
+3547,not_labour_force,Not in the labour force,32130
+3547,part_rate,Participation rate,0.612
+3547,emp_rate,Employment rate,0.568
+3547,unemp_rate,Unemployment rate,0.072
+3548,total_pop_15+,Canadian population aged 15+,68995
+3548,labour_force,In the labour force,39880
+3548,emp,Employed,35940
+3548,unemp,Unemployed,3935
+3548,not_labour_force,Not in the labour force,29110
+3548,part_rate,Participation rate,0.578
+3548,emp_rate,Employment rate,0.521
+3548,unemp_rate,Unemployment rate,0.099
+3549,total_pop_15+,Canadian population aged 15+,36460
+3549,labour_force,In the labour force,20065
+3549,emp,Employed,18195
+3549,unemp,Unemployed,1875
+3549,not_labour_force,Not in the labour force,16395
+3549,part_rate,Participation rate,0.55
+3549,emp_rate,Employment rate,0.499
+3549,unemp_rate,Unemployment rate,0.093
+3551,total_pop_15+,Canadian population aged 15+,10845
+3551,labour_force,In the labour force,5690
+3551,emp,Employed,4930
+3551,unemp,Unemployed,760
+3551,not_labour_force,Not in the labour force,5155
+3551,part_rate,Participation rate,0.525
+3551,emp_rate,Employment rate,0.455
+3551,unemp_rate,Unemployment rate,0.134
+3552,total_pop_15+,Canadian population aged 15+,18325
+3552,labour_force,In the labour force,10120
+3552,emp,Employed,9120
+3552,unemp,Unemployed,1000
+3552,not_labour_force,Not in the labour force,8205
+3552,part_rate,Participation rate,0.552
+3552,emp_rate,Employment rate,0.498
+3552,unemp_rate,Unemployment rate,0.099
+3553,total_pop_15+,Canadian population aged 15+,133730
+3553,labour_force,In the labour force,83740
+3553,emp,Employed,76755
+3553,unemp,Unemployed,6985
+3553,not_labour_force,Not in the labour force,49995
+3553,part_rate,Participation rate,0.626
+3553,emp_rate,Employment rate,0.574
+3553,unemp_rate,Unemployment rate,0.083
+3554,total_pop_15+,Canadian population aged 15+,26765
+3554,labour_force,In the labour force,15390
+3554,emp,Employed,14065
+3554,unemp,Unemployed,1325
+3554,not_labour_force,Not in the labour force,11370
+3554,part_rate,Participation rate,0.575
+3554,emp_rate,Employment rate,0.525
+3554,unemp_rate,Unemployment rate,0.086
+3556,total_pop_15+,Canadian population aged 15+,64990
+3556,labour_force,In the labour force,39855
+3556,emp,Employed,36275
+3556,unemp,Unemployed,3585
+3556,not_labour_force,Not in the labour force,25135
+3556,part_rate,Participation rate,0.613
+3556,emp_rate,Employment rate,0.558
+3556,unemp_rate,Unemployment rate,0.09
+3557,total_pop_15+,Canadian population aged 15+,96055
+3557,labour_force,In the labour force,52645
+3557,emp,Employed,47130
+3557,unemp,Unemployed,5510
+3557,not_labour_force,Not in the labour force,43405
+3557,part_rate,Participation rate,0.548
+3557,emp_rate,Employment rate,0.491
+3557,unemp_rate,Unemployment rate,0.105
+3558,total_pop_15+,Canadian population aged 15+,121260
+3558,labour_force,In the labour force,73140
+3558,emp,Employed,67115
+3558,unemp,Unemployed,6025
+3558,not_labour_force,Not in the labour force,48120
+3558,part_rate,Participation rate,0.603
+3558,emp_rate,Employment rate,0.553
+3558,unemp_rate,Unemployment rate,0.082
+3559,total_pop_15+,Canadian population aged 15+,16245
+3559,labour_force,In the labour force,9700
+3559,emp,Employed,8820
+3559,unemp,Unemployed,885
+3559,not_labour_force,Not in the labour force,6540
+3559,part_rate,Participation rate,0.597
+3559,emp_rate,Employment rate,0.543
+3559,unemp_rate,Unemployment rate,0.091
+3560,total_pop_15+,Canadian population aged 15+,50235
+3560,labour_force,In the labour force,30480
+3560,emp,Employed,26935
+3560,unemp,Unemployed,3545
+3560,not_labour_force,Not in the labour force,19755
+3560,part_rate,Participation rate,0.607
+3560,emp_rate,Employment rate,0.536
+3560,unemp_rate,Unemployment rate,0.116
+4601,total_pop_15+,Canadian population aged 15+,15240
+4601,labour_force,In the labour force,8290
+4601,emp,Employed,7615
+4601,unemp,Unemployed,680
+4601,not_labour_force,Not in the labour force,6945
+4601,part_rate,Participation rate,0.544
+4601,emp_rate,Employment rate,0.5
+4601,unemp_rate,Unemployment rate,0.082
+4602,total_pop_15+,Canadian population aged 15+,55645
+4602,labour_force,In the labour force,39525
+4602,emp,Employed,37535
+4602,unemp,Unemployed,1990
+4602,not_labour_force,Not in the labour force,16115
+4602,part_rate,Participation rate,0.71
+4602,emp_rate,Employment rate,0.675
+4602,unemp_rate,Unemployment rate,0.05
+4603,total_pop_15+,Canadian population aged 15+,39890
+4603,labour_force,In the labour force,27340
+4603,emp,Employed,25920
+4603,unemp,Unemployed,1430
+4603,not_labour_force,Not in the labour force,12545
+4603,part_rate,Participation rate,0.685
+4603,emp_rate,Employment rate,0.65
+4603,unemp_rate,Unemployment rate,0.052
+4604,total_pop_15+,Canadian population aged 15+,7125
+4604,labour_force,In the labour force,4730
+4604,emp,Employed,4510
+4604,unemp,Unemployed,220
+4604,not_labour_force,Not in the labour force,2400
+4604,part_rate,Participation rate,0.664
+4604,emp_rate,Employment rate,0.633
+4604,unemp_rate,Unemployment rate,0.047
+4605,total_pop_15+,Canadian population aged 15+,10175
+4605,labour_force,In the labour force,6835
+4605,emp,Employed,6490
+4605,unemp,Unemployed,340
+4605,not_labour_force,Not in the labour force,3340
+4605,part_rate,Participation rate,0.672
+4605,emp_rate,Employment rate,0.638
+4605,unemp_rate,Unemployment rate,0.05
+4606,total_pop_15+,Canadian population aged 15+,7880
+4606,labour_force,In the labour force,5360
+4606,emp,Employed,4975
+4606,unemp,Unemployed,395
+4606,not_labour_force,Not in the labour force,2520
+4606,part_rate,Participation rate,0.68
+4606,emp_rate,Employment rate,0.631
+4606,unemp_rate,Unemployment rate,0.074
+4607,total_pop_15+,Canadian population aged 15+,52875
+4607,labour_force,In the labour force,37360
+4607,emp,Employed,34845
+4607,unemp,Unemployed,2515
+4607,not_labour_force,Not in the labour force,15515
+4607,part_rate,Participation rate,0.707
+4607,emp_rate,Employment rate,0.659
+4607,unemp_rate,Unemployment rate,0.067
+4608,total_pop_15+,Canadian population aged 15+,9530
+4608,labour_force,In the labour force,5580
+4608,emp,Employed,5270
+4608,unemp,Unemployed,305
+4608,not_labour_force,Not in the labour force,3950
+4608,part_rate,Participation rate,0.586
+4608,emp_rate,Employment rate,0.553
+4608,unemp_rate,Unemployment rate,0.055
+4609,total_pop_15+,Canadian population aged 15+,17615
+4609,labour_force,In the labour force,11220
+4609,emp,Employed,10445
+4609,unemp,Unemployed,770
+4609,not_labour_force,Not in the labour force,6395
+4609,part_rate,Participation rate,0.637
+4609,emp_rate,Employment rate,0.593
+4609,unemp_rate,Unemployment rate,0.069
+4610,total_pop_15+,Canadian population aged 15+,8315
+4610,labour_force,In the labour force,6120
+4610,emp,Employed,5855
+4610,unemp,Unemployed,270
+4610,not_labour_force,Not in the labour force,2195
+4610,part_rate,Participation rate,0.736
+4610,emp_rate,Employment rate,0.704
+4610,unemp_rate,Unemployment rate,0.044
+4611,total_pop_15+,Canadian population aged 15+,574035
+4611,labour_force,In the labour force,385095
+4611,emp,Employed,360060
+4611,unemp,Unemployed,25040
+4611,not_labour_force,Not in the labour force,188940
+4611,part_rate,Participation rate,0.671
+4611,emp_rate,Employment rate,0.627
+4611,unemp_rate,Unemployment rate,0.065
+4612,total_pop_15+,Canadian population aged 15+,18995
+4612,labour_force,In the labour force,13215
+4612,emp,Employed,12570
+4612,unemp,Unemployed,650
+4612,not_labour_force,Not in the labour force,5780
+4612,part_rate,Participation rate,0.696
+4612,emp_rate,Employment rate,0.662
+4612,unemp_rate,Unemployment rate,0.049
+4613,total_pop_15+,Canadian population aged 15+,40130
+4613,labour_force,In the labour force,26560
+4613,emp,Employed,25105
+4613,unemp,Unemployed,1455
+4613,not_labour_force,Not in the labour force,13570
+4613,part_rate,Participation rate,0.662
+4613,emp_rate,Employment rate,0.626
+4613,unemp_rate,Unemployment rate,0.055
+4614,total_pop_15+,Canadian population aged 15+,13945
+4614,labour_force,In the labour force,10000
+4614,emp,Employed,9585
+4614,unemp,Unemployed,415
+4614,not_labour_force,Not in the labour force,3950
+4614,part_rate,Participation rate,0.717
+4614,emp_rate,Employment rate,0.687
+4614,unemp_rate,Unemployment rate,0.042
+4615,total_pop_15+,Canadian population aged 15+,16470
+4615,labour_force,In the labour force,10805
+4615,emp,Employed,10220
+4615,unemp,Unemployed,590
+4615,not_labour_force,Not in the labour force,5665
+4615,part_rate,Participation rate,0.656
+4615,emp_rate,Employment rate,0.621
+4615,unemp_rate,Unemployment rate,0.055
+4616,total_pop_15+,Canadian population aged 15+,7735
+4616,labour_force,In the labour force,4680
+4616,emp,Employed,4395
+4616,unemp,Unemployed,285
+4616,not_labour_force,Not in the labour force,3055
+4616,part_rate,Participation rate,0.605
+4616,emp_rate,Employment rate,0.568
+4616,unemp_rate,Unemployment rate,0.061
+4617,total_pop_15+,Canadian population aged 15+,17255
+4617,labour_force,In the labour force,10130
+4617,emp,Employed,9420
+4617,unemp,Unemployed,705
+4617,not_labour_force,Not in the labour force,7125
+4617,part_rate,Participation rate,0.587
+4617,emp_rate,Employment rate,0.546
+4617,unemp_rate,Unemployment rate,0.07
+4618,total_pop_15+,Canadian population aged 15+,19295
+4618,labour_force,In the labour force,10895
+4618,emp,Employed,9990
+4618,unemp,Unemployed,900
+4618,not_labour_force,Not in the labour force,8400
+4618,part_rate,Participation rate,0.565
+4618,emp_rate,Employment rate,0.518
+4618,unemp_rate,Unemployment rate,0.083
+4619,total_pop_15+,Canadian population aged 15+,11160
+4619,labour_force,In the labour force,4875
+4619,emp,Employed,3460
+4619,unemp,Unemployed,1415
+4619,not_labour_force,Not in the labour force,6280
+4619,part_rate,Participation rate,0.437
+4619,emp_rate,Employment rate,0.31
+4619,unemp_rate,Unemployment rate,0.29
+4620,total_pop_15+,Canadian population aged 15+,7765
+4620,labour_force,In the labour force,4900
+4620,emp,Employed,4645
+4620,unemp,Unemployed,255
+4620,not_labour_force,Not in the labour force,2865
+4620,part_rate,Participation rate,0.631
+4620,emp_rate,Employment rate,0.598
+4620,unemp_rate,Unemployment rate,0.052
+4621,total_pop_15+,Canadian population aged 15+,16220
+4621,labour_force,In the labour force,9885
+4621,emp,Employed,8910
+4621,unemp,Unemployed,970
+4621,not_labour_force,Not in the labour force,6330
+4621,part_rate,Participation rate,0.609
+4621,emp_rate,Employment rate,0.549
+4621,unemp_rate,Unemployment rate,0.098
+4622,total_pop_15+,Canadian population aged 15+,28025
+4622,labour_force,In the labour force,15570
+4622,emp,Employed,13080
+4622,unemp,Unemployed,2495
+4622,not_labour_force,Not in the labour force,12455
+4622,part_rate,Participation rate,0.556
+4622,emp_rate,Employment rate,0.467
+4622,unemp_rate,Unemployment rate,0.16
+4623,total_pop_15+,Canadian population aged 15+,5995
+4623,labour_force,In the labour force,3175
+4623,emp,Employed,2575
+4623,unemp,Unemployed,600
+4623,not_labour_force,Not in the labour force,2820
+4623,part_rate,Participation rate,0.53
+4623,emp_rate,Employment rate,0.43
+4623,unemp_rate,Unemployment rate,0.189
+4701,total_pop_15+,Canadian population aged 15+,24990
+4701,labour_force,In the labour force,18250
+4701,emp,Employed,16860
+4701,unemp,Unemployed,1390
+4701,not_labour_force,Not in the labour force,6740
+4701,part_rate,Participation rate,0.73
+4701,emp_rate,Employment rate,0.675
+4701,unemp_rate,Unemployment rate,0.076
+4702,total_pop_15+,Canadian population aged 15+,17830
+4702,labour_force,In the labour force,12635
+4702,emp,Employed,11935
+4702,unemp,Unemployed,705
+4702,not_labour_force,Not in the labour force,5200
+4702,part_rate,Participation rate,0.709
+4702,emp_rate,Employment rate,0.669
+4702,unemp_rate,Unemployment rate,0.056
+4703,total_pop_15+,Canadian population aged 15+,9935
+4703,labour_force,In the labour force,6895
+4703,emp,Employed,6665
+4703,unemp,Unemployed,225
+4703,not_labour_force,Not in the labour force,3040
+4703,part_rate,Participation rate,0.694
+4703,emp_rate,Employment rate,0.671
+4703,unemp_rate,Unemployment rate,0.033
+4704,total_pop_15+,Canadian population aged 15+,7765
+4704,labour_force,In the labour force,5610
+4704,emp,Employed,5375
+4704,unemp,Unemployed,230
+4704,not_labour_force,Not in the labour force,2155
+4704,part_rate,Participation rate,0.722
+4704,emp_rate,Employment rate,0.692
+4704,unemp_rate,Unemployment rate,0.041
+4705,total_pop_15+,Canadian population aged 15+,25300
+4705,labour_force,In the labour force,16545
+4705,emp,Employed,15580
+4705,unemp,Unemployed,960
+4705,not_labour_force,Not in the labour force,8755
+4705,part_rate,Participation rate,0.654
+4705,emp_rate,Employment rate,0.616
+4705,unemp_rate,Unemployment rate,0.058
+4706,total_pop_15+,Canadian population aged 15+,209470
+4706,labour_force,In the labour force,147470
+4706,emp,Employed,138935
+4706,unemp,Unemployed,8535
+4706,not_labour_force,Not in the labour force,61995
+4706,part_rate,Participation rate,0.704
+4706,emp_rate,Employment rate,0.663
+4706,unemp_rate,Unemployment rate,0.058
+4707,total_pop_15+,Canadian population aged 15+,37050
+4707,labour_force,In the labour force,24790
+4707,emp,Employed,23375
+4707,unemp,Unemployed,1415
+4707,not_labour_force,Not in the labour force,12260
+4707,part_rate,Participation rate,0.669
+4707,emp_rate,Employment rate,0.631
+4707,unemp_rate,Unemployment rate,0.057
+4708,total_pop_15+,Canadian population aged 15+,23885
+4708,labour_force,In the labour force,16845
+4708,emp,Employed,16135
+4708,unemp,Unemployed,710
+4708,not_labour_force,Not in the labour force,7040
+4708,part_rate,Participation rate,0.705
+4708,emp_rate,Employment rate,0.676
+4708,unemp_rate,Unemployment rate,0.042
+4709,total_pop_15+,Canadian population aged 15+,28495
+4709,labour_force,In the labour force,18235
+4709,emp,Employed,17030
+4709,unemp,Unemployed,1205
+4709,not_labour_force,Not in the labour force,10255
+4709,part_rate,Participation rate,0.64
+4709,emp_rate,Employment rate,0.598
+4709,unemp_rate,Unemployment rate,0.066
+4710,total_pop_15+,Canadian population aged 15+,12975
+4710,labour_force,In the labour force,8010
+4710,emp,Employed,7455
+4710,unemp,Unemployed,555
+4710,not_labour_force,Not in the labour force,4965
+4710,part_rate,Participation rate,0.617
+4710,emp_rate,Employment rate,0.575
+4710,unemp_rate,Unemployment rate,0.069
+4711,total_pop_15+,Canadian population aged 15+,240010
+4711,labour_force,In the labour force,170640
+4711,emp,Employed,159380
+4711,unemp,Unemployed,11260
+4711,not_labour_force,Not in the labour force,69375
+4711,part_rate,Participation rate,0.711
+4711,emp_rate,Employment rate,0.664
+4711,unemp_rate,Unemployment rate,0.066
+4712,total_pop_15+,Canadian population aged 15+,18245
+4712,labour_force,In the labour force,12400
+4712,emp,Employed,11635
+4712,unemp,Unemployed,770
+4712,not_labour_force,Not in the labour force,5845
+4712,part_rate,Participation rate,0.68
+4712,emp_rate,Employment rate,0.638
+4712,unemp_rate,Unemployment rate,0.062
+4713,total_pop_15+,Canadian population aged 15+,17650
+4713,labour_force,In the labour force,12465
+4713,emp,Employed,11635
+4713,unemp,Unemployed,835
+4713,not_labour_force,Not in the labour force,5190
+4713,part_rate,Participation rate,0.706
+4713,emp_rate,Employment rate,0.659
+4713,unemp_rate,Unemployment rate,0.067
+4714,total_pop_15+,Canadian population aged 15+,28785
+4714,labour_force,In the labour force,17970
+4714,emp,Employed,16620
+4714,unemp,Unemployed,1350
+4714,not_labour_force,Not in the labour force,10810
+4714,part_rate,Participation rate,0.624
+4714,emp_rate,Employment rate,0.577
+4714,unemp_rate,Unemployment rate,0.075
+4715,total_pop_15+,Canadian population aged 15+,65125
+4715,labour_force,In the labour force,42405
+4715,emp,Employed,38720
+4715,unemp,Unemployed,3680
+4715,not_labour_force,Not in the labour force,22720
+4715,part_rate,Participation rate,0.651
+4715,emp_rate,Employment rate,0.595
+4715,unemp_rate,Unemployment rate,0.087
+4716,total_pop_15+,Canadian population aged 15+,28850
+4716,labour_force,In the labour force,17950
+4716,emp,Employed,16115
+4716,unemp,Unemployed,1835
+4716,not_labour_force,Not in the labour force,10900
+4716,part_rate,Participation rate,0.622
+4716,emp_rate,Employment rate,0.559
+4716,unemp_rate,Unemployment rate,0.102
+4717,total_pop_15+,Canadian population aged 15+,35645
+4717,labour_force,In the labour force,24075
+4717,emp,Employed,21225
+4717,unemp,Unemployed,2855
+4717,not_labour_force,Not in the labour force,11570
+4717,part_rate,Participation rate,0.675
+4717,emp_rate,Employment rate,0.595
+4717,unemp_rate,Unemployment rate,0.119
+4718,total_pop_15+,Canadian population aged 15+,25295
+4718,labour_force,In the labour force,12355
+4718,emp,Employed,9420
+4718,unemp,Unemployed,2935
+4718,not_labour_force,Not in the labour force,12940
+4718,part_rate,Participation rate,0.488
+4718,emp_rate,Employment rate,0.372
+4718,unemp_rate,Unemployment rate,0.238
+4801,total_pop_15+,Canadian population aged 15+,64455
+4801,labour_force,In the labour force,42575
+4801,emp,Employed,38495
+4801,unemp,Unemployed,4080
+4801,not_labour_force,Not in the labour force,21880
+4801,part_rate,Participation rate,0.661
+4801,emp_rate,Employment rate,0.597
+4801,unemp_rate,Unemployment rate,0.096
+4802,total_pop_15+,Canadian population aged 15+,128390
+4802,labour_force,In the labour force,88460
+4802,emp,Employed,82675
+4802,unemp,Unemployed,5785
+4802,not_labour_force,Not in the labour force,39930
+4802,part_rate,Participation rate,0.689
+4802,emp_rate,Employment rate,0.644
+4802,unemp_rate,Unemployment rate,0.065
+4803,total_pop_15+,Canadian population aged 15+,28160
+4803,labour_force,In the labour force,17010
+4803,emp,Employed,15640
+4803,unemp,Unemployed,1370
+4803,not_labour_force,Not in the labour force,11150
+4803,part_rate,Participation rate,0.604
+4803,emp_rate,Employment rate,0.555
+4803,unemp_rate,Unemployment rate,0.081
+4804,total_pop_15+,Canadian population aged 15+,7150
+4804,labour_force,In the labour force,5225
+4804,emp,Employed,4985
+4804,unemp,Unemployed,245
+4804,not_labour_force,Not in the labour force,1925
+4804,part_rate,Participation rate,0.731
+4804,emp_rate,Employment rate,0.697
+4804,unemp_rate,Unemployment rate,0.047
+4805,total_pop_15+,Canadian population aged 15+,40570
+4805,labour_force,In the labour force,27615
+4805,emp,Employed,25475
+4805,unemp,Unemployed,2135
+4805,not_labour_force,Not in the labour force,12960
+4805,part_rate,Participation rate,0.681
+4805,emp_rate,Employment rate,0.628
+4805,unemp_rate,Unemployment rate,0.077
+4806,total_pop_15+,Canadian population aged 15+,1197285
+4806,labour_force,In the labour force,874540
+4806,emp,Employed,793590
+4806,unemp,Unemployed,80950
+4806,not_labour_force,Not in the labour force,322740
+4806,part_rate,Participation rate,0.73
+4806,emp_rate,Employment rate,0.663
+4806,unemp_rate,Unemployment rate,0.093
+4807,total_pop_15+,Canadian population aged 15+,31315
+4807,labour_force,In the labour force,22475
+4807,emp,Employed,20795
+4807,unemp,Unemployed,1675
+4807,not_labour_force,Not in the labour force,8840
+4807,part_rate,Participation rate,0.718
+4807,emp_rate,Employment rate,0.664
+4807,unemp_rate,Unemployment rate,0.075
+4808,total_pop_15+,Canadian population aged 15+,163655
+4808,labour_force,In the labour force,116740
+4808,emp,Employed,104450
+4808,unemp,Unemployed,12295
+4808,not_labour_force,Not in the labour force,46915
+4808,part_rate,Participation rate,0.713
+4808,emp_rate,Employment rate,0.638
+4808,unemp_rate,Unemployment rate,0.105
+4809,total_pop_15+,Canadian population aged 15+,16205
+4809,labour_force,In the labour force,11055
+4809,emp,Employed,9635
+4809,unemp,Unemployed,1420
+4809,not_labour_force,Not in the labour force,5150
+4809,part_rate,Participation rate,0.682
+4809,emp_rate,Employment rate,0.595
+4809,unemp_rate,Unemployment rate,0.128
+4810,total_pop_15+,Canadian population aged 15+,75525
+4810,labour_force,In the labour force,52595
+4810,emp,Employed,47815
+4810,unemp,Unemployed,4785
+4810,not_labour_force,Not in the labour force,22930
+4810,part_rate,Participation rate,0.696
+4810,emp_rate,Employment rate,0.633
+4810,unemp_rate,Unemployment rate,0.091
+4811,total_pop_15+,Canadian population aged 15+,1089045
+4811,labour_force,In the labour force,781355
+4811,emp,Employed,714660
+4811,unemp,Unemployed,66695
+4811,not_labour_force,Not in the labour force,307695
+4811,part_rate,Participation rate,0.717
+4811,emp_rate,Employment rate,0.656
+4811,unemp_rate,Unemployment rate,0.085
+4812,total_pop_15+,Canadian population aged 15+,51145
+4812,labour_force,In the labour force,36230
+4812,emp,Employed,32260
+4812,unemp,Unemployed,3965
+4812,not_labour_force,Not in the labour force,14915
+4812,part_rate,Participation rate,0.708
+4812,emp_rate,Employment rate,0.631
+4812,unemp_rate,Unemployment rate,0.109
+4813,total_pop_15+,Canadian population aged 15+,56140
+4813,labour_force,In the labour force,38400
+4813,emp,Employed,34510
+4813,unemp,Unemployed,3890
+4813,not_labour_force,Not in the labour force,17735
+4813,part_rate,Participation rate,0.684
+4813,emp_rate,Employment rate,0.615
+4813,unemp_rate,Unemployment rate,0.101
+4814,total_pop_15+,Canadian population aged 15+,23325
+4814,labour_force,In the labour force,16755
+4814,emp,Employed,15165
+4814,unemp,Unemployed,1585
+4814,not_labour_force,Not in the labour force,6570
+4814,part_rate,Participation rate,0.718
+4814,emp_rate,Employment rate,0.65
+4814,unemp_rate,Unemployment rate,0.095
+4815,total_pop_15+,Canadian population aged 15+,28830
+4815,labour_force,In the labour force,20855
+4815,emp,Employed,19330
+4815,unemp,Unemployed,1525
+4815,not_labour_force,Not in the labour force,7975
+4815,part_rate,Participation rate,0.723
+4815,emp_rate,Employment rate,0.67
+4815,unemp_rate,Unemployment rate,0.073
+4816,total_pop_15+,Canadian population aged 15+,58860
+4816,labour_force,In the labour force,45520
+4816,emp,Employed,42220
+4816,unemp,Unemployed,3305
+4816,not_labour_force,Not in the labour force,13340
+4816,part_rate,Participation rate,0.773
+4816,emp_rate,Employment rate,0.717
+4816,unemp_rate,Unemployment rate,0.073
+4817,total_pop_15+,Canadian population aged 15+,43715
+4817,labour_force,In the labour force,28365
+4817,emp,Employed,24735
+4817,unemp,Unemployed,3630
+4817,not_labour_force,Not in the labour force,15350
+4817,part_rate,Participation rate,0.649
+4817,emp_rate,Employment rate,0.566
+4817,unemp_rate,Unemployment rate,0.128
+4818,total_pop_15+,Canadian population aged 15+,11010
+4818,labour_force,In the labour force,7780
+4818,emp,Employed,6810
+4818,unemp,Unemployed,970
+4818,not_labour_force,Not in the labour force,3230
+4818,part_rate,Participation rate,0.707
+4818,emp_rate,Employment rate,0.619
+4818,unemp_rate,Unemployment rate,0.125
+4819,total_pop_15+,Canadian population aged 15+,91270
+4819,labour_force,In the labour force,69400
+4819,emp,Employed,62865
+4819,unemp,Unemployed,6535
+4819,not_labour_force,Not in the labour force,21870
+4819,part_rate,Participation rate,0.76
+4819,emp_rate,Employment rate,0.689
+4819,unemp_rate,Unemployment rate,0.094
+5901,total_pop_15+,Canadian population aged 15+,49615
+5901,labour_force,In the labour force,32115
+5901,emp,Employed,29685
+5901,unemp,Unemployed,2430
+5901,not_labour_force,Not in the labour force,17505
+5901,part_rate,Participation rate,0.647
+5901,emp_rate,Employment rate,0.598
+5901,unemp_rate,Unemployment rate,0.076
+5903,total_pop_15+,Canadian population aged 15+,49960
+5903,labour_force,In the labour force,29210
+5903,emp,Employed,26630
+5903,unemp,Unemployed,2575
+5903,not_labour_force,Not in the labour force,20755
+5903,part_rate,Participation rate,0.585
+5903,emp_rate,Employment rate,0.533
+5903,unemp_rate,Unemployment rate,0.088
+5905,total_pop_15+,Canadian population aged 15+,26380
+5905,labour_force,In the labour force,14615
+5905,emp,Employed,13470
+5905,unemp,Unemployed,1150
+5905,not_labour_force,Not in the labour force,11770
+5905,part_rate,Participation rate,0.554
+5905,emp_rate,Employment rate,0.511
+5905,unemp_rate,Unemployment rate,0.079
+5907,total_pop_15+,Canadian population aged 15+,70910
+5907,labour_force,In the labour force,38320
+5907,emp,Employed,35085
+5907,unemp,Unemployed,3235
+5907,not_labour_force,Not in the labour force,32590
+5907,part_rate,Participation rate,0.54
+5907,emp_rate,Employment rate,0.495
+5907,unemp_rate,Unemployment rate,0.084
+5909,total_pop_15+,Canadian population aged 15+,235300
+5909,labour_force,In the labour force,149170
+5909,emp,Employed,139125
+5909,unemp,Unemployed,10040
+5909,not_labour_force,Not in the labour force,86135
+5909,part_rate,Participation rate,0.634
+5909,emp_rate,Employment rate,0.591
+5909,unemp_rate,Unemployment rate,0.067
+5915,total_pop_15+,Canadian population aged 15+,2064615
+5915,labour_force,In the labour force,1355520
+5915,emp,Employed,1276900
+5915,unemp,Unemployed,78620
+5915,not_labour_force,Not in the labour force,709095
+5915,part_rate,Participation rate,0.657
+5915,emp_rate,Employment rate,0.618
+5915,unemp_rate,Unemployment rate,0.058
+5917,total_pop_15+,Canadian population aged 15+,323120
+5917,labour_force,In the labour force,205935
+5917,emp,Employed,194510
+5917,unemp,Unemployed,11430
+5917,not_labour_force,Not in the labour force,117185
+5917,part_rate,Participation rate,0.637
+5917,emp_rate,Employment rate,0.602
+5917,unemp_rate,Unemployment rate,0.056
+5919,total_pop_15+,Canadian population aged 15+,69620
+5919,labour_force,In the labour force,39945
+5919,emp,Employed,36980
+5919,unemp,Unemployed,2965
+5919,not_labour_force,Not in the labour force,29680
+5919,part_rate,Participation rate,0.574
+5919,emp_rate,Employment rate,0.531
+5919,unemp_rate,Unemployment rate,0.074
+5921,total_pop_15+,Canadian population aged 15+,131685
+5921,labour_force,In the labour force,72745
+5921,emp,Employed,67125
+5921,unemp,Unemployed,5620
+5921,not_labour_force,Not in the labour force,58940
+5921,part_rate,Participation rate,0.552
+5921,emp_rate,Employment rate,0.51
+5921,unemp_rate,Unemployment rate,0.077
+5923,total_pop_15+,Canadian population aged 15+,25540
+5923,labour_force,In the labour force,14605
+5923,emp,Employed,13155
+5923,unemp,Unemployed,1445
+5923,not_labour_force,Not in the labour force,10940
+5923,part_rate,Participation rate,0.572
+5923,emp_rate,Employment rate,0.515
+5923,unemp_rate,Unemployment rate,0.099
+5924,total_pop_15+,Canadian population aged 15+,37110
+5924,labour_force,In the labour force,21990
+5924,emp,Employed,19810
+5924,unemp,Unemployed,2180
+5924,not_labour_force,Not in the labour force,15125
+5924,part_rate,Participation rate,0.593
+5924,emp_rate,Employment rate,0.534
+5924,unemp_rate,Unemployment rate,0.099
+5926,total_pop_15+,Canadian population aged 15+,56185
+5926,labour_force,In the labour force,31880
+5926,emp,Employed,29390
+5926,unemp,Unemployed,2485
+5926,not_labour_force,Not in the labour force,24310
+5926,part_rate,Participation rate,0.567
+5926,emp_rate,Employment rate,0.523
+5926,unemp_rate,Unemployment rate,0.078
+5927,total_pop_15+,Canadian population aged 15+,17085
+5927,labour_force,In the labour force,8965
+5927,emp,Employed,8265
+5927,unemp,Unemployed,700
+5927,not_labour_force,Not in the labour force,8120
+5927,part_rate,Participation rate,0.525
+5927,emp_rate,Employment rate,0.484
+5927,unemp_rate,Unemployment rate,0.078
+5929,total_pop_15+,Canadian population aged 15+,25860
+5929,labour_force,In the labour force,14400
+5929,emp,Employed,13415
+5929,unemp,Unemployed,985
+5929,not_labour_force,Not in the labour force,11460
+5929,part_rate,Participation rate,0.557
+5929,emp_rate,Employment rate,0.519
+5929,unemp_rate,Unemployment rate,0.068
+5931,total_pop_15+,Canadian population aged 15+,34235
+5931,labour_force,In the labour force,25910
+5931,emp,Employed,24335
+5931,unemp,Unemployed,1575
+5931,not_labour_force,Not in the labour force,8330
+5931,part_rate,Participation rate,0.757
+5931,emp_rate,Employment rate,0.711
+5931,unemp_rate,Unemployment rate,0.061
+5933,total_pop_15+,Canadian population aged 15+,109195
+5933,labour_force,In the labour force,67655
+5933,emp,Employed,61955
+5933,unemp,Unemployed,5695
+5933,not_labour_force,Not in the labour force,41545
+5933,part_rate,Participation rate,0.62
+5933,emp_rate,Employment rate,0.567
+5933,unemp_rate,Unemployment rate,0.084
+5935,total_pop_15+,Canadian population aged 15+,163005
+5935,labour_force,In the labour force,103840
+5935,emp,Employed,96495
+5935,unemp,Unemployed,7345
+5935,not_labour_force,Not in the labour force,59160
+5935,part_rate,Participation rate,0.637
+5935,emp_rate,Employment rate,0.592
+5935,unemp_rate,Unemployment rate,0.071
+5937,total_pop_15+,Canadian population aged 15+,70225
+5937,labour_force,In the labour force,40730
+5937,emp,Employed,37495
+5937,unemp,Unemployed,3230
+5937,not_labour_force,Not in the labour force,29500
+5937,part_rate,Participation rate,0.58
+5937,emp_rate,Employment rate,0.534
+5937,unemp_rate,Unemployment rate,0.079
+5939,total_pop_15+,Canadian population aged 15+,43170
+5939,labour_force,In the labour force,25395
+5939,emp,Employed,23110
+5939,unemp,Unemployed,2285
+5939,not_labour_force,Not in the labour force,17770
+5939,part_rate,Participation rate,0.588
+5939,emp_rate,Employment rate,0.535
+5939,unemp_rate,Unemployment rate,0.09
+5941,total_pop_15+,Canadian population aged 15+,51490
+5941,labour_force,In the labour force,30930
+5941,emp,Employed,27670
+5941,unemp,Unemployed,3260
+5941,not_labour_force,Not in the labour force,20560
+5941,part_rate,Participation rate,0.601
+5941,emp_rate,Employment rate,0.537
+5941,unemp_rate,Unemployment rate,0.105
+5943,total_pop_15+,Canadian population aged 15+,8885
+5943,labour_force,In the labour force,5630
+5943,emp,Employed,5045
+5943,unemp,Unemployed,585
+5943,not_labour_force,Not in the labour force,3260
+5943,part_rate,Participation rate,0.634
+5943,emp_rate,Employment rate,0.568
+5943,unemp_rate,Unemployment rate,0.104
+5945,total_pop_15+,Canadian population aged 15+,2645
+5945,labour_force,In the labour force,1510
+5945,emp,Employed,1320
+5945,unemp,Unemployed,190
+5945,not_labour_force,Not in the labour force,1130
+5945,part_rate,Participation rate,0.571
+5945,emp_rate,Employment rate,0.499
+5945,unemp_rate,Unemployment rate,0.126
+5947,total_pop_15+,Canadian population aged 15+,14625
+5947,labour_force,In the labour force,9760
+5947,emp,Employed,8555
+5947,unemp,Unemployed,1200
+5947,not_labour_force,Not in the labour force,4870
+5947,part_rate,Participation rate,0.667
+5947,emp_rate,Employment rate,0.585
+5947,unemp_rate,Unemployment rate,0.123
+5949,total_pop_15+,Canadian population aged 15+,30045
+5949,labour_force,In the labour force,19335
+5949,emp,Employed,16665
+5949,unemp,Unemployed,2670
+5949,not_labour_force,Not in the labour force,10710
+5949,part_rate,Participation rate,0.644
+5949,emp_rate,Employment rate,0.555
+5949,unemp_rate,Unemployment rate,0.138
+5951,total_pop_15+,Canadian population aged 15+,30175
+5951,labour_force,In the labour force,20180
+5951,emp,Employed,17695
+5951,unemp,Unemployed,2480
+5951,not_labour_force,Not in the labour force,9995
+5951,part_rate,Participation rate,0.669
+5951,emp_rate,Employment rate,0.586
+5951,unemp_rate,Unemployment rate,0.123
+5953,total_pop_15+,Canadian population aged 15+,76555
+5953,labour_force,In the labour force,52765
+5953,emp,Employed,47965
+5953,unemp,Unemployed,4805
+5953,not_labour_force,Not in the labour force,23785
+5953,part_rate,Participation rate,0.689
+5953,emp_rate,Employment rate,0.627
+5953,unemp_rate,Unemployment rate,0.091
+5955,total_pop_15+,Canadian population aged 15+,48325
+5955,labour_force,In the labour force,35175
+5955,emp,Employed,30925
+5955,unemp,Unemployed,4250
+5955,not_labour_force,Not in the labour force,13150
+5955,part_rate,Participation rate,0.728
+5955,emp_rate,Employment rate,0.64
+5955,unemp_rate,Unemployment rate,0.121
+5957,total_pop_15+,Canadian population aged 15+,640
+5957,labour_force,In the labour force,405
+5957,emp,Employed,310
+5957,unemp,Unemployed,95
+5957,not_labour_force,Not in the labour force,230
+5957,part_rate,Participation rate,0.633
+5957,emp_rate,Employment rate,0.484
+5957,unemp_rate,Unemployment rate,0.235
+5959,total_pop_15+,Canadian population aged 15+,4175
+5959,labour_force,In the labour force,3050
+5959,emp,Employed,2590
+5959,unemp,Unemployed,460
+5959,not_labour_force,Not in the labour force,1125
+5959,part_rate,Participation rate,0.731
+5959,emp_rate,Employment rate,0.62
+5959,unemp_rate,Unemployment rate,0.151
+6001,total_pop_15+,Canadian population aged 15+,28880
+6001,labour_force,In the labour force,21795
+6001,emp,Employed,19790
+6001,unemp,Unemployed,2005
+6001,not_labour_force,Not in the labour force,7085
+6001,part_rate,Participation rate,0.755
+6001,emp_rate,Employment rate,0.685
+6001,unemp_rate,Unemployment rate,0.092
+6101,total_pop_15+,Canadian population aged 15+,4680
+6101,labour_force,In the labour force,3205
+6101,emp,Employed,2700
+6101,unemp,Unemployed,500
+6101,not_labour_force,Not in the labour force,1475
+6101,part_rate,Participation rate,0.685
+6101,emp_rate,Employment rate,0.577
+6101,unemp_rate,Unemployment rate,0.156
+6102,total_pop_15+,Canadian population aged 15+,1855
+6102,labour_force,In the labour force,1310
+6102,emp,Employed,1100
+6102,unemp,Unemployed,210
+6102,not_labour_force,Not in the labour force,545
+6102,part_rate,Participation rate,0.706
+6102,emp_rate,Employment rate,0.593
+6102,unemp_rate,Unemployment rate,0.16
+6103,total_pop_15+,Canadian population aged 15+,1935
+6103,labour_force,In the labour force,980
+6103,emp,Employed,785
+6103,unemp,Unemployed,205
+6103,not_labour_force,Not in the labour force,955
+6103,part_rate,Participation rate,0.506
+6103,emp_rate,Employment rate,0.406
+6103,unemp_rate,Unemployment rate,0.209
+6104,total_pop_15+,Canadian population aged 15+,2515
+6104,labour_force,In the labour force,1640
+6104,emp,Employed,1245
+6104,unemp,Unemployed,390
+6104,not_labour_force,Not in the labour force,875
+6104,part_rate,Participation rate,0.652
+6104,emp_rate,Employment rate,0.495
+6104,unemp_rate,Unemployment rate,0.238
+6105,total_pop_15+,Canadian population aged 15+,5495
+6105,labour_force,In the labour force,3800
+6105,emp,Employed,3390
+6105,unemp,Unemployed,415
+6105,not_labour_force,Not in the labour force,1695
+6105,part_rate,Participation rate,0.692
+6105,emp_rate,Employment rate,0.617
+6105,unemp_rate,Unemployment rate,0.109
+6106,total_pop_15+,Canadian population aged 15+,15845
+6106,labour_force,In the labour force,13010
+6106,emp,Employed,12195
+6106,unemp,Unemployed,815
+6106,not_labour_force,Not in the labour force,2835
+6106,part_rate,Participation rate,0.821
+6106,emp_rate,Employment rate,0.77
+6106,unemp_rate,Unemployment rate,0.063
+6204,total_pop_15+,Canadian population aged 15+,12840
+6204,labour_force,In the labour force,8895
+6204,emp,Employed,7350
+6204,unemp,Unemployed,1540
+6204,not_labour_force,Not in the labour force,3950
+6204,part_rate,Participation rate,0.693
+6204,emp_rate,Employment rate,0.572
+6204,unemp_rate,Unemployment rate,0.173
+6205,total_pop_15+,Canadian population aged 15+,6765
+6205,labour_force,In the labour force,4595
+6205,emp,Employed,3415
+6205,unemp,Unemployed,1180
+6205,not_labour_force,Not in the labour force,2175
+6205,part_rate,Participation rate,0.679
+6205,emp_rate,Employment rate,0.505
+6205,unemp_rate,Unemployment rate,0.257
+6208,total_pop_15+,Canadian population aged 15+,4325
+6208,labour_force,In the labour force,2855
+6208,emp,Employed,2055
+6208,unemp,Unemployed,795
+6208,not_labour_force,Not in the labour force,1470
+6208,part_rate,Participation rate,0.66
+6208,emp_rate,Employment rate,0.475
+6208,unemp_rate,Unemployment rate,0.278
