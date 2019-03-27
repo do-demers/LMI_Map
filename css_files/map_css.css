@@ -1,24 +1,20 @@
 #map_svg{
-    margin: 5px;
-    border: 1px solid #888888;
-    box-shadow: 0 0 5px #888888;
+    border: 1px solid #cccccc;
+    box-shadow: 0 0 8px #cccccc;
     cursor: pointer;
 }
-#map_div, #commute_div{
-    margin: 5px;
+#commute_div{
     width: 100%;
 }
-#lmi_pop_div, #adv_det_div{
-    width: 100%;
-    margin-top: 5px;
-    border-top: 1px solid #cccccc;
-}
-#pie_div{
-    margin-left: 5%;
-}
-#comm_tbl_div{
+
+#comm_tbl_div, #pie_div{
     margin: auto;
-    width: 50%;
+}
+.tile{
+    background: #ffffff;
+    width: 100%;
+    margin: 1%;
+    padding: 1%;
 }
 .float{
     display: inline-flex;
