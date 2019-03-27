@@ -83,7 +83,7 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
         var cduid = d.properties.CDUID;
 
-        d3.select("#summary").text("The new CDUID is "+ cduid)
+        d3.select("#cduid").text("The new CDUID is "+ cduid);
         // LMI_data, lmi_ps_noc_data, commute_data, adv_data
 
         update_table(_.where(LMI_data, {cd: cduid}), _.without(LMI_data.columns,"cd", "var"), "LMI");

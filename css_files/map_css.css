@@ -1,56 +1,24 @@
-#pop_stats_div{
-    display: flex;
-    flex-direction: row;
-    justify-content:space-around ;
+#container {
+    /*display: flex; !* or inline-flex *!*/
+    /*flex-direction: column;*/
 }
-
-#map_div {
-    display: flex; /* or inline-flex */
-    flex-direction: row;
-    justify-content: space-evenly;
-}
-
-#summary{
-    display: flex;
-    flex-direction: row;
-    justify-content:space-around ;
-}
-
-#txt_sum{
-    display: flex;
-    flex-direction: column;
-    justify-content:space-around ;
-}
-
-
 
 /*#det_adv_stats_div{*/
     /*display: flex;*/
     /*flex-direction: row;*/
     /*justify-content:space-around ;*/
 /*}*/
+#map_svg{
+    margin: 5px;
+    border: 1px solid #777777;
+    box-shadow: 0 0 5px #ff0000;
+}
 
-#lmi_pop_div {
-     display: flex; /* or inline-flex */
-     flex-direction: row;
-     justify-content: space-evenly;
- }
-
-#commute_div {
-    display: flex; /* or inline-flex */
+.float{
+    display: inline-flex; /* or inline-flex */
     flex-direction: row;
     justify-content: space-evenly;
 }
-
-
-
-
-
-#container {
-    /*display: flex; !* or inline-flex *!*/
-    /*flex-direction: column;*/
-}
-
 
 .arc text {
     font: 10px sans-serif;

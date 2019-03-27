@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a4c5231a-72b7-424f-becf-fb6aa51ac99a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/build_dash.js" afterPath="$PROJECT_DIR$/javascript/build_dash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LMI_Map_en.html" afterPath="$PROJECT_DIR$/LMI_Map_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css_files/map_css.css" afterPath="$PROJECT_DIR$/css_files/map_css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/make_map.js" afterPath="$PROJECT_DIR$/javascript/make_map.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,91 +21,79 @@
       <file leaf-file-name="LMI_Map_en.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3145">
-              <caret line="185" column="4" lean-forward="false" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+            <state relative-caret-position="615">
+              <caret line="232" column="26" lean-forward="false" selection-start-line="232" selection-start-column="26" selection-end-line="232" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build_dash.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="map_css.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="load_data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/load_data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build_dash.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/build_dash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="17">
+              <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".name" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <file leaf-file-name="make_map.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <file leaf-file-name="pie_chart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="700">
+              <caret line="129" column="22" lean-forward="false" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <file leaf-file-name="table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1553690108286" expanded="true" signature="49415:49457" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49415:49475" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49415:49488" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49415:49503" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49538:52085" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49551:52070" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49605:49900" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49624:49885" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49687:49865" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49727:49831" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49748:49809" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49950:50277" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="49969:50262" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50064:50242" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50104:50208" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50125:50186" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50328:50649" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50347:50634" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50436:50614" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50476:50580" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50497:50558" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50692:50998" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50711:50983" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50785:50963" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50825:50929" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="50846:50907" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51049:51398" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51068:51383" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51146:51363" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51186:51329" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51207:51307" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51433:51739" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51452:51724" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51526:51704" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51566:51670" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51587:51648" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51791:52056" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51810:52041" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51843:52021" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51883:51987" ph="..." />
-                <marker date="1553690108286" expanded="true" signature="51904:51965" ph="..." />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="det_table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="52" column="33" lean-forward="false" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +115,9 @@
       <find>deb</find>
       <find>M</find>
       <find>Map2</find>
+      <find>summary</find>
+      <find>pop_s</find>
+      <find>pop_st</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -157,9 +150,9 @@
         <option value="$PROJECT_DIR$/javascript/load_data.js" />
         <option value="$PROJECT_DIR$/javascript/pie_chart.js" />
         <option value="$PROJECT_DIR$/javascript/make_map.js" />
-        <option value="$PROJECT_DIR$/css_files/map_css.css" />
-        <option value="$PROJECT_DIR$/LMI_Map_en.html" />
         <option value="$PROJECT_DIR$/javascript/build_dash.js" />
+        <option value="$PROJECT_DIR$/LMI_Map_en.html" />
+        <option value="$PROJECT_DIR$/css_files/map_css.css" />
       </list>
     </option>
   </component>
@@ -191,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -218,17 +212,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LMI_Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LMI_Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LMI_Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LMI_Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-folder" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -424,26 +445,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LMI_Map2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -604,53 +605,6 @@
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LMI_Map2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LMI_Map2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LMI_Map2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -693,19 +647,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="LMI_Map2" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -741,42 +682,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LMI_Map2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LMI_Map2" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -808,11 +713,12 @@
       <workItem from="1553618678397" duration="1696000" />
       <workItem from="1553628492872" duration="709000" />
       <workItem from="1553690044687" duration="66000" />
+      <workItem from="1553695731174" duration="2609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46486000" />
+    <option name="totallyTimeSpent" value="49095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -825,25 +731,25 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17217484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -859,6 +765,10 @@
       <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
@@ -933,14 +843,15 @@
     <entry file="file://$PROJECT_DIR$/javascript/archive/LMI_table.js" />
     <entry file="file://$PROJECT_DIR$/javascript/archive/PS_Pop_table.js" />
     <entry file="file://$PROJECT_DIR$/javascript/archive/appl_table.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/det_table.js" />
     <entry file="file://$PROJECT_DIR$/javascript/archive/old_pie.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/table.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/load_data.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js" />
     <entry file="file://$PROJECT_DIR$/images/leaf_right.png" />
-    <entry file="file://$PROJECT_DIR$/javascript/make_map.js" />
-    <entry file="file://$PROJECT_DIR$/css_files/map_css.css" />
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -953,56 +864,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1553690108286" expanded="true" signature="49415:49457" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49415:49475" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49415:49488" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49415:49503" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49538:52085" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49551:52070" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49605:49900" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49624:49885" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49687:49865" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49727:49831" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49748:49809" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49950:50277" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="49969:50262" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50064:50242" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50104:50208" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50125:50186" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50328:50649" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50347:50634" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50436:50614" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50476:50580" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50497:50558" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50692:50998" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50711:50983" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50785:50963" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50825:50929" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="50846:50907" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51049:51398" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51068:51383" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51146:51363" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51186:51329" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51207:51307" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51433:51739" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51452:51724" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51526:51704" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51566:51670" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51587:51648" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51791:52056" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51810:52041" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51843:52021" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51883:51987" ph="..." />
-            <marker date="1553690108286" expanded="true" signature="51904:51965" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1014,18 +876,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
+    <entry file="file://$PROJECT_DIR$/javascript/load_data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3145">
-          <caret line="185" column="4" lean-forward="false" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/build_dash.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="17">
+          <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="129" column="22" lean-forward="false" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="52" column="33" lean-forward="false" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="232" column="26" lean-forward="false" selection-start-line="232" selection-start-column="26" selection-end-line="232" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding />
         </state>
       </provider>
