@@ -2,19 +2,19 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
      var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-    var width = 700,
-        height = 700,
+    var width = 750,
+        height = 500,
         active = d3.select(null)
     ;
 
     var projection = d3.geoConicConformal()
         .parallels([33, 45])
         .rotate([96, -39])
-        .fitSize([width, height], map_data);
+        .fitSize([width-5, height-5], map_data);
 
 
     var zoom = d3.zoom()
-        .scaleExtent([1, 8])
+        .scaleExtent([1, 40])
         .on("zoom", zoomed);
 
 
@@ -27,7 +27,7 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         // .append("svg")
         .attr("width", width)
         .attr("height", height)
-        .style("fill", "#f9f9f9")
+        .style("fill", "#fff")
         .on("click", stopped, true);
 
     svg.append("rect")
@@ -38,12 +38,13 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
     var g = svg.append("g");
 
-    svg.call(zoom)
+    svg.call(zoom);
 
     g.append("g")
         .attr("class", "states")
         .style("stroke", "black")
         .style("stroke-width", "0.5px")
+        .style("stroke-linejoin", "bevel")
         .selectAll("path")
         .data(map_data.features)
         .enter()
@@ -58,22 +59,19 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
         if (active.node() === this) return reset();
 
-        active.attr("class", "");
+        //Remove class and highlight colour from previous active census division
+        active.attr("class", "").style("fill", "#fff");
 
-        active = d3.select(this).attr("class", "active");
-
-        d3.selectAll("path")
-            .style("stroke-width", "0.5px");
-
-        d3.select(this)
-            .style("stroke-width", "1.5px");
+        //Select currently clicked census division as active and give it a highlight colour
+        active = d3.select(this).attr("class", "active")
+            .style("fill", "#3d87ff");
 
         var bounds = path.bounds(d),
             dx = bounds[1][0] - bounds[0][0],
             dy = bounds[1][1] - bounds[0][1],
             x = (bounds[0][0] + bounds[1][0]) / 2,
             y = (bounds[0][1] + bounds[1][1]) / 2,
-            scale = Math.max(1, Math.min(8, 0.9 / Math.max(dx / width, dy / height))),
+            scale = Math.max(1, Math.min(40, 0.9 / Math.max(dx / width, dy / height))),
             translate = [width / 2 - scale * x, height / 2 - scale * y];
 
         svg.transition()
@@ -91,25 +89,24 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         update_table(_.where(commute_data, {cd: cduid}),  _.without(commute_data.columns,"cd", "value", "var"), "comm_tbl");
         update_pie(_.where(commute_data, {cd: cduid}));
         update_det_table(_.where(adv_data, {cd: cduid}),_.without(adv_data.columns,"cd", "POSTER_URL", "CAR_CHC_ID", "POSITIONS_AVAILABLE", "tot_in"));
-
     }
 
     function reset() {
 
         d3.select(active).node()
-            .style("stroke-width", "1px");
+            .style("stroke-width", "0.5px");
 
-        active.classed("active", false);
+        //Remove class and highlight colour from previous active census division
+        active.attr("class", "").style("fill", "#fff");
         active = d3.select(null);
 
         svg.transition()
             .duration(750)
             .call( zoom.transform, d3.zoomIdentity ); // updated for d3 v4
-
     }
 
     function zoomed() {
-        g.style("stroke-width", 1.5 / d3.event.transform.k + "px");
+        g.style("stroke-width", 0.5 / d3.event.transform.k + "px");
         g.attr("transform", d3.event.transform); // updated for d3 v4
     }
 
@@ -117,5 +114,5 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         if (d3.event.defaultPrevented) d3.event.stopPropagation();
     }
 
-};
+}
 

@@ -7,7 +7,7 @@ function make_table (data, columns, id){
     var table = d3.select('#'+id+'_div')
         .append('table')
         .attr("id", id)
-        .attr("class","table table-striped table-hover")
+        .attr("class","table table-striped table-hover");
 
     var thead = table.append('thead');
 

@@ -42,14 +42,14 @@ function make_pie (data){
         .attr("d", path)
         .attr("fill", function(d) {  return color(d.data.label); })
 
-};
+}
 
 function update_pie(new_data2) {
 
     var width = 350;
     var height = 350;
 
-    var svg = d3.select('#svg')
+    var svg = d3.select('#svg');
 
     var radius = Math.min(width, height) / 2;
 
