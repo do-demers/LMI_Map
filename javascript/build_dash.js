@@ -7,6 +7,7 @@
 
 var wait;
 //test commit
+//test commit2
 function makeMap(error, csd_data, csd_map, adv_data, LMI_data, lmi_ps_noc_data, commute_data) {
 
     var prov_bool = 0;
