@@ -20,6 +20,7 @@ function make_table (data, columns, id){
         .enter()
         .append('th')
         .text(function (column) {
+            console.log("Here: make table");
             return column;
         });
 
@@ -43,7 +44,6 @@ function make_table (data, columns, id){
                 var pctformat = d3.format(",.1%");
 
                 new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
-
                 return {
                     column: column,
                     value: new_val,
@@ -55,17 +55,74 @@ function make_table (data, columns, id){
         .append('td')
         .html(function (d) {
             if(d.column === "Sel_Process_Nbr"){
-                var new_sel_proc = "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                return new_sel_proc;
+                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
             }
             else {
                 return d.value;
             }
         });
 }
-function update_table (u_data, columns, id){
+function update_table (new_data, columns, id){
 
-    var table_u = d3.select('#'+id);
+    var headers = columns;
+
+    var table = d3.select('#'+id+'_div');
+
+    var thead = table.select('thead');
+
+    var tbody = table.select('tbody');
+
+    table.selectAll('tr').remove();
+
+    thead.append('tr')
+        .attr("class","active")
+        .selectAll('th')
+        .data(headers)
+        .enter()
+        .append('th')
+        .text(function (column) {
+            console.log("Here: make table");
+            return column;
+        });
+
+// create a row for each object in the data
+    var rows_grp = tbody
+        .selectAll('tr')
+        .data(new_data);
+
+    var rows_grp_enter = rows_grp
+        .enter()
+        .append('tr')
+    ;
+
+    rows_grp_enter.merge(rows_grp);
+
+    rows_grp_enter
+        .selectAll('td')
+        .data(function (row) {
+            return columns.map(function (column) {
+                var comafmt = d3.format(",d");
+                var pctformat = d3.format(",.1%");
+
+                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
+                return {
+                    column: column,
+                    value: new_val,
+                    link:row["url"]
+                };
+            });
+        })
+        .enter()
+        .append('td')
+        .html(function (d) {
+            if(d.column === "Sel_Process_Nbr"){
+               return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
+            }
+            else {
+                return d.value;
+            }
+        });
+   /* var table_u = d3.select('#'+id);
 
     var tbody_u = table_u.select('tbody');
 
@@ -115,5 +172,5 @@ function update_table (u_data, columns, id){
             }else {
                 return d.value;
             }
-        });
-    }
+        });*/
+}
