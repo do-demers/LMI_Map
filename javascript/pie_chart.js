@@ -40,7 +40,7 @@ function make_pie (data){
     arc
         .append("path")
         .attr("d", path)
-        .attr("fill", function(d) {  return color(d.data.label); })
+        .attr("fill", function(d, i) {  return color(i); })
 
 }
 

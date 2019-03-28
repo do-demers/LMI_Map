@@ -20,7 +20,6 @@ function make_table (data, columns, id){
         .enter()
         .append('th')
         .text(function (column) {
-            console.log("Here: make table");
             return column;
         });
 
@@ -43,7 +42,10 @@ function make_table (data, columns, id){
                 var comafmt = d3.format(",d");
                 var pctformat = d3.format(",.1%");
 
-                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
+                //Num formats for columns in general
+                new_val = ( _.contains(["Value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "Share" ? pctformat(row[column]) : row[column]);
+                //Num formats in specific LMI
+                new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["Indicator"] )&& row[column] === row["Value"] ? pctformat(row["Value"]) : new_val);
                 return {
                     column: column,
                     value: new_val,
@@ -81,7 +83,6 @@ function update_table (new_data, columns, id){
         .enter()
         .append('th')
         .text(function (column) {
-            console.log("Here: make table");
             return column;
         });
 
@@ -104,7 +105,10 @@ function update_table (new_data, columns, id){
                 var comafmt = d3.format(",d");
                 var pctformat = d3.format(",.1%");
 
-                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
+                //Num formats for columns in general
+                new_val = ( _.contains(["Value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "Share" ? pctformat(row[column]) : row[column]);
+                //Num formats in specific LMI
+                new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["Indicator"] )&& row[column] === row["Value"] ? pctformat(row["Value"]) : new_val);
                 return {
                     column: column,
                     value: new_val,
