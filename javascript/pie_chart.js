@@ -29,6 +29,9 @@ function make_pie (data){
 
     var new_data = _.where(data, {cd: "1001"});
 
+    var label = d3.arc()
+        .outerRadius(radius-10)
+        .innerRadius(radius-100);
 
     var arc = g
         .selectAll(".arc")
@@ -37,17 +40,30 @@ function make_pie (data){
         .append("g")
         .attr("class", "arc");
 
-    arc
-        .append("path")
+    arc.append("path")
         .attr("d", path)
-        .attr("fill", function(d, i) {  return color(i); })
+        .attr("fill", function(d, i) {  return color(i); });
 
+    arc.append("text")
+        .attr("class","pieText")
+        .attr("transform", function (d) {
+            return "translate(" + label.centroid(d) + ")";
+        })
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "16px")
+        .attr("fill", "white")
+        .text( function (d){
+            return d.value;
+        });
 }
 
 function update_pie(new_data2) {
 
     var width = 350;
     var height = 350;
+
+    //get rid of previous numbers on pie chart
+    //d3.selectAll(".pieText").remove();
 
     var svg = d3.select('#svg');
 
@@ -66,6 +82,10 @@ function update_pie(new_data2) {
     var path = d3.arc()
         .outerRadius(radius - 10)
         .innerRadius(radius - 100);
+
+    var label = d3.arc()
+        .outerRadius(radius-10)
+        .innerRadius(radius-100);
 
     var vis = d3.select('#pie_svg');
 
@@ -99,7 +119,7 @@ function update_pie(new_data2) {
         .attrTween("d", arcTween)
     ;
 
-//Exit
+    //Exit
     arcs
         .exit()
         .transition()
@@ -113,6 +133,25 @@ function update_pie(new_data2) {
         .style("fill-opacity", 1e-6)
         .remove();
 
+
+    //update text
+    d3.selectAll(".pieText")
+        .data(pie(new_data2))
+        .attr("class","pieText")
+        .transition()
+        .duration(2000)
+        .attrTween("d", arcTween)
+        .attr("transform", function (d) {
+            return "translate(" + label.centroid(d) + ")";
+        })
+        .attr("font-family", "sans-serif")
+        .attr("font-size", "16px")
+        .attr("fill", "white")
+        .text( function (d){
+            return d.value;
+        });
+
+    console.log(new_data2);
 }
 
 function arcTween(a) {

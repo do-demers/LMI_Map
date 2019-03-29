@@ -9,7 +9,7 @@ function make_det_table (data){
     var table = d3.select('#adv_det_div')
         .append('table')
         .attr("id", "det_adv_tbl")
-        .attr("class","table table-striped table-hover")
+        .attr("class","table table-striped table-hover");
 
     var thead = table.append('thead');
 
@@ -42,14 +42,9 @@ function make_det_table (data){
         .selectAll('td')
         .data(function (row) {
             return columns.map(function (column) {
-                var comafmt = d3.format(",d");
-                var pctformat = d3.format(",.1%");
-
-                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
-
                 return {
                     column: column,
-                    value: new_val,
+                    value: row[column],
                     link: row["POSTER_URL"] };
             });
         })
@@ -57,9 +52,8 @@ function make_det_table (data){
         .append('td')
         .html(function (d) {
             if(d.column === "SELECTION_PROCESS_NUMBER"){
-                var new_sel_proc = "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                return new_sel_proc;
-            }
+                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
+                            }
             else {
                 return d.value;
             }
@@ -67,7 +61,7 @@ function make_det_table (data){
 
     $('#det_adv_tbl').DataTable({
         "paging": true,
-        "searching": false
+        "searching": true
     });
 
 }
@@ -80,7 +74,7 @@ function update_det_table (d, columns){
 
         var sorted_data = _.sortBy(d, 'applications');
 
-        var table_u = d3.select('#det_adv_tbl')
+        var table_u = d3.select('#det_adv_tbl');
 
         var tbody_u = table_u.select('tbody');
 
@@ -92,22 +86,16 @@ function update_det_table (d, columns){
 
         var new_tds = rows_grp_u.merge(rows_grp_enter_u).selectAll('td').data(function (row) {
             return columns.map(function (column) {
-                var comafmt = d3.format(",d");
-                var pctformat = d3.format(",.1%");
-
-                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
-
                 return {
                     column: column,
-                    value: new_val,
+                    value: row[column],
                     link:row["url"] };
             });
         });
 
         new_tds.html(function (d) {
             if(d.column === "SELECTION_PROCESS_NUMBER"){
-                var new_sel_proc = "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                return new_sel_proc;
+                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
             }else {
                 return d.value;
             }
@@ -115,8 +103,7 @@ function update_det_table (d, columns){
 
         new_tds.enter().append('td').html(function (d) {
             if(d.column === "SELECTION_PROCESS_NUMBER"){
-                var new_sel_proc = "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                return new_sel_proc;
+                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
             }else {
                 return d.value;
             }
@@ -125,8 +112,8 @@ function update_det_table (d, columns){
 
         $('#det_adv_tbl').DataTable({
             "paging": true,
-            "searching": false
+            "searching": true
         });
 
-    };
+    }
 
