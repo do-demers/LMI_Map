@@ -1,22 +1,17 @@
 function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, commute_data, adv_data) {
 
-     var color = d3.scaleOrdinal(d3.schemeCategory20);
-
     var width = 750,
         height = 500,
-        active = d3.select(null)
-    ;
+        active = d3.select(null);
 
     var projection = d3.geoConicConformal()
         .parallels([33, 45])
         .rotate([96, -39])
         .fitSize([width-5, height-5], map_data);
 
-
     var zoom = d3.zoom()
         .scaleExtent([1, 40])
         .on("zoom", zoomed);
-
 
     var path = d3.geoPath()
         .projection(projection);
