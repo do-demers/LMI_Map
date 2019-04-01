@@ -1,8 +1,10 @@
+//globals
+var width = 400;
+var height = 400;
+var pctformat = d3.format(",.1%");
+var comafmt = d3.format(",d");
 
 function make_pie (data){
-
-    var width = 350;
-    var height = 350;
 
     var svg = d3.select('#pie_div')
         .append("svg")
@@ -10,8 +12,7 @@ function make_pie (data){
         .attr("width", width)
         .attr("height", height);
 
-
-    var radius = Math.min(width, height) / 2;
+    var radius = Math.min(width-50, height-50) / 2;
 
     var g = svg
         .append("g")
@@ -30,8 +31,8 @@ function make_pie (data){
     var new_data = _.where(data, {cd: "1001"});
 
     var label = d3.arc()
-        .outerRadius(radius-10)
-        .innerRadius(radius-100);
+        .outerRadius(radius+10)
+        .innerRadius(radius+10);
 
     var arc = g
         .selectAll(".arc")
@@ -51,23 +52,18 @@ function make_pie (data){
         })
         .attr("font-family", "sans-serif")
         .attr("font-size", "16px")
-        .attr("fill", "white")
+        .attr("fill", "black")
+        //.style("text-shadow", "1px 1px 1px #cccccc")
         .text( function (d){
-            return d.value;
+            return pctformat(d.data.Share);
         });
 }
 
 function update_pie(new_data2) {
 
-    var width = 350;
-    var height = 350;
-
-    //get rid of previous numbers on pie chart
-    //d3.selectAll(".pieText").remove();
-
     var svg = d3.select('#svg');
 
-    var radius = Math.min(width, height) / 2;
+    var radius = Math.min(width-50, height-50) / 2;
 
     var g = svg
         .append("g")
@@ -84,8 +80,8 @@ function update_pie(new_data2) {
         .innerRadius(radius - 100);
 
     var label = d3.arc()
-        .outerRadius(radius-10)
-        .innerRadius(radius-100);
+        .outerRadius(radius+10)
+        .innerRadius(radius+10);
 
     var vis = d3.select('#pie_svg');
 
@@ -106,7 +102,7 @@ function update_pie(new_data2) {
         .each(function(d) {
             this._current = {
                 data: d.data,
-                value: d.values ,
+                value: d.values,
                 startAngle: 0,
                 endAngle: 0};
         })
@@ -146,25 +142,24 @@ function update_pie(new_data2) {
         })
         .attr("font-family", "sans-serif")
         .attr("font-size", "16px")
-        .attr("fill", "white")
+        .attr("fill", "black")
+        //.style("text-shadow", "1px 1px 1px #cccccc")
         .text( function (d){
-            return d.value;
+            return pctformat(d.data.Share);
         });
 
-    console.log(new_data2);
 }
 
 function arcTween(a) {
 
-    var width = 350;
-    var height = 350;
+    var width = 400;
+    var height = 400;
 
-    var radius = Math.min(width, height) / 2;
+    var radius = Math.min(width-50, height-50) / 2;
 
     var path = d3.arc()
         .outerRadius(radius - 10)
         .innerRadius(radius - 100);
-
 
     var i = d3.interpolate(this._current, a);
     this._current = i(0);
