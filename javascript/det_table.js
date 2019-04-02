@@ -1,5 +1,8 @@
 function make_det_table (data){
 
+    var appTotal = 0;
+    var comafmt = d3.format(",d");
+
     var new_data = _.where(data, {cd: "1001"});
 
     var columns = _.without(data.columns,"cd", "POSTER_URL", "CAR_CHC_ID", "POSITIONS_AVAILABLE", "tot_in");
@@ -64,56 +67,75 @@ function make_det_table (data){
         "searching": true
     });
 
+    //Count applications, adverts in CDUID, update text
+    new_data.forEach(function(d){
+        appTotal += parseInt(d.TOTAL_SUBMITTED);
+    });
+
+    d3.select("#applications").text(comafmt(appTotal));
+    d3.select("#adverts").text(comafmt(new_data.length));
+
 }
 
 
 function update_det_table (d, columns){
 
+    var appTotal = 0;
+    var comafmt = d3.format(",d");
 
-        $('#det_adv_tbl').DataTable().destroy();
+    $('#det_adv_tbl').DataTable().destroy();
 
-        var sorted_data = _.sortBy(d, 'applications');
+    var sorted_data = _.sortBy(d, 'applications');
 
-        var table_u = d3.select('#det_adv_tbl');
+    var table_u = d3.select('#det_adv_tbl');
 
-        var tbody_u = table_u.select('tbody');
+    var tbody_u = table_u.select('tbody');
 
-        var rows_grp_u = tbody_u.selectAll('tr').data(sorted_data);
+    var rows_grp_u = tbody_u.selectAll('tr').data(sorted_data);
 
-        rows_grp_u.exit().remove();
+    rows_grp_u.exit().remove();
 
-        var rows_grp_enter_u = rows_grp_u.enter().append('tr');
+    var rows_grp_enter_u = rows_grp_u.enter().append('tr');
 
-        var new_tds = rows_grp_u.merge(rows_grp_enter_u).selectAll('td').data(function (row) {
-            return columns.map(function (column) {
-                return {
-                    column: column,
-                    value: row[column],
-                    link:row["url"] };
-            });
+    var new_tds = rows_grp_u.merge(rows_grp_enter_u).selectAll('td').data(function (row) {
+        return columns.map(function (column) {
+            return {
+                column: column,
+                value: row[column],
+                link:row["url"] };
         });
+    });
 
-        new_tds.html(function (d) {
-            if(d.column === "SELECTION_PROCESS_NUMBER"){
-                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-            }else {
-                return d.value;
-            }
-        });
+    new_tds.html(function (d) {
+        if(d.column === "SELECTION_PROCESS_NUMBER"){
+            return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
+        }else {
+            return d.value;
+        }
+    });
 
-        new_tds.enter().append('td').html(function (d) {
-            if(d.column === "SELECTION_PROCESS_NUMBER"){
-                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-            }else {
-                return d.value;
-            }
-        });
+    new_tds.enter().append('td').html(function (d) {
+        if(d.column === "SELECTION_PROCESS_NUMBER"){
+            return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
+        }else {
+            return d.value;
+        }
+    });
 
 
-        $('#det_adv_tbl').DataTable({
-            "paging": true,
-            "searching": true
-        });
+    $('#det_adv_tbl').DataTable({
+        "paging": true,
+        "searching": true
+    });
 
-    }
+    //Count applications, adverts in CDUID
+    sorted_data.forEach(function(d){
+        appTotal += parseInt(d.TOTAL_SUBMITTED);
+    });
+
+    d3.select("#applications").text(comafmt(appTotal));
+    d3.select("#adverts").text(comafmt(sorted_data.length));
+
+}
+
 
