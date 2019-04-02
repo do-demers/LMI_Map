@@ -20,7 +20,7 @@ var pie = d3.pie()
     .sort(null)
     .value(function(d) {  return d.value; });
 
-var path = d3.arc()
+var paths = d3.arc()
     .outerRadius(radius - 10)
     .innerRadius(radius - 100);
 
@@ -30,36 +30,50 @@ var label = d3.arc()
 
 function make_pie (data){
 
-    var arc = g
+   var arc = g
         .selectAll(".arc")
         .data(pie(data))
         .enter()
         .append("g")
         .attr("class", "arc");
 
-    arc.append("path")
-        .attr("d", path)
-        .attr("fill", function(d, i) {  return color(i); });
+   arc.append("path")
+       .attr("d", paths)
+       .attr("fill", function(d, i) {  return color(i); })
+       .each(function(d) { this._current = d; });
 
-    arc.append("text")
-        .attr("class","pieText")
-        .attr("transform", function (d) {
-            return "translate(" + label.centroid(d) + ")";
-        })
-        .attr("font-family", "sans-serif")
-        .attr("font-size", "16px")
-        .attr("fill", "black")
-        //.style("text-shadow", "1px 1px 1px #cccccc")
-        .text( function (d){
-            return pctformat(d.data.Share);
-        });
+   arc.append("text")
+       .attr("class","pieText")
+       .attr("transform", function (d) {
+           return "translate(" + label.centroid(d) + ")";
+       })
+       .attr("font-family", "sans-serif")
+       .attr("font-size", "16px")
+       .attr("fill", "black")
+       //.style("text-shadow", "1px 1px 1px #cccccc")
+       .text( function (d){
+           return pctformat(d.data.Share);
+       })
+       .each(function(d) { this._current = d; });
 }
 
-function update_pie(new_data2) {
+function update_pie(new_data) {
+
+    var pie = d3.pie()
+        .sort(null)
+        .value(function(d) {  return d.value; });
 
     var arcs = svg
         .selectAll("path")
-        .data(pie(new_data2))
+        .data(pie(new_data));
+
+    arcs.transition()
+        .duration(2000)
+        .attrTween("d", arcTween);
+
+    /*var arcs = svg
+        .selectAll("path")
+        .data(pie(new_data))
     ;
 
     //enter and Update
@@ -79,12 +93,12 @@ function update_pie(new_data2) {
                 endAngle: 0};
         })
         .style("fill-opacity", 1e-6)
-        .remove();
+        .remove();*/
 
 
     //update text
     d3.selectAll(".pieText")
-        .data(pie(new_data2))
+        .data(pie(new_data))
         .transition()
         .duration(2000)
         .attrTween("d", arcTween)
@@ -105,6 +119,6 @@ function arcTween(a) {
     var i = d3.interpolate(this._current, a);
     this._current = i(0);
     return function(t) {
-        return path(i(t));
+        return paths(i(t));
     };
 }
