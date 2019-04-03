@@ -1,5 +1,7 @@
 function make_table (data, columns, id){
 
+    var color = d3.scaleOrdinal(d3.schemeCategory10);
+
     var new_data = _.where(data, {cd: "1001"});
 
     var headers = columns;
@@ -63,8 +65,26 @@ function make_table (data, columns, id){
                 return d.value;
             }
         });
+
+    //Add colour series to commute table
+    //Title
+    var sHead = d3.select("#comm_tbl_div").select("thead");
+
+    sHead.selectAll("tr")
+        .append('th');
+
+    //Colours
+    var series = d3.select("#comm_tbl_div").select("tbody");
+
+    series.selectAll("tr")
+        .append('td')
+        .html(function (d,i) {
+            return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
+        });
 }
 function update_table (new_data, columns, id){
+
+    var color = d3.scaleOrdinal(d3.schemeCategory10);
 
     var headers = columns;
 
@@ -126,55 +146,20 @@ function update_table (new_data, columns, id){
                 return d.value;
             }
         });
-   /* var table_u = d3.select('#'+id);
 
-    var tbody_u = table_u.select('tbody');
+    //Add colour series to commute table
+    //Title
+    var sHead = d3.select("#comm_tbl_div").select("thead");
 
-    var rows_grp_u = tbody_u
-            .selectAll('tr')
-            .data(u_data);
+    sHead.selectAll("tr")
+        .append('th');
 
-    rows_grp_u.exit().remove();
+    //Colours
+    var series = d3.select("#comm_tbl_div").select("tbody");
 
-    var rows_grp_enter_u = rows_grp_u
-            .enter()
-            .append('tr');
-
-    var new_tds = rows_grp_u.merge(rows_grp_enter_u)
-            .selectAll('td')
-            .data(function (row) {
-                return columns.map(function (column) {
-                    var comafmt = d3.format(",d");
-                    var pctformat = d3.format(",.1%");
-
-                    new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
-
-                    return {
-                        column: column,
-                        value: row[column],
-                        link: row["url"] };
-                });
-            });
-
-    new_tds
-        .html(function (d) {
-            if(d.column === "Sel_Process_Nbr"){
-                var new_sel_proc = "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                return new_sel_proc;
-            }else {
-                return d.value;
-            }
-        });
-
-    new_tds
-        .enter()
+    series.selectAll("tr")
         .append('td')
-        .html(function (d) {
-            if(d.column === "Sel_Process_Nbr"){
-                var new_sel_proc = "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                return new_sel_proc;
-            }else {
-                return d.value;
-            }
-        });*/
+        .html(function (d,i) {
+            return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
+        });
 }
