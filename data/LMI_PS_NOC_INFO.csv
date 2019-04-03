@@ -1,4 +1,4 @@
-cd,var,Category,LMI_value,PS_value
+cd,var,category,LMI_value,PS_value
 1001,noc0,Management occupations,12895,116
 1001,noc1,"Business, finance and administration occupations",20900,991
 1001,noc2,Natural and applied sciences and related occupations,11630,898

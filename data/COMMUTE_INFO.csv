@@ -1,4 +1,4 @@
-cd,var,Commute,value,Share
+cd,var,commute,value,share
 1001,commute_more_60_min,More than 60 minutes of commuting each day,8825,0.0731515252
 1001,commute_less_15_min,Less than 15 minutes of commuting each day,44430,0.368285809
 1001,commute_30_44_min,Between 30 and 44 minutes of commuting each day,13290,0.1101624668

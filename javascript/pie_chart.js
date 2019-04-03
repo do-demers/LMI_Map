@@ -52,7 +52,7 @@ function make_pie (data){
        .attr("fill", "black")
        //.style("text-shadow", "1px 1px 1px #cccccc")
        .text( function (d){
-           return pctformat(d.data.Share);
+           return pctformat(d.data.share);
 
        })
        .each(function(d) { this._current = d; });
@@ -86,7 +86,7 @@ function update_pie(new_data) {
         .attr("fill", "black")
         //.style("text-shadow", "1px 1px 1px #cccccc")
         .text( function (d){
-            return pctformat(d.data.Share);
+            return pctformat(d.data.share);
         });
 }
 

@@ -45,9 +45,9 @@ function make_table (data, columns, id){
                 var pctformat = d3.format(",.1%");
 
                 //Num formats for columns in general
-                new_val = ( _.contains(["Value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "Share" ? pctformat(row[column]) : row[column]);
+                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
                 //Num formats in specific LMI
-                new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["Indicator"] )&& row[column] === row["Value"] ? pctformat(row["Value"]) : new_val);
+                new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["indicator"] )&& row[column] === row["value"] ? pctformat(row["value"]) : new_val);
                 return {
                     column: column,
                     value: new_val,
@@ -67,20 +67,24 @@ function make_table (data, columns, id){
         });
 
     //Add colour series to commute table
-    //Title
-    var sHead = d3.select("#comm_tbl_div").select("thead");
+    if (id === "comm_tbl"){
+        //Title
+        var sHead = d3.select("#comm_tbl_div").select("thead");
 
-    sHead.selectAll("tr")
-        .append('th');
+        sHead.selectAll("tr")
+            .append('th');
 
-    //Colours
-    var series = d3.select("#comm_tbl_div").select("tbody");
+        //Colours
+        var series = d3.select("#comm_tbl_div").select("tbody");
 
-    series.selectAll("tr")
-        .append('td')
-        .html(function (d,i) {
-            return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
-        });
+        series.selectAll("tr")
+            .append('td')
+            .html(function (d,i) {
+                return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
+            });
+    }
+
+    make_headers(id);
 }
 function update_table (new_data, columns, id){
 
@@ -126,9 +130,9 @@ function update_table (new_data, columns, id){
                 var pctformat = d3.format(",.1%");
 
                 //Num formats for columns in general
-                new_val = ( _.contains(["Value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "Share" ? pctformat(row[column]) : row[column]);
+                new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
                 //Num formats in specific LMI
-                new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["Indicator"] )&& row[column] === row["Value"] ? pctformat(row["Value"]) : new_val);
+                new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["indicator"] )&& row[column] === row["value"] ? pctformat(row["value"]) : new_val);
                 return {
                     column: column,
                     value: new_val,
@@ -148,18 +152,56 @@ function update_table (new_data, columns, id){
         });
 
     //Add colour series to commute table
-    //Title
-    var sHead = d3.select("#comm_tbl_div").select("thead");
+    if (id === "comm_tbl"){
+        //Title
+        var sHead = d3.select("#comm_tbl_div").select("thead");
 
-    sHead.selectAll("tr")
-        .append('th');
+        sHead.selectAll("tr")
+            .append('th');
 
-    //Colours
-    var series = d3.select("#comm_tbl_div").select("tbody");
+        //Colours
+        var series = d3.select("#comm_tbl_div").select("tbody");
 
-    series.selectAll("tr")
-        .append('td')
-        .html(function (d,i) {
-            return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
-        });
+        series.selectAll("tr")
+            .append('td')
+            .html(function (d,i) {
+                return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
+            });
+    }
+
+    make_headers(id);
+}
+
+//Function to assign headers
+function make_headers (table){
+
+    var i = 0;
+    var headers = d3.select("#" + table + "_div").selectAll("th");
+
+    var length = headers.nodes().length;
+    var lmiH = ["Indicator", "Value"];
+    var commuteH = ["Commute", "Share", ""];
+    var occH = ["Category", "Market", "Public Service"];
+
+
+    switch (table){
+        case "LMI":
+            for (i = 0; i < length; i++) {
+                headers.nodes()[i].innerHTML = lmiH[i];
+            }
+            break;
+
+        case "comm_tbl":
+            for (i = 0; i < length; i++) {
+                headers.nodes()[i].innerHTML = commuteH[i];
+            }
+            break;
+
+        case "LMI_PS":
+            for (i = 0; i < length; i++) {
+                headers.nodes()[i].innerHTML = occH[i];
+            }
+            break;
+
+    }
 }
