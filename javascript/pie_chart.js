@@ -1,7 +1,7 @@
 //globals
 var width = 400;
 var height = 400;
-var radius = Math.min(width-50, height-50) / 2;
+var radius = Math.min(width-60, height-60) / 2;
 var pctformat = d3.format(",.1%");
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
@@ -48,11 +48,12 @@ function make_pie (data){
            return "translate(" + label.centroid(d) + ")";
        })
        .attr("font-family", "sans-serif")
-       .attr("font-size", "16px")
+       .style("font-size", "14px")
        .attr("fill", "black")
        //.style("text-shadow", "1px 1px 1px #cccccc")
        .text( function (d){
            return pctformat(d.data.Share);
+
        })
        .each(function(d) { this._current = d; });
 }
@@ -71,31 +72,6 @@ function update_pie(new_data) {
         .duration(2000)
         .attrTween("d", arcTween);
 
-    /*var arcs = svg
-        .selectAll("path")
-        .data(pie(new_data))
-    ;
-
-    //enter and Update
-    arcs
-        .transition()
-        .duration(2000)
-        .attrTween("d", arcTween)
-    ;
-
-    //Exit
-    arcs
-        .exit()
-        .each(function(d) {
-            this._current = {data: d.data,
-                value: d.values ,
-                startAngle: 0,
-                endAngle: 0};
-        })
-        .style("fill-opacity", 1e-6)
-        .remove();*/
-
-
     //update text
     d3.selectAll(".pieText")
         .data(pie(new_data))
@@ -106,7 +82,7 @@ function update_pie(new_data) {
             return "translate(" + label.centroid(d) + ")";
         })
         .attr("font-family", "sans-serif")
-        .attr("font-size", "16px")
+        .style("font-size", "14px")
         .attr("fill", "black")
         //.style("text-shadow", "1px 1px 1px #cccccc")
         .text( function (d){
