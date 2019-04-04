@@ -1,11 +1,7 @@
-function make_det_table (data){
+function make_det_table (data, columns){
 
     var appTotal = 0;
     var comafmt = d3.format(",d");
-
-    var new_data = _.where(data, {cd: "1001"});
-
-    var columns = _.without(data.columns,"cd", "POSTER_URL", "CAR_CHC_ID", "POSITIONS_AVAILABLE", "tot_in");
 
     var headers = ["SELECTION PROCESS NUMBER", "Organisation Code", "Classification", "Various Work Location", "Applications Submitted"];
 
@@ -17,6 +13,8 @@ function make_det_table (data){
     var thead = table.append('thead');
 
     var tbody = table.append('tbody');
+
+    var tfoot = table.append('tfoot');
 
     thead.append('tr')
         .attr("class","active")
@@ -31,7 +29,7 @@ function make_det_table (data){
 // create a row for each object in the data
     var rows_grp = tbody
         .selectAll('tr')
-        .data(new_data);
+        .data(data);
 
     var rows_grp_enter = rows_grp
         .enter()
@@ -62,21 +60,49 @@ function make_det_table (data){
             }
         });
 
-    $('#det_adv_tbl').DataTable({
+    tfoot.append('tr')
+        .attr("class","active")
+        .selectAll('th')
+        .data(headers)
+        .enter()
+        .append('th')
+        .text(function (column) {
+            return column;
+        });
+
+    $('#det_adv_tbl').DataTable( {
         "paging": true,
-        "searching": true
-    });
+        "searching": true,
+        initComplete: function () {
+            this.api().columns().every( function () {
+                var column = this;
+                var select = $('<select><option value=""></option></select>')
+                    .appendTo( $(column.footer()).empty() )
+                    .on( 'change', function () {
+                        var val = $.fn.dataTable.util.escapeRegex(
+                            $(this).val()
+                        );
+
+                        column
+                            .search( val ? '^'+val+'$' : '', true, false )
+                            .draw();
+                    } );
+
+                column.data().unique().sort().each( function ( d, j ) {
+                    select.append( '<option>'+d+'</option>' )
+                } );
+            } );
+        }
+    } );
 
     //Count applications, adverts in CDUID, update text
-    new_data.forEach(function(d){
+    data.forEach(function(d){
         appTotal += parseInt(d.TOTAL_SUBMITTED);
     });
 
     d3.select("#applications").text(comafmt(appTotal));
-    d3.select("#adverts").text(comafmt(new_data.length));
-
+    d3.select("#adverts").text(comafmt(data.length));
 }
-
 
 function update_det_table (d, columns){
 
@@ -122,11 +148,30 @@ function update_det_table (d, columns){
         }
     });
 
-
-    $('#det_adv_tbl').DataTable({
+    $('#det_adv_tbl').DataTable( {
         "paging": true,
-        "searching": true
-    });
+        "searching": true,
+        initComplete: function () {
+            this.api().columns().every( function () {
+                var column = this;
+                var select = $('<select><option value=""></option></select>')
+                    .appendTo( $(column.footer()).empty() )
+                    .on( 'change', function () {
+                        var val = $.fn.dataTable.util.escapeRegex(
+                            $(this).val()
+                        );
+
+                        column
+                            .search( val ? '^'+val+'$' : '', true, false )
+                            .draw();
+                    } );
+
+                column.data().unique().sort().each( function ( d, j ) {
+                    select.append( '<option>'+d+'</option>' )
+                } );
+            } );
+        }
+    } );
 
     //Count applications, adverts in CDUID
     sorted_data.forEach(function(d){

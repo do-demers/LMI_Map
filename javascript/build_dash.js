@@ -23,7 +23,7 @@ function makeMap(error, csd_data, csd_map, adv_data, LMI_data, lmi_ps_noc_data, 
         make_table(_.where(lmi_ps_noc_data, {cd: "1001"}), _.without(lmi_ps_noc_data.columns,"cd", "var"), "LMI_PS");
         make_table(_.where(commute_data, {cd: "1001"}), _.without(commute_data.columns,"cd", "value", "var"), "comm_tbl");
         make_pie(_.where(commute_data, {cd: "1001"}));
-        make_det_table(adv_data);
+        make_det_table(_.where(adv_data, {cd: "1001"}),_.without(adv_data.columns,"cd", "POSTER_URL", "CAR_CHC_ID", "POSITIONS_AVAILABLE", "tot_in"));
 
 
     }, 1);
