@@ -1,5 +1,7 @@
 function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, commute_data, adv_data) {
 
+    d3.select("#cduid_short").text("Division No. 1");
+
     var width = 750,
         height = 500,
         active = d3.select(null);
@@ -49,6 +51,7 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
     function clicked(d) {
 
+        var cduid = d.properties.CDUID;
         if (active.node() === this) return reset();
 
         //Remove class and highlight colour from previous active census division
@@ -70,11 +73,7 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
             .duration(750)
             .call( zoom.transform, d3.zoomIdentity.translate(translate[0],translate[1]).scale(scale) );
 
-
-        var cduid = d.properties.CDUID;
-
-        d3.select("#cduid").text("The new CDUID is "+ cduid);
-        d3.select("#cduid_short").text("" + cduid);
+        d3.select("#cduid_short").text( d.properties.CDNAME);
 
         make_table(_.where(LMI_data, {cd: cduid}), _.without(LMI_data.columns,"cd", "var"), "LMI");
         make_table(_.where(lmi_ps_noc_data, {cd: cduid}),  _.without(lmi_ps_noc_data.columns,"cd", "var"), "LMI_PS");

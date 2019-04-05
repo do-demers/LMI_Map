@@ -1,19 +1,7 @@
-#map_svg{
-    border: 1px solid #cccccc;
-    box-shadow: 0 0 8px #cccccc;
-    cursor: pointer;
-}
-#commute_div{
-    width: 100%;
-}
-
-#comm_tbl_div, #pie_div{
-    margin: auto;
-}
 .tile{
     background: #ffffff;
     width: 100%;
-    margin: 1%;
+    margin: 0.5%;
     padding: 1%;
     box-shadow: 2px 2px 3px #888888;
 }
@@ -30,4 +18,23 @@
 
 .arc path {
     stroke: #fff;
+}
+#map_svg{
+    border: 1px solid #cccccc;
+    box-shadow: 0 0 8px #cccccc;
+    cursor: pointer;
+    margin: 1%;
+}
+#LMI_div{
+    margin: auto;
+}
+#commute_div{
+    width: 100%;
+}
+
+#comm_tbl_div, #pie_div{
+    margin: auto;
+}
+#info{
+    text-align: center;
 }

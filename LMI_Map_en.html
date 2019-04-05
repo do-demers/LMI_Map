@@ -214,15 +214,11 @@ style="display:none;visibility:hidden"&amp;gt;&amp;lt;/iframe&amp;gt;</noscript>
             <div class="col-md-12">
                 <h1 id="wb-cont" property="name">Labour Market information Interactive Map</h1>
                 <div id="summary" class="float">
-                    <img src="./images/leaf_left.png" alt="leaf bar chart" width="30%" height="30%">
                     <div id="txt_sum">
                         <p class="pagetag"> The Public Service Commission (PSC) has an important role to play in supporting the recruitment of Official Language Minorities (OLM)
                             to the Federal public service. The goal is to support an equal representation of OLM applicants compared to the Canadian population data gathered
                             through the Census. The PSC's contribution ensures that the Federal public service embodies the linguistic duality of the country and reflects the
                             diversity of the Canadian population.
-                        </p>
-                        <p class="pagetag">
-                            There were <span id="applications">X</span> application(s), to <span id="adverts">Y</span> advertisement(s), in FY 2017-2018, for the census division of <span id="cduid_short">1001</span>
                         </p>
                     </div>
                 </div>
@@ -230,9 +226,14 @@ style="display:none;visibility:hidden"&amp;gt;&amp;lt;/iframe&amp;gt;</noscript>
 	    </div>
 	</div>
 	<div id="container">
-		<div id="map_div" class="tile float">
-            <svg id="map_svg"></svg>
-            <div id="LMI_div"><p id="cduid">The CDUID is 1001</p></div>
+        <div class="tile">
+            <div id="map_div" class="float">
+                <svg id="map_svg"></svg>
+                <div id="LMI_div"></div>
+            </div>
+            <div id="info">
+                <p id="cduid">There were <b><span id="applications">X</span> application(s)</b>, to <b><span id="adverts">Y</span> advertisement(s)</b>, in FY 2017-2018, for the census division of <b><span id="cduid_short"></span></b></p>
+            </div>
         </div>
         <div id="lmi_pop_div" class="tile float">
             <div id="commute_div" class="float">

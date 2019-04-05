@@ -84,7 +84,7 @@ function make_det_table (data, columns){
         initComplete: function () {
             this.api().columns().every( function () {
                 var column = this;
-                var select = $('<select><option value=""></option></select>')
+                var select = $('<select><option value="">All</option></select>')
                     .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
                     .on( 'change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
@@ -163,7 +163,7 @@ function update_det_table (d, columns){
         initComplete: function () {
             this.api().columns().every( function () {
                 var column = this;
-                var select = $('<select><option value=""></option></select>')
+                var select = $('<select><option value="">All</option></select>')
                     .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
                     .on( 'change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(

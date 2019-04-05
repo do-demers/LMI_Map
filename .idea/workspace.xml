@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c5231a-72b7-424f-becf-fb6aa51ac99a" name="Default" comment="">
+    <list default="true" id="a4c5231a-72b7-424f-becf-fb6aa51ac99a" name="Default" comment="-General updates to look and feel&#10;-Added &quot;ALL&quot; signifier to Selection process table filters&#10;-Shrank and thinned donut chart&#10;-Moved dynamic text &amp; counters from page paragraph to just below map">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/build_dash.js" afterPath="$PROJECT_DIR$/javascript/build_dash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LMI_Map_en.html" afterPath="$PROJECT_DIR$/LMI_Map_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css_files/map_css.css" afterPath="$PROJECT_DIR$/css_files/map_css.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/det_table.js" afterPath="$PROJECT_DIR$/javascript/det_table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/make_map.js" afterPath="$PROJECT_DIR$/javascript/make_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/pie_chart.js" afterPath="$PROJECT_DIR$/javascript/pie_chart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/table.js" afterPath="$PROJECT_DIR$/javascript/table.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,31 +21,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build_dash.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/build_dash.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="det_table.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="det_table.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="79" column="59" lean-forward="true" selection-start-line="79" selection-start-column="59" selection-end-line="79" selection-end-column="59" />
+            <state relative-caret-position="765">
+              <caret line="108" column="7" lean-forward="true" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="load_data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/load_data.js">
+      <file leaf-file-name="table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="14">
+              <caret line="84" column="53" lean-forward="true" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -50,8 +44,8 @@
       <file leaf-file-name="pie_chart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="595">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,18 +54,28 @@
       <file leaf-file-name="make_map.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="82" column="149" lean-forward="false" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="149" />
+            <state relative-caret-position="221">
+              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LMI_Map_en.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="map_css.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LMI_Map_en.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="222" column="28" lean-forward="true" selection-start-line="222" selection-start-column="28" selection-end-line="222" selection-end-column="28" />
+            <state relative-caret-position="620">
+              <caret line="215" column="48" lean-forward="false" selection-start-line="215" selection-start-column="48" selection-end-line="215" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -148,17 +152,17 @@
         <option value="$PROJECT_DIR$/javascript/LMI_table.js" />
         <option value="$PROJECT_DIR$/javascript/old_pie.js" />
         <option value="$PROJECT_DIR$/javascript/load_data.js" />
-        <option value="$PROJECT_DIR$/css_files/map_css.css" />
         <option value="$PROJECT_DIR$/PSC_dd_files/theme.css" />
-        <option value="$PROJECT_DIR$/LMI_Map_en.html" />
         <option value="$PROJECT_DIR$/data/COMMUTE_INFO.csv" />
         <option value="$PROJECT_DIR$/data/LMI_INFO.csv" />
         <option value="$PROJECT_DIR$/data/LMI_PS_NOC_INFO.csv" />
-        <option value="$PROJECT_DIR$/javascript/pie_chart.js" />
-        <option value="$PROJECT_DIR$/javascript/make_map.js" />
-        <option value="$PROJECT_DIR$/javascript/table.js" />
         <option value="$PROJECT_DIR$/javascript/build_dash.js" />
         <option value="$PROJECT_DIR$/javascript/det_table.js" />
+        <option value="$PROJECT_DIR$/javascript/table.js" />
+        <option value="$PROJECT_DIR$/javascript/pie_chart.js" />
+        <option value="$PROJECT_DIR$/css_files/map_css.css" />
+        <option value="$PROJECT_DIR$/javascript/make_map.js" />
+        <option value="$PROJECT_DIR$/LMI_Map_en.html" />
       </list>
     </option>
   </component>
@@ -230,6 +234,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LMI_Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LMI_Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -712,7 +730,7 @@
       <workItem from="1553803527123" duration="8933000" />
       <workItem from="1553872819916" duration="6707000" />
       <workItem from="1554123763778" duration="29865000" />
-      <workItem from="1554301508818" duration="21719000" />
+      <workItem from="1554301508818" duration="38097000" />
     </task>
     <task id="LOCAL-00001" summary="Upload of code">
       <created>1553698392644</created>
@@ -819,11 +837,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554321160141</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="-Added filter to datatable in footer&#10;-Changed original datatable call to match other calls and to allow for better filtering, performance on load&#10;To do:&#10;-Figure out how to move filter from footer to header while keeping column titles">
+      <created>1554398234531</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554398234531</updated>
+    </task>
+    <task id="LOCAL-00017" summary="-Moved selection process table filters to top of table. More testing is required.&#10;To do:&#10;-Remove filter for applications submitted or change it to a range filter.">
+      <created>1554469751467</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554469751467</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147002000" />
+    <option name="totallyTimeSpent" value="163380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -831,6 +863,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -855,7 +888,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -883,7 +915,9 @@
     <MESSAGE value="-Added colour series markers to commute time table&#10;To do:&#10;-Change header creation to be independent of CSV variable names" />
     <MESSAGE value="-Changed header assignment for LMI, commute, and occupation tables to be independent for CSV variables&#10;-Reset CSV variable names to original" />
     <MESSAGE value="-Code cleanup in tables.js&#10;-Removed 'update_table' in favour of modified 'make_table' as update was essentially destroying table rows and creating new ones. Changed associated function calls elsewhere." />
-    <option name="LAST_COMMIT_MESSAGE" value="-Code cleanup in tables.js&#10;-Removed 'update_table' in favour of modified 'make_table' as update was essentially destroying table rows and creating new ones. Changed associated function calls elsewhere." />
+    <MESSAGE value="-Added filter to datatable in footer&#10;-Changed original datatable call to match other calls and to allow for better filtering, performance on load&#10;To do:&#10;-Figure out how to move filter from footer to header while keeping column titles" />
+    <MESSAGE value="-Moved selection process table filters to top of table. More testing is required.&#10;To do:&#10;-Remove filter for applications submitted or change it to a range filter." />
+    <option name="LAST_COMMIT_MESSAGE" value="-Moved selection process table filters to top of table. More testing is required.&#10;To do:&#10;-Remove filter for applications submitted or change it to a range filter." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -992,13 +1026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PSC_dd_files/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/PSC_dd_files/theme.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1097,26 +1124,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/csd_breakdown.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="110" column="16" lean-forward="false" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="52" column="38" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1129,50 +1140,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/csd_breakdown.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/load_data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="82" column="149" lean-forward="false" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="149" />
+        <state relative-caret-position="272">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/build_dash.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
+    <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="222" column="28" lean-forward="true" selection-start-line="222" selection-start-column="28" selection-end-line="222" selection-end-column="28" />
+        <state relative-caret-position="595">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="84" column="53" lean-forward="true" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="79" column="59" lean-forward="true" selection-start-line="79" selection-start-column="59" selection-end-line="79" selection-end-column="59" />
+        <state relative-caret-position="765">
+          <caret line="108" column="7" lean-forward="true" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="215" column="48" lean-forward="false" selection-start-line="215" selection-start-column="48" selection-end-line="215" selection-end-column="48" />
           <folding />
         </state>
       </provider>

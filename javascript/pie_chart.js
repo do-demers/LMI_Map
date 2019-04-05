@@ -1,6 +1,6 @@
 //globals
-var width = 400;
-var height = 400;
+var width = 300;
+var height = 300;
 var radius = Math.min(width-60, height-60) / 2;
 var pctformat = d3.format(",.1%");
 var color = d3.scaleOrdinal(d3.schemeCategory10);
@@ -22,7 +22,7 @@ var pie = d3.pie()
 
 var paths = d3.arc()
     .outerRadius(radius - 10)
-    .innerRadius(radius - 100);
+    .innerRadius(radius - 60);
 
 var label = d3.arc()
     .outerRadius(radius+10)
@@ -50,10 +50,8 @@ function make_pie (data){
        .attr("font-family", "sans-serif")
        .style("font-size", "14px")
        .attr("fill", "black")
-       //.style("text-shadow", "1px 1px 1px #cccccc")
        .text( function (d){
            return pctformat(d.data.share);
-
        })
        .each(function(d) { this._current = d; });
 }
@@ -84,7 +82,6 @@ function update_pie(new_data) {
         .attr("font-family", "sans-serif")
         .style("font-size", "14px")
         .attr("fill", "black")
-        //.style("text-shadow", "1px 1px 1px #cccccc")
         .text( function (d){
             return pctformat(d.data.share);
         });

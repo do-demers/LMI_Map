@@ -109,7 +109,7 @@ function make_headers (table){
     var length = headers.nodes().length;
     var lmi = ["Indicator", "Value"];
     var comm = ["Commute", "Share", ""];
-    var occ = ["Category", "Market Population", "Public Service"];
+    var occ = ["National Occupational Classification", "Market Population", "Public Service"];
 
     switch (table){
         case "LMI":
