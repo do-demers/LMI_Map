@@ -26,6 +26,16 @@ function make_det_table (data, columns){
             return column;
         });
 
+    thead.append('tr')
+        .attr("class","filterRow")
+        .selectAll('th')
+        .data(headers)
+        .enter()
+        .append('th')
+        .text(function (column) {
+            return column;
+        });
+
 // create a row for each object in the data
     var rows_grp = tbody
         .selectAll('tr')
@@ -65,19 +75,17 @@ function make_det_table (data, columns){
         .selectAll('th')
         .data(headers)
         .enter()
-        .append('th')
-        .text(function (column) {
-            return column;
-        });
+        .append('th');
 
     $('#det_adv_tbl').DataTable( {
         "paging": true,
         "searching": true,
+        orderCellsTop: true,
         initComplete: function () {
             this.api().columns().every( function () {
                 var column = this;
                 var select = $('<select><option value=""></option></select>')
-                    .appendTo( $(column.footer()).empty() )
+                    .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
                     .on( 'change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
@@ -151,11 +159,12 @@ function update_det_table (d, columns){
     $('#det_adv_tbl').DataTable( {
         "paging": true,
         "searching": true,
+        orderCellsTop: true,
         initComplete: function () {
             this.api().columns().every( function () {
                 var column = this;
                 var select = $('<select><option value=""></option></select>')
-                    .appendTo( $(column.footer()).empty() )
+                    .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
                     .on( 'change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
