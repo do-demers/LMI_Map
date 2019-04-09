@@ -81,6 +81,10 @@ function make_det_table (data, columns){
         "paging": true,
         "searching": true,
         orderCellsTop: true,
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ],
         initComplete: function () {
             this.api().columns().every( function () {
                 var column = this;
@@ -160,6 +164,10 @@ function update_det_table (d, columns){
         "paging": true,
         "searching": true,
         orderCellsTop: true,
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ],
         initComplete: function () {
             this.api().columns().every( function () {
                 var column = this;

@@ -27,6 +27,7 @@
 }
 #LMI_div{
     margin: auto;
+    width: 33%;
 }
 #commute_div{
     width: 100%;
@@ -37,4 +38,9 @@
 }
 #info{
     text-align: center;
+}
+.dataTables_filter {
+    width: 50%;
+    float: right;
+    text-align: right;
 }
