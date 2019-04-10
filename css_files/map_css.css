@@ -39,8 +39,3 @@
 #info{
     text-align: center;
 }
-.dataTables_filter {
-    width: 50%;
-    float: right;
-    text-align: right;
-}

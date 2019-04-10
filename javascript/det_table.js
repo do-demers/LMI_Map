@@ -79,7 +79,7 @@ function make_det_table (data, columns){
 
     $('#det_adv_tbl').DataTable( {
         "paging": true,
-        "searching": true,
+        "searching": false,
         orderCellsTop: true,
         dom: 'Bfrtip',
         buttons: [
@@ -162,7 +162,7 @@ function update_det_table (d, columns){
 
     $('#det_adv_tbl').DataTable( {
         "paging": true,
-        "searching": true,
+        "searching": false,
         orderCellsTop: true,
         dom: 'Bfrtip',
         buttons: [

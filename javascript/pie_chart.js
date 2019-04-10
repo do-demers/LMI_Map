@@ -40,7 +40,9 @@ function make_pie (data){
    arc.append("path")
        .attr("d", paths)
        .attr("fill", function(d, i) {  return color(i); })
-       .each(function(d) { this._current = d; });
+       .each(function(d) { this._current = d; })
+       .append("title")
+       .text(function(d) { return pctformat(d.data.share); });
 
    arc.append("text")
        .attr("class","pieText")
@@ -54,6 +56,14 @@ function make_pie (data){
            return pctformat(d.data.share);
        })
        .each(function(d) { this._current = d; });
+
+    arc.on("mouseover", function() {
+        d3.select(this)
+            .style("opacity", "0.5")
+    }).on("mouseout", function() {
+        d3.select(this)
+            .style("opacity", "1.0");
+    });
 }
 
 function update_pie(new_data) {
@@ -69,6 +79,9 @@ function update_pie(new_data) {
     arcs.transition()
         .duration(2000)
         .attrTween("d", arcTween);
+
+    arcs.select("title")
+        .text(function(d) { return pctformat(d.data.share); });
 
     //update text
     d3.selectAll(".pieText")
