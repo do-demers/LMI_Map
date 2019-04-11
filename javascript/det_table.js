@@ -140,7 +140,7 @@ function update_det_table (d, columns){
             return {
                 column: column,
                 value: row[column],
-                link:row["url"] };
+                link: row["POSTER_URL"] };
         });
     });
 
