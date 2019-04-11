@@ -79,11 +79,11 @@ function make_det_table (data, columns){
 
     $('#det_adv_tbl').DataTable( {
         "paging": true,
-        "searching": false,
+        "searching": true,
         orderCellsTop: true,
         dom: 'Bfrtip',
         buttons: [
-            'copy', 'csv', 'excel', 'pdf', 'print'
+            'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
             this.api().columns().every( function () {
@@ -162,11 +162,11 @@ function update_det_table (d, columns){
 
     $('#det_adv_tbl').DataTable( {
         "paging": true,
-        "searching": false,
+        "searching": true,
         orderCellsTop: true,
         dom: 'Bfrtip',
         buttons: [
-            'copy', 'csv', 'excel', 'pdf', 'print'
+            'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
             this.api().columns().every( function () {
