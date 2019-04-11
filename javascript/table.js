@@ -62,20 +62,14 @@ function val_format(rows_grp_enter, columns){
                 new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["indicator"] )&& row[column] === row["value"] ? pctformat(row["value"]) : new_val);
                 return {
                     column: column,
-                    value: new_val,
-                    link:row["url"]
+                    value: new_val
                 };
             });
         })
         .enter()
         .append('td')
         .html(function (d) {
-            if(d.column === "Sel_Process_Nbr"){
-                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-            }
-            else {
                 return d.value;
-            }
         });
 }
 
