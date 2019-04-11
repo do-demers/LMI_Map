@@ -59,11 +59,12 @@ function make_pie (data){
 
     arc.on("mouseover", function() {
         d3.select(this)
-            .style("opacity", "0.5")
-    }).on("mouseout", function() {
-        d3.select(this)
-            .style("opacity", "1.0");
-    });
+            .style("opacity", "0.75")
+        }).
+        on("mouseout", function() {
+            d3.select(this)
+                .style("opacity", "1.0");
+        });
 }
 
 function update_pie(new_data) {

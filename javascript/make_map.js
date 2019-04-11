@@ -47,7 +47,18 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         .attr("id", function (d) {
             return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDNAME;
         })
-        .on("click", clicked);
+        .on("click", clicked)
+        .append("title")
+        .text(function(d) { return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDNAME; });
+
+    g.on("mouseover", function() {
+            d3.select(this)
+                .style("opacity", "0.75")
+        })
+        .on("mouseout", function() {
+            d3.select(this)
+                .style("opacity", "1.0");
+        });
 
     function clicked(d) {
 

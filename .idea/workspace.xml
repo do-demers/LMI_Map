@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a4c5231a-72b7-424f-becf-fb6aa51ac99a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LMI_Map_en.html" afterPath="$PROJECT_DIR$/LMI_Map_en.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css_files/map_css.css" afterPath="$PROJECT_DIR$/css_files/map_css.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/det_table.js" afterPath="$PROJECT_DIR$/javascript/det_table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/make_map.js" afterPath="$PROJECT_DIR$/javascript/make_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript/pie_chart.js" afterPath="$PROJECT_DIR$/javascript/pie_chart.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +20,8 @@
       <file leaf-file-name="det_table.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="169" column="10" lean-forward="false" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
+            <state relative-caret-position="235">
+              <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -41,18 +40,18 @@
       <file leaf-file-name="pie_chart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="949">
+              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="make_map.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="make_map.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            <state relative-caret-position="289">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -61,18 +60,18 @@
       <file leaf-file-name="map_css.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LMI_Map_en.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LMI_Map_en.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="236" column="14" lean-forward="true" selection-start-line="236" selection-start-column="14" selection-end-line="236" selection-end-column="14" />
+            <state relative-caret-position="144">
+              <caret line="229" column="44" lean-forward="true" selection-start-line="229" selection-start-column="44" selection-end-line="229" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -155,11 +154,11 @@
         <option value="$PROJECT_DIR$/data/LMI_PS_NOC_INFO.csv" />
         <option value="$PROJECT_DIR$/javascript/build_dash.js" />
         <option value="$PROJECT_DIR$/javascript/table.js" />
-        <option value="$PROJECT_DIR$/javascript/pie_chart.js" />
-        <option value="$PROJECT_DIR$/javascript/make_map.js" />
         <option value="$PROJECT_DIR$/LMI_Map_en.html" />
         <option value="$PROJECT_DIR$/css_files/map_css.css" />
         <option value="$PROJECT_DIR$/javascript/det_table.js" />
+        <option value="$PROJECT_DIR$/javascript/pie_chart.js" />
+        <option value="$PROJECT_DIR$/javascript/make_map.js" />
       </list>
     </option>
   </component>
@@ -728,7 +727,7 @@
       <workItem from="1553872819916" duration="6707000" />
       <workItem from="1554123763778" duration="29865000" />
       <workItem from="1554301508818" duration="38885000" />
-      <workItem from="1554815550862" duration="1165000" />
+      <workItem from="1554815550862" duration="11097000" />
     </task>
     <task id="LOCAL-00001" summary="Upload of code">
       <created>1553698392644</created>
@@ -856,11 +855,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554491602468</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="-Added Export and Print buttons to selection process table&#10;-To do: fix position of selection process table search box">
+      <created>1554816783717</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554816783717</updated>
+    </task>
+    <task id="LOCAL-00020" summary="-Removed selection process search box as filters make it unnecessary&#10;-Added tooltip text to pie chart slices on hover. For some CDUIDs, the slices are thin and regular text overlaps.">
+      <created>1554909906913</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554909906913</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165333000" />
+    <option name="totallyTimeSpent" value="175265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -923,7 +936,9 @@
     <MESSAGE value="-Added filter to datatable in footer&#10;-Changed original datatable call to match other calls and to allow for better filtering, performance on load&#10;To do:&#10;-Figure out how to move filter from footer to header while keeping column titles" />
     <MESSAGE value="-Moved selection process table filters to top of table. More testing is required.&#10;To do:&#10;-Remove filter for applications submitted or change it to a range filter." />
     <MESSAGE value="-General updates to look and feel&#10;-Added &quot;ALL&quot; signifier to Selection process table filters&#10;-Shrank and thinned donut chart&#10;-Moved dynamic text &amp; counters from page description paragraph to just below map&#10;-Removed image from page description" />
-    <option name="LAST_COMMIT_MESSAGE" value="-General updates to look and feel&#10;-Added &quot;ALL&quot; signifier to Selection process table filters&#10;-Shrank and thinned donut chart&#10;-Moved dynamic text &amp; counters from page description paragraph to just below map&#10;-Removed image from page description" />
+    <MESSAGE value="-Added Export and Print buttons to selection process table&#10;-To do: fix position of selection process table search box" />
+    <MESSAGE value="-Removed selection process search box as filters make it unnecessary&#10;-Added tooltip text to pie chart slices on hover. For some CDUIDs, the slices are thin and regular text overlaps." />
+    <option name="LAST_COMMIT_MESSAGE" value="-Removed selection process search box as filters make it unnecessary&#10;-Added tooltip text to pie chart slices on hover. For some CDUIDs, the slices are thin and regular text overlaps." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1014,6 +1029,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4539">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1036,6 +1052,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6778">
           <caret line="16883" column="73" lean-forward="true" selection-start-line="16883" selection-start-column="73" selection-end-line="16883" selection-end-column="73" />
+          <folding>
+            <element signature="e#335368#336897#1" expanded="false" />
+            <element signature="e#342831#346104#2" expanded="false" />
+            <element signature="e#346146#349419#2" expanded="false" />
+            <element signature="e#349463#354416#2" expanded="false" />
+            <element signature="e#354455#359408#2" expanded="false" />
+            <element signature="e#359452#361489#2" expanded="false" />
+            <element signature="e#361528#363565#2" expanded="false" />
+            <element signature="e#363608#366145#2" expanded="false" />
+            <element signature="e#366183#368720#2" expanded="false" />
+            <element signature="e#368765#370962#2" expanded="false" />
+            <element signature="e#371002#373199#2" expanded="false" />
+            <element signature="e#373245#394170#2" expanded="false" />
+            <element signature="e#394211#415136#2" expanded="false" />
+            <element signature="e#415181#436690#2" expanded="false" />
+            <element signature="e#436730#458239#2" expanded="false" />
+            <element signature="e#458285#461698#2" expanded="false" />
+            <element signature="e#461739#465152#2" expanded="false" />
+            <element signature="e#465199#466636#2" expanded="false" />
+            <element signature="e#466678#468115#2" expanded="false" />
+            <element signature="e#468155#470512#2" expanded="false" />
+            <element signature="e#470547#472904#2" expanded="false" />
+            <element signature="e#480116#480205#1" expanded="false" />
+            <element signature="e#480207#480296#1" expanded="false" />
+            <element signature="e#480298#480387#1" expanded="false" />
+            <element signature="e#480389#480478#1" expanded="false" />
+            <element signature="e#485337#485426#1" expanded="false" />
+            <element signature="e#485428#485517#1" expanded="false" />
+            <element signature="e#485519#485608#1" expanded="false" />
+            <element signature="e#485610#485699#1" expanded="false" />
+            <element signature="e#520722#522919#2" expanded="false" />
+            <element signature="e#523073#526486#2" expanded="false" />
+            <element signature="e#526638#528675#2" expanded="false" />
+            <element signature="e#528827#533780#2" expanded="false" />
+            <element signature="e#533933#555442#2" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1124,18 +1176,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
+    <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
+    <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="30" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        <state relative-caret-position="235">
+          <caret line="81" column="27" lean-forward="true" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1148,26 +1200,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_files/map_css.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/det_table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="169" column="10" lean-forward="false" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LMI_Map_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="236" column="14" lean-forward="true" selection-start-line="236" selection-start-column="14" selection-end-line="236" selection-end-column="14" />
+        <state relative-caret-position="144">
+          <caret line="229" column="44" lean-forward="true" selection-start-line="229" selection-start-column="44" selection-end-line="229" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/pie_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/make_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding />
         </state>
       </provider>
