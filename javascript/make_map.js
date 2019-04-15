@@ -2,8 +2,8 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
     d3.select("#cduid_short").text("Division No. 1");
 
-    var width = 750,
-        height = 500,
+    var width = 800,
+        height = 600,
         active = d3.select(null);
 
     var projection = d3.geoConicConformal()
