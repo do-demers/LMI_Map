@@ -49,7 +49,13 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         })
         .on("click", clicked)
         .append("title")
-        .text(function(d) { return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDNAME; });
+        .text(function(d){
+            return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDNAME;
+        });
+
+    //Fill default CD with colour. D3 doesn't like IDs with spaces.
+    d3.select("path[id='Division No.  1']").style("fill", "#3d87ff");
+
 
     g.on("mouseover", function() {
             d3.select(this)
@@ -60,8 +66,7 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
                 .style("opacity", "1.0");
         });
 
-    function clicked(d) {
-
+     function clicked(d) {
         var cduid = d.properties.CDUID;
         if (active.node() === this) return reset();
 

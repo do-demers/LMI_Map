@@ -14,8 +14,6 @@ function make_det_table (data, columns){
 
     var tbody = table.append('tbody');
 
-    var tfoot = table.append('tfoot');
-
     thead.append('tr')
         .attr("class","active")
         .selectAll('th')
@@ -32,9 +30,7 @@ function make_det_table (data, columns){
         .data(headers)
         .enter()
         .append('th')
-        .text(function (column) {
-            return column;
-        });
+        .text('');
 
 // create a row for each object in the data
     var rows_grp = tbody
@@ -70,13 +66,6 @@ function make_det_table (data, columns){
             }
         });
 
-    tfoot.append('tr')
-        .attr("class","active")
-        .selectAll('th')
-        .data(headers)
-        .enter()
-        .append('th');
-
     $('#det_adv_tbl').DataTable( {
         "paging": true,
         "searching": true,
@@ -86,7 +75,7 @@ function make_det_table (data, columns){
             'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
-            this.api().columns().every( function () {
+            this.api().columns( [0,1,2,3] ).every( function () {
                 var column = this;
                 var select = $('<select><option value="">All</option></select>')
                     .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
@@ -95,8 +84,7 @@ function make_det_table (data, columns){
                             $(this).val()
                         );
 
-                        column
-                            .search( val ? '^'+val+'$' : '', true, false )
+                        column.search( val ? '^'+val+'$' : '', true, false )
                             .draw();
                     } );
 
@@ -169,7 +157,7 @@ function update_det_table (d, columns){
             'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
-            this.api().columns().every( function () {
+            this.api().columns( [0,1,2,3] ).every( function () {
                 var column = this;
                 var select = $('<select><option value="">All</option></select>')
                     .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
@@ -178,8 +166,7 @@ function update_det_table (d, columns){
                             $(this).val()
                         );
 
-                        column
-                            .search( val ? '^'+val+'$' : '', true, false )
+                        column.search( val ? '^'+val+'$' : '', true, false )
                             .draw();
                     } );
 
