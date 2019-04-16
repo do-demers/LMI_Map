@@ -4,11 +4,14 @@ h2,h3{
     margin-top: 5%;
     margin-bottom: 0;
 }
-
 h5{
     color: #335075;
     font-weight: bold;
     margin-top: 0;
+}
+details, details[open], summary{
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 .tile{
     background: #ffffff;
@@ -41,8 +44,11 @@ h5{
     width: 100%;
 }
 #LMI_div{
-    margin: auto;
     text-align: left;
+}
+#LMI{
+    margin:0;
+    padding:0;
 }
 #commute_div{
     width: 100%;
@@ -54,5 +60,5 @@ h5{
 #info{
     text-align: center;
     width: 28%;
-    margin: auto;
+    margin-top: 0;
 }
