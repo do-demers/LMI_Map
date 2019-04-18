@@ -1,21 +1,21 @@
-function make_det_table (data, columns){
+function make_det_table (data, columns) {
 
     var appTotal = 0;
     var comafmt = d3.format(",d");
 
-    var headers = ["SELECTION PROCESS NUMBER", "Organisation Code", "Classification", "Various Work Location", "Applications Submitted"];
+    var headers = ["Position Title", "Organisation Code", "Classification", "Various Work Location", "Applications Submitted"];
 
     var table = d3.select('#adv_det_div')
         .append('table')
         .attr("id", "det_adv_tbl")
-        .attr("class","table table-striped table-hover");
+        .attr("class", "table table-striped table-hover");
 
     var thead = table.append('thead');
 
     var tbody = table.append('tbody');
 
     thead.append('tr')
-        .attr("class","active")
+        .attr("class", "active")
         .selectAll('th')
         .data(headers)
         .enter()
@@ -25,7 +25,7 @@ function make_det_table (data, columns){
         });
 
     thead.append('tr')
-        .attr("class","filterRow")
+        .attr("class", "filterRow")
         .selectAll('th')
         .data(headers)
         .enter()
@@ -52,21 +52,22 @@ function make_det_table (data, columns){
                 return {
                     column: column,
                     value: row[column],
-                    link: row["POSTER_URL"] };
+                    link: row["POSTER_URL"]
+                };
             });
         })
         .enter()
         .append('td')
         .html(function (d) {
-            if(d.column === "SELECTION_PROCESS_NUMBER"){
-                return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
-                            }
+            if (d.column === "POSITION_TITLE_E") {
+                return "<a href=" + d.link + " target=\"_blank\">" + d.value + "</a>";
+            }
             else {
                 return d.value;
             }
         });
 
-    $('#det_adv_tbl').DataTable( {
+    $('#det_adv_tbl').DataTable({
         "paging": true,
         "searching": true,
         orderCellsTop: true,
@@ -75,28 +76,29 @@ function make_det_table (data, columns){
             'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
-            this.api().columns( [0,1,2,3] ).every( function () {
+            this.api().columns([0, 1, 2, 3]).every(function () {
                 var column = this;
                 var select = $('<select><option value="">All</option></select>')
-                    .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
-                    .on( 'change', function () {
+                    .appendTo($("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty())
+                    .style("max-width", "50%")
+                    .on('change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
                         );
 
-                        column.search( val ? '^'+val+'$' : '', true, false )
+                        column.search(val ? '^' + val + '$' : '', true, false)
                             .draw();
-                    } );
+                    });
 
-                column.data().unique().sort().each( function ( d, j ) {
-                    select.append( '<option>'+d+'</option>' )
-                } );
-            } );
+                column.data().unique().sort().each(function (d, j) {
+                    select.append('<option>' + d + '</option>')
+                });
+            });
         }
-    } );
+    });
 
     //Count applications, adverts in CDUID, update text
-    data.forEach(function(d){
+    data.forEach(function (d) {
         appTotal += parseInt(d.TOTAL_SUBMITTED);
     });
 
@@ -133,7 +135,7 @@ function update_det_table (d, columns){
     });
 
     new_tds.html(function (d) {
-        if(d.column === "SELECTION_PROCESS_NUMBER"){
+        if(d.column === "POSITION_TITLE_E"){
             return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
         }else {
             return d.value;
@@ -141,7 +143,7 @@ function update_det_table (d, columns){
     });
 
     new_tds.enter().append('td').html(function (d) {
-        if(d.column === "SELECTION_PROCESS_NUMBER"){
+        if(d.column === "POSITION_TITLE_E"){
             return "<a href=" + d.link + " target=\"_blank\">"+ d.value+ "</a>";
         }else {
             return d.value;
@@ -161,6 +163,7 @@ function update_det_table (d, columns){
                 var column = this;
                 var select = $('<select><option value="">All</option></select>')
                     .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
+                    .style("max-width", "50%")
                     .on( 'change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
