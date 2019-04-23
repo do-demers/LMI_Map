@@ -13,6 +13,9 @@ details, details[open], summary{
     margin-bottom: 0;
     padding-bottom: 0;
 }
+select{
+    width: 100%;
+}
 .tile{
     background: #ffffff;
     width: 100%;

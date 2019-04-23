@@ -68,19 +68,18 @@ function make_det_table (data, columns) {
         });
 
     $('#det_adv_tbl').DataTable({
-        "paging": true,
-        "searching": true,
+        paging: true,
+        searching: true,
         orderCellsTop: true,
         dom: 'Bfrtip',
         buttons: [
             'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
-            this.api().columns([0, 1, 2, 3]).every(function () {
+            this.api().columns([1, 2, 3]).every(function () {
                 var column = this;
                 var select = $('<select><option value="">All</option></select>')
                     .appendTo($("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty())
-                    .style("max-width", "50%")
                     .on('change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
@@ -93,8 +92,9 @@ function make_det_table (data, columns) {
                 column.data().unique().sort().each(function (d, j) {
                     select.append('<option>' + d + '</option>')
                 });
+
             });
-        }
+        },
     });
 
     //Count applications, adverts in CDUID, update text
@@ -151,19 +151,18 @@ function update_det_table (d, columns){
     });
 
     $('#det_adv_tbl').DataTable( {
-        "paging": true,
-        "searching": true,
+        paging: true,
+        searching: true,
         orderCellsTop: true,
         dom: 'Bfrtip',
         buttons: [
             'csv', 'excel', 'pdf'
         ],
         initComplete: function () {
-            this.api().columns( [0,1,2,3] ).every( function () {
+            this.api().columns( [1,2,3] ).every( function () {
                 var column = this;
                 var select = $('<select><option value="">All</option></select>')
                     .appendTo( $("#det_adv_tbl thead tr:eq(1) th").eq(column.index()).empty() )
-                    .style("max-width", "50%")
                     .on( 'change', function () {
                         var val = $.fn.dataTable.util.escapeRegex(
                             $(this).val()
@@ -176,6 +175,7 @@ function update_det_table (d, columns){
                 column.data().unique().sort().each( function ( d, j ) {
                     select.append( '<option>'+d+'</option>' )
                 } );
+
             } );
         }
     } );
