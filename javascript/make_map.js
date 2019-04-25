@@ -58,14 +58,11 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
 
     g.on("mouseover", function() {
         d3.select(this)
-            .style("opacity", "0.5")
-            .style("stroke", "white")
-            .style("stroke-width", "2");
+            .style("opacity", "0.75");
     })
         .on("mouseout", function() {
             d3.select(this)
-                .style("opacity", "1.0")
-                .style("stroke", "none");
+                .style("opacity", "1.0");
         });
 
      function clicked(d) {
