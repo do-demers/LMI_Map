@@ -1,4 +1,4 @@
-function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, commute_data, adv_data) {
+function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, commute_data, adv_data, edu_data) {
 
     d3.select("#cduid_short").text("Division No. 1");
 
@@ -45,7 +45,7 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         .append("path")
         .attr("d", path)
         .attr("id", function (d) {
-            return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDNAME;
+            return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDUID;
         })
         .on("click", clicked)
         .append("title")
@@ -53,9 +53,8 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
             return _.isUndefined(d.properties.CDUID) ? d.properties.PRNAME : d.properties.CDNAME;
         });
 
-    //Fill default CD with colour. D3 doesn't like IDs with spaces.
-    d3.select("path[id='Division No.  1']").style("fill", "#3d87ff");
-
+    d3.select("path[id='1001']").style("fill", "#3d87ff");
+    active = d3.select("path[id='1001']");
 
     g.on("mouseover", function() {
             d3.select(this)
@@ -67,7 +66,10 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         });
 
      function clicked(d) {
+
         var cduid = d.properties.CDUID;
+
+        console.log(active.node());
         if (active.node() === this) return reset();
 
         //Remove class and highlight colour from previous active census division
@@ -94,6 +96,8 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
         make_table(_.where(LMI_data, {cd: cduid}), _.without(LMI_data.columns,"cd", "var"), "LMI");
         make_table(_.where(lmi_ps_noc_data, {cd: cduid}),  _.without(lmi_ps_noc_data.columns,"cd", "var"), "LMI_PS");
         make_table(_.where(commute_data, {cd: cduid}),  _.without(commute_data.columns,"cd", "value", "var"), "comm_tbl");
+        make_table(_.where(edu_data, {cd: cduid}), _.without(edu_data.columns, "cd", "var"), "edu_tbl");
+        make_bar(_.where(edu_data, {cd: cduid}));
         update_pie(_.where(commute_data, {cd: cduid}));
         update_det_table(_.where(adv_data, {cd: cduid}),_.without(adv_data.columns,"cd", "POSTER_URL", "CAR_CHC_ID","SELECTION_PROCESS_NUMBER", "POSITIONS_AVAILABLE", "tot_in"));
     }

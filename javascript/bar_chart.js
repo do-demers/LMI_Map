@@ -1,12 +1,14 @@
 function make_bar(data){
 
-    var barHeight = 25, textDy = 18, width = 1000, height = 50, padding = 10;
+    d3.select("#edu_bar").select("svg").remove();
+
+    var barHeight = 25, textDy = 18, width = 1020, height = 50, padding = 10;
 
     var barX = 10;
 
     var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-    var svg = d3.select('#edu_bar')
+    var svg = d3.select("#edu_bar")
         .append("svg")
         .attr("id", "bar_svg")
         .attr("width", width)
@@ -17,30 +19,30 @@ function make_bar(data){
         .domain([0,100]);
 
     var bars = svg
-        .selectAll('.bar')
+        .selectAll(".bar")
         .data(data)
         .enter()
-        .append('g')
-        .attr('class', 'bar');
+        .append("g")
+        .attr("class", "bar");
 
     bars.append("rect")
-        .attr('width', function(d){
+        .attr("width", function(d){
             return x(d.percent);
         })
-        .attr('height', barHeight)
-        .attr('x', function(d){
+        .attr("height", barHeight)
+        .attr("x", function(d){
             var temp = barX;
             barX +=x(d.percent);
             return temp;
         })
         .attr("fill", function(d, i) {
             return color(i);
-        })
-        .style("stroke", "white")
-        .style("stroke-width", "1");
-
+        });
+        //.style("stroke", "white")
+        //.style("stroke-width", "1");
+    
     //Reset for labels
-    barX = 10;
+    /*barX = 10;
 
     bars.append("text")
         .attr("class","barText")
@@ -56,11 +58,11 @@ function make_bar(data){
         .attr("fill", "white")
         .text( function (d){
             return d.percent + "%";
-        });
+        });*/
 
     bars.append("title")
         .text( function (d){
-            return d.percent + "%";
+            return d.edu + ", " + d.percent + "%";
         });
 
     bars.on("mouseover", function() {
@@ -74,11 +76,12 @@ function make_bar(data){
 
     //Add axis
     var xAxis = d3.axisBottom(x)
-        .scale(x);
+        .scale(x)
+        .tickFormat(function(d) { return d + "%"; });
 
     svg.append("g")
         .attr("class", "x axis")
-        .attr("transform", "translate(" + padding + ", " + barHeight  +")")
+        .attr("transform", "translate(" + padding + ", " + (barHeight +1) +")")
         .call(xAxis);
 
 }

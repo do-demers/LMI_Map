@@ -1,9 +1,5 @@
 function make_table (data, columns, id){
 
-    console.log("Table for: " + id);
-    console.log(columns);
-    console.log(data);
-
     var headers = columns;
     d3.select('#'+id+'_div').select('table').remove();
 
@@ -114,28 +110,24 @@ function make_headers (table){
 
     switch (table){
         case "LMI":
-            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = lmi[i];
             }
             break;
 
         case "comm_tbl":
-            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = comm[i];
             }
             break;
 
         case "edu_tbl":
-            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = edu[i];
             }
             break;
 
         case "LMI_PS":
-            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = occ[i];
             }
