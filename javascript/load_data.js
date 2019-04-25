@@ -20,6 +20,7 @@ function init() {
         .defer(d3.csv, 'data/LMI_INFO.csv')
         .defer(d3.csv, 'data/LMI_PS_NOC_INFO.csv')
         .defer(d3.csv, 'data/COMMUTE_INFO.csv')
+        .defer(d3.csv, 'data/edu.csv')
         .await(makeMap);//only function name is needed
 }
 

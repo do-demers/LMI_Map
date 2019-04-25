@@ -16,6 +16,7 @@ details, details[open], summary{
 select{
     width: 100%;
 }
+
 .tile{
     background: #ffffff;
     width: 100%;
@@ -28,15 +29,23 @@ select{
     flex-direction: row;
     justify-content: space-evenly;
 }
-
 .arc text {
     font: 10px sans-serif;
     text-anchor: middle;
 }
-
 .arc path {
-    stroke: #fff;
+    stroke: #ffffff;
 }
+.axis text {
+    font: 10px sans-serif;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
 #map_div{
     width: 70%;
 }

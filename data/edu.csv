@@ -1,0 +1,1759 @@
+cd,var,edu,percent
+1001,no_cert,"No certificate, diploma or degree",17.2
+1001,high_school,Secondary (high) school diploma or equivalency certificate,25.3
+1001,app_trade,Apprenticeship or trades certificate or diploma,10.1
+1001,college_degep,"College, CEGEP or other non-university certificate or diploma",24.5
+1001,uni_below_bach,University certificate or diploma below bachelor level,2.6
+1001,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20.3
+1002,no_cert,"No certificate, diploma or degree",32.1
+1002,high_school,Secondary (high) school diploma or equivalency certificate,19.8
+1002,app_trade,Apprenticeship or trades certificate or diploma,15.6
+1002,college_degep,"College, CEGEP or other non-university certificate or diploma",23.8
+1002,uni_below_bach,University certificate or diploma below bachelor level,2.6
+1002,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",6.1
+1003,no_cert,"No certificate, diploma or degree",40.4
+1003,high_school,Secondary (high) school diploma or equivalency certificate,23.9
+1003,app_trade,Apprenticeship or trades certificate or diploma,10.5
+1003,college_degep,"College, CEGEP or other non-university certificate or diploma",17.8
+1003,uni_below_bach,University certificate or diploma below bachelor level,1.8
+1003,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",5.7
+1004,no_cert,"No certificate, diploma or degree",30.4
+1004,high_school,Secondary (high) school diploma or equivalency certificate,23.5
+1004,app_trade,Apprenticeship or trades certificate or diploma,12.8
+1004,college_degep,"College, CEGEP or other non-university certificate or diploma",22.6
+1004,uni_below_bach,University certificate or diploma below bachelor level,1.9
+1004,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.9
+1005,no_cert,"No certificate, diploma or degree",22.6
+1005,high_school,Secondary (high) school diploma or equivalency certificate,25.4
+1005,app_trade,Apprenticeship or trades certificate or diploma,12.3
+1005,college_degep,"College, CEGEP or other non-university certificate or diploma",23.9
+1005,uni_below_bach,University certificate or diploma below bachelor level,2.4
+1005,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.4
+1006,no_cert,"No certificate, diploma or degree",23.8
+1006,high_school,Secondary (high) school diploma or equivalency certificate,25.9
+1006,app_trade,Apprenticeship or trades certificate or diploma,12
+1006,college_degep,"College, CEGEP or other non-university certificate or diploma",25
+1006,uni_below_bach,University certificate or diploma below bachelor level,2
+1006,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.3
+1007,no_cert,"No certificate, diploma or degree",30.6
+1007,high_school,Secondary (high) school diploma or equivalency certificate,26.4
+1007,app_trade,Apprenticeship or trades certificate or diploma,12.8
+1007,college_degep,"College, CEGEP or other non-university certificate or diploma",20.7
+1007,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1007,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.2
+1008,no_cert,"No certificate, diploma or degree",38.5
+1008,high_school,Secondary (high) school diploma or equivalency certificate,25.7
+1008,app_trade,Apprenticeship or trades certificate or diploma,12.4
+1008,college_degep,"College, CEGEP or other non-university certificate or diploma",16.4
+1008,uni_below_bach,University certificate or diploma below bachelor level,1.6
+1008,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",5.4
+1009,no_cert,"No certificate, diploma or degree",37.6
+1009,high_school,Secondary (high) school diploma or equivalency certificate,26.4
+1009,app_trade,Apprenticeship or trades certificate or diploma,9.9
+1009,college_degep,"College, CEGEP or other non-university certificate or diploma",16.7
+1009,uni_below_bach,University certificate or diploma below bachelor level,2
+1009,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.3
+1010,no_cert,"No certificate, diploma or degree",24.7
+1010,high_school,Secondary (high) school diploma or equivalency certificate,21.9
+1010,app_trade,Apprenticeship or trades certificate or diploma,15.1
+1010,college_degep,"College, CEGEP or other non-university certificate or diploma",25.7
+1010,uni_below_bach,University certificate or diploma below bachelor level,2.1
+1010,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.6
+1011,no_cert,"No certificate, diploma or degree",42.3
+1011,high_school,Secondary (high) school diploma or equivalency certificate,22
+1011,app_trade,Apprenticeship or trades certificate or diploma,9
+1011,college_degep,"College, CEGEP or other non-university certificate or diploma",17.3
+1011,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1011,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7
+1101,no_cert,"No certificate, diploma or degree",23
+1101,high_school,Secondary (high) school diploma or equivalency certificate,29.2
+1101,app_trade,Apprenticeship or trades certificate or diploma,10.2
+1101,college_degep,"College, CEGEP or other non-university certificate or diploma",22.2
+1101,uni_below_bach,University certificate or diploma below bachelor level,2.7
+1101,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.8
+1102,no_cert,"No certificate, diploma or degree",15
+1102,high_school,Secondary (high) school diploma or equivalency certificate,25.1
+1102,app_trade,Apprenticeship or trades certificate or diploma,7.5
+1102,college_degep,"College, CEGEP or other non-university certificate or diploma",24.8
+1102,uni_below_bach,University certificate or diploma below bachelor level,2.9
+1102,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",24.7
+1103,no_cert,"No certificate, diploma or degree",25.3
+1103,high_school,Secondary (high) school diploma or equivalency certificate,30.3
+1103,app_trade,Apprenticeship or trades certificate or diploma,8.4
+1103,college_degep,"College, CEGEP or other non-university certificate or diploma",22.5
+1103,uni_below_bach,University certificate or diploma below bachelor level,2
+1103,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.3
+1201,no_cert,"No certificate, diploma or degree",35.6
+1201,high_school,Secondary (high) school diploma or equivalency certificate,24.8
+1201,app_trade,Apprenticeship or trades certificate or diploma,11.1
+1201,college_degep,"College, CEGEP or other non-university certificate or diploma",19.2
+1201,uni_below_bach,University certificate or diploma below bachelor level,1.8
+1201,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.5
+1202,no_cert,"No certificate, diploma or degree",30
+1202,high_school,Secondary (high) school diploma or equivalency certificate,20.7
+1202,app_trade,Apprenticeship or trades certificate or diploma,9.4
+1202,college_degep,"College, CEGEP or other non-university certificate or diploma",25.8
+1202,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1202,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.8
+1203,no_cert,"No certificate, diploma or degree",31.6
+1203,high_school,Secondary (high) school diploma or equivalency certificate,22
+1203,app_trade,Apprenticeship or trades certificate or diploma,12.1
+1203,college_degep,"College, CEGEP or other non-university certificate or diploma",20.1
+1203,uni_below_bach,University certificate or diploma below bachelor level,2.9
+1203,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.4
+1204,no_cert,"No certificate, diploma or degree",27.5
+1204,high_school,Secondary (high) school diploma or equivalency certificate,26
+1204,app_trade,Apprenticeship or trades certificate or diploma,12.1
+1204,college_degep,"College, CEGEP or other non-university certificate or diploma",21.6
+1204,uni_below_bach,University certificate or diploma below bachelor level,2
+1204,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.7
+1205,no_cert,"No certificate, diploma or degree",24.2
+1205,high_school,Secondary (high) school diploma or equivalency certificate,25
+1205,app_trade,Apprenticeship or trades certificate or diploma,11.8
+1205,college_degep,"College, CEGEP or other non-university certificate or diploma",24
+1205,uni_below_bach,University certificate or diploma below bachelor level,2.1
+1205,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.8
+1206,no_cert,"No certificate, diploma or degree",24
+1206,high_school,Secondary (high) school diploma or equivalency certificate,23.6
+1206,app_trade,Apprenticeship or trades certificate or diploma,12
+1206,college_degep,"College, CEGEP or other non-university certificate or diploma",22.7
+1206,uni_below_bach,University certificate or diploma below bachelor level,2.4
+1206,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.3
+1207,no_cert,"No certificate, diploma or degree",20.2
+1207,high_school,Secondary (high) school diploma or equivalency certificate,26.4
+1207,app_trade,Apprenticeship or trades certificate or diploma,9.8
+1207,college_degep,"College, CEGEP or other non-university certificate or diploma",23.8
+1207,uni_below_bach,University certificate or diploma below bachelor level,2
+1207,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17.8
+1208,no_cert,"No certificate, diploma or degree",22.6
+1208,high_school,Secondary (high) school diploma or equivalency certificate,25.6
+1208,app_trade,Apprenticeship or trades certificate or diploma,11.9
+1208,college_degep,"College, CEGEP or other non-university certificate or diploma",23.9
+1208,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1208,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.6
+1209,no_cert,"No certificate, diploma or degree",14.7
+1209,high_school,Secondary (high) school diploma or equivalency certificate,25.3
+1209,app_trade,Apprenticeship or trades certificate or diploma,7.8
+1209,college_degep,"College, CEGEP or other non-university certificate or diploma",20.8
+1209,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1209,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",29.1
+1210,no_cert,"No certificate, diploma or degree",21.6
+1210,high_school,Secondary (high) school diploma or equivalency certificate,27.7
+1210,app_trade,Apprenticeship or trades certificate or diploma,10.4
+1210,college_degep,"College, CEGEP or other non-university certificate or diploma",22.6
+1210,uni_below_bach,University certificate or diploma below bachelor level,2.1
+1210,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.7
+1211,no_cert,"No certificate, diploma or degree",24.5
+1211,high_school,Secondary (high) school diploma or equivalency certificate,28.4
+1211,app_trade,Apprenticeship or trades certificate or diploma,10
+1211,college_degep,"College, CEGEP or other non-university certificate or diploma",24.1
+1211,uni_below_bach,University certificate or diploma below bachelor level,1.8
+1211,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+1212,no_cert,"No certificate, diploma or degree",22.4
+1212,high_school,Secondary (high) school diploma or equivalency certificate,24.7
+1212,app_trade,Apprenticeship or trades certificate or diploma,11.8
+1212,college_degep,"College, CEGEP or other non-university certificate or diploma",24.5
+1212,uni_below_bach,University certificate or diploma below bachelor level,2.6
+1212,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14
+1213,no_cert,"No certificate, diploma or degree",34.2
+1213,high_school,Secondary (high) school diploma or equivalency certificate,23.2
+1213,app_trade,Apprenticeship or trades certificate or diploma,12.6
+1213,college_degep,"College, CEGEP or other non-university certificate or diploma",20.1
+1213,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1213,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.7
+1214,no_cert,"No certificate, diploma or degree",17.3
+1214,high_school,Secondary (high) school diploma or equivalency certificate,22.2
+1214,app_trade,Apprenticeship or trades certificate or diploma,12.1
+1214,college_degep,"College, CEGEP or other non-university certificate or diploma",22
+1214,uni_below_bach,University certificate or diploma below bachelor level,2.7
+1214,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",23.8
+1215,no_cert,"No certificate, diploma or degree",21.1
+1215,high_school,Secondary (high) school diploma or equivalency certificate,22.4
+1215,app_trade,Apprenticeship or trades certificate or diploma,15.6
+1215,college_degep,"College, CEGEP or other non-university certificate or diploma",23.6
+1215,uni_below_bach,University certificate or diploma below bachelor level,3
+1215,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.3
+1216,no_cert,"No certificate, diploma or degree",28
+1216,high_school,Secondary (high) school diploma or equivalency certificate,20.6
+1216,app_trade,Apprenticeship or trades certificate or diploma,14.8
+1216,college_degep,"College, CEGEP or other non-university certificate or diploma",24
+1216,uni_below_bach,University certificate or diploma below bachelor level,2.4
+1216,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.2
+1217,no_cert,"No certificate, diploma or degree",23.4
+1217,high_school,Secondary (high) school diploma or equivalency certificate,26.6
+1217,app_trade,Apprenticeship or trades certificate or diploma,12.3
+1217,college_degep,"College, CEGEP or other non-university certificate or diploma",20.2
+1217,uni_below_bach,University certificate or diploma below bachelor level,2.8
+1217,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.6
+1218,no_cert,"No certificate, diploma or degree",24.4
+1218,high_school,Secondary (high) school diploma or equivalency certificate,26.3
+1218,app_trade,Apprenticeship or trades certificate or diploma,12.2
+1218,college_degep,"College, CEGEP or other non-university certificate or diploma",18
+1218,uni_below_bach,University certificate or diploma below bachelor level,3.5
+1218,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.7
+1301,no_cert,"No certificate, diploma or degree",19.4
+1301,high_school,Secondary (high) school diploma or equivalency certificate,33.1
+1301,app_trade,Apprenticeship or trades certificate or diploma,8
+1301,college_degep,"College, CEGEP or other non-university certificate or diploma",22.4
+1301,uni_below_bach,University certificate or diploma below bachelor level,1.7
+1301,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.4
+1302,no_cert,"No certificate, diploma or degree",21.2
+1302,high_school,Secondary (high) school diploma or equivalency certificate,31.4
+1302,app_trade,Apprenticeship or trades certificate or diploma,9.8
+1302,college_degep,"College, CEGEP or other non-university certificate or diploma",23.2
+1302,uni_below_bach,University certificate or diploma below bachelor level,2.1
+1302,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.3
+1303,no_cert,"No certificate, diploma or degree",19.5
+1303,high_school,Secondary (high) school diploma or equivalency certificate,35.2
+1303,app_trade,Apprenticeship or trades certificate or diploma,9.7
+1303,college_degep,"College, CEGEP or other non-university certificate or diploma",22
+1303,uni_below_bach,University certificate or diploma below bachelor level,1.1
+1303,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.5
+1304,no_cert,"No certificate, diploma or degree",24.5
+1304,high_school,Secondary (high) school diploma or equivalency certificate,34.6
+1304,app_trade,Apprenticeship or trades certificate or diploma,11
+1304,college_degep,"College, CEGEP or other non-university certificate or diploma",19.5
+1304,uni_below_bach,University certificate or diploma below bachelor level,2.1
+1304,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.2
+1305,no_cert,"No certificate, diploma or degree",16.1
+1305,high_school,Secondary (high) school diploma or equivalency certificate,29.1
+1305,app_trade,Apprenticeship or trades certificate or diploma,9.3
+1305,college_degep,"College, CEGEP or other non-university certificate or diploma",23.5
+1305,uni_below_bach,University certificate or diploma below bachelor level,1.7
+1305,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20.3
+1306,no_cert,"No certificate, diploma or degree",16.2
+1306,high_school,Secondary (high) school diploma or equivalency certificate,30.8
+1306,app_trade,Apprenticeship or trades certificate or diploma,8.4
+1306,college_degep,"College, CEGEP or other non-university certificate or diploma",25.9
+1306,uni_below_bach,University certificate or diploma below bachelor level,2
+1306,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",16.7
+1307,no_cert,"No certificate, diploma or degree",18.4
+1307,high_school,Secondary (high) school diploma or equivalency certificate,27.7
+1307,app_trade,Apprenticeship or trades certificate or diploma,7.9
+1307,college_degep,"College, CEGEP or other non-university certificate or diploma",24
+1307,uni_below_bach,University certificate or diploma below bachelor level,2
+1307,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20
+1308,no_cert,"No certificate, diploma or degree",34.9
+1308,high_school,Secondary (high) school diploma or equivalency certificate,23.6
+1308,app_trade,Apprenticeship or trades certificate or diploma,9.3
+1308,college_degep,"College, CEGEP or other non-university certificate or diploma",21
+1308,uni_below_bach,University certificate or diploma below bachelor level,1.7
+1308,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.5
+1309,no_cert,"No certificate, diploma or degree",27
+1309,high_school,Secondary (high) school diploma or equivalency certificate,30
+1309,app_trade,Apprenticeship or trades certificate or diploma,9.8
+1309,college_degep,"College, CEGEP or other non-university certificate or diploma",21.4
+1309,uni_below_bach,University certificate or diploma below bachelor level,1.4
+1309,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+1310,no_cert,"No certificate, diploma or degree",14.1
+1310,high_school,Secondary (high) school diploma or equivalency certificate,27.6
+1310,app_trade,Apprenticeship or trades certificate or diploma,7.1
+1310,college_degep,"College, CEGEP or other non-university certificate or diploma",20.1
+1310,uni_below_bach,University certificate or diploma below bachelor level,1.7
+1310,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",29.4
+1311,no_cert,"No certificate, diploma or degree",21.6
+1311,high_school,Secondary (high) school diploma or equivalency certificate,32.9
+1311,app_trade,Apprenticeship or trades certificate or diploma,9.4
+1311,college_degep,"College, CEGEP or other non-university certificate or diploma",22.8
+1311,uni_below_bach,University certificate or diploma below bachelor level,1.6
+1311,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+1312,no_cert,"No certificate, diploma or degree",26
+1312,high_school,Secondary (high) school diploma or equivalency certificate,33.4
+1312,app_trade,Apprenticeship or trades certificate or diploma,9.6
+1312,college_degep,"College, CEGEP or other non-university certificate or diploma",17.9
+1312,uni_below_bach,University certificate or diploma below bachelor level,2.1
+1312,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.9
+1313,no_cert,"No certificate, diploma or degree",27.1
+1313,high_school,Secondary (high) school diploma or equivalency certificate,28.5
+1313,app_trade,Apprenticeship or trades certificate or diploma,13.1
+1313,college_degep,"College, CEGEP or other non-university certificate or diploma",15.5
+1313,uni_below_bach,University certificate or diploma below bachelor level,2.3
+1313,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.5
+1314,no_cert,"No certificate, diploma or degree",31
+1314,high_school,Secondary (high) school diploma or equivalency certificate,23.4
+1314,app_trade,Apprenticeship or trades certificate or diploma,11
+1314,college_degep,"College, CEGEP or other non-university certificate or diploma",23
+1314,uni_below_bach,University certificate or diploma below bachelor level,1.7
+1314,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.8
+1315,no_cert,"No certificate, diploma or degree",34.4
+1315,high_school,Secondary (high) school diploma or equivalency certificate,22
+1315,app_trade,Apprenticeship or trades certificate or diploma,11.3
+1315,college_degep,"College, CEGEP or other non-university certificate or diploma",19.2
+1315,uni_below_bach,University certificate or diploma below bachelor level,2.5
+1315,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+2401,no_cert,"No certificate, diploma or degree",30.6
+2401,high_school,Secondary (high) school diploma or equivalency certificate,18.4
+2401,app_trade,Apprenticeship or trades certificate or diploma,18.7
+2401,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+2401,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2401,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+2402,no_cert,"No certificate, diploma or degree",37.4
+2402,high_school,Secondary (high) school diploma or equivalency certificate,21.7
+2402,app_trade,Apprenticeship or trades certificate or diploma,17.3
+2402,college_degep,"College, CEGEP or other non-university certificate or diploma",14
+2402,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2402,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.4
+2403,no_cert,"No certificate, diploma or degree",28.5
+2403,high_school,Secondary (high) school diploma or equivalency certificate,18
+2403,app_trade,Apprenticeship or trades certificate or diploma,18.4
+2403,college_degep,"College, CEGEP or other non-university certificate or diploma",19.8
+2403,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2403,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.6
+2404,no_cert,"No certificate, diploma or degree",37.4
+2404,high_school,Secondary (high) school diploma or equivalency certificate,17
+2404,app_trade,Apprenticeship or trades certificate or diploma,21.5
+2404,college_degep,"College, CEGEP or other non-university certificate or diploma",12.8
+2404,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2404,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.5
+2405,no_cert,"No certificate, diploma or degree",26.1
+2405,high_school,Secondary (high) school diploma or equivalency certificate,21.1
+2405,app_trade,Apprenticeship or trades certificate or diploma,23.2
+2405,college_degep,"College, CEGEP or other non-university certificate or diploma",17
+2405,uni_below_bach,University certificate or diploma below bachelor level,2.8
+2405,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.9
+2406,no_cert,"No certificate, diploma or degree",25.8
+2406,high_school,Secondary (high) school diploma or equivalency certificate,19.5
+2406,app_trade,Apprenticeship or trades certificate or diploma,21.3
+2406,college_degep,"College, CEGEP or other non-university certificate or diploma",17.7
+2406,uni_below_bach,University certificate or diploma below bachelor level,3.6
+2406,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.1
+2407,no_cert,"No certificate, diploma or degree",29
+2407,high_school,Secondary (high) school diploma or equivalency certificate,19.7
+2407,app_trade,Apprenticeship or trades certificate or diploma,26.2
+2407,college_degep,"College, CEGEP or other non-university certificate or diploma",15.1
+2407,uni_below_bach,University certificate or diploma below bachelor level,2.4
+2407,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.6
+2408,no_cert,"No certificate, diploma or degree",27.6
+2408,high_school,Secondary (high) school diploma or equivalency certificate,20.6
+2408,app_trade,Apprenticeship or trades certificate or diploma,22.7
+2408,college_degep,"College, CEGEP or other non-university certificate or diploma",16.6
+2408,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2408,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.6
+2409,no_cert,"No certificate, diploma or degree",28
+2409,high_school,Secondary (high) school diploma or equivalency certificate,22.7
+2409,app_trade,Apprenticeship or trades certificate or diploma,23.4
+2409,college_degep,"College, CEGEP or other non-university certificate or diploma",14
+2409,uni_below_bach,University certificate or diploma below bachelor level,2.8
+2409,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.2
+2410,no_cert,"No certificate, diploma or degree",16.3
+2410,high_school,Secondary (high) school diploma or equivalency certificate,20.7
+2410,app_trade,Apprenticeship or trades certificate or diploma,18.2
+2410,college_degep,"College, CEGEP or other non-university certificate or diploma",21.3
+2410,uni_below_bach,University certificate or diploma below bachelor level,3.9
+2410,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19.6
+2411,no_cert,"No certificate, diploma or degree",28.6
+2411,high_school,Secondary (high) school diploma or equivalency certificate,21.8
+2411,app_trade,Apprenticeship or trades certificate or diploma,23
+2411,college_degep,"College, CEGEP or other non-university certificate or diploma",13.9
+2411,uni_below_bach,University certificate or diploma below bachelor level,3.3
+2411,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.3
+2412,no_cert,"No certificate, diploma or degree",21.8
+2412,high_school,Secondary (high) school diploma or equivalency certificate,19.3
+2412,app_trade,Apprenticeship or trades certificate or diploma,24
+2412,college_degep,"College, CEGEP or other non-university certificate or diploma",18.3
+2412,uni_below_bach,University certificate or diploma below bachelor level,3.5
+2412,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.2
+2413,no_cert,"No certificate, diploma or degree",31.9
+2413,high_school,Secondary (high) school diploma or equivalency certificate,18.3
+2413,app_trade,Apprenticeship or trades certificate or diploma,26
+2413,college_degep,"College, CEGEP or other non-university certificate or diploma",12.8
+2413,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2413,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8
+2414,no_cert,"No certificate, diploma or degree",26
+2414,high_school,Secondary (high) school diploma or equivalency certificate,18.5
+2414,app_trade,Apprenticeship or trades certificate or diploma,21.7
+2414,college_degep,"College, CEGEP or other non-university certificate or diploma",18.9
+2414,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2414,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.8
+2415,no_cert,"No certificate, diploma or degree",26.7
+2415,high_school,Secondary (high) school diploma or equivalency certificate,24.4
+2415,app_trade,Apprenticeship or trades certificate or diploma,23.1
+2415,college_degep,"College, CEGEP or other non-university certificate or diploma",14.1
+2415,uni_below_bach,University certificate or diploma below bachelor level,3
+2415,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.9
+2416,no_cert,"No certificate, diploma or degree",24.2
+2416,high_school,Secondary (high) school diploma or equivalency certificate,20.3
+2416,app_trade,Apprenticeship or trades certificate or diploma,23.8
+2416,college_degep,"College, CEGEP or other non-university certificate or diploma",16.1
+2416,uni_below_bach,University certificate or diploma below bachelor level,4.3
+2416,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.3
+2417,no_cert,"No certificate, diploma or degree",30.9
+2417,high_school,Secondary (high) school diploma or equivalency certificate,20.4
+2417,app_trade,Apprenticeship or trades certificate or diploma,23.8
+2417,college_degep,"College, CEGEP or other non-university certificate or diploma",14.8
+2417,uni_below_bach,University certificate or diploma below bachelor level,2.3
+2417,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.8
+2418,no_cert,"No certificate, diploma or degree",29.7
+2418,high_school,Secondary (high) school diploma or equivalency certificate,21.2
+2418,app_trade,Apprenticeship or trades certificate or diploma,22.1
+2418,college_degep,"College, CEGEP or other non-university certificate or diploma",15.1
+2418,uni_below_bach,University certificate or diploma below bachelor level,2.3
+2418,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.5
+2419,no_cert,"No certificate, diploma or degree",24.2
+2419,high_school,Secondary (high) school diploma or equivalency certificate,20.4
+2419,app_trade,Apprenticeship or trades certificate or diploma,25.6
+2419,college_degep,"College, CEGEP or other non-university certificate or diploma",17.1
+2419,uni_below_bach,University certificate or diploma below bachelor level,2.8
+2419,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10
+2420,no_cert,"No certificate, diploma or degree",15.3
+2420,high_school,Secondary (high) school diploma or equivalency certificate,19.8
+2420,app_trade,Apprenticeship or trades certificate or diploma,17.9
+2420,college_degep,"College, CEGEP or other non-university certificate or diploma",19.4
+2420,uni_below_bach,University certificate or diploma below bachelor level,5.2
+2420,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",22.3
+2421,no_cert,"No certificate, diploma or degree",16.4
+2421,high_school,Secondary (high) school diploma or equivalency certificate,20.8
+2421,app_trade,Apprenticeship or trades certificate or diploma,22.1
+2421,college_degep,"College, CEGEP or other non-university certificate or diploma",20.1
+2421,uni_below_bach,University certificate or diploma below bachelor level,3.3
+2421,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17.3
+2422,no_cert,"No certificate, diploma or degree",12.7
+2422,high_school,Secondary (high) school diploma or equivalency certificate,20.8
+2422,app_trade,Apprenticeship or trades certificate or diploma,20.9
+2422,college_degep,"College, CEGEP or other non-university certificate or diploma",21.5
+2422,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2422,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20.8
+2423,no_cert,"No certificate, diploma or degree",13.7
+2423,high_school,Secondary (high) school diploma or equivalency certificate,20.3
+2423,app_trade,Apprenticeship or trades certificate or diploma,15.6
+2423,college_degep,"College, CEGEP or other non-university certificate or diploma",20.5
+2423,uni_below_bach,University certificate or diploma below bachelor level,3.9
+2423,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",25.9
+2425,no_cert,"No certificate, diploma or degree",13.6
+2425,high_school,Secondary (high) school diploma or equivalency certificate,19.9
+2425,app_trade,Apprenticeship or trades certificate or diploma,18.2
+2425,college_degep,"College, CEGEP or other non-university certificate or diploma",22.2
+2425,uni_below_bach,University certificate or diploma below bachelor level,4.3
+2425,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",21.8
+2426,no_cert,"No certificate, diploma or degree",20
+2426,high_school,Secondary (high) school diploma or equivalency certificate,21.9
+2426,app_trade,Apprenticeship or trades certificate or diploma,24.5
+2426,college_degep,"College, CEGEP or other non-university certificate or diploma",18.5
+2426,uni_below_bach,University certificate or diploma below bachelor level,2.7
+2426,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.4
+2427,no_cert,"No certificate, diploma or degree",27.9
+2427,high_school,Secondary (high) school diploma or equivalency certificate,21
+2427,app_trade,Apprenticeship or trades certificate or diploma,24.4
+2427,college_degep,"College, CEGEP or other non-university certificate or diploma",14.8
+2427,uni_below_bach,University certificate or diploma below bachelor level,2.5
+2427,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.4
+2428,no_cert,"No certificate, diploma or degree",31.9
+2428,high_school,Secondary (high) school diploma or equivalency certificate,22.1
+2428,app_trade,Apprenticeship or trades certificate or diploma,24.2
+2428,college_degep,"College, CEGEP or other non-university certificate or diploma",12.8
+2428,uni_below_bach,University certificate or diploma below bachelor level,2.1
+2428,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",6.9
+2429,no_cert,"No certificate, diploma or degree",27.5
+2429,high_school,Secondary (high) school diploma or equivalency certificate,20.4
+2429,app_trade,Apprenticeship or trades certificate or diploma,23.6
+2429,college_degep,"College, CEGEP or other non-university certificate or diploma",15.5
+2429,uni_below_bach,University certificate or diploma below bachelor level,2.5
+2429,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+2430,no_cert,"No certificate, diploma or degree",33.2
+2430,high_school,Secondary (high) school diploma or equivalency certificate,20.8
+2430,app_trade,Apprenticeship or trades certificate or diploma,23
+2430,college_degep,"College, CEGEP or other non-university certificate or diploma",12.6
+2430,uni_below_bach,University certificate or diploma below bachelor level,2.4
+2430,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8
+2431,no_cert,"No certificate, diploma or degree",25.6
+2431,high_school,Secondary (high) school diploma or equivalency certificate,21.4
+2431,app_trade,Apprenticeship or trades certificate or diploma,24.3
+2431,college_degep,"College, CEGEP or other non-university certificate or diploma",16.9
+2431,uni_below_bach,University certificate or diploma below bachelor level,2.5
+2431,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.4
+2432,no_cert,"No certificate, diploma or degree",29.2
+2432,high_school,Secondary (high) school diploma or equivalency certificate,20.9
+2432,app_trade,Apprenticeship or trades certificate or diploma,25.5
+2432,college_degep,"College, CEGEP or other non-university certificate or diploma",15.8
+2432,uni_below_bach,University certificate or diploma below bachelor level,1.9
+2432,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",6.7
+2433,no_cert,"No certificate, diploma or degree",23.6
+2433,high_school,Secondary (high) school diploma or equivalency certificate,20.6
+2433,app_trade,Apprenticeship or trades certificate or diploma,27.4
+2433,college_degep,"College, CEGEP or other non-university certificate or diploma",16.9
+2433,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2433,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.3
+2434,no_cert,"No certificate, diploma or degree",19.5
+2434,high_school,Secondary (high) school diploma or equivalency certificate,22.9
+2434,app_trade,Apprenticeship or trades certificate or diploma,24.4
+2434,college_degep,"College, CEGEP or other non-university certificate or diploma",18.6
+2434,uni_below_bach,University certificate or diploma below bachelor level,2.6
+2434,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12
+2435,no_cert,"No certificate, diploma or degree",28.4
+2435,high_school,Secondary (high) school diploma or equivalency certificate,20.9
+2435,app_trade,Apprenticeship or trades certificate or diploma,24.7
+2435,college_degep,"College, CEGEP or other non-university certificate or diploma",15.1
+2435,uni_below_bach,University certificate or diploma below bachelor level,2.8
+2435,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.2
+2436,no_cert,"No certificate, diploma or degree",24
+2436,high_school,Secondary (high) school diploma or equivalency certificate,23.1
+2436,app_trade,Apprenticeship or trades certificate or diploma,21.1
+2436,college_degep,"College, CEGEP or other non-university certificate or diploma",17.9
+2436,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2436,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.7
+2437,no_cert,"No certificate, diploma or degree",18.4
+2437,high_school,Secondary (high) school diploma or equivalency certificate,21.7
+2437,app_trade,Apprenticeship or trades certificate or diploma,19.5
+2437,college_degep,"College, CEGEP or other non-university certificate or diploma",19.5
+2437,uni_below_bach,University certificate or diploma below bachelor level,3.7
+2437,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17.1
+2438,no_cert,"No certificate, diploma or degree",23.1
+2438,high_school,Secondary (high) school diploma or equivalency certificate,20.1
+2438,app_trade,Apprenticeship or trades certificate or diploma,23.8
+2438,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+2438,uni_below_bach,University certificate or diploma below bachelor level,2.3
+2438,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.6
+2439,no_cert,"No certificate, diploma or degree",25.9
+2439,high_school,Secondary (high) school diploma or equivalency certificate,20.6
+2439,app_trade,Apprenticeship or trades certificate or diploma,21.6
+2439,college_degep,"College, CEGEP or other non-university certificate or diploma",17.2
+2439,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2439,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.7
+2440,no_cert,"No certificate, diploma or degree",30.6
+2440,high_school,Secondary (high) school diploma or equivalency certificate,19.2
+2440,app_trade,Apprenticeship or trades certificate or diploma,26.8
+2440,college_degep,"College, CEGEP or other non-university certificate or diploma",13.9
+2440,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2440,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.3
+2441,no_cert,"No certificate, diploma or degree",28.3
+2441,high_school,Secondary (high) school diploma or equivalency certificate,22.1
+2441,app_trade,Apprenticeship or trades certificate or diploma,25.5
+2441,college_degep,"College, CEGEP or other non-university certificate or diploma",13.9
+2441,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2441,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8
+2442,no_cert,"No certificate, diploma or degree",23.4
+2442,high_school,Secondary (high) school diploma or equivalency certificate,21.6
+2442,app_trade,Apprenticeship or trades certificate or diploma,24.1
+2442,college_degep,"College, CEGEP or other non-university certificate or diploma",16.8
+2442,uni_below_bach,University certificate or diploma below bachelor level,2.5
+2442,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.7
+2443,no_cert,"No certificate, diploma or degree",17.9
+2443,high_school,Secondary (high) school diploma or equivalency certificate,20.7
+2443,app_trade,Apprenticeship or trades certificate or diploma,17.6
+2443,college_degep,"College, CEGEP or other non-university certificate or diploma",19
+2443,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2443,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",21.7
+2444,no_cert,"No certificate, diploma or degree",28.4
+2444,high_school,Secondary (high) school diploma or equivalency certificate,22.3
+2444,app_trade,Apprenticeship or trades certificate or diploma,24.7
+2444,college_degep,"College, CEGEP or other non-university certificate or diploma",13.9
+2444,uni_below_bach,University certificate or diploma below bachelor level,2.1
+2444,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.6
+2445,no_cert,"No certificate, diploma or degree",20.2
+2445,high_school,Secondary (high) school diploma or equivalency certificate,22.5
+2445,app_trade,Apprenticeship or trades certificate or diploma,17.4
+2445,college_degep,"College, CEGEP or other non-university certificate or diploma",16.8
+2445,uni_below_bach,University certificate or diploma below bachelor level,3.8
+2445,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19.3
+2446,no_cert,"No certificate, diploma or degree",21.8
+2446,high_school,Secondary (high) school diploma or equivalency certificate,25.2
+2446,app_trade,Apprenticeship or trades certificate or diploma,16.8
+2446,college_degep,"College, CEGEP or other non-university certificate or diploma",15.6
+2446,uni_below_bach,University certificate or diploma below bachelor level,3.7
+2446,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",16.9
+2447,no_cert,"No certificate, diploma or degree",24.9
+2447,high_school,Secondary (high) school diploma or equivalency certificate,25.6
+2447,app_trade,Apprenticeship or trades certificate or diploma,18.9
+2447,college_degep,"College, CEGEP or other non-university certificate or diploma",15.7
+2447,uni_below_bach,University certificate or diploma below bachelor level,3
+2447,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12
+2448,no_cert,"No certificate, diploma or degree",32.3
+2448,high_school,Secondary (high) school diploma or equivalency certificate,25.1
+2448,app_trade,Apprenticeship or trades certificate or diploma,21.6
+2448,college_degep,"College, CEGEP or other non-university certificate or diploma",13.4
+2448,uni_below_bach,University certificate or diploma below bachelor level,2.1
+2448,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",5.7
+2449,no_cert,"No certificate, diploma or degree",24.4
+2449,high_school,Secondary (high) school diploma or equivalency certificate,22.5
+2449,app_trade,Apprenticeship or trades certificate or diploma,21.8
+2449,college_degep,"College, CEGEP or other non-university certificate or diploma",17.8
+2449,uni_below_bach,University certificate or diploma below bachelor level,2.7
+2449,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.8
+2450,no_cert,"No certificate, diploma or degree",26
+2450,high_school,Secondary (high) school diploma or equivalency certificate,20.7
+2450,app_trade,Apprenticeship or trades certificate or diploma,22.7
+2450,college_degep,"College, CEGEP or other non-university certificate or diploma",17.1
+2450,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2450,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.6
+2451,no_cert,"No certificate, diploma or degree",27.8
+2451,high_school,Secondary (high) school diploma or equivalency certificate,21.2
+2451,app_trade,Apprenticeship or trades certificate or diploma,22.9
+2451,college_degep,"College, CEGEP or other non-university certificate or diploma",16.4
+2451,uni_below_bach,University certificate or diploma below bachelor level,2.8
+2451,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.8
+2452,no_cert,"No certificate, diploma or degree",27.6
+2452,high_school,Secondary (high) school diploma or equivalency certificate,24.3
+2452,app_trade,Apprenticeship or trades certificate or diploma,22.9
+2452,college_degep,"College, CEGEP or other non-university certificate or diploma",15.3
+2452,uni_below_bach,University certificate or diploma below bachelor level,2.3
+2452,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.6
+2453,no_cert,"No certificate, diploma or degree",25.2
+2453,high_school,Secondary (high) school diploma or equivalency certificate,21.4
+2453,app_trade,Apprenticeship or trades certificate or diploma,22.2
+2453,college_degep,"College, CEGEP or other non-university certificate or diploma",18.4
+2453,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2453,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.7
+2454,no_cert,"No certificate, diploma or degree",26.1
+2454,high_school,Secondary (high) school diploma or equivalency certificate,23.6
+2454,app_trade,Apprenticeship or trades certificate or diploma,19.7
+2454,college_degep,"College, CEGEP or other non-university certificate or diploma",16.9
+2454,uni_below_bach,University certificate or diploma below bachelor level,3
+2454,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.8
+2455,no_cert,"No certificate, diploma or degree",24.2
+2455,high_school,Secondary (high) school diploma or equivalency certificate,23.2
+2455,app_trade,Apprenticeship or trades certificate or diploma,21.8
+2455,college_degep,"College, CEGEP or other non-university certificate or diploma",17.1
+2455,uni_below_bach,University certificate or diploma below bachelor level,2.6
+2455,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11
+2456,no_cert,"No certificate, diploma or degree",22.2
+2456,high_school,Secondary (high) school diploma or equivalency certificate,24.1
+2456,app_trade,Apprenticeship or trades certificate or diploma,20.5
+2456,college_degep,"College, CEGEP or other non-university certificate or diploma",17.5
+2456,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2456,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.6
+2457,no_cert,"No certificate, diploma or degree",14.1
+2457,high_school,Secondary (high) school diploma or equivalency certificate,21.4
+2457,app_trade,Apprenticeship or trades certificate or diploma,16.5
+2457,college_degep,"College, CEGEP or other non-university certificate or diploma",20.7
+2457,uni_below_bach,University certificate or diploma below bachelor level,4.6
+2457,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",22.7
+2458,no_cert,"No certificate, diploma or degree",16.7
+2458,high_school,Secondary (high) school diploma or equivalency certificate,21.2
+2458,app_trade,Apprenticeship or trades certificate or diploma,13.2
+2458,college_degep,"College, CEGEP or other non-university certificate or diploma",18
+2458,uni_below_bach,University certificate or diploma below bachelor level,4.5
+2458,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",26.4
+2459,no_cert,"No certificate, diploma or degree",16.9
+2459,high_school,Secondary (high) school diploma or equivalency certificate,21.8
+2459,app_trade,Apprenticeship or trades certificate or diploma,19.1
+2459,college_degep,"College, CEGEP or other non-university certificate or diploma",19.9
+2459,uni_below_bach,University certificate or diploma below bachelor level,4.1
+2459,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",18.2
+2460,no_cert,"No certificate, diploma or degree",19.2
+2460,high_school,Secondary (high) school diploma or equivalency certificate,24.2
+2460,app_trade,Apprenticeship or trades certificate or diploma,20.9
+2460,college_degep,"College, CEGEP or other non-university certificate or diploma",18.3
+2460,uni_below_bach,University certificate or diploma below bachelor level,3.8
+2460,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.7
+2461,no_cert,"No certificate, diploma or degree",23.2
+2461,high_school,Secondary (high) school diploma or equivalency certificate,23.8
+2461,app_trade,Apprenticeship or trades certificate or diploma,20.3
+2461,college_degep,"College, CEGEP or other non-university certificate or diploma",16.6
+2461,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2461,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.8
+2462,no_cert,"No certificate, diploma or degree",27.8
+2462,high_school,Secondary (high) school diploma or equivalency certificate,23.9
+2462,app_trade,Apprenticeship or trades certificate or diploma,21.5
+2462,college_degep,"College, CEGEP or other non-university certificate or diploma",14
+2462,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2462,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.6
+2463,no_cert,"No certificate, diploma or degree",31.3
+2463,high_school,Secondary (high) school diploma or equivalency certificate,21.4
+2463,app_trade,Apprenticeship or trades certificate or diploma,26.3
+2463,college_degep,"College, CEGEP or other non-university certificate or diploma",13.2
+2463,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2463,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",5.6
+2464,no_cert,"No certificate, diploma or degree",19.3
+2464,high_school,Secondary (high) school diploma or equivalency certificate,23.7
+2464,app_trade,Apprenticeship or trades certificate or diploma,22.1
+2464,college_degep,"College, CEGEP or other non-university certificate or diploma",17.9
+2464,uni_below_bach,University certificate or diploma below bachelor level,3.7
+2464,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.3
+2465,no_cert,"No certificate, diploma or degree",19
+2465,high_school,Secondary (high) school diploma or equivalency certificate,22.7
+2465,app_trade,Apprenticeship or trades certificate or diploma,14.3
+2465,college_degep,"College, CEGEP or other non-university certificate or diploma",18.5
+2465,uni_below_bach,University certificate or diploma below bachelor level,4.3
+2465,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",21.3
+2466,no_cert,"No certificate, diploma or degree",16.9
+2466,high_school,Secondary (high) school diploma or equivalency certificate,20.4
+2466,app_trade,Apprenticeship or trades certificate or diploma,10
+2466,college_degep,"College, CEGEP or other non-university certificate or diploma",16.4
+2466,uni_below_bach,University certificate or diploma below bachelor level,4
+2466,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",32.5
+2467,no_cert,"No certificate, diploma or degree",18.3
+2467,high_school,Secondary (high) school diploma or equivalency certificate,24.7
+2467,app_trade,Apprenticeship or trades certificate or diploma,17.3
+2467,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+2467,uni_below_bach,University certificate or diploma below bachelor level,3.6
+2467,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",18.1
+2468,no_cert,"No certificate, diploma or degree",29
+2468,high_school,Secondary (high) school diploma or equivalency certificate,24.3
+2468,app_trade,Apprenticeship or trades certificate or diploma,21.4
+2468,college_degep,"College, CEGEP or other non-university certificate or diploma",15.1
+2468,uni_below_bach,University certificate or diploma below bachelor level,2.4
+2468,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.7
+2469,no_cert,"No certificate, diploma or degree",28.9
+2469,high_school,Secondary (high) school diploma or equivalency certificate,25.2
+2469,app_trade,Apprenticeship or trades certificate or diploma,18.9
+2469,college_degep,"College, CEGEP or other non-university certificate or diploma",15.1
+2469,uni_below_bach,University certificate or diploma below bachelor level,2.6
+2469,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.3
+2470,no_cert,"No certificate, diploma or degree",26.6
+2470,high_school,Secondary (high) school diploma or equivalency certificate,24
+2470,app_trade,Apprenticeship or trades certificate or diploma,21.9
+2470,college_degep,"College, CEGEP or other non-university certificate or diploma",15.9
+2470,uni_below_bach,University certificate or diploma below bachelor level,2.5
+2470,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.1
+2471,no_cert,"No certificate, diploma or degree",16.2
+2471,high_school,Secondary (high) school diploma or equivalency certificate,24.9
+2471,app_trade,Apprenticeship or trades certificate or diploma,16.2
+2471,college_degep,"College, CEGEP or other non-university certificate or diploma",20.3
+2471,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2471,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19.2
+2472,no_cert,"No certificate, diploma or degree",20.8
+2472,high_school,Secondary (high) school diploma or equivalency certificate,23.7
+2472,app_trade,Apprenticeship or trades certificate or diploma,19.4
+2472,college_degep,"College, CEGEP or other non-university certificate or diploma",18.4
+2472,uni_below_bach,University certificate or diploma below bachelor level,3.6
+2472,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.2
+2473,no_cert,"No certificate, diploma or degree",17.4
+2473,high_school,Secondary (high) school diploma or equivalency certificate,22.9
+2473,app_trade,Apprenticeship or trades certificate or diploma,16.9
+2473,college_degep,"College, CEGEP or other non-university certificate or diploma",19.1
+2473,uni_below_bach,University certificate or diploma below bachelor level,4.1
+2473,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19.6
+2474,no_cert,"No certificate, diploma or degree",19.5
+2474,high_school,Secondary (high) school diploma or equivalency certificate,21.9
+2474,app_trade,Apprenticeship or trades certificate or diploma,23.8
+2474,college_degep,"College, CEGEP or other non-university certificate or diploma",19.1
+2474,uni_below_bach,University certificate or diploma below bachelor level,3.4
+2474,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.3
+2475,no_cert,"No certificate, diploma or degree",22.9
+2475,high_school,Secondary (high) school diploma or equivalency certificate,23.1
+2475,app_trade,Apprenticeship or trades certificate or diploma,22.3
+2475,college_degep,"College, CEGEP or other non-university certificate or diploma",17.4
+2475,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2475,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11
+2476,no_cert,"No certificate, diploma or degree",29.9
+2476,high_school,Secondary (high) school diploma or equivalency certificate,24.3
+2476,app_trade,Apprenticeship or trades certificate or diploma,20.6
+2476,college_degep,"College, CEGEP or other non-university certificate or diploma",13.5
+2476,uni_below_bach,University certificate or diploma below bachelor level,2.9
+2476,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.8
+2477,no_cert,"No certificate, diploma or degree",14.4
+2477,high_school,Secondary (high) school diploma or equivalency certificate,23
+2477,app_trade,Apprenticeship or trades certificate or diploma,16.3
+2477,college_degep,"College, CEGEP or other non-university certificate or diploma",19.6
+2477,uni_below_bach,University certificate or diploma below bachelor level,5.5
+2477,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",21.2
+2478,no_cert,"No certificate, diploma or degree",22.2
+2478,high_school,Secondary (high) school diploma or equivalency certificate,23.1
+2478,app_trade,Apprenticeship or trades certificate or diploma,20.3
+2478,college_degep,"College, CEGEP or other non-university certificate or diploma",16
+2478,uni_below_bach,University certificate or diploma below bachelor level,3.7
+2478,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.7
+2479,no_cert,"No certificate, diploma or degree",30.8
+2479,high_school,Secondary (high) school diploma or equivalency certificate,20
+2479,app_trade,Apprenticeship or trades certificate or diploma,25.1
+2479,college_degep,"College, CEGEP or other non-university certificate or diploma",12.5
+2479,uni_below_bach,University certificate or diploma below bachelor level,2.8
+2479,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.8
+2480,no_cert,"No certificate, diploma or degree",29.4
+2480,high_school,Secondary (high) school diploma or equivalency certificate,21.8
+2480,app_trade,Apprenticeship or trades certificate or diploma,22.4
+2480,college_degep,"College, CEGEP or other non-university certificate or diploma",13.4
+2480,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2480,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.8
+2481,no_cert,"No certificate, diploma or degree",19.3
+2481,high_school,Secondary (high) school diploma or equivalency certificate,22.7
+2481,app_trade,Apprenticeship or trades certificate or diploma,12.6
+2481,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+2481,uni_below_bach,University certificate or diploma below bachelor level,3
+2481,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",24.4
+2482,no_cert,"No certificate, diploma or degree",19.3
+2482,high_school,Secondary (high) school diploma or equivalency certificate,21.3
+2482,app_trade,Apprenticeship or trades certificate or diploma,14.5
+2482,college_degep,"College, CEGEP or other non-university certificate or diploma",19.1
+2482,uni_below_bach,University certificate or diploma below bachelor level,2.7
+2482,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",23.1
+2483,no_cert,"No certificate, diploma or degree",32.5
+2483,high_school,Secondary (high) school diploma or equivalency certificate,22.1
+2483,app_trade,Apprenticeship or trades certificate or diploma,21.4
+2483,college_degep,"College, CEGEP or other non-university certificate or diploma",13.8
+2483,uni_below_bach,University certificate or diploma below bachelor level,2.4
+2483,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.8
+2484,no_cert,"No certificate, diploma or degree",32.9
+2484,high_school,Secondary (high) school diploma or equivalency certificate,23.9
+2484,app_trade,Apprenticeship or trades certificate or diploma,15.1
+2484,college_degep,"College, CEGEP or other non-university certificate or diploma",18.3
+2484,uni_below_bach,University certificate or diploma below bachelor level,2.1
+2484,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.6
+2485,no_cert,"No certificate, diploma or degree",27.8
+2485,high_school,Secondary (high) school diploma or equivalency certificate,20.8
+2485,app_trade,Apprenticeship or trades certificate or diploma,22.3
+2485,college_degep,"College, CEGEP or other non-university certificate or diploma",17.2
+2485,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2485,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.7
+2486,no_cert,"No certificate, diploma or degree",23.7
+2486,high_school,Secondary (high) school diploma or equivalency certificate,20.2
+2486,app_trade,Apprenticeship or trades certificate or diploma,22.1
+2486,college_degep,"College, CEGEP or other non-university certificate or diploma",15.8
+2486,uni_below_bach,University certificate or diploma below bachelor level,3.6
+2486,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.8
+2487,no_cert,"No certificate, diploma or degree",33
+2487,high_school,Secondary (high) school diploma or equivalency certificate,18.1
+2487,app_trade,Apprenticeship or trades certificate or diploma,27
+2487,college_degep,"College, CEGEP or other non-university certificate or diploma",12
+2487,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2487,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.6
+2488,no_cert,"No certificate, diploma or degree",29.1
+2488,high_school,Secondary (high) school diploma or equivalency certificate,18.2
+2488,app_trade,Apprenticeship or trades certificate or diploma,25.2
+2488,college_degep,"College, CEGEP or other non-university certificate or diploma",14.3
+2488,uni_below_bach,University certificate or diploma below bachelor level,3.2
+2488,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10
+2489,no_cert,"No certificate, diploma or degree",30
+2489,high_school,Secondary (high) school diploma or equivalency certificate,20.2
+2489,app_trade,Apprenticeship or trades certificate or diploma,21.7
+2489,college_degep,"College, CEGEP or other non-university certificate or diploma",14
+2489,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2489,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+2490,no_cert,"No certificate, diploma or degree",34
+2490,high_school,Secondary (high) school diploma or equivalency certificate,20.4
+2490,app_trade,Apprenticeship or trades certificate or diploma,22.3
+2490,college_degep,"College, CEGEP or other non-university certificate or diploma",14.4
+2490,uni_below_bach,University certificate or diploma below bachelor level,2.4
+2490,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",6.5
+2491,no_cert,"No certificate, diploma or degree",25.3
+2491,high_school,Secondary (high) school diploma or equivalency certificate,18.6
+2491,app_trade,Apprenticeship or trades certificate or diploma,25.5
+2491,college_degep,"College, CEGEP or other non-university certificate or diploma",17.2
+2491,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2491,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.3
+2492,no_cert,"No certificate, diploma or degree",28.1
+2492,high_school,Secondary (high) school diploma or equivalency certificate,19.3
+2492,app_trade,Apprenticeship or trades certificate or diploma,28.1
+2492,college_degep,"College, CEGEP or other non-university certificate or diploma",14.1
+2492,uni_below_bach,University certificate or diploma below bachelor level,2.6
+2492,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.8
+2493,no_cert,"No certificate, diploma or degree",21.2
+2493,high_school,Secondary (high) school diploma or equivalency certificate,18.9
+2493,app_trade,Apprenticeship or trades certificate or diploma,27.2
+2493,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+2493,uni_below_bach,University certificate or diploma below bachelor level,3
+2493,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.6
+2494,no_cert,"No certificate, diploma or degree",18
+2494,high_school,Secondary (high) school diploma or equivalency certificate,19.3
+2494,app_trade,Apprenticeship or trades certificate or diploma,24.8
+2494,college_degep,"College, CEGEP or other non-university certificate or diploma",19.4
+2494,uni_below_bach,University certificate or diploma below bachelor level,3.5
+2494,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15
+2495,no_cert,"No certificate, diploma or degree",30.5
+2495,high_school,Secondary (high) school diploma or equivalency certificate,20.4
+2495,app_trade,Apprenticeship or trades certificate or diploma,26.5
+2495,college_degep,"College, CEGEP or other non-university certificate or diploma",12.7
+2495,uni_below_bach,University certificate or diploma below bachelor level,3.1
+2495,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",6.9
+2496,no_cert,"No certificate, diploma or degree",25.6
+2496,high_school,Secondary (high) school diploma or equivalency certificate,19.8
+2496,app_trade,Apprenticeship or trades certificate or diploma,22.8
+2496,college_degep,"College, CEGEP or other non-university certificate or diploma",18.6
+2496,uni_below_bach,University certificate or diploma below bachelor level,2.7
+2496,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+2497,no_cert,"No certificate, diploma or degree",28.3
+2497,high_school,Secondary (high) school diploma or equivalency certificate,19.9
+2497,app_trade,Apprenticeship or trades certificate or diploma,21.8
+2497,college_degep,"College, CEGEP or other non-university certificate or diploma",17.3
+2497,uni_below_bach,University certificate or diploma below bachelor level,2.4
+2497,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.3
+2498,no_cert,"No certificate, diploma or degree",41.1
+2498,high_school,Secondary (high) school diploma or equivalency certificate,17.4
+2498,app_trade,Apprenticeship or trades certificate or diploma,18.4
+2498,college_degep,"College, CEGEP or other non-university certificate or diploma",13.3
+2498,uni_below_bach,University certificate or diploma below bachelor level,2.2
+2498,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.6
+2499,no_cert,"No certificate, diploma or degree",44.6
+2499,high_school,Secondary (high) school diploma or equivalency certificate,14.9
+2499,app_trade,Apprenticeship or trades certificate or diploma,18.7
+2499,college_degep,"College, CEGEP or other non-university certificate or diploma",12.1
+2499,uni_below_bach,University certificate or diploma below bachelor level,2.5
+2499,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.3
+3501,no_cert,"No certificate, diploma or degree",22.4
+3501,high_school,Secondary (high) school diploma or equivalency certificate,31.4
+3501,app_trade,Apprenticeship or trades certificate or diploma,8.9
+3501,college_degep,"College, CEGEP or other non-university certificate or diploma",24.4
+3501,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3501,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11
+3502,no_cert,"No certificate, diploma or degree",19.7
+3502,high_school,Secondary (high) school diploma or equivalency certificate,30.9
+3502,app_trade,Apprenticeship or trades certificate or diploma,9.1
+3502,college_degep,"College, CEGEP or other non-university certificate or diploma",24
+3502,uni_below_bach,University certificate or diploma below bachelor level,2
+3502,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.2
+3506,no_cert,"No certificate, diploma or degree",12.2
+3506,high_school,Secondary (high) school diploma or equivalency certificate,24
+3506,app_trade,Apprenticeship or trades certificate or diploma,4.1
+3506,college_degep,"College, CEGEP or other non-university certificate or diploma",20
+3506,uni_below_bach,University certificate or diploma below bachelor level,2
+3506,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",37.7
+3507,no_cert,"No certificate, diploma or degree",17.8
+3507,high_school,Secondary (high) school diploma or equivalency certificate,29.9
+3507,app_trade,Apprenticeship or trades certificate or diploma,8.4
+3507,college_degep,"College, CEGEP or other non-university certificate or diploma",27.6
+3507,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3507,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.5
+3509,no_cert,"No certificate, diploma or degree",16.8
+3509,high_school,Secondary (high) school diploma or equivalency certificate,28.9
+3509,app_trade,Apprenticeship or trades certificate or diploma,8.2
+3509,college_degep,"College, CEGEP or other non-university certificate or diploma",28.6
+3509,uni_below_bach,University certificate or diploma below bachelor level,1.9
+3509,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.7
+3510,no_cert,"No certificate, diploma or degree",14.3
+3510,high_school,Secondary (high) school diploma or equivalency certificate,28
+3510,app_trade,Apprenticeship or trades certificate or diploma,6.4
+3510,college_degep,"College, CEGEP or other non-university certificate or diploma",24.1
+3510,uni_below_bach,University certificate or diploma below bachelor level,1.5
+3510,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",25.7
+3511,no_cert,"No certificate, diploma or degree",18.1
+3511,high_school,Secondary (high) school diploma or equivalency certificate,31
+3511,app_trade,Apprenticeship or trades certificate or diploma,8.6
+3511,college_degep,"College, CEGEP or other non-university certificate or diploma",27.8
+3511,uni_below_bach,University certificate or diploma below bachelor level,1.3
+3511,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.2
+3512,no_cert,"No certificate, diploma or degree",21.8
+3512,high_school,Secondary (high) school diploma or equivalency certificate,31
+3512,app_trade,Apprenticeship or trades certificate or diploma,8.4
+3512,college_degep,"College, CEGEP or other non-university certificate or diploma",26.3
+3512,uni_below_bach,University certificate or diploma below bachelor level,1.3
+3512,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+3513,no_cert,"No certificate, diploma or degree",16.7
+3513,high_school,Secondary (high) school diploma or equivalency certificate,27.6
+3513,app_trade,Apprenticeship or trades certificate or diploma,8.6
+3513,college_degep,"College, CEGEP or other non-university certificate or diploma",27.2
+3513,uni_below_bach,University certificate or diploma below bachelor level,2.3
+3513,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17.6
+3514,no_cert,"No certificate, diploma or degree",18.3
+3514,high_school,Secondary (high) school diploma or equivalency certificate,30.8
+3514,app_trade,Apprenticeship or trades certificate or diploma,8.9
+3514,college_degep,"College, CEGEP or other non-university certificate or diploma",25.4
+3514,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3514,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.7
+3515,no_cert,"No certificate, diploma or degree",17.1
+3515,high_school,Secondary (high) school diploma or equivalency certificate,28.9
+3515,app_trade,Apprenticeship or trades certificate or diploma,8
+3515,college_degep,"College, CEGEP or other non-university certificate or diploma",26.1
+3515,uni_below_bach,University certificate or diploma below bachelor level,1.6
+3515,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",18.3
+3516,no_cert,"No certificate, diploma or degree",20.6
+3516,high_school,Secondary (high) school diploma or equivalency certificate,32
+3516,app_trade,Apprenticeship or trades certificate or diploma,9.8
+3516,college_degep,"College, CEGEP or other non-university certificate or diploma",25.5
+3516,uni_below_bach,University certificate or diploma below bachelor level,1.9
+3516,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.2
+3518,no_cert,"No certificate, diploma or degree",16.2
+3518,high_school,Secondary (high) school diploma or equivalency certificate,29.9
+3518,app_trade,Apprenticeship or trades certificate or diploma,6.6
+3518,college_degep,"College, CEGEP or other non-university certificate or diploma",25.2
+3518,uni_below_bach,University certificate or diploma below bachelor level,2
+3518,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20.2
+3519,no_cert,"No certificate, diploma or degree",16
+3519,high_school,Secondary (high) school diploma or equivalency certificate,25.9
+3519,app_trade,Apprenticeship or trades certificate or diploma,4.4
+3519,college_degep,"College, CEGEP or other non-university certificate or diploma",17.4
+3519,uni_below_bach,University certificate or diploma below bachelor level,2.9
+3519,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",33.3
+3520,no_cert,"No certificate, diploma or degree",16.4
+3520,high_school,Secondary (high) school diploma or equivalency certificate,24.5
+3520,app_trade,Apprenticeship or trades certificate or diploma,4.1
+3520,college_degep,"College, CEGEP or other non-university certificate or diploma",15.8
+3520,uni_below_bach,University certificate or diploma below bachelor level,2.8
+3520,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",36.4
+3521,no_cert,"No certificate, diploma or degree",17.3
+3521,high_school,Secondary (high) school diploma or equivalency certificate,28.1
+3521,app_trade,Apprenticeship or trades certificate or diploma,4.7
+3521,college_degep,"College, CEGEP or other non-university certificate or diploma",18.2
+3521,uni_below_bach,University certificate or diploma below bachelor level,2.7
+3521,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",29.1
+3522,no_cert,"No certificate, diploma or degree",18.4
+3522,high_school,Secondary (high) school diploma or equivalency certificate,32.4
+3522,app_trade,Apprenticeship or trades certificate or diploma,7.4
+3522,college_degep,"College, CEGEP or other non-university certificate or diploma",24.7
+3522,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3522,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.3
+3523,no_cert,"No certificate, diploma or degree",18.4
+3523,high_school,Secondary (high) school diploma or equivalency certificate,28.3
+3523,app_trade,Apprenticeship or trades certificate or diploma,6.4
+3523,college_degep,"College, CEGEP or other non-university certificate or diploma",20.7
+3523,uni_below_bach,University certificate or diploma below bachelor level,2
+3523,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",24.2
+3524,no_cert,"No certificate, diploma or degree",12.4
+3524,high_school,Secondary (high) school diploma or equivalency certificate,24.9
+3524,app_trade,Apprenticeship or trades certificate or diploma,4.6
+3524,college_degep,"College, CEGEP or other non-university certificate or diploma",21
+3524,uni_below_bach,University certificate or diploma below bachelor level,2.5
+3524,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",34.6
+3525,no_cert,"No certificate, diploma or degree",19.9
+3525,high_school,Secondary (high) school diploma or equivalency certificate,28.4
+3525,app_trade,Apprenticeship or trades certificate or diploma,6.9
+3525,college_degep,"College, CEGEP or other non-university certificate or diploma",22.5
+3525,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3525,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20.4
+3526,no_cert,"No certificate, diploma or degree",18.2
+3526,high_school,Secondary (high) school diploma or equivalency certificate,31.2
+3526,app_trade,Apprenticeship or trades certificate or diploma,8.2
+3526,college_degep,"College, CEGEP or other non-university certificate or diploma",23.7
+3526,uni_below_bach,University certificate or diploma below bachelor level,1.7
+3526,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17
+3528,no_cert,"No certificate, diploma or degree",22.8
+3528,high_school,Secondary (high) school diploma or equivalency certificate,30.8
+3528,app_trade,Apprenticeship or trades certificate or diploma,9.8
+3528,college_degep,"College, CEGEP or other non-university certificate or diploma",24.8
+3528,uni_below_bach,University certificate or diploma below bachelor level,1.5
+3528,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.3
+3529,no_cert,"No certificate, diploma or degree",20.7
+3529,high_school,Secondary (high) school diploma or equivalency certificate,31.2
+3529,app_trade,Apprenticeship or trades certificate or diploma,7.7
+3529,college_degep,"College, CEGEP or other non-university certificate or diploma",24.9
+3529,uni_below_bach,University certificate or diploma below bachelor level,1.4
+3529,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14
+3530,no_cert,"No certificate, diploma or degree",18.7
+3530,high_school,Secondary (high) school diploma or equivalency certificate,28.8
+3530,app_trade,Apprenticeship or trades certificate or diploma,6.3
+3530,college_degep,"College, CEGEP or other non-university certificate or diploma",21.1
+3530,uni_below_bach,University certificate or diploma below bachelor level,1.7
+3530,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",23.4
+3531,no_cert,"No certificate, diploma or degree",23.9
+3531,high_school,Secondary (high) school diploma or equivalency certificate,30.9
+3531,app_trade,Apprenticeship or trades certificate or diploma,7.7
+3531,college_degep,"College, CEGEP or other non-university certificate or diploma",22.2
+3531,uni_below_bach,University certificate or diploma below bachelor level,1.7
+3531,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.6
+3532,no_cert,"No certificate, diploma or degree",23.5
+3532,high_school,Secondary (high) school diploma or equivalency certificate,31.3
+3532,app_trade,Apprenticeship or trades certificate or diploma,7.8
+3532,college_degep,"College, CEGEP or other non-university certificate or diploma",24.6
+3532,uni_below_bach,University certificate or diploma below bachelor level,1.4
+3532,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.4
+3534,no_cert,"No certificate, diploma or degree",25.1
+3534,high_school,Secondary (high) school diploma or equivalency certificate,29.4
+3534,app_trade,Apprenticeship or trades certificate or diploma,7.9
+3534,college_degep,"College, CEGEP or other non-university certificate or diploma",26
+3534,uni_below_bach,University certificate or diploma below bachelor level,1.3
+3534,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.3
+3536,no_cert,"No certificate, diploma or degree",24.1
+3536,high_school,Secondary (high) school diploma or equivalency certificate,30.1
+3536,app_trade,Apprenticeship or trades certificate or diploma,7.5
+3536,college_degep,"College, CEGEP or other non-university certificate or diploma",25.8
+3536,uni_below_bach,University certificate or diploma below bachelor level,1.3
+3536,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.3
+3537,no_cert,"No certificate, diploma or degree",19.1
+3537,high_school,Secondary (high) school diploma or equivalency certificate,31
+3537,app_trade,Apprenticeship or trades certificate or diploma,6.7
+3537,college_degep,"College, CEGEP or other non-university certificate or diploma",21.7
+3537,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3537,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19.7
+3538,no_cert,"No certificate, diploma or degree",16.8
+3538,high_school,Secondary (high) school diploma or equivalency certificate,29.4
+3538,app_trade,Apprenticeship or trades certificate or diploma,10.5
+3538,college_degep,"College, CEGEP or other non-university certificate or diploma",27.9
+3538,uni_below_bach,University certificate or diploma below bachelor level,1.3
+3538,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.1
+3539,no_cert,"No certificate, diploma or degree",16.8
+3539,high_school,Secondary (high) school diploma or equivalency certificate,27.9
+3539,app_trade,Apprenticeship or trades certificate or diploma,6.1
+3539,college_degep,"College, CEGEP or other non-university certificate or diploma",23.6
+3539,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3539,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",23.9
+3540,no_cert,"No certificate, diploma or degree",24.5
+3540,high_school,Secondary (high) school diploma or equivalency certificate,28.8
+3540,app_trade,Apprenticeship or trades certificate or diploma,9.6
+3540,college_degep,"College, CEGEP or other non-university certificate or diploma",24.3
+3540,uni_below_bach,University certificate or diploma below bachelor level,1.7
+3540,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+3541,no_cert,"No certificate, diploma or degree",19.8
+3541,high_school,Secondary (high) school diploma or equivalency certificate,26.6
+3541,app_trade,Apprenticeship or trades certificate or diploma,10.7
+3541,college_degep,"College, CEGEP or other non-university certificate or diploma",26.2
+3541,uni_below_bach,University certificate or diploma below bachelor level,2.2
+3541,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.5
+3542,no_cert,"No certificate, diploma or degree",22.3
+3542,high_school,Secondary (high) school diploma or equivalency certificate,28.7
+3542,app_trade,Apprenticeship or trades certificate or diploma,8.7
+3542,college_degep,"College, CEGEP or other non-university certificate or diploma",23.4
+3542,uni_below_bach,University certificate or diploma below bachelor level,1.9
+3542,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.9
+3543,no_cert,"No certificate, diploma or degree",19.1
+3543,high_school,Secondary (high) school diploma or equivalency certificate,30.9
+3543,app_trade,Apprenticeship or trades certificate or diploma,7.9
+3543,college_degep,"College, CEGEP or other non-university certificate or diploma",24.9
+3543,uni_below_bach,University certificate or diploma below bachelor level,1.7
+3543,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.5
+3544,no_cert,"No certificate, diploma or degree",17.9
+3544,high_school,Secondary (high) school diploma or equivalency certificate,30.5
+3544,app_trade,Apprenticeship or trades certificate or diploma,9.3
+3544,college_degep,"College, CEGEP or other non-university certificate or diploma",23.4
+3544,uni_below_bach,University certificate or diploma below bachelor level,1.9
+3544,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17
+3546,no_cert,"No certificate, diploma or degree",21.4
+3546,high_school,Secondary (high) school diploma or equivalency certificate,27.9
+3546,app_trade,Apprenticeship or trades certificate or diploma,10.6
+3546,college_degep,"College, CEGEP or other non-university certificate or diploma",23.5
+3546,uni_below_bach,University certificate or diploma below bachelor level,2.2
+3546,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.3
+3547,no_cert,"No certificate, diploma or degree",18.9
+3547,high_school,Secondary (high) school diploma or equivalency certificate,31.1
+3547,app_trade,Apprenticeship or trades certificate or diploma,8.9
+3547,college_degep,"College, CEGEP or other non-university certificate or diploma",25.6
+3547,uni_below_bach,University certificate or diploma below bachelor level,1.6
+3547,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.9
+3548,no_cert,"No certificate, diploma or degree",21.3
+3548,high_school,Secondary (high) school diploma or equivalency certificate,25.9
+3548,app_trade,Apprenticeship or trades certificate or diploma,8.9
+3548,college_degep,"College, CEGEP or other non-university certificate or diploma",27.7
+3548,uni_below_bach,University certificate or diploma below bachelor level,1.4
+3548,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.8
+3549,no_cert,"No certificate, diploma or degree",20.8
+3549,high_school,Secondary (high) school diploma or equivalency certificate,28.9
+3549,app_trade,Apprenticeship or trades certificate or diploma,11
+3549,college_degep,"College, CEGEP or other non-university certificate or diploma",25
+3549,uni_below_bach,University certificate or diploma below bachelor level,1.8
+3549,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.4
+3551,no_cert,"No certificate, diploma or degree",24.3
+3551,high_school,Secondary (high) school diploma or equivalency certificate,23.9
+3551,app_trade,Apprenticeship or trades certificate or diploma,10.8
+3551,college_degep,"College, CEGEP or other non-university certificate or diploma",24.3
+3551,uni_below_bach,University certificate or diploma below bachelor level,2.7
+3551,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14
+3552,no_cert,"No certificate, diploma or degree",26.6
+3552,high_school,Secondary (high) school diploma or equivalency certificate,27.1
+3552,app_trade,Apprenticeship or trades certificate or diploma,11.2
+3552,college_degep,"College, CEGEP or other non-university certificate or diploma",24.3
+3552,uni_below_bach,University certificate or diploma below bachelor level,1.3
+3552,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.5
+3553,no_cert,"No certificate, diploma or degree",19.9
+3553,high_school,Secondary (high) school diploma or equivalency certificate,26.2
+3553,app_trade,Apprenticeship or trades certificate or diploma,8.3
+3553,college_degep,"College, CEGEP or other non-university certificate or diploma",27.5
+3553,uni_below_bach,University certificate or diploma below bachelor level,1.2
+3553,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17
+3554,no_cert,"No certificate, diploma or degree",27.5
+3554,high_school,Secondary (high) school diploma or equivalency certificate,25.4
+3554,app_trade,Apprenticeship or trades certificate or diploma,9.7
+3554,college_degep,"College, CEGEP or other non-university certificate or diploma",26.1
+3554,uni_below_bach,University certificate or diploma below bachelor level,1.5
+3554,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.7
+3556,no_cert,"No certificate, diploma or degree",27.6
+3556,high_school,Secondary (high) school diploma or equivalency certificate,25.7
+3556,app_trade,Apprenticeship or trades certificate or diploma,10
+3556,college_degep,"College, CEGEP or other non-university certificate or diploma",25
+3556,uni_below_bach,University certificate or diploma below bachelor level,1.5
+3556,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.2
+3557,no_cert,"No certificate, diploma or degree",21.1
+3557,high_school,Secondary (high) school diploma or equivalency certificate,29
+3557,app_trade,Apprenticeship or trades certificate or diploma,9
+3557,college_degep,"College, CEGEP or other non-university certificate or diploma",24.3
+3557,uni_below_bach,University certificate or diploma below bachelor level,1.6
+3557,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15
+3558,no_cert,"No certificate, diploma or degree",21.2
+3558,high_school,Secondary (high) school diploma or equivalency certificate,25.9
+3558,app_trade,Apprenticeship or trades certificate or diploma,8.9
+3558,college_degep,"College, CEGEP or other non-university certificate or diploma",24.1
+3558,uni_below_bach,University certificate or diploma below bachelor level,1.9
+3558,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",18
+3559,no_cert,"No certificate, diploma or degree",24.4
+3559,high_school,Secondary (high) school diploma or equivalency certificate,29.1
+3559,app_trade,Apprenticeship or trades certificate or diploma,10.1
+3559,college_degep,"College, CEGEP or other non-university certificate or diploma",23
+3559,uni_below_bach,University certificate or diploma below bachelor level,1.9
+3559,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.5
+3560,no_cert,"No certificate, diploma or degree",35.2
+3560,high_school,Secondary (high) school diploma or equivalency certificate,24.3
+3560,app_trade,Apprenticeship or trades certificate or diploma,8.8
+3560,college_degep,"College, CEGEP or other non-university certificate or diploma",18.8
+3560,uni_below_bach,University certificate or diploma below bachelor level,2
+3560,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.9
+4601,no_cert,"No certificate, diploma or degree",26.9
+4601,high_school,Secondary (high) school diploma or equivalency certificate,27.9
+4601,app_trade,Apprenticeship or trades certificate or diploma,11.9
+4601,college_degep,"College, CEGEP or other non-university certificate or diploma",18.6
+4601,uni_below_bach,University certificate or diploma below bachelor level,2.8
+4601,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.8
+4602,no_cert,"No certificate, diploma or degree",27
+4602,high_school,Secondary (high) school diploma or equivalency certificate,31.3
+4602,app_trade,Apprenticeship or trades certificate or diploma,9.7
+4602,college_degep,"College, CEGEP or other non-university certificate or diploma",17.5
+4602,uni_below_bach,University certificate or diploma below bachelor level,2.7
+4602,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+4603,no_cert,"No certificate, diploma or degree",35.2
+4603,high_school,Secondary (high) school diploma or equivalency certificate,29.1
+4603,app_trade,Apprenticeship or trades certificate or diploma,7.5
+4603,college_degep,"College, CEGEP or other non-university certificate or diploma",14.7
+4603,uni_below_bach,University certificate or diploma below bachelor level,3
+4603,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+4604,no_cert,"No certificate, diploma or degree",27.1
+4604,high_school,Secondary (high) school diploma or equivalency certificate,29.2
+4604,app_trade,Apprenticeship or trades certificate or diploma,9.5
+4604,college_degep,"College, CEGEP or other non-university certificate or diploma",19.8
+4604,uni_below_bach,University certificate or diploma below bachelor level,5.2
+4604,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.2
+4605,no_cert,"No certificate, diploma or degree",24.9
+4605,high_school,Secondary (high) school diploma or equivalency certificate,29.5
+4605,app_trade,Apprenticeship or trades certificate or diploma,9.9
+4605,college_degep,"College, CEGEP or other non-university certificate or diploma",21.6
+4605,uni_below_bach,University certificate or diploma below bachelor level,3.7
+4605,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.4
+4606,no_cert,"No certificate, diploma or degree",28.5
+4606,high_school,Secondary (high) school diploma or equivalency certificate,30.5
+4606,app_trade,Apprenticeship or trades certificate or diploma,8.9
+4606,college_degep,"College, CEGEP or other non-university certificate or diploma",18.5
+4606,uni_below_bach,University certificate or diploma below bachelor level,3.1
+4606,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+4607,no_cert,"No certificate, diploma or degree",19.7
+4607,high_school,Secondary (high) school diploma or equivalency certificate,32
+4607,app_trade,Apprenticeship or trades certificate or diploma,9.1
+4607,college_degep,"College, CEGEP or other non-university certificate or diploma",20.3
+4607,uni_below_bach,University certificate or diploma below bachelor level,2.5
+4607,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",16.5
+4608,no_cert,"No certificate, diploma or degree",38.3
+4608,high_school,Secondary (high) school diploma or equivalency certificate,27.3
+4608,app_trade,Apprenticeship or trades certificate or diploma,7.6
+4608,college_degep,"College, CEGEP or other non-university certificate or diploma",16
+4608,uni_below_bach,University certificate or diploma below bachelor level,3.6
+4608,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7
+4609,no_cert,"No certificate, diploma or degree",28.5
+4609,high_school,Secondary (high) school diploma or equivalency certificate,30.2
+4609,app_trade,Apprenticeship or trades certificate or diploma,8.1
+4609,college_degep,"College, CEGEP or other non-university certificate or diploma",18.6
+4609,uni_below_bach,University certificate or diploma below bachelor level,2.8
+4609,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+4610,no_cert,"No certificate, diploma or degree",15.9
+4610,high_school,Secondary (high) school diploma or equivalency certificate,28.6
+4610,app_trade,Apprenticeship or trades certificate or diploma,10.1
+4610,college_degep,"College, CEGEP or other non-university certificate or diploma",19.2
+4610,uni_below_bach,University certificate or diploma below bachelor level,5.4
+4610,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",20.8
+4611,no_cert,"No certificate, diploma or degree",16.9
+4611,high_school,Secondary (high) school diploma or equivalency certificate,29.9
+4611,app_trade,Apprenticeship or trades certificate or diploma,6.5
+4611,college_degep,"College, CEGEP or other non-university certificate or diploma",17.8
+4611,uni_below_bach,University certificate or diploma below bachelor level,2.8
+4611,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",26.1
+4612,no_cert,"No certificate, diploma or degree",19.1
+4612,high_school,Secondary (high) school diploma or equivalency certificate,30.1
+4612,app_trade,Apprenticeship or trades certificate or diploma,11.8
+4612,college_degep,"College, CEGEP or other non-university certificate or diploma",20.6
+4612,uni_below_bach,University certificate or diploma below bachelor level,3.5
+4612,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.9
+4613,no_cert,"No certificate, diploma or degree",18.6
+4613,high_school,Secondary (high) school diploma or equivalency certificate,31.2
+4613,app_trade,Apprenticeship or trades certificate or diploma,10.2
+4613,college_degep,"College, CEGEP or other non-university certificate or diploma",21.1
+4613,uni_below_bach,University certificate or diploma below bachelor level,2.9
+4613,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",16
+4614,no_cert,"No certificate, diploma or degree",19.5
+4614,high_school,Secondary (high) school diploma or equivalency certificate,33
+4614,app_trade,Apprenticeship or trades certificate or diploma,11.8
+4614,college_degep,"College, CEGEP or other non-university certificate or diploma",20.1
+4614,uni_below_bach,University certificate or diploma below bachelor level,4
+4614,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.5
+4615,no_cert,"No certificate, diploma or degree",24
+4615,high_school,Secondary (high) school diploma or equivalency certificate,30.1
+4615,app_trade,Apprenticeship or trades certificate or diploma,10.5
+4615,college_degep,"College, CEGEP or other non-university certificate or diploma",19.2
+4615,uni_below_bach,University certificate or diploma below bachelor level,4.7
+4615,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.4
+4616,no_cert,"No certificate, diploma or degree",34.1
+4616,high_school,Secondary (high) school diploma or equivalency certificate,27.8
+4616,app_trade,Apprenticeship or trades certificate or diploma,10
+4616,college_degep,"College, CEGEP or other non-university certificate or diploma",16.9
+4616,uni_below_bach,University certificate or diploma below bachelor level,3
+4616,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.2
+4617,no_cert,"No certificate, diploma or degree",31.8
+4617,high_school,Secondary (high) school diploma or equivalency certificate,28.1
+4617,app_trade,Apprenticeship or trades certificate or diploma,8.7
+4617,college_degep,"College, CEGEP or other non-university certificate or diploma",18.5
+4617,uni_below_bach,University certificate or diploma below bachelor level,2.9
+4617,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10
+4618,no_cert,"No certificate, diploma or degree",32
+4618,high_school,Secondary (high) school diploma or equivalency certificate,28.7
+4618,app_trade,Apprenticeship or trades certificate or diploma,9.9
+4618,college_degep,"College, CEGEP or other non-university certificate or diploma",16
+4618,uni_below_bach,University certificate or diploma below bachelor level,3.7
+4618,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.6
+4619,no_cert,"No certificate, diploma or degree",55.2
+4619,high_school,Secondary (high) school diploma or equivalency certificate,21.5
+4619,app_trade,Apprenticeship or trades certificate or diploma,5.9
+4619,college_degep,"College, CEGEP or other non-university certificate or diploma",9.9
+4619,uni_below_bach,University certificate or diploma below bachelor level,2.4
+4619,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",5.1
+4620,no_cert,"No certificate, diploma or degree",31.2
+4620,high_school,Secondary (high) school diploma or equivalency certificate,29.6
+4620,app_trade,Apprenticeship or trades certificate or diploma,9.3
+4620,college_degep,"College, CEGEP or other non-university certificate or diploma",19.3
+4620,uni_below_bach,University certificate or diploma below bachelor level,2.4
+4620,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.2
+4621,no_cert,"No certificate, diploma or degree",31.9
+4621,high_school,Secondary (high) school diploma or equivalency certificate,25.8
+4621,app_trade,Apprenticeship or trades certificate or diploma,9.3
+4621,college_degep,"College, CEGEP or other non-university certificate or diploma",18.4
+4621,uni_below_bach,University certificate or diploma below bachelor level,2.9
+4621,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.6
+4622,no_cert,"No certificate, diploma or degree",49.4
+4622,high_school,Secondary (high) school diploma or equivalency certificate,22.9
+4622,app_trade,Apprenticeship or trades certificate or diploma,6.4
+4622,college_degep,"College, CEGEP or other non-university certificate or diploma",10.3
+4622,uni_below_bach,University certificate or diploma below bachelor level,2.5
+4622,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.6
+4623,no_cert,"No certificate, diploma or degree",54.3
+4623,high_school,Secondary (high) school diploma or equivalency certificate,19.4
+4623,app_trade,Apprenticeship or trades certificate or diploma,8.3
+4623,college_degep,"College, CEGEP or other non-university certificate or diploma",9.2
+4623,uni_below_bach,University certificate or diploma below bachelor level,2
+4623,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",6.7
+4701,no_cert,"No certificate, diploma or degree",23.3
+4701,high_school,Secondary (high) school diploma or equivalency certificate,35.2
+4701,app_trade,Apprenticeship or trades certificate or diploma,13
+4701,college_degep,"College, CEGEP or other non-university certificate or diploma",16
+4701,uni_below_bach,University certificate or diploma below bachelor level,2.5
+4701,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10
+4702,no_cert,"No certificate, diploma or degree",21.8
+4702,high_school,Secondary (high) school diploma or equivalency certificate,33.7
+4702,app_trade,Apprenticeship or trades certificate or diploma,12.6
+4702,college_degep,"College, CEGEP or other non-university certificate or diploma",16.9
+4702,uni_below_bach,University certificate or diploma below bachelor level,3.5
+4702,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.5
+4703,no_cert,"No certificate, diploma or degree",24.8
+4703,high_school,Secondary (high) school diploma or equivalency certificate,32.3
+4703,app_trade,Apprenticeship or trades certificate or diploma,11.8
+4703,college_degep,"College, CEGEP or other non-university certificate or diploma",17.3
+4703,uni_below_bach,University certificate or diploma below bachelor level,5.2
+4703,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.7
+4704,no_cert,"No certificate, diploma or degree",23
+4704,high_school,Secondary (high) school diploma or equivalency certificate,31.8
+4704,app_trade,Apprenticeship or trades certificate or diploma,10.4
+4704,college_degep,"College, CEGEP or other non-university certificate or diploma",17.9
+4704,uni_below_bach,University certificate or diploma below bachelor level,4.7
+4704,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.2
+4705,no_cert,"No certificate, diploma or degree",24.5
+4705,high_school,Secondary (high) school diploma or equivalency certificate,31
+4705,app_trade,Apprenticeship or trades certificate or diploma,13.4
+4705,college_degep,"College, CEGEP or other non-university certificate or diploma",17.9
+4705,uni_below_bach,University certificate or diploma below bachelor level,3.6
+4705,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.8
+4706,no_cert,"No certificate, diploma or degree",15.8
+4706,high_school,Secondary (high) school diploma or equivalency certificate,31.9
+4706,app_trade,Apprenticeship or trades certificate or diploma,9.3
+4706,college_degep,"College, CEGEP or other non-university certificate or diploma",15.9
+4706,uni_below_bach,University certificate or diploma below bachelor level,3.8
+4706,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",23.3
+4707,no_cert,"No certificate, diploma or degree",20.6
+4707,high_school,Secondary (high) school diploma or equivalency certificate,32.1
+4707,app_trade,Apprenticeship or trades certificate or diploma,12.3
+4707,college_degep,"College, CEGEP or other non-university certificate or diploma",19.1
+4707,uni_below_bach,University certificate or diploma below bachelor level,2.9
+4707,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.8
+4708,no_cert,"No certificate, diploma or degree",20.4
+4708,high_school,Secondary (high) school diploma or equivalency certificate,33
+4708,app_trade,Apprenticeship or trades certificate or diploma,11.3
+4708,college_degep,"College, CEGEP or other non-university certificate or diploma",19.6
+4708,uni_below_bach,University certificate or diploma below bachelor level,3.3
+4708,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.5
+4709,no_cert,"No certificate, diploma or degree",26.4
+4709,high_school,Secondary (high) school diploma or equivalency certificate,31.8
+4709,app_trade,Apprenticeship or trades certificate or diploma,10.7
+4709,college_degep,"College, CEGEP or other non-university certificate or diploma",16.9
+4709,uni_below_bach,University certificate or diploma below bachelor level,2.9
+4709,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.2
+4710,no_cert,"No certificate, diploma or degree",29.8
+4710,high_school,Secondary (high) school diploma or equivalency certificate,30.5
+4710,app_trade,Apprenticeship or trades certificate or diploma,12.4
+4710,college_degep,"College, CEGEP or other non-university certificate or diploma",15.9
+4710,uni_below_bach,University certificate or diploma below bachelor level,3.2
+4710,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.3
+4711,no_cert,"No certificate, diploma or degree",15
+4711,high_school,Secondary (high) school diploma or equivalency certificate,29.4
+4711,app_trade,Apprenticeship or trades certificate or diploma,9.3
+4711,college_degep,"College, CEGEP or other non-university certificate or diploma",17.8
+4711,uni_below_bach,University certificate or diploma below bachelor level,3
+4711,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",25.5
+4712,no_cert,"No certificate, diploma or degree",23.9
+4712,high_school,Secondary (high) school diploma or equivalency certificate,29.2
+4712,app_trade,Apprenticeship or trades certificate or diploma,12.9
+4712,college_degep,"College, CEGEP or other non-university certificate or diploma",19
+4712,uni_below_bach,University certificate or diploma below bachelor level,4
+4712,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+4713,no_cert,"No certificate, diploma or degree",23.8
+4713,high_school,Secondary (high) school diploma or equivalency certificate,31
+4713,app_trade,Apprenticeship or trades certificate or diploma,11.9
+4713,college_degep,"College, CEGEP or other non-university certificate or diploma",20
+4713,uni_below_bach,University certificate or diploma below bachelor level,3.7
+4713,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.5
+4714,no_cert,"No certificate, diploma or degree",28.4
+4714,high_school,Secondary (high) school diploma or equivalency certificate,29.5
+4714,app_trade,Apprenticeship or trades certificate or diploma,11.4
+4714,college_degep,"College, CEGEP or other non-university certificate or diploma",17.1
+4714,uni_below_bach,University certificate or diploma below bachelor level,3.7
+4714,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.9
+4715,no_cert,"No certificate, diploma or degree",24.3
+4715,high_school,Secondary (high) school diploma or equivalency certificate,29.8
+4715,app_trade,Apprenticeship or trades certificate or diploma,11.8
+4715,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+4715,uni_below_bach,University certificate or diploma below bachelor level,3
+4715,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13
+4716,no_cert,"No certificate, diploma or degree",29.9
+4716,high_school,Secondary (high) school diploma or equivalency certificate,28.7
+4716,app_trade,Apprenticeship or trades certificate or diploma,10.8
+4716,college_degep,"College, CEGEP or other non-university certificate or diploma",15.8
+4716,uni_below_bach,University certificate or diploma below bachelor level,3.6
+4716,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.1
+4717,no_cert,"No certificate, diploma or degree",27.9
+4717,high_school,Secondary (high) school diploma or equivalency certificate,29.3
+4717,app_trade,Apprenticeship or trades certificate or diploma,11.6
+4717,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+4717,uni_below_bach,University certificate or diploma below bachelor level,3.1
+4717,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.1
+4718,no_cert,"No certificate, diploma or degree",50.9
+4718,high_school,Secondary (high) school diploma or equivalency certificate,20.6
+4718,app_trade,Apprenticeship or trades certificate or diploma,8.2
+4718,college_degep,"College, CEGEP or other non-university certificate or diploma",11.1
+4718,uni_below_bach,University certificate or diploma below bachelor level,1.9
+4718,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.4
+4801,no_cert,"No certificate, diploma or degree",22.1
+4801,high_school,Secondary (high) school diploma or equivalency certificate,31
+4801,app_trade,Apprenticeship or trades certificate or diploma,11
+4801,college_degep,"College, CEGEP or other non-university certificate or diploma",21.9
+4801,uni_below_bach,University certificate or diploma below bachelor level,2.1
+4801,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+4802,no_cert,"No certificate, diploma or degree",21.7
+4802,high_school,Secondary (high) school diploma or equivalency certificate,31
+4802,app_trade,Apprenticeship or trades certificate or diploma,9.6
+4802,college_degep,"College, CEGEP or other non-university certificate or diploma",19.8
+4802,uni_below_bach,University certificate or diploma below bachelor level,1.8
+4802,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",16.1
+4803,no_cert,"No certificate, diploma or degree",22.9
+4803,high_school,Secondary (high) school diploma or equivalency certificate,28.4
+4803,app_trade,Apprenticeship or trades certificate or diploma,11.8
+4803,college_degep,"College, CEGEP or other non-university certificate or diploma",20.8
+4803,uni_below_bach,University certificate or diploma below bachelor level,2.9
+4803,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.1
+4804,no_cert,"No certificate, diploma or degree",21.5
+4804,high_school,Secondary (high) school diploma or equivalency certificate,32
+4804,app_trade,Apprenticeship or trades certificate or diploma,12.6
+4804,college_degep,"College, CEGEP or other non-university certificate or diploma",24.5
+4804,uni_below_bach,University certificate or diploma below bachelor level,1.8
+4804,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.8
+4805,no_cert,"No certificate, diploma or degree",22.3
+4805,high_school,Secondary (high) school diploma or equivalency certificate,30.6
+4805,app_trade,Apprenticeship or trades certificate or diploma,12.7
+4805,college_degep,"College, CEGEP or other non-university certificate or diploma",21.1
+4805,uni_below_bach,University certificate or diploma below bachelor level,2.4
+4805,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11
+4806,no_cert,"No certificate, diploma or degree",13.7
+4806,high_school,Secondary (high) school diploma or equivalency certificate,26.3
+4806,app_trade,Apprenticeship or trades certificate or diploma,7.3
+4806,college_degep,"College, CEGEP or other non-university certificate or diploma",18.5
+4806,uni_below_bach,University certificate or diploma below bachelor level,3.2
+4806,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",31
+4807,no_cert,"No certificate, diploma or degree",21.7
+4807,high_school,Secondary (high) school diploma or equivalency certificate,32.3
+4807,app_trade,Apprenticeship or trades certificate or diploma,13.9
+4807,college_degep,"College, CEGEP or other non-university certificate or diploma",20.6
+4807,uni_below_bach,University certificate or diploma below bachelor level,2.2
+4807,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.3
+4808,no_cert,"No certificate, diploma or degree",19.3
+4808,high_school,Secondary (high) school diploma or equivalency certificate,30.8
+4808,app_trade,Apprenticeship or trades certificate or diploma,12.8
+4808,college_degep,"College, CEGEP or other non-university certificate or diploma",21.2
+4808,uni_below_bach,University certificate or diploma below bachelor level,2.7
+4808,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.3
+4809,no_cert,"No certificate, diploma or degree",27.2
+4809,high_school,Secondary (high) school diploma or equivalency certificate,28.8
+4809,app_trade,Apprenticeship or trades certificate or diploma,14.9
+4809,college_degep,"College, CEGEP or other non-university certificate or diploma",18.1
+4809,uni_below_bach,University certificate or diploma below bachelor level,2.2
+4809,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.8
+4810,no_cert,"No certificate, diploma or degree",22.5
+4810,high_school,Secondary (high) school diploma or equivalency certificate,28.8
+4810,app_trade,Apprenticeship or trades certificate or diploma,13.3
+4810,college_degep,"College, CEGEP or other non-university certificate or diploma",20.6
+4810,uni_below_bach,University certificate or diploma below bachelor level,2.5
+4810,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.2
+4811,no_cert,"No certificate, diploma or degree",15.8
+4811,high_school,Secondary (high) school diploma or equivalency certificate,28.1
+4811,app_trade,Apprenticeship or trades certificate or diploma,10
+4811,college_degep,"College, CEGEP or other non-university certificate or diploma",19.2
+4811,uni_below_bach,University certificate or diploma below bachelor level,3.2
+4811,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",23.8
+4812,no_cert,"No certificate, diploma or degree",23.6
+4812,high_school,Secondary (high) school diploma or equivalency certificate,27.8
+4812,app_trade,Apprenticeship or trades certificate or diploma,14.4
+4812,college_degep,"College, CEGEP or other non-university certificate or diploma",20.7
+4812,uni_below_bach,University certificate or diploma below bachelor level,2.6
+4812,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.9
+4813,no_cert,"No certificate, diploma or degree",24.9
+4813,high_school,Secondary (high) school diploma or equivalency certificate,31.2
+4813,app_trade,Apprenticeship or trades certificate or diploma,15.1
+4813,college_degep,"College, CEGEP or other non-university certificate or diploma",17.9
+4813,uni_below_bach,University certificate or diploma below bachelor level,2.4
+4813,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.5
+4814,no_cert,"No certificate, diploma or degree",25.5
+4814,high_school,Secondary (high) school diploma or equivalency certificate,31.6
+4814,app_trade,Apprenticeship or trades certificate or diploma,13.8
+4814,college_degep,"College, CEGEP or other non-university certificate or diploma",16.5
+4814,uni_below_bach,University certificate or diploma below bachelor level,2.1
+4814,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.5
+4815,no_cert,"No certificate, diploma or degree",14.8
+4815,high_school,Secondary (high) school diploma or equivalency certificate,25.1
+4815,app_trade,Apprenticeship or trades certificate or diploma,9.4
+4815,college_degep,"College, CEGEP or other non-university certificate or diploma",20.2
+4815,uni_below_bach,University certificate or diploma below bachelor level,3.3
+4815,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",27.3
+4816,no_cert,"No certificate, diploma or degree",12.1
+4816,high_school,Secondary (high) school diploma or equivalency certificate,29.2
+4816,app_trade,Apprenticeship or trades certificate or diploma,14.1
+4816,college_degep,"College, CEGEP or other non-university certificate or diploma",23
+4816,uni_below_bach,University certificate or diploma below bachelor level,2.6
+4816,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19
+4817,no_cert,"No certificate, diploma or degree",43.1
+4817,high_school,Secondary (high) school diploma or equivalency certificate,22.8
+4817,app_trade,Apprenticeship or trades certificate or diploma,9.5
+4817,college_degep,"College, CEGEP or other non-university certificate or diploma",14.2
+4817,uni_below_bach,University certificate or diploma below bachelor level,2.3
+4817,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8
+4818,no_cert,"No certificate, diploma or degree",29.8
+4818,high_school,Secondary (high) school diploma or equivalency certificate,28.7
+4818,app_trade,Apprenticeship or trades certificate or diploma,14.8
+4818,college_degep,"College, CEGEP or other non-university certificate or diploma",17.7
+4818,uni_below_bach,University certificate or diploma below bachelor level,2
+4818,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7
+4819,no_cert,"No certificate, diploma or degree",22.7
+4819,high_school,Secondary (high) school diploma or equivalency certificate,31
+4819,app_trade,Apprenticeship or trades certificate or diploma,12.4
+4819,college_degep,"College, CEGEP or other non-university certificate or diploma",19.7
+4819,uni_below_bach,University certificate or diploma below bachelor level,2.3
+4819,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+5901,no_cert,"No certificate, diploma or degree",15.8
+5901,high_school,Secondary (high) school diploma or equivalency certificate,29.7
+5901,app_trade,Apprenticeship or trades certificate or diploma,14.2
+5901,college_degep,"College, CEGEP or other non-university certificate or diploma",22.1
+5901,uni_below_bach,University certificate or diploma below bachelor level,3
+5901,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.2
+5903,no_cert,"No certificate, diploma or degree",17.1
+5903,high_school,Secondary (high) school diploma or equivalency certificate,27.4
+5903,app_trade,Apprenticeship or trades certificate or diploma,12.9
+5903,college_degep,"College, CEGEP or other non-university certificate or diploma",22.9
+5903,uni_below_bach,University certificate or diploma below bachelor level,3.1
+5903,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",16.7
+5905,no_cert,"No certificate, diploma or degree",17.8
+5905,high_school,Secondary (high) school diploma or equivalency certificate,28.3
+5905,app_trade,Apprenticeship or trades certificate or diploma,14.8
+5905,college_degep,"College, CEGEP or other non-university certificate or diploma",22.8
+5905,uni_below_bach,University certificate or diploma below bachelor level,3.1
+5905,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.2
+5907,no_cert,"No certificate, diploma or degree",18.8
+5907,high_school,Secondary (high) school diploma or equivalency certificate,30.2
+5907,app_trade,Apprenticeship or trades certificate or diploma,12.5
+5907,college_degep,"College, CEGEP or other non-university certificate or diploma",21.4
+5907,uni_below_bach,University certificate or diploma below bachelor level,3.1
+5907,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14
+5909,no_cert,"No certificate, diploma or degree",20.8
+5909,high_school,Secondary (high) school diploma or equivalency certificate,33.9
+5909,app_trade,Apprenticeship or trades certificate or diploma,10.2
+5909,college_degep,"College, CEGEP or other non-university certificate or diploma",17.1
+5909,uni_below_bach,University certificate or diploma below bachelor level,4.2
+5909,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.7
+5915,no_cert,"No certificate, diploma or degree",13.9
+5915,high_school,Secondary (high) school diploma or equivalency certificate,28.6
+5915,app_trade,Apprenticeship or trades certificate or diploma,6.4
+5915,college_degep,"College, CEGEP or other non-university certificate or diploma",16.7
+5915,uni_below_bach,University certificate or diploma below bachelor level,3.8
+5915,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",30.6
+5917,no_cert,"No certificate, diploma or degree",11.9
+5917,high_school,Secondary (high) school diploma or equivalency certificate,28.3
+5917,app_trade,Apprenticeship or trades certificate or diploma,8.1
+5917,college_degep,"College, CEGEP or other non-university certificate or diploma",19.4
+5917,uni_below_bach,University certificate or diploma below bachelor level,2.9
+5917,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",29.4
+5919,no_cert,"No certificate, diploma or degree",18.1
+5919,high_school,Secondary (high) school diploma or equivalency certificate,29
+5919,app_trade,Apprenticeship or trades certificate or diploma,12.5
+5919,college_degep,"College, CEGEP or other non-university certificate or diploma",20.5
+5919,uni_below_bach,University certificate or diploma below bachelor level,4
+5919,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.9
+5921,no_cert,"No certificate, diploma or degree",14.7
+5921,high_school,Secondary (high) school diploma or equivalency certificate,30
+5921,app_trade,Apprenticeship or trades certificate or diploma,11.3
+5921,college_degep,"College, CEGEP or other non-university certificate or diploma",20.5
+5921,uni_below_bach,University certificate or diploma below bachelor level,4.4
+5921,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19.2
+5923,no_cert,"No certificate, diploma or degree",24.1
+5923,high_school,Secondary (high) school diploma or equivalency certificate,29.2
+5923,app_trade,Apprenticeship or trades certificate or diploma,14.1
+5923,college_degep,"College, CEGEP or other non-university certificate or diploma",19.6
+5923,uni_below_bach,University certificate or diploma below bachelor level,3
+5923,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10
+5924,no_cert,"No certificate, diploma or degree",19
+5924,high_school,Secondary (high) school diploma or equivalency certificate,31.1
+5924,app_trade,Apprenticeship or trades certificate or diploma,13
+5924,college_degep,"College, CEGEP or other non-university certificate or diploma",20.8
+5924,uni_below_bach,University certificate or diploma below bachelor level,2.8
+5924,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.2
+5926,no_cert,"No certificate, diploma or degree",15.1
+5926,high_school,Secondary (high) school diploma or equivalency certificate,29.6
+5926,app_trade,Apprenticeship or trades certificate or diploma,12.3
+5926,college_degep,"College, CEGEP or other non-university certificate or diploma",21.3
+5926,uni_below_bach,University certificate or diploma below bachelor level,2.6
+5926,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",19
+5927,no_cert,"No certificate, diploma or degree",19.3
+5927,high_school,Secondary (high) school diploma or equivalency certificate,29.4
+5927,app_trade,Apprenticeship or trades certificate or diploma,14.7
+5927,college_degep,"College, CEGEP or other non-university certificate or diploma",19.5
+5927,uni_below_bach,University certificate or diploma below bachelor level,3.6
+5927,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.5
+5929,no_cert,"No certificate, diploma or degree",14
+5929,high_school,Secondary (high) school diploma or equivalency certificate,29.1
+5929,app_trade,Apprenticeship or trades certificate or diploma,11.7
+5929,college_degep,"College, CEGEP or other non-university certificate or diploma",19.8
+5929,uni_below_bach,University certificate or diploma below bachelor level,3.6
+5929,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",21.8
+5931,no_cert,"No certificate, diploma or degree",11.5
+5931,high_school,Secondary (high) school diploma or equivalency certificate,28
+5931,app_trade,Apprenticeship or trades certificate or diploma,10.2
+5931,college_degep,"College, CEGEP or other non-university certificate or diploma",19.5
+5931,uni_below_bach,University certificate or diploma below bachelor level,4
+5931,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",26.8
+5933,no_cert,"No certificate, diploma or degree",17.7
+5933,high_school,Secondary (high) school diploma or equivalency certificate,31.3
+5933,app_trade,Apprenticeship or trades certificate or diploma,12.6
+5933,college_degep,"College, CEGEP or other non-university certificate or diploma",18.4
+5933,uni_below_bach,University certificate or diploma below bachelor level,4.5
+5933,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",15.4
+5935,no_cert,"No certificate, diploma or degree",14.6
+5935,high_school,Secondary (high) school diploma or equivalency certificate,31.1
+5935,app_trade,Apprenticeship or trades certificate or diploma,10.9
+5935,college_degep,"College, CEGEP or other non-university certificate or diploma",22.6
+5935,uni_below_bach,University certificate or diploma below bachelor level,2.9
+5935,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",17.9
+5937,no_cert,"No certificate, diploma or degree",18.7
+5937,high_school,Secondary (high) school diploma or equivalency certificate,30.9
+5937,app_trade,Apprenticeship or trades certificate or diploma,12.8
+5937,college_degep,"College, CEGEP or other non-university certificate or diploma",21.2
+5937,uni_below_bach,University certificate or diploma below bachelor level,2.8
+5937,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.6
+5939,no_cert,"No certificate, diploma or degree",17.9
+5939,high_school,Secondary (high) school diploma or equivalency certificate,29.7
+5939,app_trade,Apprenticeship or trades certificate or diploma,14.4
+5939,college_degep,"College, CEGEP or other non-university certificate or diploma",20.8
+5939,uni_below_bach,University certificate or diploma below bachelor level,3.6
+5939,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.6
+5941,no_cert,"No certificate, diploma or degree",25.8
+5941,high_school,Secondary (high) school diploma or equivalency certificate,32.4
+5941,app_trade,Apprenticeship or trades certificate or diploma,13
+5941,college_degep,"College, CEGEP or other non-university certificate or diploma",16.3
+5941,uni_below_bach,University certificate or diploma below bachelor level,3.1
+5941,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.4
+5943,no_cert,"No certificate, diploma or degree",28.7
+5943,high_school,Secondary (high) school diploma or equivalency certificate,28.4
+5943,app_trade,Apprenticeship or trades certificate or diploma,12.5
+5943,college_degep,"College, CEGEP or other non-university certificate or diploma",17.2
+5943,uni_below_bach,University certificate or diploma below bachelor level,3.3
+5943,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",9.8
+5945,no_cert,"No certificate, diploma or degree",28.6
+5945,high_school,Secondary (high) school diploma or equivalency certificate,28.6
+5945,app_trade,Apprenticeship or trades certificate or diploma,10
+5945,college_degep,"College, CEGEP or other non-university certificate or diploma",14.6
+5945,uni_below_bach,University certificate or diploma below bachelor level,6.1
+5945,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.5
+5947,no_cert,"No certificate, diploma or degree",28.5
+5947,high_school,Secondary (high) school diploma or equivalency certificate,30.1
+5947,app_trade,Apprenticeship or trades certificate or diploma,12.1
+5947,college_degep,"College, CEGEP or other non-university certificate or diploma",15.9
+5947,uni_below_bach,University certificate or diploma below bachelor level,2.5
+5947,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.9
+5949,no_cert,"No certificate, diploma or degree",25.7
+5949,high_school,Secondary (high) school diploma or equivalency certificate,28
+5949,app_trade,Apprenticeship or trades certificate or diploma,12.6
+5949,college_degep,"College, CEGEP or other non-university certificate or diploma",19.5
+5949,uni_below_bach,University certificate or diploma below bachelor level,2.6
+5949,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.6
+5951,no_cert,"No certificate, diploma or degree",23.9
+5951,high_school,Secondary (high) school diploma or equivalency certificate,31.2
+5951,app_trade,Apprenticeship or trades certificate or diploma,13
+5951,college_degep,"College, CEGEP or other non-university certificate or diploma",17.3
+5951,uni_below_bach,University certificate or diploma below bachelor level,2.7
+5951,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+5953,no_cert,"No certificate, diploma or degree",20.5
+5953,high_school,Secondary (high) school diploma or equivalency certificate,31.9
+5953,app_trade,Apprenticeship or trades certificate or diploma,12.3
+5953,college_degep,"College, CEGEP or other non-university certificate or diploma",18.5
+5953,uni_below_bach,University certificate or diploma below bachelor level,2.2
+5953,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.6
+5955,no_cert,"No certificate, diploma or degree",24.2
+5955,high_school,Secondary (high) school diploma or equivalency certificate,31.2
+5955,app_trade,Apprenticeship or trades certificate or diploma,14.7
+5955,college_degep,"College, CEGEP or other non-university certificate or diploma",17.4
+5955,uni_below_bach,University certificate or diploma below bachelor level,2.3
+5955,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",10.2
+5957,no_cert,"No certificate, diploma or degree",26
+5957,high_school,Secondary (high) school diploma or equivalency certificate,26
+5957,app_trade,Apprenticeship or trades certificate or diploma,10.2
+5957,college_degep,"College, CEGEP or other non-university certificate or diploma",23.6
+5957,uni_below_bach,University certificate or diploma below bachelor level,3.9
+5957,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.8
+5959,no_cert,"No certificate, diploma or degree",26.8
+5959,high_school,Secondary (high) school diploma or equivalency certificate,31
+5959,app_trade,Apprenticeship or trades certificate or diploma,13.4
+5959,college_degep,"College, CEGEP or other non-university certificate or diploma",18.4
+5959,uni_below_bach,University certificate or diploma below bachelor level,2.5
+5959,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.8
+6001,no_cert,"No certificate, diploma or degree",16.3
+6001,high_school,Secondary (high) school diploma or equivalency certificate,23.6
+6001,app_trade,Apprenticeship or trades certificate or diploma,10.9
+6001,college_degep,"College, CEGEP or other non-university certificate or diploma",21.2
+6001,uni_below_bach,University certificate or diploma below bachelor level,2.8
+6001,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",25.1
+6101,no_cert,"No certificate, diploma or degree",41.1
+6101,high_school,Secondary (high) school diploma or equivalency certificate,18.4
+6101,app_trade,Apprenticeship or trades certificate or diploma,9
+6101,college_degep,"College, CEGEP or other non-university certificate or diploma",17.4
+6101,uni_below_bach,University certificate or diploma below bachelor level,1.4
+6101,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",12.6
+6102,no_cert,"No certificate, diploma or degree",41
+6102,high_school,Secondary (high) school diploma or equivalency certificate,18.1
+6102,app_trade,Apprenticeship or trades certificate or diploma,10.2
+6102,college_degep,"College, CEGEP or other non-university certificate or diploma",17.3
+6102,uni_below_bach,University certificate or diploma below bachelor level,1.3
+6102,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",11.9
+6103,no_cert,"No certificate, diploma or degree",59.8
+6103,high_school,Secondary (high) school diploma or equivalency certificate,21.1
+6103,app_trade,Apprenticeship or trades certificate or diploma,4.4
+6103,college_degep,"College, CEGEP or other non-university certificate or diploma",9.3
+6103,uni_below_bach,University certificate or diploma below bachelor level,0.5
+6103,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",5.2
+6104,no_cert,"No certificate, diploma or degree",42.8
+6104,high_school,Secondary (high) school diploma or equivalency certificate,15.9
+6104,app_trade,Apprenticeship or trades certificate or diploma,15.5
+6104,college_degep,"College, CEGEP or other non-university certificate or diploma",15.5
+6104,uni_below_bach,University certificate or diploma below bachelor level,2
+6104,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",8.4
+6105,no_cert,"No certificate, diploma or degree",28.1
+6105,high_school,Secondary (high) school diploma or equivalency certificate,19.6
+6105,app_trade,Apprenticeship or trades certificate or diploma,13.4
+6105,college_degep,"College, CEGEP or other non-university certificate or diploma",21.9
+6105,uni_below_bach,University certificate or diploma below bachelor level,2.2
+6105,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",14.8
+6106,no_cert,"No certificate, diploma or degree",15.1
+6106,high_school,Secondary (high) school diploma or equivalency certificate,24.2
+6106,app_trade,Apprenticeship or trades certificate or diploma,8.5
+6106,college_degep,"College, CEGEP or other non-university certificate or diploma",20.2
+6106,uni_below_bach,University certificate or diploma below bachelor level,3.3
+6106,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",28.6
+6204,no_cert,"No certificate, diploma or degree",46
+6204,high_school,Secondary (high) school diploma or equivalency certificate,16.3
+6204,app_trade,Apprenticeship or trades certificate or diploma,6.4
+6204,college_degep,"College, CEGEP or other non-university certificate or diploma",16.7
+6204,uni_below_bach,University certificate or diploma below bachelor level,1
+6204,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",13.6
+6205,no_cert,"No certificate, diploma or degree",56.2
+6205,high_school,Secondary (high) school diploma or equivalency certificate,15.3
+6205,app_trade,Apprenticeship or trades certificate or diploma,7.8
+6205,college_degep,"College, CEGEP or other non-university certificate or diploma",12.9
+6205,uni_below_bach,University certificate or diploma below bachelor level,0.7
+6205,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.1
+6208,no_cert,"No certificate, diploma or degree",56.2
+6208,high_school,Secondary (high) school diploma or equivalency certificate,11.2
+6208,app_trade,Apprenticeship or trades certificate or diploma,11.3
+6208,college_degep,"College, CEGEP or other non-university certificate or diploma",13.2
+6208,uni_below_bach,University certificate or diploma below bachelor level,0.9
+6208,uni_bac_up,"University certificate, diploma or degree at bachelor level or above",7.2

@@ -1,5 +1,9 @@
 function make_table (data, columns, id){
 
+    console.log("Table for: " + id);
+    console.log(columns);
+    console.log(data);
+
     var headers = columns;
     d3.select('#'+id+'_div').select('table').remove();
 
@@ -38,8 +42,8 @@ function make_table (data, columns, id){
     val_format(rows_grp_enter, columns);
 
     //Add colour series to commute table
-    if (id === "comm_tbl"){
-        make_series();
+    if (id === "comm_tbl" || id === "edu_tbl"){
+        make_series(id);
     }
 
     //Add headers to tables
@@ -60,6 +64,8 @@ function val_format(rows_grp_enter, columns){
                 new_val = ( _.contains(["value", "LMI_value", "PS_value"],column ) ? comafmt(row[column]) : column === "share" ? pctformat(row[column]) : row[column]);
                 //Num formats in specific LMI
                 new_val = ( _.contains(["Participation rate", "Employment rate", "Unemployment rate"],row["indicator"] )&& row[column] === row["value"] ? pctformat(row["value"]) : new_val);
+                //Num formats for whole percentages
+                new_val = ( _.contains(["percent"],column ) ? row[column] + "%" : new_val);
                 return {
                     column: column,
                     value: new_val
@@ -74,18 +80,18 @@ function val_format(rows_grp_enter, columns){
 }
 
 //Function to create colour series label to commute table
-function make_series (){
+function make_series (id){
 
     var color = d3.scaleOrdinal(d3.schemeCategory10);
 
     //Title
-    var sHead = d3.select("#comm_tbl_div").select("thead");
+    var sHead = d3.select("#"+id).select("thead");
 
     sHead.selectAll("tr")
         .append('th');
 
     //Colours
-    var series = d3.select("#comm_tbl_div").select("tbody");
+    var series = d3.select("#"+id).select("tbody");
 
     series.selectAll("tr")
         .append('td')
@@ -103,22 +109,33 @@ function make_headers (table){
     var length = headers.nodes().length;
     var lmi = ["Indicator", "Value"];
     var comm = ["Commute", "Share", ""];
+    var edu = ["Education", "Share", ""];
     var occ = ["National Occupational Classification", "Market Population", "Public Service"];
 
     switch (table){
         case "LMI":
+            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = lmi[i];
             }
             break;
 
         case "comm_tbl":
+            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = comm[i];
             }
             break;
 
+        case "edu_tbl":
+            console.log("Header for: " + table);
+            for (i = 0; i < length; i++) {
+                headers.nodes()[i].innerHTML = edu[i];
+            }
+            break;
+
         case "LMI_PS":
+            console.log("Header for: " + table);
             for (i = 0; i < length; i++) {
                 headers.nodes()[i].innerHTML = occ[i];
             }
