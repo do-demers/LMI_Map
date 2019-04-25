@@ -57,19 +57,21 @@ function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, com
     active = d3.select("path[id='1001']");
 
     g.on("mouseover", function() {
-            d3.select(this)
-                .style("opacity", "0.75")
-        })
+        d3.select(this)
+            .style("opacity", "0.5")
+            .style("stroke", "white")
+            .style("stroke-width", "2");
+    })
         .on("mouseout", function() {
             d3.select(this)
-                .style("opacity", "1.0");
+                .style("opacity", "1.0")
+                .style("stroke", "none");
         });
 
      function clicked(d) {
 
         var cduid = d.properties.CDUID;
 
-        console.log(active.node());
         if (active.node() === this) return reset();
 
         //Remove class and highlight colour from previous active census division

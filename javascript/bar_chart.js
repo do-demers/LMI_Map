@@ -6,7 +6,7 @@ function make_bar(data){
 
     var barX = 10;
 
-    var color = d3.scaleOrdinal(d3.schemeCategory10);
+    var color = ['#c6dbef','#9ecae1','#6baed6','#3182bd','#08519c',"#05294d"];
 
     var svg = d3.select("#edu_bar")
         .append("svg")
@@ -36,7 +36,7 @@ function make_bar(data){
             return temp;
         })
         .attr("fill", function(d, i) {
-            return color(i);
+            return color[i];
         });
         //.style("stroke", "white")
         //.style("stroke-width", "1");
@@ -67,12 +67,15 @@ function make_bar(data){
 
     bars.on("mouseover", function() {
         d3.select(this)
-            .style("opacity", "0.75")
-    }).
-    on("mouseout", function() {
-        d3.select(this)
-            .style("opacity", "1.0");
-    });
+            .style("opacity", "0.5")
+            .style("stroke", "white")
+            .style("stroke-width", "2");
+        })
+        .on("mouseout", function() {
+            d3.select(this)
+                .style("opacity", "1.0")
+                .style("stroke", "none");
+        });
 
     //Add axis
     var xAxis = d3.axisBottom(x)

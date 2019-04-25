@@ -79,6 +79,7 @@ function val_format(rows_grp_enter, columns){
 function make_series (id){
 
     var color = d3.scaleOrdinal(d3.schemeCategory10);
+    var colorBar = ['#c6dbef','#9ecae1','#6baed6','#3182bd','#08519c',"#05294d"];
 
     //Title
     var sHead = d3.select("#"+id).select("thead");
@@ -87,13 +88,23 @@ function make_series (id){
         .append('th');
 
     //Colours
-    var series = d3.select("#"+id).select("tbody");
+    var series = d3.select("#" + id).select("tbody");
 
-    series.selectAll("tr")
-        .append('td')
-        .html(function (d,i) {
-            return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
-        });
+    if(id !== "edu_tbl") {
+        series.selectAll("tr")
+            .append('td')
+            .html(function (d, i) {
+                return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + color(i) + '"/> </svg>'
+            });
+    }
+    else{
+        series.selectAll("tr")
+            .append('td')
+            .html(function (d, i) {
+                return '<svg width="20" height="20"><title>Series color</title><rect width="20" height="20"  fill="' + colorBar[i] + '"/> </svg>'
+            });
+    }
+
 }
 
 //Function to assign headers
