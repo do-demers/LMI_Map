@@ -14,7 +14,6 @@
 function init() {
 
     d3.queue()
-        .defer(d3.csv, 'data/csd_breakdown.csv')
         .defer(d3.json, 'data/csd_001.json')
         .defer(d3.csv, 'data/advertisements.csv')
         .defer(d3.csv, 'data/LMI_INFO.csv')

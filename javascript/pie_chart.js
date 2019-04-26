@@ -6,7 +6,7 @@ var pctformat = d3.format(",.1%");
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
 //Create basis for pie
-var svg = d3.select('#pie_div')
+var svg = d3.select('#pie')
     .append("svg")
     .attr("id", "pie_svg")
     .attr("width", width)

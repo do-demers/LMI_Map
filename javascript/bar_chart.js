@@ -2,7 +2,7 @@ function make_bar(data){
 
     d3.select("#edu_bar").select("svg").remove();
 
-    var barHeight = 25, textDy = 18, width = 1020, height = 50, padding = 10;
+    var barHeight = 25, width = 1020, height = 50, padding = 10;
 
     var barX = 10;
 
@@ -38,27 +38,6 @@ function make_bar(data){
         .attr("fill", function(d, i) {
             return color[i];
         });
-        //.style("stroke", "white")
-        //.style("stroke-width", "1");
-    
-    //Reset for labels
-    /*barX = 10;
-
-    bars.append("text")
-        .attr("class","barText")
-        .attr("dy", textDy)
-        .attr("x", function(d){
-            var temp = barX + x(d.percent)/2;
-            barX +=x(d.percent);
-            return temp;
-        })
-        .style("text-anchor", "middle")
-        .attr("font-family", "sans-serif")
-        .style("font-size", "14px")
-        .attr("fill", "white")
-        .text( function (d){
-            return d.percent + "%";
-        });*/
 
     bars.append("title")
         .text( function (d){

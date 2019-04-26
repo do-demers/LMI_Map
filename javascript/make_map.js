@@ -1,4 +1,4 @@
-function renderMap(map_data, pop_data, prov_bool, LMI_data, lmi_ps_noc_data, commute_data, adv_data, edu_data) {
+function renderMap(map_data, LMI_data, lmi_ps_noc_data, commute_data, adv_data, edu_data) {
 
     d3.select("#cduid_short").text("Division No. 1");
 

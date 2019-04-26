@@ -46,7 +46,7 @@ select{
     shape-rendering: crispEdges;
 }
 
-#map_div{
+#map{
     width: 70%;
 }
 #map_svg{
@@ -55,18 +55,18 @@ select{
     cursor: pointer;
     width: 100%;
 }
-#LMI_div{
+#LMI{
     text-align: left;
 }
 #LMI{
     margin:0;
     padding:0;
 }
-#commute_div{
+#commute{
     width: 100%;
 }
 
-#comm_tbl_div, #pie_div{
+#comm_tbl, #pie{
     margin: auto;
 }
 #info{

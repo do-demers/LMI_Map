@@ -5,7 +5,7 @@ function make_det_table (data, columns) {
 
     var headers = ["Position Title", "Organisation Code", "Classification", "Various Work Location", "Applications Submitted"];
 
-    var table = d3.select('#adv_det_div')
+    var table = d3.select('#adv_det')
         .append('table')
         .attr("id", "det_adv_tbl")
         .attr("class", "table table-striped table-hover");
@@ -24,6 +24,7 @@ function make_det_table (data, columns) {
             return column;
         });
 
+    //Header row for filters
     thead.append('tr')
         .attr("class", "filterRow")
         .selectAll('th')
@@ -32,7 +33,7 @@ function make_det_table (data, columns) {
         .append('th')
         .text('');
 
-// create a row for each object in the data
+    // create a row for each object in the data
     var rows_grp = tbody
         .selectAll('tr')
         .data(data);
@@ -44,7 +45,7 @@ function make_det_table (data, columns) {
 
     rows_grp_enter.merge(rows_grp);
 
-// create a cell in each row for each column
+    // create a cell in each row for each column
     rows_grp_enter
         .selectAll('td')
         .data(function (row) {
@@ -67,6 +68,7 @@ function make_det_table (data, columns) {
             }
         });
 
+    //Create DataTable
     $('#det_adv_tbl').DataTable({
         paging: true,
         searching: true,
@@ -94,7 +96,7 @@ function make_det_table (data, columns) {
                 });
 
             });
-        },
+        }
     });
 
     //Count applications, adverts in CDUID, update text
@@ -102,6 +104,7 @@ function make_det_table (data, columns) {
         appTotal += parseInt(d.TOTAL_SUBMITTED);
     });
 
+    //Apply formats
     d3.select("#applications").text(comafmt(appTotal));
     d3.select("#adverts").text(comafmt(data.length));
 }

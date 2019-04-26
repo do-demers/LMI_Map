@@ -1,9 +1,9 @@
 function make_table (data, columns, id){
 
     var headers = columns;
-    d3.select('#'+id+'_div').select('table').remove();
+    d3.select('#'+id).select('table').remove();
 
-    var table = d3.select('#'+id+'_div')
+    var table = d3.select('#'+id)
         .append('table')
         .attr("id", id)
         .attr("class","table table-striped table-hover");
@@ -111,7 +111,7 @@ function make_series (id){
 function make_headers (table){
 
     var i = 0;
-    var headers = d3.select("#" + table + "_div").selectAll("th");
+    var headers = d3.select("#" + table).selectAll("th");
 
     var length = headers.nodes().length;
     var lmi = ["Indicator", "Value"];
