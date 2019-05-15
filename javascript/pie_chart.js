@@ -69,10 +69,6 @@ function make_pie (data){
 
 function update_pie(new_data) {
 
-    var pie = d3.pie()
-        .sort(null)
-        .value(function(d) {  return d.value; });
-
     var arcs = svg
         .selectAll("path")
         .data(pie(new_data));
